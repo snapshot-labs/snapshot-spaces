@@ -1,0 +1,9 @@
+{
+  "name": "@bonustrack/snapshot-spaces",
+  "version": "0.1.0",
+  "repository": "bonustrack/snapshot-spaces",
+  "license": "MIT",
+  "files": [
+    "spaces"
+  ]
+}
