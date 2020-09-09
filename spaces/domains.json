@@ -1,11 +1,7 @@
 {
-  "yam.snapshot.page": "yam",
   "yearn.snapshot.page": "yearn",
   "balancer.snapshot.page": "balancer",
-  "maker.snapshot.page": "maker",
-  "curve.snapshot.page": "curve",
   "signal.curve.fi": "curve",
-  "aave.snapshot.page": "aave",
-  "synthetix.snapshot.page": "synthetix",
+  "signal.aave.com": "aave",
   "pillar.snapshot.page": "pillar"
 }
