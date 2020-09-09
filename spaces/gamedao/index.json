@@ -1,0 +1,12 @@
+{
+  "key": "gamedao",
+  "symbol": "GAME",
+  "name": "GameDAO",
+  "defaultView": "all",
+  "address": "0x8Bc8531878D86492c2fec90902c004b20Cb22ed6",
+  "token": "0x8Bc8531878D86492c2fec90902c004b20Cb22ed6",
+  "core": [
+  ],
+  "min": 0,
+  "invalid": []
+}
