@@ -1,0 +1,12 @@
+{
+  "key": "longzhu",
+  "symbol": "LONGZHU",
+  "name": "Longzhu Finance",
+  "defaultView": "core",
+  "address": "",
+  "token": "",
+  "core": [
+    ""
+  ],
+  "min": 100
+}
