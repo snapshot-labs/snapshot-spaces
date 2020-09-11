@@ -1,12 +1,12 @@
 {
-  "key": "example",
-  "symbol": "EXAMPLE",
-  "name": "Example",
+  "key": "pickle",
+  "symbol": "PICKLE C",
+  "name": "PICKLEs In The Citadel",
   "defaultView": "core",
-  "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-  "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "address": "0x47b7b0983bf3b1d8d5b773006809edcb208af191",
+  "token": "0x47b7b0983bf3b1d8d5b773006809edcb208af191",
   "core": [
-    "0xeF8305E140ac520225DAf050e2f71d5fBcC543e7"
+    "0x9d074E37d408542FD38be78848e8814AFB38db17"
   ],
   "min": 0,
   "invalid": []
