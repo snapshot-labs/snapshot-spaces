@@ -7,5 +7,17 @@
   "token": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
   "core": [],
   "min": 0,
-  "invalid": []
+  "invalid": [],
+  "strategies": [
+    ["erc20BalanceOfpercent", {
+      "address": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
+      "symbol": "SWRV",
+      "decimals": 18
+    }],
+    ["erc20BalanceOfpercent", {
+      "address": "0xe5e7ddadd563018b0e692c1524b60b754fbd7f02",
+      "symbol": "veSWRV",
+      "decimals": 18
+    }]
+  ]
 }
