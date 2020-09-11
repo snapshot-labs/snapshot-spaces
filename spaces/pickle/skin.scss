@@ -1,10 +1,36 @@
-.name {
-  --primary-color: #384aff;
-  --bg-color: white;
-  --text-color: #586069;
-  --link-color: #111111;
-  --heading-color: #111111;
-  --border-color: #d1d5da;
-  --header-bg: white;
-  --block-bg: transparent;
+.pickle {
+  --primary-color: #26ff91;
+  --bg-color: #1b3728;
+  --text-color: #BBB;
+  --link-color: #53ffe2;
+  --heading-color: white;
+  --border-color: #586069;
+  --header-bg: #202020;
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #26FF91;
+  }
+
+  h1, h2 {
+    color: #26FF91;
+    text-shadow: rgba(38, 255, 145, 0.5) 0 0 18px;
+  }
+
+  #topnav {
+    border-bottom: 2px solid #26ff91 !important;
+    box-shadow: rgba(38, 255, 145, 0.5) 0px 0px 18px;
+    border-image-slice: 1;
+  }
+
+  .button, a {
+    color: white !important;
+
+    &:hover {
+      color: #53ffe2 !important;
+    }
+  }
+
+  .text-white {
+    color: white !important;
+  }
 }
