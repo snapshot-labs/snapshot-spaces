@@ -1,0 +1,13 @@
+{
+  "key": "sake",
+  "symbol": "SAKE",
+  "name": "Sake Swap",
+  "defaultView": "core",
+  "address": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
+  "token": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
+  "core": [
+    "0x142151D3b15b8961F2937Cf7880Bcd10c050800C"
+  ],
+  "min": 0,
+  "invalid": []
+}
