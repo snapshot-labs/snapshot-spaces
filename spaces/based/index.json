@@ -2,7 +2,7 @@
   "key": "based",
   "symbol": "BASED",
   "name": "Based",
-  "defaultView": "core",
+  "defaultView": "all",
   "address": "0x68a118ef45063051eac49c7e647ce5ace48a68a5",
   "token": "0x68a118ef45063051eac49c7e647ce5ace48a68a5",
   "core": [],
