@@ -1,11 +1,11 @@
 {
-  "key": "ARCKYF",
-  "symbol": "ARCKYF",
-  "name": "ARC KYF Voting",
+  "key": "example",
+  "symbol": "EXAMPLE",
+  "name": "Example",
   "defaultView": "core",
-  "address": "0xD85e2772912213e0c584d80B2694c79D6a09E39A",
-  "token": "0xD85e2772912213e0c584d80B2694c79D6a09E39A",
-  "core": [],
+  "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "core": ["0xeF8305E140ac520225DAf050e2f71d5fBcC543e7"],
   "min": 0,
   "invalid": []
 }
