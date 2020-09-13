@@ -7,5 +7,12 @@
   "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
   "core": [],
   "min": 0,
-  "invalid": []
+  "invalid": [],
+  "strategies": [
+    ["erc20BalanceOfCv", {
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "symbol": "DAI CV",
+      "decimals": 18
+    }]
+  ]
 }
