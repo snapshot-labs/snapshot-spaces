@@ -12,13 +12,5 @@
       "0x6df4e3d4b4c2818c3f3a33ebf43f93175268104c"
   ],
   "min": 0,
-  "invalid": [],
-  "showOnlyCore": true,
-  "strategies": [
-    ["erc20BalanceOf", {
-      "address": "0x67ab11058ef23d0a19178f61a050d3c38f81ae21",
-      "symbol": "SELF",
-      "decimals": 18
-    }]
-  ]
+  "invalid": []
 }
