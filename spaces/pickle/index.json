@@ -1,13 +1,16 @@
 {
   "key": "pickle",
   "symbol": "PICKLE C",
-  "name": "PICKLE ITC",
+  "name": "PICKLE",
   "defaultView": "core",
   "address": "0x47b7b0983bf3b1d8d5b773006809edcb208af191",
   "token": "0x47b7b0983bf3b1d8d5b773006809edcb208af191",
   "core": [
-    "0x9d074E37d408542FD38be78848e8814AFB38db17"
-  ],
+      "0x907D9B32654B8D43e8737E0291Ad9bfcce01DAD6",
+      "0xeb8eFA8CAD41e89986aEF7E896A06fB2f1f7e932",
+      "0x821880a3E2bac432d67E5155e72BB655Ef65fa5E",
+      "0x5898Dc88E6f1BD8247f5e1E0E3eFf7231c143d10"
+    ],
   "min": 0,
   "invalid": []
 }
