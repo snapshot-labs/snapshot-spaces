@@ -1,0 +1,18 @@
+.aavegotchi {
+  --primary-color: #04B7BC;
+  --bg-color: #4C1F7D;
+  --text-color: white;
+  --link-color: white;
+  --heading-color: white;
+  --border-color: rgba(255,255,255,0.2);
+  --header-bg: #F741F0;
+  --block-bg: transparent;
+
+  #topnav {
+    border-bottom: 4px solid black !important;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to left, #F741F0, #04B7BC);
+  }
+}
+
+
