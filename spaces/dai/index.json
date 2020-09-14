@@ -3,8 +3,8 @@
   "symbol": "DAI",
   "name": "Dai",
   "defaultView": "all",
-  "address": "0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa",
-  "token": "0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa",
+  "address": "0x0527E400502d0CB4f214dd0D2F2a323fc88Ff924",
+  "token": "0x0527E400502d0CB4f214dd0D2F2a323fc88Ff924",
   "core": [],
   "min": 0,
   "invalid": []
