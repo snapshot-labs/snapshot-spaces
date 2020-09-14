@@ -2,7 +2,7 @@
   "key": "rarible",
   "symbol": "RARI",
   "name": "Rarible",
-  "defaultView": "all",
+  "defaultView": "core",
   "address": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
   "token": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
   "core": [
