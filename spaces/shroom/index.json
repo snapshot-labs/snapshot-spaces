@@ -1,0 +1,11 @@
+{
+  "key": "shroom",
+  "symbol": "SHROOM",
+  "name": "shroom.finance",
+  "defaultView": "core",
+  "address": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
+  "token": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
+  "core": [],
+  "min": 0,
+  "invalid": []
+}
