@@ -1,21 +1,11 @@
 {
   "key": "aavegotchi",
   "symbol": "GHST",
-  "name": "Aavegotchi GHST Token",
+  "name": "Aavegotchi",
   "defaultView": "all",
   "address": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
   "token": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
   "core": [],
   "min": 0,
-  "invalid": [],
-  "strategies": [
-    [
-      "erc20BalanceOf",
-      {
-        "address": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
-        "symbol": "GHST",
-        "decimals": 18
-      }
-    ]
-  ]
+  "invalid": []
 }
