@@ -17,7 +17,7 @@
   "invalid": [],
   "strategies": [
     ["balancer", {
-      "address": "0x6ba1c79fb5cf34c9fab3944bf15f15bd796223bd",
+      "address": "0x3cc315c4c6d3ad7710f4f98014a1804c21ee5bb7",
       "symbol": "BPT"
     }]
   ]
