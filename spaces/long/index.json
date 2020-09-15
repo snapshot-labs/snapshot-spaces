@@ -1,0 +1,13 @@
+{
+  "key": "long",
+  "symbol": "LONGPOWER",
+  "name": "Long",
+  "defaultView": "core",
+  "address": "0x4799DeE31572D60e7581Ea46d11A7994Df90C1CA",
+  "token": "0x4799DeE31572D60e7581Ea46d11A7994Df90C1CA",
+  "core": [
+    "0xF7735653e760D95bc29336c6b25A176dEe52D1B0"
+  ],
+  "min": 0,
+  "invalid": []
+}
