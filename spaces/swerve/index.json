@@ -1,11 +1,15 @@
 {
   "key": "swerve",
   "symbol": "SWRV",
-  "name": "Swerve Finance",
+  "name": "Swerve",
   "defaultView": "all",
   "address": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
   "token": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
-  "core": [],
+  "core": [
+    "0x6D3E136698beFEe231cD2E4E94bE0105D62FA01F",
+    "0xB2C5973EAE6c2a8e5803Aa9A3e0cb177aFE11CDe",
+    "0xCdF9b411015016E6a4CD16b5445Fa3a51e7e42CF"
+  ],
   "min": 100,
   "invalid": [
     "QmTwRS22WwBjMJ72wta9KyRMBqi9M52qX9JAy9w78udkDr",
