@@ -5,7 +5,7 @@
   "defaultView": "all",
   "address": "0x1aa61c196e76805fcbe394ea00e4ffced24fc469",
   "token": "0x1aa61c196e76805fcbe394ea00e4ffced24fc469",
-  "core": ["0xeF8305E140ac520225DAf050e2f71d5fBcC543e7"],
+  "core": [],
   "min": 0,
   "invalid": []
 }
