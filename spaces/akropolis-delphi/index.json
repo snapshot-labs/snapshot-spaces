@@ -16,9 +16,10 @@
   "min": 0,
   "invalid": [],
   "strategies": [
-    ["balancer", {
+    ["erc20BalanceOf", {
       "address": "0x6ba1c79fb5cf34c9fab3944bf15f15bd796223bd",
-      "symbol": "BPT"
+      "symbol": "BPT",
+      "decimals": 18
     }]
   ]
 }
