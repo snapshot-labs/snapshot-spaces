@@ -6,6 +6,6 @@
   "address": "0x87F5F9eBE40786D49D35E1B5997b07cCAA8ADbFF",
   "token": "0x87F5F9eBE40786D49D35E1B5997b07cCAA8ADbFF",
   "core": [],
-  "min": 0,
+  "min": 1000,
   "invalid": []
   }
