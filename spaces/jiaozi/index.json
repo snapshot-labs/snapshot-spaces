@@ -5,7 +5,14 @@
   "defaultView": "core",
   "address": "0x94939D55000B31B7808904a80aA7Bab05eF59Ed6",
   "token": "0x94939D55000B31B7808904a80aA7Bab05eF59Ed6",
-  "core": [],
+  "core": [
+    "0xCeE0c8159B8EAb0779716B80747e529a904804Ad",
+    "0x2C1002CC215fE9A7405C0DA05FFfDfC990d035A7"
+  ],
   "min": 0,
-  "invalid": []
+  "invalid": [
+    "QmUF7aBnmfuLwC29XtHT6zxkeREm8p8FQb4BVSgZG15s66",
+    "QmYnvLtMsBmSWTNp5iUKEZDXbhTCexM8BEzwW24X3kpJdR",
+    "QmP5C6rQcurbk6yvX9CZhxArQktHBykhYnHUotoufHB8pn"
+  ]
 }
