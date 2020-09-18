@@ -1,10 +1,10 @@
 {
   "key": "akropolis-delphi",
-  "symbol": "ADEL",
+  "symbol": "ADEL-AKRO",
   "name": "Akropolis Delphi",
   "defaultView": "all",
-  "address": "0x94d863173EE77439E4292284fF13fAD54b3BA182",
-  "token": "0x94d863173EE77439E4292284fF13fAD54b3BA182",
+  "address": "0x6ba1c79fb5cf34c9fab3944bf15f15bd796223bd",
+  "token": "0x6ba1c79fb5cf34c9fab3944bf15f15bd796223bd",
   "core": [
     "0x4C39b37f5F20a0695BFDC59cf10bd85a6c4B7c30",
     "0x5fFcf7da7BdC49CA8A2E7a542BD59dC38228Dd45",
@@ -14,12 +14,5 @@
     "0xF311b1258d0F245b85090e4Fb01f2277cB2328aD"
   ],
   "min": 0,
-  "invalid": [],
-  "strategies": [
-    ["erc20BalanceOf", {
-      "address": "0x6ba1c79fb5cf34c9fab3944bf15f15bd796223bd",
-      "symbol": "BPT",
-      "decimals": 18
-    }]
-  ]
+  "invalid": []
 }
