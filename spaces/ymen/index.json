@@ -1,10 +1,10 @@
 {
   "key": "ymen",
-  "symbol": "MUTANT",
+  "symbol": "UNI-V2",
   "name": "Y-Men",
   "defaultView": "all",
   "address": "0xA663121582725aA0eb8BF20B0F56F1917762e873",
-  "token": "0xA663121582725aA0eb8BF20B0F56F1917762e873",
+  "token": "0xb5ca2cf922208e4c6051d97cd49bc5ef533d633a",
   "core": [
     "0xf062EC431cF665e7C73E8FEaa62bC67E5a4dDf47"
   ],
