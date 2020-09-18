@@ -1,0 +1,11 @@
+{
+  "key": "raid-guild",
+  "symbol": "RAID",
+  "name": "Raid Guild",
+  "defaultView": "all",
+  "address": "0x4BBC860B82E70CB7af1FD50dEBB0143E0F53e016",
+  "token": "0x4BBC860B82E70CB7af1FD50dEBB0143E0F53e016",
+  "core": [],
+  "min": 1,
+  "invalid": []
+}
