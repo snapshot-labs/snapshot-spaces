@@ -1,0 +1,13 @@
+{
+  "key": "percent",
+  "symbol": "PCT",
+  "name": "Percent",
+  "defaultView": "core",
+  "address": "0xbc16da9df0A22f01A16BC0620a27e7D6d6488550",
+  "token": "0xbc16da9df0A22f01A16BC0620a27e7D6d6488550",
+  "core": [
+    "0x4fB94CB25918Cbe62EC2ab80E3569492af59B8c3"
+  ],
+  "min": 0,
+  "invalid": []
+}
