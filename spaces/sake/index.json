@@ -3,8 +3,8 @@
   "symbol": "SAKE",
   "name": "Sake Swap",
   "defaultView": "core",
-  "address": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
-  "token": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
+  "address": "0xd8EA0752e500fb46c2F65C31B7B046B28aF09CE9",
+  "token": "0xd8EA0752e500fb46c2F65C31B7B046B28aF09CE9",
   "core": [
     "0x142151D3b15b8961F2937Cf7880Bcd10c050800C"
   ],
