@@ -1,0 +1,13 @@
+{
+  "key": "0xdollar",
+  "symbol": "0xDollar",
+  "name": "0xDollar.Finance",
+  "defaultView": "core",
+  "address": "0x1708bA96D1B9724cf88D1ea5F77153C82F42Fc80",
+  "token": "0x1708bA96D1B9724cf88D1ea5F77153C82F42Fc80",
+  "core": [
+    "0xaE0091bD0689c32c38e062C6956c2240eC658bE4"
+  ],
+  "min": 0,
+  "invalid": []
+}
