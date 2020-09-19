@@ -1,0 +1,15 @@
+{
+  "key": "gof",
+  "symbol": "GOF",
+  "name": "Golff Finance",
+  "defaultView": "core",
+  "address": "0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c",
+  "token": "0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c",
+  "core": [
+    "0x424abfc7c0Defb02447D621Bf0f6eF80eD5C01fB"
+  ],
+  "min": 100,
+  "invalid": [
+    "0x424abfc7c0Defb02447D621Bf0f6eF80eD5C01fB"
+  ]
+}
