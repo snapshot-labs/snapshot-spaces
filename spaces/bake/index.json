@@ -1,0 +1,14 @@
+{
+  "key": "bake",
+  "name": "BAKE",
+  "network": "bsc.mainnet",
+  "symbol": "BAKEVOTE",
+  "defaultView": "core",
+  "address": "0x382d04194E3607dab5Ebaa5b9f8011A4c06e8b17",
+  "token": "0x382d04194E3607dab5Ebaa5b9f8011A4c06e8b17",
+  "core": [
+    "0xa3f8CF2a08237a9ca79EDa4cBa108B9044BCdc86"
+  ],
+  "min": 0,
+  "invalid": []
+}
