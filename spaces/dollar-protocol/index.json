@@ -1,7 +1,9 @@
 {
   "key": "dollar-protocol",
-  "symbol": "SHARE",
   "name": "Dollar Protocol",
+  "chainId": 1,
+  "decimals": 9,
+  "symbol": "SHARE",
   "defaultView": "core",
   "address": "0x6b583cf4aba7bf9d6f8a51b3f1f7c7b2ce59bf15",
   "token": "0x6b583cf4aba7bf9d6f8a51b3f1f7c7b2ce59bf15",
