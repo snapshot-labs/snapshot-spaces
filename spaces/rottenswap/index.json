@@ -1,0 +1,11 @@
+{
+  "key": "rotten-swap",
+  "symbol": "ROT",
+  "name": "RottenSwap",
+  "defaultView": "core",
+  "address": "0xb2F861C61f703c59A01b748231bDE1D31bCb1A35",
+  "token": "0xb2F861C61f703c59A01b748231bDE1D31bCb1A35",
+  "core": [],
+  "min": 30000,
+  "invalid": []
+}
