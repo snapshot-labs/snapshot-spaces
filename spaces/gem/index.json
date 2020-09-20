@@ -2,6 +2,7 @@
   "key": "gem",
   "name": "Gem",
   "chainId": 1,
+  "decimals": 18,
   "symbol": "GEM",
   "defaultView": "core",
   "address": "0x90f62B96a62801488b151fF3c65eaC5Fae21a962",

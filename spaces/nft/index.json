@@ -2,6 +2,7 @@
   "key": "nft",
   "name": "NFT Protocol",
   "chainId": 1,
+  "decimals": 18,
   "symbol": "NFT",
   "defaultView": "core",
   "address": "0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",

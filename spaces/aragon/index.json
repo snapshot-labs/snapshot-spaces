@@ -2,6 +2,7 @@
   "key": "aragon",
   "name": "Aragon",
   "chainId": 1,
+  "decimals": 18,
   "symbol": "ANT",
   "defaultView": "all",
   "address": "0x960b236A07cf122663c4303350609A66A7B288C0",

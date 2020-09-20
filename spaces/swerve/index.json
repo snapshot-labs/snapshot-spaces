@@ -2,6 +2,7 @@
   "key": "swerve",
   "name": "Swerve",
   "chainId": 1,
+  "decimals": 18,
   "symbol": "SWRV",
   "defaultView": "all",
   "address": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",

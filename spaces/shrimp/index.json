@@ -2,6 +2,7 @@
   "key": "shrimp",
   "name": "SHRIMP.FINANCE",
   "chainId": 1,
+  "decimals": 18,
   "symbol": "SHRIMP",
   "defaultView": "all",
   "address": "0x38c4102D11893351cED7eF187fCF43D33eb1aBE6",

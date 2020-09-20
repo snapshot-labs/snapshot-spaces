@@ -2,6 +2,7 @@
   "key": "pickle",
   "name": "PICKLE",
   "chainId": 1,
+  "decimals": 9,
   "symbol": "PICKLE C",
   "defaultView": "core",
   "address": "0x47b7b0983bf3b1d8d5b773006809edcb208af191",

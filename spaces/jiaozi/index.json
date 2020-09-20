@@ -2,6 +2,7 @@
   "key": "jiaozi",
   "name": "JIAOZI",
   "chainId": 1,
+  "decimals": 18,
   "symbol": "JIAOZI",
   "defaultView": "core",
   "address": "0x94939D55000B31B7808904a80aA7Bab05eF59Ed6",
