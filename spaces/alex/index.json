@@ -1,7 +1,8 @@
 {
   "key": "alex",
-  "symbol": "ALEX",
   "name": "Alex Masmej",
+  "network": "eth.homestead",
+  "symbol": "ALEX",
   "defaultView": "all",
   "address": "0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315",
   "token": "0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315",

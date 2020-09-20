@@ -1,7 +1,8 @@
 {
   "key": "finnexus",
-  "symbol": "FNX",
   "name": "FinNexus",
+  "network": "eth.homestead",
+  "symbol": "FNX",
   "defaultView": "core",
   "address": "0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
   "token": "0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",

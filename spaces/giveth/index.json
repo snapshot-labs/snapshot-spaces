@@ -1,7 +1,8 @@
 {
   "key": "giveth",
-  "symbol": "PAN",
   "name": "Panvala Pan",
+  "network": "eth.homestead",
+  "symbol": "PAN",
   "defaultView": "all",
   "address": "0xd56dac73a4d6766464b38ec6d91eb45ce7457c44",
   "token": "0xd56dac73a4d6766464b38ec6d91eb45ce7457c44",

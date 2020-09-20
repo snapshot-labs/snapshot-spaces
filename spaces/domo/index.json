@@ -1,7 +1,8 @@
 {
   "key": "domo",
-  "symbol": "DOMO",
   "name": "Domo Network",
+  "network": "eth.homestead",
+  "symbol": "DOMO",
   "defaultView": "all",
   "address": "0x77EC93780e478637ED777D2FB2Dc161048DfE6d8",
   "token": "0x77EC93780e478637ED777D2FB2Dc161048DfE6d8",

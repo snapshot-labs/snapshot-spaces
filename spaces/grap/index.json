@@ -1,7 +1,8 @@
 {
   "key": "grap",
-  "symbol": "GRAP",
   "name": "Grap Finance",
+  "network": "eth.homestead",
+  "symbol": "GRAP",
   "defaultView": "core",
   "address": "0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB",
   "token": "0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB",

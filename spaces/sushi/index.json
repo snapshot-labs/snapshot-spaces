@@ -1,7 +1,8 @@
 {
   "key": "sushi",
-  "symbol": "SUSHIPOWAH",
   "name": "Sushi",
+  "network": "eth.homestead",
+  "symbol": "SUSHIPOWAH",
   "defaultView": "core",
   "address": "0x598eb12A541AbbdB315045a4eDE8d277f18B8be9",
   "token": "0x598eb12A541AbbdB315045a4eDE8d277f18B8be9",

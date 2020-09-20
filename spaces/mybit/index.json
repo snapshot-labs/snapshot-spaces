@@ -1,7 +1,8 @@
 {
   "key": "mybit",
-  "symbol": "MYB",
   "name": "MyBit",
+  "network": "eth.homestead",
+  "symbol": "MYB",
   "defaultView": "core",
   "address": "0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc",
   "token": "0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc",

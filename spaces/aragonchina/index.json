@@ -1,7 +1,8 @@
 {
   "key": "aragonchina",
-  "symbol": "ANC",
   "name": "Aragon China",
+  "network": "eth.homestead",
+  "symbol": "ANC",
   "defaultView": "all",
   "address": "0xbbe319b73744db9d54f5d29df7d8256b7e43995c",
   "token": "0xbbe319b73744db9d54f5d29df7d8256b7e43995c",

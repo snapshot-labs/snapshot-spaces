@@ -1,7 +1,8 @@
 {
   "key": "dfi",
-  "symbol": "YFII",
   "name": "DFI.money",
+  "network": "eth.homestead",
+  "symbol": "YFII",
   "defaultView": "all",
   "address": "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83",
   "token": "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83",

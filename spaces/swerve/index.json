@@ -1,7 +1,8 @@
 {
   "key": "swerve",
-  "symbol": "SWRV",
   "name": "Swerve",
+  "network": "eth.homestead",
+  "symbol": "SWRV",
   "defaultView": "all",
   "address": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
   "token": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",

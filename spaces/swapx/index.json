@@ -1,7 +1,8 @@
 {
   "key": "swapx",
-  "symbol": "SWP",
   "name": "swapx.org",
+  "network": "eth.homestead",
+  "symbol": "SWP",
   "defaultView": "core",
   "address": "0xDA3145d0A373712E036106FC1fa34b1014807e68",
   "token": "0xDA3145d0A373712E036106FC1fa34b1014807e68",

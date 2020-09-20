@@ -1,7 +1,8 @@
 {
   "key": "boosted-finance",
-  "symbol": "BOOST",
   "name": "Boosted Finance",
+  "network": "eth.homestead",
+  "symbol": "BOOST",
   "defaultView": "all",
   "address": "0x3e780920601D61cEdb860fe9c4a90c9EA6A35E78",
   "token": "0x3e780920601D61cEdb860fe9c4a90c9EA6A35E78",

@@ -1,7 +1,8 @@
 {
   "key": "rarible",
-  "symbol": "RARI",
   "name": "Rarible",
+  "network": "eth.homestead",
+  "symbol": "RARI",
   "defaultView": "core",
   "address": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
   "token": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
