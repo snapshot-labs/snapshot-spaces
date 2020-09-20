@@ -1,7 +1,7 @@
 {
   "key": "toast",
   "name": "Toast.finance",
-  "network": "eth.homestead",
+  "chainId": 1,
   "symbol": "HOUSE",
   "defaultView": "all",
   "address": "0xDD0c21B935038ae5904487F843D1498A09C91854",

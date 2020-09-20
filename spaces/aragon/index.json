@@ -1,7 +1,7 @@
 {
   "key": "aragon",
   "name": "Aragon",
-  "network": "eth.homestead",
+  "chainId": 1,
   "symbol": "ANT",
   "defaultView": "all",
   "address": "0x960b236A07cf122663c4303350609A66A7B288C0",

@@ -1,7 +1,7 @@
 {
   "key": "bee2",
   "name": "Bee2 Finance",
-  "network": "eth.homestead",
+  "chainId": 1,
   "symbol": "BEE2",
   "defaultView": "core",
   "address": "0xcD4292701995F4707AE63fb1a48d80dB2c5F04D4",

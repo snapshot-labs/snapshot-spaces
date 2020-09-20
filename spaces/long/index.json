@@ -1,7 +1,7 @@
 {
   "key": "long",
   "name": "Long",
-  "network": "eth.homestead",
+  "chainId": 1,
   "symbol": "LONGPOWER",
   "defaultView": "core",
   "address": "0xf3c13090b8aD08d8EeE1C3fd224E034f1F44820c",

@@ -1,7 +1,7 @@
 {
   "key": "swerve",
   "name": "Swerve",
-  "network": "eth.homestead",
+  "chainId": 1,
   "symbol": "SWRV",
   "defaultView": "all",
   "address": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",

@@ -1,7 +1,7 @@
 {
   "key": "bake",
   "name": "BAKE",
-  "network": "bsc.mainnet",
+  "chainId": 56,
   "symbol": "BAKEVOTE",
   "defaultView": "core",
   "address": "0x382d04194E3607dab5Ebaa5b9f8011A4c06e8b17",

@@ -1,7 +1,7 @@
 {
   "key": "gem",
   "name": "Gem",
-  "network": "eth.homestead",
+  "chainId": 1,
   "symbol": "GEM",
   "defaultView": "core",
   "address": "0x90f62B96a62801488b151fF3c65eaC5Fae21a962",

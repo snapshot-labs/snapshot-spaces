@@ -1,7 +1,7 @@
 {
   "key": "pillar",
   "name": "Pillar",
-  "network": "eth.homestead",
+  "chainId": 1,
   "symbol": "PLR",
   "defaultView": "all",
   "address": "0xe3818504c1b32bf1557b16c238b2e01fd3149c17",

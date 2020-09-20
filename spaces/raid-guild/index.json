@@ -1,7 +1,7 @@
 {
   "key": "raid-guild",
   "name": "Raid Guild",
-  "network": "eth.homestead",
+  "chainId": 1,
   "symbol": "RAID",
   "defaultView": "all",
   "address": "0x4BBC860B82E70CB7af1FD50dEBB0143E0F53e016",

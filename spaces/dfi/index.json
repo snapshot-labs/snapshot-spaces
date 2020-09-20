@@ -1,7 +1,7 @@
 {
   "key": "dfi",
   "name": "DFI.money",
-  "network": "eth.homestead",
+  "chainId": 1,
   "symbol": "YFII",
   "defaultView": "all",
   "address": "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83",

@@ -1,7 +1,7 @@
 {
   "key": "yam",
   "name": "Yam Finance",
-  "network": "eth.homestead",
+  "chainId": 1,
   "symbol": "YAM",
   "defaultView": "core",
   "address": "0xAba8cAc6866B83Ae4eec97DD07ED254282f6aD8A",

@@ -1,7 +1,7 @@
 {
   "key": "bobaswap",
   "name": "Bobaswap",
-  "network": "eth.homestead",
+  "chainId": 1,
   "symbol": "BOBA",
   "defaultView": "all",
   "address": "0xce9afaf5b0da6ce0366ab40435a48ccff65d2ed7",

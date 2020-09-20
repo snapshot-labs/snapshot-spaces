@@ -1,7 +1,7 @@
 {
   "key": "sake",
   "name": "Sake Swap",
-  "network": "eth.homestead",
+  "chainId": 1,
   "symbol": "SAKE",
   "defaultView": "core",
   "address": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",

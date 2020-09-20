@@ -1,7 +1,7 @@
 {
   "key": "aave",
   "name": "Aave",
-  "network": "eth.homestead",
+  "chainId": 1,
   "symbol": "LEND",
   "defaultView": "all",
   "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",

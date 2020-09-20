@@ -1,7 +1,7 @@
 {
   "key": "maker",
   "name": "MakerDAO",
-  "network": "eth.homestead",
+  "chainId": 1,
   "symbol": "MKR",
   "defaultView": "all",
   "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",

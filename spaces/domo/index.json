@@ -1,7 +1,7 @@
 {
   "key": "domo",
   "name": "Domo Network",
-  "network": "eth.homestead",
+  "chainId": 1,
   "symbol": "DOMO",
   "defaultView": "all",
   "address": "0x77EC93780e478637ED777D2FB2Dc161048DfE6d8",

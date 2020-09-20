@@ -1,7 +1,7 @@
 {
   "key": "safe",
   "name": "SAFE",
-  "network": "eth.homestead",
+  "chainId": 1,
   "symbol": "SAFE",
   "defaultView": "core",
   "address": "0x1Aa61c196E76805fcBe394eA00e4fFCEd24FC469",

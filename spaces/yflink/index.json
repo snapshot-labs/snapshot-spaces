@@ -1,7 +1,7 @@
 {
   "key": "yflink",
   "name": "YFLink",
-  "network": "eth.homestead",
+  "chainId": 1,
   "symbol": "YFL",
   "defaultView": "all",
   "address": "0x28cb7e841ee97947a86B06fA4090C8451f64c0be",

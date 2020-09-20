@@ -1,7 +1,7 @@
  {
   "key": "shilldao",
   "name": "ShillDAO",
-  "network": "eth.homestead",
+  "chainId": 1,
   "symbol": "SHILL",
   "defaultView": "all",
   "address": "0x54c818a55a795493de47620fa08efae74fc48974",
