@@ -3,9 +3,9 @@
   "symbol": "PAYRUE",
   "name": "PayRue",
   "defaultView": "core",
-  "address": "0xa9E81167b02cC4a79E100e3e0AF8f6Cd97Cc2727",
-  "token": "0xa9E81167b02cC4a79E100e3e0AF8f6Cd97Cc2727",
+  "address": "0x9B44Df3318972bE845d83f961735609137C4C23c",
+  "token": "0x9B44Df3318972bE845d83f961735609137C4C23c",
   "core": [],
-  "min": 1,
+  "min": 0,
   "invalid": []
 }
