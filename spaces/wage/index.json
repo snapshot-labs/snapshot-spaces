@@ -9,5 +9,7 @@
     "0xA241FC0Dde7ff083C7b3d68bB8fCe593Acf4A960"
   ],
   "min": 0,
-  "invalid": []
+  "invalid": [],
+  "chainId": 1,
+  "decimals": 18
 }
