@@ -1,7 +1,9 @@
 {
   "key": "payrue",
-  "symbol": "PAYRUE",
   "name": "PayRue",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "PAYRUE",
   "defaultView": "core",
   "address": "0x9B44Df3318972bE845d83f961735609137C4C23c",
   "token": "0x9B44Df3318972bE845d83f961735609137C4C23c",
