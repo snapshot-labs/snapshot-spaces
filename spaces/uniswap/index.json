@@ -9,5 +9,12 @@
   "token": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
   "core": [],
   "min": 1000,
-  "invalid": []
+  "invalid": [],
+  "strategies": [
+    ["uni", {
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "symbol": "UNI",
+      "decimals": 18
+    }]
+  ]
 }
