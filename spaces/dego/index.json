@@ -1,6 +1,8 @@
 {
   "key": "dego",
   "symbol": "DEGO",
+  "chainId": 1, // ID of the blockchain network
+  "decimals": 18, // Number of decimals in the token
   "name": "dego.finance",
   "defaultView": "core",
   "address": "0xCE92FbAC689710bCa1e1c8DB265e9B06BCB85c08",
