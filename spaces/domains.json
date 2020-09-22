@@ -1,7 +1,5 @@
 {
   "yearn.snapshot.page": "yearn",
-  "balancer.snapshot.page": "balancer",
-  "signal.curve.fi": "curve",
   "signal.aave.com": "aave",
   "pillar.snapshot.page": "pillar"
 }

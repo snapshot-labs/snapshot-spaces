@@ -1,0 +1,20 @@
+{
+  "key": "uniswap",
+  "name": "Uniswap",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "UNI",
+  "defaultView": "all",
+  "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+  "token": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+  "core": [],
+  "min": 1000,
+  "invalid": [],
+  "strategies": [
+    ["uni", {
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "symbol": "UNI",
+      "decimals": 18
+    }]
+  ]
+}

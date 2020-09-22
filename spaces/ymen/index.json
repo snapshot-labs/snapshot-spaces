@@ -1,0 +1,15 @@
+{
+  "key": "ymen",
+  "name": "Y-Men",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "MUTANT",
+  "defaultView": "all",
+  "address": "0xA663121582725aA0eb8BF20B0F56F1917762e873",
+  "token": "0xA663121582725aA0eb8BF20B0F56F1917762e873",
+  "core": [
+    "0xf062EC431cF665e7C73E8FEaa62bC67E5a4dDf47"
+  ],
+  "min": 0,
+  "invalid": []
+}

@@ -1,0 +1,15 @@
+{
+  "key": "gem",
+  "name": "Gem",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "GEM",
+  "defaultView": "core",
+  "address": "0x90f62B96a62801488b151fF3c65eaC5Fae21a962",
+  "token": "0x90f62B96a62801488b151fF3c65eaC5Fae21a962",
+  "core": [
+    "0x28f97Cd17F09F2e93d46cc18a035a714dE605Fe5"
+  ],
+  "min": 0,
+  "invalid": []
+}

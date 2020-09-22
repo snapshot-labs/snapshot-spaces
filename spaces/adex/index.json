@@ -1,0 +1,13 @@
+{
+  "key": "adex",
+  "name": "AdEx Network",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "ADX",
+  "defaultView": "all",
+  "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+  "token": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+  "core": [],
+  "min": 0,
+  "invalid": []
+}

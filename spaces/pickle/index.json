@@ -1,7 +1,9 @@
 {
   "key": "pickle",
-  "symbol": "PICKLE C",
   "name": "PICKLE",
+  "chainId": 1,
+  "decimals": 9,
+  "symbol": "PICKLE C",
   "defaultView": "core",
   "address": "0x47b7b0983bf3b1d8d5b773006809edcb208af191",
   "token": "0x47b7b0983bf3b1d8d5b773006809edcb208af191",
@@ -13,6 +15,7 @@
     ],
   "min": 0,
   "invalid": [
-     "QmUMiFfgY2ML4RpwP35eESUxc7G1hYAQnWDn4mKwsFv3ph"
+     "QmUMiFfgY2ML4RpwP35eESUxc7G1hYAQnWDn4mKwsFv3ph",
+     "QmWFYq3fMvEge3XeukwEBedYXFQ7yxBhF7hs1zLP9o6gu6"
   ]
 }
