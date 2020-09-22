@@ -1,0 +1,13 @@
+{
+  "key": "axie",
+  "name": "Axie Infinity",
+  "chainId": 1,
+  "decimals": 0,
+  "symbol": "SLP",
+  "defaultView": "all",
+  "address": "0x37236cd05b34cc79d3715af2383e96dd7443dcf1",
+  "token": "0x37236cd05b34cc79d3715af2383e96dd7443dcf1",
+  "core": ["0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91"],
+  "min": 500,
+  "invalid": []
+}
