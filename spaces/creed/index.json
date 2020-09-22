@@ -1,0 +1,17 @@
+{
+  "key": "creed",
+  "symbol": "CREED",
+  "name": "CREED",
+  "chainId": 1,
+  "decimals": 18,
+  "defaultView": "core",
+  "address": "0x675E7d927Af7e6D0082e0153dc3485B687a6F0ad",
+  "token": "0x675E7d927Af7e6D0082e0153dc3485B687a6F0ad",
+  "core": [
+    "0xf3751F827B9F9ef4D03f8aA1f69F1806B8785f13",
+    "0xAaB8d4108f5CD25C75D81d52BAB11846d0c562a8",
+    "0xD5cE7A78343E4E329c9d23B54bCB593302EC1031"
+  ],
+  "min": 0,
+  "invalid": []
+}
