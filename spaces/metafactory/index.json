@@ -1,0 +1,15 @@
+{
+  "key": "metafactory",
+  "name": "MetaFactory",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "ROBOT",
+  "defaultView": "core",
+  "address": "0x196cf105036dca244e35cb549a7b45c87d325ec3",
+  "token": "0x196cf105036dca244e35cb549a7b45c87d325ec3",
+  "core": [
+    "0x1fc9Ea66DE35F97a8076c9F52CdB2b6334067aee"
+  ],
+  "min": 500,
+  "invalid": []
+}
