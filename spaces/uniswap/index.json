@@ -8,7 +8,7 @@
   "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
   "token": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
   "core": [],
-  "min": 1000,
+  "min": 0,
   "invalid": [],
   "strategies": [
     ["uni", {
