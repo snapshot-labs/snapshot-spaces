@@ -1,5 +1,5 @@
 {
-  "key": "dai",
+  "key": "dai-rinkeby",
   "name": "Dai",
   "chainId": 4,
   "decimals": 18,
