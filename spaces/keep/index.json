@@ -1,0 +1,13 @@
+{
+  "key": "keep",
+  "name": "KEEP Network",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "KEEP",
+  "defaultView": "core",
+  "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+  "token": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+  "core": ["0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91"],
+  "min": 1000,
+  "invalid": []
+}
