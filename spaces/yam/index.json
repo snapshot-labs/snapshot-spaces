@@ -5,8 +5,8 @@
   "decimals": 24,
   "symbol": "YAM",
   "defaultView": "core",
-  "address": "0xAba8cAc6866B83Ae4eec97DD07ED254282f6aD8A",
-  "token": "0xAba8cAc6866B83Ae4eec97DD07ED254282f6aD8A",
+  "address": "0x0AaCfbeC6a24756c20D41914F2caba817C0d8521",
+  "token": "0x0AaCfbeC6a24756c20D41914F2caba817C0d8521",
   "core": [
     "0x683A78bA1f6b25E29fbBC9Cd1BFA29A51520De84"
   ],
@@ -45,5 +45,12 @@
     "QmVik1ZErwPt7Cyi8GKeFnyovf9yeM82dGcYjkif2XwRCt",
     "QmQ1FmUbTVpFDrbw9aymVvjDocvggeDkDaej1Lios2fxqg",
     "QmXxeHtsquFDpWGUYGnbCrn6H6xo1m8RsLWmssg9azp1bn"
-  ]
+  ],
+  "strategies": [
+    ["erc20-balance-of-underlying", {
+      "address": "0x0AaCfbeC6a24756c20D41914F2caba817C0d8521",
+      "symbol": "YAM",
+      "decimals": 24
+    }]
+   ]
 }
