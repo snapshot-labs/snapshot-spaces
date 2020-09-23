@@ -1,12 +1,12 @@
 {
   "key": "sake",
-  "name": "Sake Swap",
+  "name": "SAKEVOTER",
   "chainId": 1,
   "decimals": 18,
   "symbol": "SAKE",
   "defaultView": "core",
-  "address": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
-  "token": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
+  "address": "0x0A291AF57DEb09efd3760B8Ca7167207bcE019d6",
+  "token": "0x0A291AF57DEb09efd3760B8Ca7167207bcE019d6",
   "core": [
     "0x142151D3b15b8961F2937Cf7880Bcd10c050800C"
   ],
