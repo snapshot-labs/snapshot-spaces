@@ -10,7 +10,7 @@
   "core": [
     "0x683A78bA1f6b25E29fbBC9Cd1BFA29A51520De84"
   ],
-  "min": 100,
+  "min": 0,
   "invalid": [
     "QmUbV7sQYep7yZnB3iNZ9ykArsEdBjG1zjXdrYvNkrDSaz",
     "QmaZV3xnYuHqyi3oXFfBdV8F4CN7SPUpXUaKVctb22Qee3",
