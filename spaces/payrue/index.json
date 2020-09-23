@@ -1,0 +1,13 @@
+{
+  "key": "payrue",
+  "name": "PayRue",
+  "chainId": 56,
+  "decimals": 18,
+  "symbol": "Propel",
+  "defaultView": "all",
+  "address": "0x9B44Df3318972bE845d83f961735609137C4C23c",
+  "token": "0x9B44Df3318972bE845d83f961735609137C4C23c",
+  "core": [],
+  "min": 0,
+  "invalid": []
+}

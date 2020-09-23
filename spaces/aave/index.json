@@ -1,7 +1,9 @@
 {
   "key": "aave",
-  "symbol": "LEND",
   "name": "Aave",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "LEND",
   "defaultView": "all",
   "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
   "token": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
@@ -15,12 +17,12 @@
   "invalid": [],
   "showOnlyCore": true,
   "strategies": [
-    ["erc20BalanceOf", {
+    ["erc20-balance-of", {
       "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
       "symbol": "LEND",
       "decimals": 18
     }],
-    ["erc20BalanceOf", {
+    ["erc20-balance-of", {
       "address": "0x7D2D3688Df45Ce7C552E19c27e007673da9204B8",
       "symbol": "aLEND",
       "decimals": 18

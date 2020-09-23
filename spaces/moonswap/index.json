@@ -1,0 +1,16 @@
+{
+  "key": "moonswap",
+  "symbol": "MOONEVD",
+  "name": "MoonSwap",
+  "chainId":1,
+  "decimals":18,
+  "defaultView": "core",
+  "address": "0xC65E282a82b5F0b02Dec20d32DCf12A89f5580bc",
+  "token": "0xC65E282a82b5F0b02Dec20d32DCf12A89f5580bc",
+  "core": [
+    "0xeF71a18bb044d98A861e7Ee9d6ff9262Fff32f12",
+    "0xfb8AC8edB1F67271DcceE572c904C9cA7d90a57E"
+  ],
+  "min": 0,
+  "invalid": []
+}

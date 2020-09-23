@@ -1,7 +1,9 @@
 {
   "key": "unidao",
-  "symbol": "MRR",
   "name": "UniDAO",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "MRR",
   "defaultView": "all",
   "address": "0xC1d204fC521F9e125a55dd8b2152d7344766cC21",
   "token": "0xC1d204fC521F9e125a55dd8b2152d7344766cC21",

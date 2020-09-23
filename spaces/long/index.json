@@ -1,7 +1,9 @@
 {
   "key": "long",
-  "symbol": "LONGPOWER",
   "name": "Long",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "LONGPOWER",
   "defaultView": "core",
   "address": "0xf3c13090b8aD08d8EeE1C3fd224E034f1F44820c",
   "token": "0xf3c13090b8aD08d8EeE1C3fd224E034f1F44820c",

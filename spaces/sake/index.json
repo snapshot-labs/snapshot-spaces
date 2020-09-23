@@ -1,7 +1,9 @@
 {
   "key": "sake",
-  "symbol": "SAKE",
   "name": "Sake Swap",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "SAKE",
   "defaultView": "core",
   "address": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
   "token": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",

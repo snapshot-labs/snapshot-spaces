@@ -1,7 +1,9 @@
 {
   "key": "bella",
-  "symbol": "BEL",
   "name": "Bella",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "BEL",
   "defaultView": "core",
   "address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
   "token": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
