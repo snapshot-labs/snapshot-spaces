@@ -1,13 +1,13 @@
 {
-  "key": "ymen", // This will be the url of your space
-  "name": "Y-Men", // Name of the space (max 12 chars)
-  "chainId": 1, // ID of the blockchain network
-  "decimals": 18, // Number of decimals in the token
-  "symbol": "UNI-V2", // Symbol of the base token
-  "defaultView": "core", // The default tab to see in your space
-  "address": "0xb5ca2cf922208e4c6051d97cd49bc5ef533d633a", // The address of the base token
-  "token": "0xb5ca2cf922208e4c6051d97cd49bc5ef533d633a", // The same address of the base token
-  "core": [ // List of official addresses that can post in "Core" tab of your space
+  "key": "ymen",
+  "name": "Y-Men",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "UNI-V2",
+  "defaultView": "core",
+  "address": "0xb5ca2cf922208e4c6051d97cd49bc5ef533d633a",
+  "token": "0xb5ca2cf922208e4c6051d97cd49bc5ef533d633a",
+  "core": [ 
     "0x3A883Ba0BBf17260D7228E80B36eC1ca75D446aD",
     "0x9c78eB041a383EFF382F42C82f0f2ffc18ea76A5",
     "0xAbc48c5E508279E7b9303E29d596Fb6164893785",
@@ -17,8 +17,8 @@
     "0x0E7aE0ea19747E5Ee98bB7d9f870Bcf0761afe90",
     "0x494884d4E5506DC6278cEae2970ad29859B80077"
   ],
-  "min": 1, // Minimum balance to have from the base token to have your proposal visible in the space (unless the address is a core address)
+  "min": 1,
   "invalid": [
     "QmeX6oLfiPB2ECg9kGxBAnMAytBWSpyMLWKbd8UzuxiirN"
-  ] // List of proposal ids, use this to remove a proposal from your space
+  ]
 }
