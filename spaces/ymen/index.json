@@ -15,7 +15,7 @@
     "0xBa37f04Ea262f1d96BD47A71707e7B1b99FD7ed1",
     "0xc09ac7C1B88Ab6AD34b61FB1288B1fd9D8eAbaDc",
     "0x0E7aE0ea19747E5Ee98bB7d9f870Bcf0761afe90",
-    "0x494884d4E5506DC6278cEae2970ad29859B80077
+    "0x494884d4E5506DC6278cEae2970ad29859B80077"
   ],
   "min": 1, // Minimum balance to have from the base token to have your proposal visible in the space (unless the address is a core address)
   "invalid": [
