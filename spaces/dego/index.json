@@ -1,0 +1,15 @@
+{
+  "key": "dego",
+  "symbol": "DEGO",
+  "chainId": 1, 
+  "decimals": 18, 
+  "name": "dego.finance",
+  "defaultView": "core",
+  "address": "0xCE92FbAC689710bCa1e1c8DB265e9B06BCB85c08",
+  "token": "0xCE92FbAC689710bCa1e1c8DB265e9B06BCB85c08",
+  "core": [
+    "0x20FE4B1eD95911487499e53355BB8f14a881D735"
+  ],
+  "min": 1000,
+  "invalid": []
+}

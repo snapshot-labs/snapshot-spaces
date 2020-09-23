@@ -1,7 +1,9 @@
 {
   "key": "toast",
-  "symbol": "HOUSE",
   "name": "Toast.finance",
+  "chainId": 1,
+  "decimals": 0,
+  "symbol": "HOUSE",
   "defaultView": "all",
   "address": "0xDD0c21B935038ae5904487F843D1498A09C91854",
   "token": "0xDD0c21B935038ae5904487F843D1498A09C91854",

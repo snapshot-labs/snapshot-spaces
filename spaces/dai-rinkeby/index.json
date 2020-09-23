@@ -1,0 +1,13 @@
+{
+  "key": "dai-rinkeby",
+  "name": "Dai",
+  "chainId": 4,
+  "decimals": 18,
+  "symbol": "DAI",
+  "defaultView": "all",
+  "address": "0x0527E400502d0CB4f214dd0D2F2a323fc88Ff924",
+  "token": "0x0527E400502d0CB4f214dd0D2F2a323fc88Ff924",
+  "core": [],
+  "min": 0,
+  "invalid": []
+}

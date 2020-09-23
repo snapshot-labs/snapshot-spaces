@@ -1,7 +1,9 @@
 {
   "key": "shroom",
-  "symbol": "SHROOM",
   "name": "shroom.finance",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "SHROOM",
   "defaultView": "core",
   "address": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
   "token": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
