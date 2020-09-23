@@ -9,17 +9,3 @@
 
   --block-bg: transparent;
 }
-
-@media (prefers-color-scheme: dark) {
-  .uniswap {
-    --primary-color: #2172E5;
-    --bg-color: #212429;
-    --text-color: #FFFFFF;
-    --link-color: #C3C5CB;
-    --heading-color: #2172E5;
-    --border-color: #3680E7;
-    --header-bg: #212429;
-
-    --block-bg: transparent;
-  }
-}
