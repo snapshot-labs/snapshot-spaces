@@ -16,6 +16,6 @@
     "0xbE84E63118fD55DE42236a68721845C8bc075076",
     "0xd9c66fc2b01Bb6d72e8884d2AA1e2DDA2995ecD6"
   ],
-  "min": 1000000,
+  "min": 100,
   "invalid": []
 }
