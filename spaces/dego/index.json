@@ -1,14 +1,18 @@
 {
   "key": "dego",
-  "symbol": "DEGO",
+  "symbol": "DEGOVote",
   "chainId": 1, 
   "decimals": 18, 
   "name": "dego.finance",
-  "defaultView": "core",
+  "defaultView": "all",
   "address": "0xCE92FbAC689710bCa1e1c8DB265e9B06BCB85c08",
   "token": "0xCE92FbAC689710bCa1e1c8DB265e9B06BCB85c08",
   "core": [
-    "0x20FE4B1eD95911487499e53355BB8f14a881D735"
+    "0x20FE4B1eD95911487499e53355BB8f14a881D735",
+    "0xb2Ba79d6bb8A9C970eADdB0a75616cb41b35b42D",
+    "0x54a94430f22B3aFA847D384d4c95908d0BEd436b",
+    "0x30555E91323751e938ae38d348571d4A3cB9a778",
+    "0x2B2AEFD17DBFf305F359eaCD67F344a87F6745F5",
   ],
   "min": 1000,
   "invalid": []
