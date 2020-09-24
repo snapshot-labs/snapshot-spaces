@@ -1,7 +1,9 @@
 {
   "key": "yieldfarming-insure",
-  "symbol": "SAFE",
   "name": "yieldfarming.insure",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "SAFE",
   "defaultView": "all",
   "address": "0x1aa61c196e76805fcbe394ea00e4ffced24fc469",
   "token": "0x1aa61c196e76805fcbe394ea00e4ffced24fc469",
