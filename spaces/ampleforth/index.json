@@ -4,7 +4,7 @@
   "chainId": 1,
   "decimals": 9,
   "symbol": "AMPL",
-  "defaultView": "core",
+  "defaultView": "all",
   "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
   "token": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
   "core": [
