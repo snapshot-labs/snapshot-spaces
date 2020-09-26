@@ -11,6 +11,13 @@
     "0x843002b1D545ef7abB71C716e6179570582faA40",
     "0x252E7E8B9863f81798B1fEF8CfD9741A46De653C"
   ],
-  "min": 0,
-  "invalid": []
+  "min": 1,
+  "invalid": [],
+  "strategies": [
+    ["erc20BalanceOf", {
+      "address": "0x59258F4e15A5fC74A7284055A8094F58108dbD4f",
+      "symbol": "FARM",
+      "decimals": 18
+    }]
+  ]
 }
