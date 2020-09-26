@@ -8,7 +8,9 @@
   "address": "0xc7fd9ae2cf8542d71186877e21107e1f3a0b55ef",
   "token": "0xc7fd9ae2cf8542d71186877e21107e1f3a0b55ef",
   "core": [
-    "0xa03239b8C59Df2C79665D8cfbf3A6C1a9B2e5668"
+    "0xa03239b8C59Df2C79665D8cfbf3A6C1a9B2e5668",
+    "0x6465F1250c9fe162602Db83791Fc3Fb202D70a7B",
+    "星主"
   ],
   "min": 0.01,
   "invalid": []
