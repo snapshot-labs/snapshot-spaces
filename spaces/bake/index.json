@@ -4,7 +4,7 @@
   "chainId": 56,
   "decimals": 18,
   "symbol": "BAKEVOTE",
-  "defaultView": "core",
+  "defaultView": "all",
   "address": "0x382d04194E3607dab5Ebaa5b9f8011A4c06e8b17",
   "token": "0x382d04194E3607dab5Ebaa5b9f8011A4c06e8b17",
   "core": [

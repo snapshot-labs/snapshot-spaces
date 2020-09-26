@@ -1,0 +1,15 @@
+{
+  "key": "percent",
+  "symbol": "PCT V",
+  "name": "Percent",
+  "chainId": 1,
+  "decimals": 9,
+  "defaultView": "core",
+  "address": "0xF67A18404d15D83F5B77C3c522A7aA208F1127BE",
+  "token": "0xF67A18404d15D83F5B77C3c522A7aA208F1127BE",
+  "core": [
+    "0x4fB94CB25918Cbe62EC2ab80E3569492af59B8c3"
+  ],
+  "min": 0,
+  "invalid": []
+}
