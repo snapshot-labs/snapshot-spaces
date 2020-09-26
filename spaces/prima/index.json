@@ -1,0 +1,15 @@
+{
+  "key": "prima",
+  "name": "Prima",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "PRIMA",
+  "defaultView": "core",
+  "address": "0xc0B126a67AA9c2995472E75BC66C2F69f955fe16",
+  "token": "0xc0B126a67AA9c2995472E75BC66C2F69f955fe16",
+  "core": [
+    "0xF1B3A985E3aC73dc81f8fcD419c4dda247d2292c"
+  ],
+  "min": 0,
+  "invalid": []
+}
