@@ -11,7 +11,7 @@
   "min": 0,
   "invalid": [],
   "strategies": [
-    ["erc20BalanceOf", {
+    ["erc20-balance-of", {
       "address": "0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c",
       "symbol": "GOF",
       "decimals": 18
