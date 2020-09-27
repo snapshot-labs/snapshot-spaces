@@ -1,7 +1,9 @@
 {
   "key": "balancer",
-  "symbol": "BAL",
   "name": "Balancer",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "BAL",
   "defaultView": "core",
   "address": "0xba100000625a3754423978a60c9317c58a424e3D",
   "token": "0xba100000625a3754423978a60c9317c58a424e3D",
@@ -18,7 +20,7 @@
   "invalid": [],
   "showOnlyCore": true,
   "strategies": [
-    ["erc20BalanceOf", {
+    ["erc20-balance-of", {
       "address": "0xba100000625a3754423978a60c9317c58a424e3D",
       "symbol": "BAL",
       "decimals": 18

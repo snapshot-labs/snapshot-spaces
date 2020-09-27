@@ -1,7 +1,9 @@
 {
   "key": "momentum",
-  "symbol": "XMM",
   "name": "Momentum",
+  "chainId": 1,
+  "decimals": 10,
+  "symbol": "XMM",
   "defaultView": "core",
   "address": "0x9a7a4c141a3bcce4a31e42c1192ac6add35069b4",
   "token": "0x9a7a4c141a3bcce4a31e42c1192ac6add35069b4",
