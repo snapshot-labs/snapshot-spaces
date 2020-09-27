@@ -1,0 +1,15 @@
+{
+  "key": "ampleforth",
+  "name": "Ampleforth",
+  "chainId": 1,
+  "decimals": 9,
+  "symbol": "AMPL",
+  "defaultView": "all",
+  "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+  "token": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+  "core": [
+    "0xa847dc227D3F3e86Fa01406279C1E88cb6950c3A"
+  ],
+  "min": 10000,
+  "invalid": []
+}
