@@ -1,7 +1,7 @@
 {
   "key": "pancake",
   "symbol": "SYRUPVOTE",
-  "name": "SYRUP",
+  "name": "PancakeSwap",
   "chainId": 56,
   "decimals": 18,
   "defaultView": "core",
