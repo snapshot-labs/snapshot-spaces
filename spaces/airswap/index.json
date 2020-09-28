@@ -1,0 +1,13 @@
+{
+  "key": "airswap",
+  "name": "AirSwap",
+  "chainId": 1,
+  "decimals": 4,
+  "symbol": "AST",
+  "defaultView": "all",
+  "address": "0x27054b13b1b798b345b591a4d22e6562d47ea75a",
+  "token": "0x27054b13b1b798b345b591a4d22e6562d47ea75a",
+  "core": ["0x1FF808E34E4DF60326a3fc4c2b0F80748A3D60c2"],
+  "min": 100,
+  "invalid": []
+}
