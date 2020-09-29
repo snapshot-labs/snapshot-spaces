@@ -1,0 +1,15 @@
+{
+  "key": "galaxy",
+  "name": "Galaxy Credit",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "GALAXY",
+  "defaultView": "all",
+  "address": "0x09a59b9B677cbAad89cd1ba37ea1d42D3449A6FC",
+  "token": "0x09a59b9B677cbAad89cd1ba37ea1d42D3449A6FC",
+  "core": [
+    "0x773503F6aB170a0dfD623F1444861b1749f31cA9"
+  ],
+  "min": 300000000000000000000,
+  "invalid": []
+}
