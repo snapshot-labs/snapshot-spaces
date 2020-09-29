@@ -9,7 +9,10 @@
   "decimals": 18,
   "core": [],
   "min": 0,
-  "invalid": [],
+  "invalid": [
+    "QmPBcBAhJkTR4Ara99JUn5h4dy9TsMpenhD39VTTxXWeED",
+    "QmV3xHw7g6VbXLSTZpJuwVdnEYUXhHJbBsADDkhck8TeD1"
+  ],
   "strategies": [
     ["erc20-balance-of", {
       "address": "0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c",
