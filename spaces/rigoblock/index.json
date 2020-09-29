@@ -1,0 +1,13 @@
+{
+  "key": "rigoblock",
+  "name": "RigoBlock",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "GRG",
+  "defaultView": "all",
+  "address": "0x4fbb350052bca5417566f188eb2ebce5b19bc964",
+  "token": "0x4fbb350052bca5417566f188eb2ebce5b19bc964",
+  "core": [],
+  "min": 5000,
+  "invalid": []
+}

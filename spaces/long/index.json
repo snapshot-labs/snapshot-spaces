@@ -5,8 +5,8 @@
   "decimals": 18,
   "symbol": "LONGPOWER",
   "defaultView": "core",
-  "address": "0xf3c13090b8aD08d8EeE1C3fd224E034f1F44820c",
-  "token": "0xf3c13090b8aD08d8EeE1C3fd224E034f1F44820c",
+  "address": "0x2ece5a5f2bf395e77d2f3e645b1611a0739b4ef9",
+  "token": "0x2ece5a5f2bf395e77d2f3e645b1611a0739b4ef9",
   "core": [
     "0x0AF72515C8E832f079A628e6744faae20846c6C3"
   ],
