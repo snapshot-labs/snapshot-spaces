@@ -4,7 +4,7 @@
   "chainId": 1,
   "decimals": 18,
   "symbol": "UNICOPE",
-  "defaultView": "core",
+  "defaultView": "all",
   "address": "0xc5074D5964De8B8157BF6D4F4846dF9BC415FDdf",
   "token": "0xc5074D5964De8B8157BF6D4F4846dF9BC415FDdf",
   "core": [
