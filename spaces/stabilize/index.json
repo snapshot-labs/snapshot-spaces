@@ -1,0 +1,15 @@
+{
+  "key": "stabilize",
+  "name": "Stabilize",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "STBZ",
+  "defaultView": "core",
+  "address": "0xB987D48Ed8f2C468D52D6405624EADBa5e76d723",
+  "token": "0xB987D48Ed8f2C468D52D6405624EADBa5e76d723",
+  "core": [
+    "0x1a776c84d64eCADA985C968c3589B3c8615A1e7C"
+  ],
+  "min": 30,
+  "invalid": []
+}
