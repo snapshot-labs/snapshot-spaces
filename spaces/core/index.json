@@ -1,0 +1,14 @@
+{
+  "key": "core",
+  "name": "CoreVault",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "CORE",
+  "defaultView": "all",
+  "address": "0x62359ed7505efc61ff1d56fef82158ccaffa23d7",
+  "token": "0x62359ed7505efc61ff1d56fef82158ccaffa23d7",
+  "core": [
+  ],
+  "min": 0,
+  "invalid": []
+}
