@@ -1,15 +1,13 @@
 {
-  "key": "d5", // This will be the url of your space
-  "name": "D5", // Name of the space (max 12 chars)
-  "chainId": 1, // ID of the blockchain network
-  "decimals": 18, // Number of decimals in the token
-  "symbol": "DFS", // Symbol of the base token
-  "defaultView": "core", // The default tab to see in your space
-  "address": "0x683EcFe5B148c8840998c1B4884F60a8eAD432D1", // The address of the base token
-  "token": "0x683EcFe5B148c8840998c1B4884F60a8eAD432D1", // The same address of the base token
-  "core": [
-    // List of official addresses that can post in "Core" tab of your space (verify this, currently this is dfs holders from etherscan)
-  ],
-  "min": 1000, // Minimum balance to have from the base token to have your proposal visible in the space (unless the address is a core address)
-  "invalid": [] // List of proposal ids, use this to remove a proposal from your space
+  "key": "d5",
+  "name": "D5",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "DFS",
+  "defaultView": "core",
+  "address": "0x683EcFe5B148c8840998c1B4884F60a8eAD432D1",
+  "token": "0x683EcFe5B148c8840998c1B4884F60a8eAD432D1",
+  "core": [],
+  "min": 1000,
+  "invalid": []
 }
