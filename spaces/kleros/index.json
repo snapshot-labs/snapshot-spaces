@@ -1,0 +1,13 @@
+{
+  "key": "kleros",
+  "name": "Kleros",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "PNK",
+  "defaultView": "all",
+  "address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+  "token": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+  "core": [],
+  "min": 0,
+  "invalid": []
+}

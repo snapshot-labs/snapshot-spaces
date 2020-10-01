@@ -1,0 +1,15 @@
+{
+  "key": "mew",
+  "name": "MEW",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "MEW",
+  "defaultView": "core",
+  "address": "0xd17e374a7d49287f583ddfbdeb6ad4da21c00ce3",
+  "token": "0xd17e374a7d49287f583ddfbdeb6ad4da21c00ce3",
+  "core": [
+    "0x88a41669ba56747ed7265a72dbb320e5ac4ff660"
+  ],
+  "min": 0,
+  "invalid": []
+}

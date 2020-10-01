@@ -1,0 +1,13 @@
+{
+  "key": "wolfage",
+  "name": "wolfage.finance",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "WEFI",
+  "defaultView": "all",
+  "address": "0x31735f0292D42801dce3b0f83B0d9A09bFf75b07",
+  "token": "0x31735f0292D42801dce3b0f83B0d9A09bFf75b07",
+  "core": ["0xAb10b4A7d034b4038A838Dbd0Dd04cc86B12e9a8"],
+  "min": 1,
+  "invalid": []
+}
