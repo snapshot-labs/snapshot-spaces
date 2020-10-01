@@ -11,7 +11,10 @@
     "0x683A78bA1f6b25E29fbBC9Cd1BFA29A51520De84"
   ],
   "min": 100,
-  "invalid": [],
+  "invalid": [
+      "Qmc4VSHwY3SVmo4oofhL2qDPaYcGaQqndM4oqdQQe2aZHQ",
+      "QmTMAgnPy2q6LRMNwvj27PHvWEgZ3bw7yTtNNEucBZCWhZ"
+  ],
   "strategies": [
     ["contract-call", {
       "address": "0x0AaCfbeC6a24756c20D41914F2caba817C0d8521",
