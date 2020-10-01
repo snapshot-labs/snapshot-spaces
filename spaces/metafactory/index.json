@@ -5,11 +5,11 @@
   "decimals": 18,
   "symbol": "ROBOT",
   "defaultView": "core",
-  "address": "0x196cf105036dca244e35cb549a7b45c87d325ec3",
-  "token": "0x196cf105036dca244e35cb549a7b45c87d325ec3",
+  "address": "0xfb5453340c03db5ade474b27e68b6a9c6b2823eb",
+  "token": "0xfb5453340c03db5ade474b27e68b6a9c6b2823eb",
   "core": [
-    "0x1fc9Ea66DE35F97a8076c9F52CdB2b6334067aee"
+    "0x2150Cb38ee362bceAC3d4A2704A82eeeD02E93EC"
   ],
-  "min": 500,
+  "min": 1000,
   "invalid": []
 }
