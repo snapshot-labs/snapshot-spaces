@@ -1,0 +1,15 @@
+{
+  "key": "sdoge",
+  "name": "SDOGE",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "SDOGE",
+  "defaultView": "core",
+  "address": "0xb25FEda5512445Aa4e481Add71731cD0cffF18C1",
+  "token": "0xb25FEda5512445Aa4e481Add71731cD0cffF18C1",
+  "core": [
+    "0x07679A0882Ea2c3C59207A1AC53F76511555fbd8"
+  ],
+  "min": 0,
+  "invalid": []
+}

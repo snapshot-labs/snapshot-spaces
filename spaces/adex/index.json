@@ -3,10 +3,10 @@
   "name": "AdEx Network",
   "chainId": 1,
   "decimals": 18,
-  "symbol": "ADX",
+  "symbol": "ADX-LOYALTY",
   "defaultView": "all",
-  "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
-  "token": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+  "address": "0x49ee1555672E1b7928Fc581810B4e79dD85263E1",
+  "token": "0x49ee1555672E1b7928Fc581810B4e79dD85263E1",
   "core": [],
   "min": 0,
   "invalid": []
