@@ -15,8 +15,8 @@
   "invalid": [],
   "strategies": [
 ["erc20-balance-of", {
-      "address": "0x59258F4e15A5fC74A7284055A8094F58108dbD4f",
-      "symbol": "FARM",
+      "address": "0x25550Cccbd68533Fa04bFD3e3AC4D09f9e00Fc50",
+      "symbol": "FARM_SP",
       "decimals": 18
     }],
     ["erc20-balance-of", {
