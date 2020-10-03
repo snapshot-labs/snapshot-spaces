@@ -14,7 +14,10 @@
   "invalid": [
       "Qmc4VSHwY3SVmo4oofhL2qDPaYcGaQqndM4oqdQQe2aZHQ",
       "QmTMAgnPy2q6LRMNwvj27PHvWEgZ3bw7yTtNNEucBZCWhZ",
-      "QmZbdxdm6ct1DkjiEeqNFy5V4SabpoH8k6YXe8pxZR7tTA"
+      "QmZbdxdm6ct1DkjiEeqNFy5V4SabpoH8k6YXe8pxZR7tTA",
+      "QmYe1KNRUYnPKzwwa31uhRWPjPSVRBfpXkY6PbSwHRHeyx",
+      "QmQ1aNFQwWvrak4jG82E9kdmfSBjWtwstNGyKjF1ayRUMg",
+      "QmXZkC86Qnm6E5B9RVhxE9qbLEVtq3qKgWrQ6mweWP9zEb"
   ],
   "strategies": [
     ["contract-call", {
