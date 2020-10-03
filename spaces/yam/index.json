@@ -13,7 +13,8 @@
   "min": 100,
   "invalid": [
       "Qmc4VSHwY3SVmo4oofhL2qDPaYcGaQqndM4oqdQQe2aZHQ",
-      "QmTMAgnPy2q6LRMNwvj27PHvWEgZ3bw7yTtNNEucBZCWhZ"
+      "QmTMAgnPy2q6LRMNwvj27PHvWEgZ3bw7yTtNNEucBZCWhZ",
+      "QmZbdxdm6ct1DkjiEeqNFy5V4SabpoH8k6YXe8pxZR7tTA"
   ],
   "strategies": [
     ["contract-call", {
