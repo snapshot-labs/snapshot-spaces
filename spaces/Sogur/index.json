@@ -1,5 +1,5 @@
 {
-  "key": "Sogur",
+  "key": "sogur",
   "name": "Sogur",
   "chainId": 1,
   "decimals": 18,
@@ -25,4 +25,3 @@
     }]
     ]
 }
-
