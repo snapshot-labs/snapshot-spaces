@@ -1,6 +1,6 @@
 {
   "key": "dai-rinkeby",
-  "name": "Dai",
+  "name": "Dai Rinkeby",
   "chainId": 4,
   "decimals": 18,
   "symbol": "DAI",
