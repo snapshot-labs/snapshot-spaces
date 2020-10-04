@@ -1,6 +1,6 @@
 {
   "key": "aragon-rinkeby",
-  "name": "Aragon",
+  "name": "Aragon Rinkeby",
   "chainId": 4,
   "decimals": 18,
   "symbol": "ANT",
