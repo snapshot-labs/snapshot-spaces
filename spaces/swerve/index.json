@@ -3,7 +3,7 @@
   "name": "Swerve",
   "chainId": 1,
   "decimals": 18,
-  "symbol": "SWRV",
+  "symbol": "SWRV%",
   "defaultView": "all",
   "address": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
   "token": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
@@ -12,7 +12,7 @@
     "0xB2C5973EAE6c2a8e5803Aa9A3e0cb177aFE11CDe",
     "0xCdF9b411015016E6a4CD16b5445Fa3a51e7e42CF"
   ],
-  "min": 100,
+  "min": 0,
   "invalid": [
     "QmTwRS22WwBjMJ72wta9KyRMBqi9M52qX9JAy9w78udkDr",
     "QmWTXz5ouAHnK8n3chqsQcb8UWAiukXwYUmZkL3o63UocB",
@@ -27,5 +27,19 @@
     "QmU9aEgy6RJKYyEiDsSXSJUt9uroM8P3N9rPU55sABJAS8",
     "QmbBDgHcixKvcx3gWQXXTZFMznQuuk1PQEpd2V7SPvLhCb",
     "QmSDM53haYzNkymAFbaybnx8FiaY7iUN2roVVeGZqfPuZN"
+  ],
+  "strategies": [
+    ["erc20-balance-of-fixed-total", {
+      "address": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
+      "symbol": "SWRV%",
+      "decimals": 18,
+      "total": 50
+    }],
+    ["erc20-balance-of-fixed-total", {
+      "address": "0xe5e7ddadd563018b0e692c1524b60b754fbd7f02",
+      "symbol": "veSWRV%",
+      "decimals": 18,
+      "total": 50
+    }]
   ]
 }
