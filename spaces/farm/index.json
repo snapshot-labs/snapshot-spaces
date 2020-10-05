@@ -19,10 +19,27 @@
       "symbol": "FARM",
       "decimals": 18
     }],
-    ["erc20-balance-of", {
+    ["contract-call", {
       "address": "0x25550Cccbd68533Fa04bFD3e3AC4D09f9e00Fc50",
+      "decimals": 18,
       "symbol": "FARM (SP)",
-      "decimals": 18
+      "methodABI": {
+        "constant": true,
+        "inputs": [{
+          "internalType":"address",
+          "name":"who",
+          "type":"address"
+        }],
+        "name": "balanceOf",
+        "outputs": [{
+          "internalType":"uint256",
+          "name":"",
+          "type":"uint256"
+        }],
+        "payable":false,
+        "stateMutability":"view",
+        "type":"function"
+      }
     }]
   ]
 }
