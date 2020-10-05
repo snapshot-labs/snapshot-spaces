@@ -7,7 +7,21 @@
   "defaultView": "core",
   "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
   "token": "0x960b236A07cf122663c4303350609A66A7B288C0",
-  "core": ["0xf08b64258465A9896691E23caaF9E6C830ec4b9D"],
+  "core": [
+    "0xf08b64258465A9896691E23caaF9E6C830ec4b9D"
+  ],
   "min": 0,
-  "invalid": []
+  "invalid": [],
+  "showOnlyCore": true,
+  "strategies": [
+    ["erc20-balance-of", {
+      "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
+      "symbol": "ANT",
+      "decimals": 18
+    }],
+    ["balancer", {
+      "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
+      "symbol": "ANT BPT"
+    }]
+  ]
 }
