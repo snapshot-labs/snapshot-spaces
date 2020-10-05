@@ -5,14 +5,14 @@
   "decimals": 18,
   "symbol": "FLA-C",
   "defaultView": "all",
-  "address": "0x8Ffb89D50eB0b9788f40123Cb3B8b8a84Edb4202",
-  "token": "0x8Ffb89D50eB0b9788f40123Cb3B8b8a84Edb4202",
+  "address": "0x43310bd1c8f261ee7b9025662207ed95329aa193",
+  "token": "0x43310bd1c8f261ee7b9025662207ed95329aa193",
   "core": [],
   "min": 1,
   "invalid": [],
   "strategies": [
     ["moloch", {
-      "address": "0x8Ffb89D50eB0b9788f40123Cb3B8b8a84Edb4202",
+      "address": "0x43310bd1c8f261ee7b9025662207ed95329aa193",
       "symbol": "FLA",
       "decimals": 18
     }]
