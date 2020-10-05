@@ -1,0 +1,13 @@
+{
+  "key": "d5",
+  "name": "D5",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "DFS",
+  "defaultView": "all",
+  "address": "0x683EcFe5B148c8840998c1B4884F60a8eAD432D1",
+  "token": "0x683EcFe5B148c8840998c1B4884F60a8eAD432D1",
+  "core": [],
+  "min": 1000,
+  "invalid": []
+}

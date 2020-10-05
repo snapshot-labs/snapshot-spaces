@@ -4,10 +4,10 @@
   "chainId": 1,
   "decimals": 18,
   "symbol": "ANT",
-  "defaultView": "all",
+  "defaultView": "core",
   "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
   "token": "0x960b236A07cf122663c4303350609A66A7B288C0",
-  "core": [],
+  "core": ["0xf08b64258465A9896691E23caaF9E6C830ec4b9D"],
   "min": 0,
   "invalid": []
 }
