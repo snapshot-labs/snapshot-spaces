@@ -1,13 +1,15 @@
 {
-  "key": "capy",
-  "name": "Capy",
+  "key": "example",
+  "name": "Example",
   "chainId": 1,
   "decimals": 18,
-  "symbol": "CAPY",
+  "symbol": "EXAMPLE",
   "defaultView": "core",
-  "address": "0x367B072D50ac465bA47Ab474c6d381BfC0e45F86",
-  "token": "0x367B072D50ac465bA47Ab474c6d381BfC0e45F86",
-  "core": ["0xCF6f9477eD824F7721aE07ee5803Bb2961f36d6f"],
+  "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "core": [
+    "0xeF8305E140ac520225DAf050e2f71d5fBcC543e7"
+  ],
   "min": 0,
   "invalid": []
 }
