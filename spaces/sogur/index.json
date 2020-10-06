@@ -3,7 +3,7 @@
   "name": "Sogur",
   "chainId": 1,
   "decimals": 18,
-  "symbol": "SGR",
+  "symbol": "SGR+SGN",
   "defaultView": "core",
   "address": "0xaea8e1b6cb5c05d1dac618551c76bcd578ea3524",
   "token": "0xaea8e1b6cb5c05d1dac618551c76bcd578ea3524",
