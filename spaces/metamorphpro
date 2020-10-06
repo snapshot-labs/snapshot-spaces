@@ -1,0 +1,17 @@
+{
+"key": "metamorphpro", // This will be the url of your space
+"name": "MetaMorphPro", // Name of the space (max 12 chars)
+"chainId": 1, // ID of the blockchain network
+"decimals": 18, // Number of decimals in the token
+"symbol": "METM", // Symbol of the base token
+"defaultView": "core", // The default tab to see in your space
+"address": "0xfef3884b603c33ef8ed4183346e093a173c94da6", // The address of the base token
+"token": "0xfef3884b603c33ef8ed4183346e093a173c94da6", // The same address of the base token
+"core": [ // List of official addresses that can post in "Core" tab of your space
+"0x7A9dbEAd85731D7ec80D28e63aE6bACCA99F948E"
+],
+"min": 123, // Minimum balance to have from the base token to have your proposal visible in the space (unless the address is a core address)
+"invalid": [
+"0x7A9dbEAd85731D7ec80D28e63aE6bACCA99F948E"
+] // List of proposal ids, use this to remove a proposal from your space
+}
