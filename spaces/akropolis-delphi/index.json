@@ -8,14 +8,9 @@
   "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
   "token": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
   "core": [
-    "0x4C39b37f5F20a0695BFDC59cf10bd85a6c4B7c30",
-    "0x5fFcf7da7BdC49CA8A2E7a542BD59dC38228Dd45",
-    "0x73fC3038B4cD8FfD07482b92a52Ea806505e5748",
-    "0x3501Ec11d205fa249f2C42f5470e137b529b35D0",
-    "0x1A547c3dd03c39Fb2b5aEaFC524033879bD28F13",
-    "0xF311b1258d0F245b85090e4Fb01f2277cB2328aD"
+    "0xe23ec148d7969c58a468F7c6aA4757a365211E5a"
   ],
-  "min": 0,
+  "min": 20000,
   "invalid": [],
   "strategies": [
     ["contract-call", {
