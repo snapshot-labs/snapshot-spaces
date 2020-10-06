@@ -19,6 +19,10 @@
   ],
   "min": 250000,
   "invalid": [
-    "QmWSMLrpwBijqXtP7w8cXpSwPeFv9FKqE9zQdH7PSCQjTq"
+    "QmWSMLrpwBijqXtP7w8cXpSwPeFv9FKqE9zQdH7PSCQjTq",
+    "QmPCcwcGCroYULq27n2JpuHu5rocDM21a3AH7wqPoGRkJc",
+    "QmYVfRWKfMtE6QEeG46QQBoDyrimeQSpXTxuE7QYVwgUum",
+    "QmcYH2BCABBQq1SJ2s9ANqPQSDdkMCr3QPhxaGJiUuyQaN",
+    "QmdeazFH2RAY9wS1eGUrAmYu7ubx8iQmhhzQsaecuMnZqh"
   ]
 }
