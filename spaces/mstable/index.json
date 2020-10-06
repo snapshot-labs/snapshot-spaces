@@ -18,5 +18,11 @@
     "0xd43a25b442e2c343dad472a871c5262cca275eb4"
   ],
   "min": 250000,
-  "invalid": []
+  "invalid": [
+    "QmWSMLrpwBijqXtP7w8cXpSwPeFv9FKqE9zQdH7PSCQjTq",
+    "QmPCcwcGCroYULq27n2JpuHu5rocDM21a3AH7wqPoGRkJc",
+    "QmYVfRWKfMtE6QEeG46QQBoDyrimeQSpXTxuE7QYVwgUum",
+    "QmcYH2BCABBQq1SJ2s9ANqPQSDdkMCr3QPhxaGJiUuyQaN",
+    "QmdeazFH2RAY9wS1eGUrAmYu7ubx8iQmhhzQsaecuMnZqh"
+  ]
 }

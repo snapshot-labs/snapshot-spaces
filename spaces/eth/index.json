@@ -1,0 +1,23 @@
+{
+  "key": "eth",
+  "name": "ETH",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "ETH",
+  "defaultView": "all",
+  "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "core": [],
+  "min": 1,
+  "invalid": [],
+  "strategies": [
+    ["eth-balance", {
+      "symbol": "ETH"
+    }],
+    ["erc20-balance-of", {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "symbol": "wETH",
+      "decimals": 18
+    }]
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "key": "s-finance",
+  "name": "S.Finance",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "SFG",
+  "defaultView": "all",
+  "address": "0x8a6ACA71A218301c7081d4e96D64292D3B275ce0",
+  "token": "0x8a6ACA71A218301c7081d4e96D64292D3B275ce0",
+  "core": [
+    "0x46287423a6939c1393e1078eE4A5656f733f80F2"
+  ],
+  "min": 1000,
+  "invalid": []
+}

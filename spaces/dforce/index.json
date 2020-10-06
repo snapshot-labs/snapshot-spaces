@@ -1,0 +1,13 @@
+{
+  "key": "dforce",
+  "name": "dForce",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "DF",
+  "defaultView": "core",
+  "address": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
+  "token": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
+  "core": [],
+  "min": 1,
+  "invalid": []
+}
