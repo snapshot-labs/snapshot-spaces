@@ -8,5 +8,6 @@
   "signal.eggy.finance": "egg",
   "signal.goldmining.farm": "gmt",
   "gov.aragon.org": "aragon",
-  "oaklandvote.citydao.org": "oaklanddao"
+  "oaklandvote.citydao.org": "oaklanddao",
+  "voting.trustwallet.com": "trust-wallet"
 }
