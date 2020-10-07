@@ -1,5 +1,5 @@
 {
-  "key": "woldefi",
+  "key": "wolfdefi",
   "name": "WolfDeFi",
   "chainId": 4,
   "decimals": 18,
@@ -16,5 +16,4 @@
   "min": 1,
   "invalid": []
 }
-
 
