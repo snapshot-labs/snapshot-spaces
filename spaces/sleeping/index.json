@@ -1,0 +1,15 @@
+{
+  "key": "sleeping",
+  "name": "sleep",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "SLEEP",
+  "defaultView": "core",
+  "address": "0x3C1EE45e11E90fC20427BE5e6Db5FEe557f1E07f",
+  "token": "0x3C1EE45e11E90fC20427BE5e6Db5FEe557f1E07f",
+  "core": [
+    "0xFD1AbE6F05A17C2dc198F6f56Cb5d85Cc2279Ea9"
+  ],
+  "min": 1000,
+  "invalid": []
+}
