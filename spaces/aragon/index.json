@@ -11,7 +11,9 @@
     "0xf08b64258465A9896691E23caaF9E6C830ec4b9D"
   ],
   "min": 0,
-  "invalid": [],
+  "invalid": [
+    "QmPNvdddbA1gQ8PCQxnEjhTeGSTvkdCarwkRyzgeoFHSgH"
+  ],
   "showOnlyCore": true,
   "strategies": [
     ["erc20-balance-of", {
