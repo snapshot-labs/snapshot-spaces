@@ -1,0 +1,22 @@
+{
+  "key": "yieldwars",
+  "name": "YieldWars",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "WAR",
+  "defaultView": "core",
+  "address": "0xf4A81C18816C9B0AB98FAC51B36Dcb63b0E58Fde",
+  "token": "0xf4A81C18816C9B0AB98FAC51B36Dcb63b0E58Fde",
+  "core": [
+    "0x8b6e2e23FCfaCCFd34eb8E8AC027FAA189DA36Ff"
+  ],
+  "min": 100,
+  "invalid": [],
+  "strategies": [
+    ["erc20-balance-of", {
+      "address": "0xf4A81C18816C9B0AB98FAC51B36Dcb63b0E58Fde",
+      "symbol": "WAR",
+      "decimals": 18
+    }]
+  ]
+}
