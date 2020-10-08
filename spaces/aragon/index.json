@@ -12,7 +12,8 @@
   ],
   "min": 0,
   "invalid": [
-    "QmPNvdddbA1gQ8PCQxnEjhTeGSTvkdCarwkRyzgeoFHSgH"
+    "QmPNvdddbA1gQ8PCQxnEjhTeGSTvkdCarwkRyzgeoFHSgH",
+    "QmNTgjdR3rNj25Ah6PxYzAzb8cD7cT6HmKoFFmKADrr2gC"
   ],
   "showOnlyCore": true,
   "strategies": [
