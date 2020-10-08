@@ -1,0 +1,15 @@
+{
+  "key": "cargo",
+  "name": "Cargo",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "GEM",
+  "defaultView": "core",
+  "address": "0x30B1eFB052205E6CA3c4888C3C50C5b339cc0602",
+  "token": "0x30B1eFB052205E6CA3c4888C3C50C5b339cc0602",
+  "core": [
+    "0x2D2C46D26c8FEc693586e067c4fC2b2DDC2b4cb3"
+  ],
+  "min": 100,
+  "invalid": []
+}
