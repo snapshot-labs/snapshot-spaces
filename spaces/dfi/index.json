@@ -16,17 +16,17 @@
       "symbol": "YFII",
       "decimals": 18
     }],
-    ["erc20-balance-of", { //poo4
+    ["erc20-balance-of", { 
       "address": "0x3d367C9529f260B0661e1C1E91167C9319ee96cA",
       "symbol": "YFII",
       "decimals": 18
     }],
-    ["erc20-balance-of", { //mefi
+    ["erc20-balance-of", { 
       "address": "0x6A77c0c917Da188fBfa9C380f2E60dd223c0c35a",
       "symbol": "YFII",
       "decimals": 18
     }],
-    ["erc20-balance-of", { //poo3
+    ["erc20-balance-of", { 
       "address": "0xf1750B770485A5d0589A6ba1270D9FC354884D45",
       "symbol": "YFII",
       "decimals": 18
