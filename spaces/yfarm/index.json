@@ -1,7 +1,8 @@
 {
   "key": "yfarm",
   "symbol": "YFARM",
-  "name": "FARM.YFFS.FINANCE",
+  "name": "FARM YFFS FINANCE",
+
   "chainId": 1,
   "decimals": 18,
   "defaultView": "All",
