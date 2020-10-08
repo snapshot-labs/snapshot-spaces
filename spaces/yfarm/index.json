@@ -2,7 +2,6 @@
   "key": "yfarm",
   "symbol": "YFARM",
   "name": "YFARM",
-
   "chainId": 1,
   "decimals": 18,
   "defaultView": "All",
@@ -13,4 +12,4 @@
   ],
   "min": 5000,
   "invalid": []
-} 
+}
