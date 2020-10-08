@@ -4,7 +4,7 @@
   "chainId": 1,
   "decimals": 18,
   "symbol": "TON",
-  "defaultView": "ALL",
+  "defaultView": "core",
   "address": "0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a",
   "token": "0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a",
   "core": [
