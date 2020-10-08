@@ -1,0 +1,15 @@
+{
+  "key": "send",
+  "name": "Send Finance",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "$SEND",
+  "defaultView": "core",
+  "address": "0x14c4d8e57751e083bcd1edcca5b435720166f5e9",
+  "token": "0x14c4d8e57751e083bcd1edcca5b435720166f5e9",
+  "core": [
+    "0x35e1dE7f74FC1ad617D8977e6817de0F23eC1679"
+  ],
+  "min": 1,
+  "invalid": []
+}
