@@ -2,14 +2,14 @@
   "key": "example",
   "name": "Example",
   "chainId": 1,
-  "decimals": 18,
+  "decimals": 10,
   "symbol": "EXAMPLE",
   "defaultView": "core",
-  "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-  "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "address": "0x78a685e0762096ed0f98107212e98f8c35a9d1d8",
+  "token": "0x78a685e0762096ed0f98107212e98f8c35a9d1d8",
   "core": [
-    "0xeF8305E140ac520225DAf050e2f71d5fBcC543e7"
+    "0x7420fA58bA44E1141d5E9ADB6903BE549f7cE0b5"
   ],
-  "min": 0,
+  "min": 1,
   "invalid": []
 }
