@@ -1,16 +1,16 @@
 .adex {
-    --primary-color: #b6509e;
-    --bg-color: #f1f1f3;
-    --text-color: #707070;
-    --link-color: #111111;
-    --heading-color: #111111;
-    --border-color: #d1d5da;
-    --header-bg: #f7f7f7;
-    --block-bg: white;
-  
+    --primary-color: #ff4269;
+    --bg-color: #1A1825;
+    --text-color: #a6a6a6;
+    --link-color: #fafafa;
+    --heading-color: #fafafa;
+    --border-color: #a6a6a6;
+    --header-bg: #29253b;
+    --block-bg: #29253b;
+
     #topnav {
       border-bottom: 4px solid black !important;
       border-image-slice: 1;
-      border-image-source: linear-gradient(to left, #1C75BC, #14DD9C);
+      border-image-source:  linear-gradient(90deg, rgba(73,69,96,1) 0%, rgba(255,66,105,1) 100%);
     }
 }
