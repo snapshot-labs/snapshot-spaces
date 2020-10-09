@@ -1,0 +1,14 @@
+{
+  "key": "clover",
+  "name": "Clover",
+  "chainId": 1,
+  "decimals": 6,
+  "symbol": "Clover",
+  "defaultView": "all",
+  "address": "0x22222C03318440305aC3e8a7820563d6A9FD777F",
+  "token": "0x22222C03318440305aC3e8a7820563d6A9FD777F",
+  "core": [
+  ],
+  "min": 22,
+  "invalid": []
+}
