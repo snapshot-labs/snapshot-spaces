@@ -1,0 +1,13 @@
+{
+  "key": "swarm",
+  "name": "Swarm Network",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "SWM",
+  "defaultView": "core",
+  "address": "0x3505f494c3f0fed0b594e01fa41dd3967645ca39",
+  "token": "0x3505f494c3f0fed0b594e01fa41dd3967645ca39",
+  "core": [],
+  "min": 50000,
+  "invalid": []
+}
