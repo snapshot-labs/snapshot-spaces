@@ -1,0 +1,15 @@
+{
+  "key": "exnetwork",
+  "name": "Exnetwork",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "EXNG",
+  "defaultView": "All",
+  "address": "0x9dd63ed4d9597b15cd2c1e5b9f3be01089ce9adc",
+  "token": "0x9dd63ed4d9597b15cd2c1e5b9f3be01089ce9adc",
+  "core": [
+    "0x1979209374987059DC5D5E62CE78B52f395ED94d"
+  ],
+  "min": 10,
+  "invalid": []
+}
