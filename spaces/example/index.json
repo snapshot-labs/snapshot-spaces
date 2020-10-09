@@ -1,9 +1,9 @@
 {
-  "key": "example",
-  "name": "Example",
+  "key": "Ourbloc",
+  "name": "Ourbloc",
   "chainId": 1,
   "decimals": 10,
-  "symbol": "EXAMPLE",
+  "symbol": "Dap",
   "defaultView": "core",
   "address": "0x78a685e0762096ed0f98107212e98f8c35a9d1d8",
   "token": "0x78a685e0762096ed0f98107212e98f8c35a9d1d8",
