@@ -9,9 +9,9 @@ export default Object.fromEntries(
     .filter(
       file =>
         ![
-          './domains.json',
-          './spotlight.json',
-          './example/index.json'
+          'domains.json',
+          'spotlight.json',
+          'example/index.json'
         ].includes(file)
     )
     .map(file => {
