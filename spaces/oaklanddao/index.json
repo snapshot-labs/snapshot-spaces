@@ -1,0 +1,15 @@
+﻿{
+    "key": "oaklanddao",
+    "name": "Oakland Dao",
+    "chainId": 4,
+    "decimals": 0,
+    "symbol": "OAKM",
+    "defaultView": "core",
+    "address": "0xd41de6a4af5fafa7c9483bdafeb592a626ba7584",
+    "token": "0xd41de6a4af5fafa7c9483bdafeb592a626ba7584",
+    "core": [
+        "0xbec7c55760b2927d81e70d3a91a064ddc5f54683"
+    ],
+    "min": 1,
+    "invalid": []
+}
