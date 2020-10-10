@@ -12,39 +12,43 @@
   ],
   "min": 100,
   "invalid": [
-      "Qmc4VSHwY3SVmo4oofhL2qDPaYcGaQqndM4oqdQQe2aZHQ",
-      "QmTMAgnPy2q6LRMNwvj27PHvWEgZ3bw7yTtNNEucBZCWhZ",
-      "QmZbdxdm6ct1DkjiEeqNFy5V4SabpoH8k6YXe8pxZR7tTA",
-      "QmYe1KNRUYnPKzwwa31uhRWPjPSVRBfpXkY6PbSwHRHeyx",
-      "QmQ1aNFQwWvrak4jG82E9kdmfSBjWtwstNGyKjF1ayRUMg",
-      "QmXZkC86Qnm6E5B9RVhxE9qbLEVtq3qKgWrQ6mweWP9zEb"
+    "Qmc4VSHwY3SVmo4oofhL2qDPaYcGaQqndM4oqdQQe2aZHQ",
+    "QmTMAgnPy2q6LRMNwvj27PHvWEgZ3bw7yTtNNEucBZCWhZ",
+    "QmZbdxdm6ct1DkjiEeqNFy5V4SabpoH8k6YXe8pxZR7tTA",
+    "QmYe1KNRUYnPKzwwa31uhRWPjPSVRBfpXkY6PbSwHRHeyx",
+    "QmQ1aNFQwWvrak4jG82E9kdmfSBjWtwstNGyKjF1ayRUMg",
+    "QmXZkC86Qnm6E5B9RVhxE9qbLEVtq3qKgWrQ6mweWP9zEb"
   ],
   "strategies": [
-    ["contract-call", {
-      "address": "0x0AaCfbeC6a24756c20D41914F2caba817C0d8521",
-      "decimals": 24,
-      "symbol": "YAM",
-      "methodABI": {
-         "constant":true,
-         "inputs":[
+    [
+      "contract-call",
+      {
+        "address": "0x0AaCfbeC6a24756c20D41914F2caba817C0d8521",
+        "decimals": 24,
+        "symbol": "YAM",
+        "methodABI": {
+          "constant": true,
+          "inputs": [
             {
-               "internalType":"address",
-               "name":"owner",
-               "type":"address"
+              "internalType": "address",
+              "name": "owner",
+              "type": "address"
             }
-         ],
-         "name":"balanceOfUnderlying",
-         "outputs":[
+          ],
+          "name": "balanceOfUnderlying",
+          "outputs": [
             {
-               "internalType":"uint256",
-               "name":"",
-               "type":"uint256"
+              "internalType": "uint256",
+              "name": "",
+              "type": "uint256"
             }
-         ],
-         "payable":false,
-         "stateMutability":"view",
-         "type":"function"
+          ],
+          "payable": false,
+          "stateMutability": "view",
+          "type": "function"
+        }
       }
-    }]
-  ]
+    ]
+  ],
+  "skin": "yam"
 }

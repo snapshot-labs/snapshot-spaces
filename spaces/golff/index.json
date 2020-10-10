@@ -9,5 +9,6 @@
   "decimals": 18,
   "core": [],
   "min": 0,
-  "invalid": []
+  "invalid": [],
+  "skin": "golff"
 }

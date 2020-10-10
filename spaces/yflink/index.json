@@ -10,5 +10,6 @@
   "core": [],
   "min": 0,
   "invalid": [],
-  "visible": false
+  "visible": false,
+  "skin": "yflink"
 }

@@ -9,5 +9,6 @@
   "token": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
   "core": [],
   "min": 0,
-  "invalid": []
+  "invalid": [],
+  "skin": "status"
 }
