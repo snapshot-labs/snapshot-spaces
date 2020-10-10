@@ -5,8 +5,6 @@
   "decimals": 9,
   "symbol": "SHARE",
   "defaultView": "core",
-  "chainId": 1,
-  "decimals": 9,
   "address": "0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D",
   "token": "0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D",
   "core": [
