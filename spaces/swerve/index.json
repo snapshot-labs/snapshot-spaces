@@ -35,17 +35,24 @@
     "QmSDM53haYzNkymAFbaybnx8FiaY7iUN2roVVeGZqfPuZN"
   ],
   "strategies": [
-    ["erc20-balance-of-fixed-total", {
-      "address": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
-      "symbol": "%SWRV",
-      "decimals": 18,
-      "total": 50
-    }],
-    ["erc20-balance-of-fixed-total", {
-      "address": "0xe5e7ddadd563018b0e692c1524b60b754fbd7f02",
-      "symbol": "%veSWRV",
-      "decimals": 18,
-      "total": 50
-    }]
-  ]
+    [
+      "erc20-balance-of-fixed-total",
+      {
+        "address": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
+        "symbol": "%SWRV",
+        "decimals": 18,
+        "total": 50
+      }
+    ],
+    [
+      "erc20-balance-of-fixed-total",
+      {
+        "address": "0xe5e7ddadd563018b0e692c1524b60b754fbd7f02",
+        "symbol": "%veSWRV",
+        "decimals": 18,
+        "total": 50
+      }
+    ]
+  ],
+  "skin": "swerve"
 }

@@ -14,7 +14,8 @@
     "0xf771d78D4db4F6ba725DCC8849a701D5e8bF66F3",
     "0x1665e27Eced76a256710513605781b28E380BAb6",
     "0x03dce8E2f2CD099bc924D6dDdc97686742a13111"
-    ],
+  ],
   "min": 1,
-  "invalid": []
+  "invalid": [],
+  "skin": "egg"
 }
