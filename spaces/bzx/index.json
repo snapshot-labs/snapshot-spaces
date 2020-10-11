@@ -11,12 +11,5 @@
     "0xB7F72028D9b502Dc871C444363a7aC5A52546608"
   ],
   "min": 100,
-  "invalid": [],
-  "strategies": [
-    ["erc20-balance-of", {
-      "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
-      "symbol": "BZRX",
-      "decimals": 18
-    }]
-  ]
+  "invalid": []
 }
