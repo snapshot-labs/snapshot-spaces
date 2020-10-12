@@ -11,10 +11,14 @@
   "min": 1,
   "invalid": [],
   "strategies": [
-    ["moloch", {
-      "address": "0x43310bd1c8f261ee7b9025662207ed95329aa193",
-      "symbol": "FLA",
-      "decimals": 18
-    }]
-  ]
+    [
+      "moloch",
+      {
+        "address": "0x43310bd1c8f261ee7b9025662207ed95329aa193",
+        "symbol": "FLA",
+        "decimals": 18
+      }
+    ]
+  ],
+  "skin": "flamingo"
 }

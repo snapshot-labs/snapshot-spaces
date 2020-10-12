@@ -7,7 +7,10 @@
   "defaultView": "core",
   "address": "0x367B072D50ac465bA47Ab474c6d381BfC0e45F86",
   "token": "0x367B072D50ac465bA47Ab474c6d381BfC0e45F86",
-  "core": ["0xCF6f9477eD824F7721aE07ee5803Bb2961f36d6f"],
+  "core": [
+    "0xCF6f9477eD824F7721aE07ee5803Bb2961f36d6f"
+  ],
   "min": 0,
-  "invalid": []
+  "invalid": [],
+  "skin": "capy"
 }

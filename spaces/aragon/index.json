@@ -17,14 +17,21 @@
   ],
   "showOnlyCore": true,
   "strategies": [
-    ["erc20-balance-of", {
-      "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
-      "symbol": "ANT",
-      "decimals": 18
-    }],
-    ["balancer", {
-      "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
-      "symbol": "ANT BPT"
-    }]
-  ]
+    [
+      "erc20-balance-of",
+      {
+        "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
+        "symbol": "ANT",
+        "decimals": 18
+      }
+    ],
+    [
+      "balancer",
+      {
+        "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
+        "symbol": "ANT BPT"
+      }
+    ]
+  ],
+  "skin": "aragon"
 }

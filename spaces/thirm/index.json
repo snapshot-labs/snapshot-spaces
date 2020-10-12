@@ -1,0 +1,16 @@
+{
+  "key": "thirm",
+  "name": "Thirm",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "THIRM",
+  "defaultView": "all",
+  "address": "0xb526fd41360c98929006f3bdcbd16d55de4b0069",
+  "token": "0xb526fd41360c98929006f3bdcbd16d55de4b0069",
+"core": [ 
+    "0xa34ef48b73870fa2aca1558239576ccbc60ad542"
+  ],
+  "min": 1,
+  "invalid": [],
+  "skin": "thirm"
+}

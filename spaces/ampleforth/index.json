@@ -13,5 +13,6 @@
     "0xfe2321d7dfa492dfc39330e8b85e7c49161e7f98"
   ],
   "min": 10000,
-  "invalid": []
+  "invalid": [],
+  "skin": "ampleforth"
 }

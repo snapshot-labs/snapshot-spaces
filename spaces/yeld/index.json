@@ -1,0 +1,15 @@
+{
+  "key": "yeld",
+  "name": "Yeld",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "YELD",
+  "defaultView": "core",
+  "address": "0x468ab3b1f63A1C14b361bC367c3cC92277588Da1",
+  "token": "0x468ab3b1f63A1C14b361bC367c3cC92277588Da1",
+  "core": [
+    "0xc6e3977472f88e45C8A8B796fB15dC115866f6a4"
+  ],
+  "min": 10,
+  "invalid": []
+}
