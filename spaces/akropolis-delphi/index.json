@@ -11,7 +11,9 @@
     "0xe23ec148d7969c58a468F7c6aA4757a365211E5a"
   ],
   "min": 20000,
-  "invalid": [],
+  "invalid": [
+    "QmekHwJHoiL7SpYEYYqxHZeJjP7sVp1enq1UppzhP5UcEM"
+  ],
   "strategies": [
     [
       "contract-call",
@@ -21,21 +23,17 @@
         "symbol": "govAKRO",
         "methodABI": {
           "constant": true,
-          "inputs": [
-            {
-              "internalType": "address",
-              "name": "_address",
-              "type": "address"
-            }
-          ],
+          "inputs": [{
+            "internalType": "address",
+            "name": "_address",
+            "type": "address"
+          }],
           "name": "totalScoresFor",
-          "outputs": [
-            {
-              "internalType": "uint256",
-              "name": "",
-              "type": "uint256"
-            }
-          ],
+          "outputs": [{
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }],
           "payable": false,
           "stateMutability": "view",
           "type": "function"
@@ -50,21 +48,17 @@
         "symbol": "govADEL",
         "methodABI": {
           "constant": true,
-          "inputs": [
-            {
-              "internalType": "address",
-              "name": "_address",
-              "type": "address"
-            }
-          ],
+          "inputs": [{
+            "internalType": "address",
+            "name": "_address",
+            "type": "address"
+          }],
           "name": "totalScoresFor",
-          "outputs": [
-            {
-              "internalType": "uint256",
-              "name": "",
-              "type": "uint256"
-            }
-          ],
+          "outputs": [{
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }],
           "payable": false,
           "stateMutability": "view",
           "type": "function"
