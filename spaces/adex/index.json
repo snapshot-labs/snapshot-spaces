@@ -1,11 +1,9 @@
 {
-  "key": "adex",
   "name": "AdEx Network",
   "chainId": 1,
   "decimals": 18,
   "symbol": "ADX-LOYALTY",
   "defaultView": "all",
-  "address": "0xd9A4cB9dc9296e111c66dFACAb8Be034EE2E1c2C",
   "token": "0xd9A4cB9dc9296e111c66dFACAb8Be034EE2E1c2C",
   "core": [],
   "min": 0,

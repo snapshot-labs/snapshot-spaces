@@ -1,11 +1,9 @@
 {
-  "key": "yam",
   "name": "Yam Finance",
   "chainId": 1,
   "decimals": 18,
   "symbol": "YAM",
   "defaultView": "core",
-  "address": "0x0AaCfbeC6a24756c20D41914F2caba817C0d8521",
   "token": "0x0AaCfbeC6a24756c20D41914F2caba817C0d8521",
   "core": [
     "0x683A78bA1f6b25E29fbBC9Cd1BFA29A51520De84"

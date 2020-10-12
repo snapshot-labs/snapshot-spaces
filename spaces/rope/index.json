@@ -1,11 +1,9 @@
 {
-  "key": "rope",
   "name": "ROPETHEVOTE",
   "chainId": 1,
   "decimals": 18,
   "symbol": "$ROPE",
   "defaultView": "core",
-  "address": "0xa5080230d752915F157FABe058d5E37c62947DEB",
   "token": "0xa5080230d752915F157FABe058d5E37c62947DEB",
   "core": [
     "0xAD16ebE6FfC7d96624A380F394cD64395B0C6144",

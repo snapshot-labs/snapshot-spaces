@@ -1,11 +1,9 @@
 {
-  "key": "swapx",
   "name": "swapx.org",
   "chainId": 1,
   "decimals": 18,
   "symbol": "SWP",
   "defaultView": "core",
-  "address": "0xDA3145d0A373712E036106FC1fa34b1014807e68",
   "token": "0xDA3145d0A373712E036106FC1fa34b1014807e68",
   "core": [
     "0xDeA9390e58473973DAF78EBdD62f5cdDAfDC3808",

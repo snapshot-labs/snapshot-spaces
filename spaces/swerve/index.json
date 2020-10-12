@@ -1,11 +1,9 @@
 {
-  "key": "swerve",
   "name": "Swerve",
   "chainId": 1,
   "decimals": 18,
   "symbol": "%SWRV",
   "defaultView": "all",
-  "address": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
   "token": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
   "core": [
     "0x6D3E136698beFEe231cD2E4E94bE0105D62FA01F",

@@ -1,11 +1,9 @@
 {
-  "key": "aave",
   "name": "Aave",
   "chainId": 1,
   "decimals": 18,
   "symbol": "LEND",
   "defaultView": "all",
-  "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
   "token": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
   "core": [
     "0x4Bf03635d42067CF86aaaF173F134765c30e40Fc",

@@ -1,11 +1,9 @@
 {
-  "key": "bake",
   "name": "BAKE",
   "chainId": 56,
   "decimals": 18,
   "symbol": "BAKEVOTE",
   "defaultView": "all",
-  "address": "0x382d04194E3607dab5Ebaa5b9f8011A4c06e8b17",
   "token": "0x382d04194E3607dab5Ebaa5b9f8011A4c06e8b17",
   "core": [
     "0x7b859170918124dFBB924327582c32059266C383"

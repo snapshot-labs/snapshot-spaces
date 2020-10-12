@@ -1,15 +1,13 @@
 {
-  "key": "katana",
   "symbol": "KATANA",
   "name": "KATANA.FINANCE",
   "chainId": 1,
   "decimals": 18,
   "defaultView": "All",
-  "address": "0xe6410569602124506658ff992f258616ea2d4a3d",
   "token": "0xe6410569602124506658ff992f258616ea2d4a3d",
   "core": [
     "0x43BAb6d115324aCD2755E10910367aBE38174f58"
   ],
   "min": 1000,
   "invalid": []
-} 
+}

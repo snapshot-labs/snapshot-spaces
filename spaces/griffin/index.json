@@ -1,11 +1,9 @@
 {
-  "key": "griffin",
   "symbol": "GFIN",
   "name": "Griffin",
   "chainId": 1,
   "decimals": 18,
   "defaultView": "core",
-  "address": "0x21E19121e1360e09AA1F810280c97A87b85d1069",
   "token": "0x21E19121e1360e09AA1F810280c97A87b85d1069",
   "core": [
     "0x420A7e31d1177F4f7e0ae9d5e45101D5785F4d21"

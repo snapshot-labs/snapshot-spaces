@@ -1,16 +1,13 @@
 {
-  "key": "fairswap",
   "name": "FairSwap",
   "chainId": 1,
   "decimals": 9,
   "symbol": "FAIRPOWER",
   "defaultView": "core",
-  "address": "0x95845b551302462a6141dd574889EEE1A914438D",
   "token": "0x95845b551302462a6141dd574889EEE1A914438D",
   "core": [
     "0xB9A21C28668bA80f3D6994c4a902c0977F38C1eA"
   ],
   "min": 0,
-  "invalid": [
-  ]
+  "invalid": []
 }

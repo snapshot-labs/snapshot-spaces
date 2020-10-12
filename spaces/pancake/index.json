@@ -1,11 +1,9 @@
 {
-  "key": "pancake",
   "symbol": "SYRUPVOTE",
   "name": "PancakeSwap",
   "chainId": 56,
   "decimals": 18,
   "defaultView": "core",
-  "address": "0xad3770d8e35ee5932daf59c6270f09d0f9a93831",
   "token": "0xad3770d8e35ee5932daf59c6270f09d0f9a93831",
   "core": [
     "0x6eaf1b33b8672c5dc40aB8f4bA3A0111723126c7"

@@ -1,11 +1,9 @@
 {
-  "key": "balancer",
   "name": "Balancer",
   "chainId": 1,
   "decimals": 18,
   "symbol": "BAL",
   "defaultView": "core",
-  "address": "0xba100000625a3754423978a60c9317c58a424e3D",
   "token": "0xba100000625a3754423978a60c9317c58a424e3D",
   "core": [
     "0x24A12Fa313F57aF541d447c594072A992c605DCf",

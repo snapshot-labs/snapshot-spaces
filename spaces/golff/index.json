@@ -1,9 +1,7 @@
 {
-  "key": "golff",
   "symbol": "GOF",
   "name": "Golff Finance",
   "defaultView": "core",
-  "address": "0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c",
   "token": "0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c",
   "chainId": 1,
   "decimals": 18,

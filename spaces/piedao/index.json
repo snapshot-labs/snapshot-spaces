@@ -1,11 +1,9 @@
 {
-  "key": "piedao",
   "name": "PieDAO",
   "chainId": 1,
   "decimals": 18,
   "symbol": "DOUGH",
   "defaultView": "all",
-  "address": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
   "token": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
   "core": [],
   "min": 0,
