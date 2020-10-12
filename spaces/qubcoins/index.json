@@ -1,11 +1,9 @@
 {
-  "key": "qubcoins",
   "name": "Qubcoins",
   "chainId": 1,
   "decimals": 18,
   "symbol": "QUB",
   "defaultView": "core",
-  "address": "0xb2d74b7a454eda300c6e633f5b593d128c0c0dcf",
   "token": "0xb2d74b7a454eda300c6e633f5b593d128c0c0dcf",
   "core": [
     "0x41A2E2f0e3A93c16D124C635Ba4aFab4abAfF2b7",

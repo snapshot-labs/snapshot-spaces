@@ -1,11 +1,9 @@
 {
-  "key": "sushipowah",
   "name": "Sushi Archive",
   "chainId": 1,
   "decimals": 18,
   "symbol": "SP",
   "defaultView": "core",
-  "address": "0x598eb12A541AbbdB315045a4eDE8d277f18B8be9",
   "token": "0x598eb12A541AbbdB315045a4eDE8d277f18B8be9",
   "core": [
     "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",

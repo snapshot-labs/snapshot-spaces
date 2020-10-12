@@ -1,11 +1,9 @@
 {
-  "key": "yaxis",
   "name": "yAxis",
   "chainId": 1,
   "decimals": 18,
   "symbol": "YAX",
   "defaultView": "core",
-  "address": "0xb1dC9124c395c1e97773ab855d66E879f053A289",
   "token": "0xb1dC9124c395c1e97773ab855d66E879f053A289",
   "core": [
     "0x5661bF295f48F499A70857E8A6450066a8D16400",

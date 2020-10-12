@@ -1,11 +1,9 @@
 {
-  "key": "sushi",
   "name": "Sushi",
   "chainId": 1,
   "decimals": 18,
   "symbol": "SUSHIPOWAH",
   "defaultView": "core",
-  "address": "0x2dbce82984595d977564888e08476053c6dbb0e3",
   "token": "0x2dbce82984595d977564888e08476053c6dbb0e3",
   "core": [
     "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",

@@ -1,11 +1,9 @@
 {
-  "key": "mstable",
   "name": "mStable",
   "chainId": 1,
   "decimals": 18,
   "symbol": "vMTA",
   "defaultView": "core",
-  "address": "0xae8bc96da4f9a9613c323478be181fdb2aa0e1bf",
   "token": "0xae8bc96da4f9a9613c323478be181fdb2aa0e1bf",
   "core": [
     "0xd8bae7d96df905e46718b6cee3410f535e11bf20",

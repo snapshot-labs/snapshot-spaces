@@ -1,11 +1,9 @@
 {
-  "key": "jamm",
   "name": "JAMM",
   "chainId": 1,
   "decimals": 4,
   "symbol": "$JAMM",
   "defaultView": "core",
-  "address": "0x56687cf29ac9751ce2a4e764680b6ad7e668942e",
   "token": "0x56687cf29ac9751ce2a4e764680b6ad7e668942e",
   "core": [
     "0x565B93a15d38aCD79c120b15432D21E21eD274d6"

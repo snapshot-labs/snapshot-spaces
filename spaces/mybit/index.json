@@ -1,11 +1,9 @@
 {
-  "key": "mybit",
   "name": "MyBit",
   "chainId": 1,
   "decimals": 18,
   "symbol": "MYB",
   "defaultView": "core",
-  "address": "0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc",
   "token": "0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc",
   "core": [
     "0x2B50d53c2d10954aEA741ae61001c3fb77717e5e"

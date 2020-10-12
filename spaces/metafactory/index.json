@@ -1,11 +1,9 @@
 {
-  "key": "metafactory",
   "name": "MetaFactory",
   "chainId": 1,
   "decimals": 18,
   "symbol": "ROBOT",
   "defaultView": "core",
-  "address": "0xfb5453340c03db5ade474b27e68b6a9c6b2823eb",
   "token": "0xfb5453340c03db5ade474b27e68b6a9c6b2823eb",
   "core": [
     "0x2150Cb38ee362bceAC3d4A2704A82eeeD02E93EC"

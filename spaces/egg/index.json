@@ -1,11 +1,9 @@
 {
-  "key": "egg",
   "name": "Eggy.Finance",
   "chainId": 1,
   "decimals": 18,
   "symbol": "EGG",
   "defaultView": "core",
-  "address": "0x2b7018Fca0eccfBc738828e1E8f1C7038EBBCaa8",
   "token": "0x2b7018Fca0eccfBc738828e1E8f1C7038EBBCaa8",
   "core": [
     "0x5E47b8155E4D66d5A88437D471e80daEb4Df9498",

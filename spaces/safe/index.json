@@ -1,11 +1,9 @@
 {
-  "key": "safe",
   "name": "SAFE",
   "chainId": 1,
   "decimals": 18,
   "symbol": "SAFE",
   "defaultView": "core",
-  "address": "0x1Aa61c196E76805fcBe394eA00e4fFCEd24FC469",
   "token": "0x1Aa61c196E76805fcBe394eA00e4fFCEd24FC469",
   "core": [
     "0x2f80E5163A7A774038753593010173322eA6f9fe"

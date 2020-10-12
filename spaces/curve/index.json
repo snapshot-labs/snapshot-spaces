@@ -1,11 +1,9 @@
 {
-  "key": "curve",
   "name": "Curve",
   "chainId": 1,
   "decimals": 18,
   "symbol": "veCRV",
   "defaultView": "core",
-  "address": "0x5f3b5DfEb7B28CDbD7FAba78963EE202a494e2A2",
   "token": "0x5f3b5DfEb7B28CDbD7FAba78963EE202a494e2A2",
   "core": [
     "0x7a16fF8270133F063aAb6C9977183D9e72835428",

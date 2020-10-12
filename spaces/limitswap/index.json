@@ -1,11 +1,9 @@
 {
-  "key": "limitswap",
   "name": "LimitSwap",
   "chainId": 1,
   "decimals": 18,
   "symbol": "LIMIT",
   "defaultView": "core",
-  "address": "0x1712aad2c773ee04bdc9114b32163c058321cd85",
   "token": "0x1712aad2c773ee04bdc9114b32163c058321cd85",
   "core": [
     "0xe0200B203ffFd1Bb31a79a10b0e558346e9934De",

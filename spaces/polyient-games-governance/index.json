@@ -1,11 +1,9 @@
 {
-  "key": "polyient-games-governance",
   "name": "Polyient Games Governance",
   "chainId": 1,
   "decimals": 18,
   "symbol": "PGT",
   "defaultView": "core",
-  "address": "0xeaccb6E0f24d66cF4Aa6cBDa33971b9231d332a1",
   "token": "0xeaccb6E0f24d66cF4Aa6cBDa33971b9231d332a1",
   "core": [
     "0x8c4B50788CE9BA8D4a481B06B5E19927c2aa41C6",

@@ -1,11 +1,9 @@
 {
-  "key": "equalizer",
   "name": "Equalizer",
   "chainId": 1,
   "decimals": 18,
   "symbol": "EQL",
   "defaultView": "core",
-  "address": "0x81428a8047cca11177a4e15789e368d6806da376",
   "token": "0x81428a8047cca11177a4e15789e368d6806da376",
   "core": [
     "0xBe4B98ABE5982AC6E453307c81CB47A316b78d89"

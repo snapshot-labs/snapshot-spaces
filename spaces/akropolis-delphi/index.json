@@ -1,11 +1,9 @@
 {
-  "key": "akropolis-delphi",
   "name": "Akropolis Delphi",
   "chainId": 1,
   "decimals": 18,
   "symbol": "govDelphi",
   "defaultView": "all",
-  "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
   "token": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
   "core": [
     "0xe23ec148d7969c58a468F7c6aA4757a365211E5a"

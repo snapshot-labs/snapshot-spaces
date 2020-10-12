@@ -1,11 +1,9 @@
 {
-  "key": "flamingo",
   "name": "Flamingo DAO",
   "chainId": 1,
   "decimals": 18,
   "symbol": "FLA-C",
   "defaultView": "all",
-  "address": "0x43310bd1c8f261ee7b9025662207ed95329aa193",
   "token": "0x43310bd1c8f261ee7b9025662207ed95329aa193",
   "core": [],
   "min": 1,

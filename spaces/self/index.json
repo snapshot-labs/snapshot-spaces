@@ -1,11 +1,9 @@
 {
-  "key": "self",
   "name": "Self Token",
   "chainId": 1,
   "decimals": 18,
   "symbol": "SELF",
   "defaultView": "core",
-  "address": "0x67ab11058ef23d0a19178f61a050d3c38f81ae21",
   "token": "0x67ab11058ef23d0a19178f61a050d3c38f81ae21",
   "core": [
     "0xb78abbb31871ff5a57950ada24fee878c266522d",

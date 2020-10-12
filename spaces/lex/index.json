@@ -1,11 +1,9 @@
 {
-  "key": "lex",
   "name": "LexDAO Engineering",
   "chainId": 1,
   "decimals": 18,
   "symbol": "LEX",
   "defaultView": "core",
-  "address": "0xA5C5C8Af327248c4c2dce810a3d3Cffb8C4F66ab",
   "token": "0xA5C5C8Af327248c4c2dce810a3d3Cffb8C4F66ab",
   "core": [],
   "min": 1,

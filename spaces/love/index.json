@@ -1,11 +1,9 @@
 {
-  "key": "love",
   "name": "Love",
   "chainId": 1,
   "decimals": 18,
   "symbol": "LOVE",
   "defaultView": "all",
-  "address": "0xa39adbe25c4564a5f68a6ab22a0554c440c53542",
   "token": "0xa39adbe25c4564a5f68a6ab22a0554c440c53542",
   "core": [
     "0xCae3773dbF6987f6E6b032FF0506FF2c6385CEE5"

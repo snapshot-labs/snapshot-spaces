@@ -1,11 +1,9 @@
 {
-  "key": "gmt",
   "name": "GoldMining Token",
   "chainId": 1,
   "decimals": 18,
   "symbol": "GMT",
   "defaultView": "core",
-  "address": "0xF5f8472045c9177B545Ea05fdA73848291a3f8B8",
   "token": "0xF5f8472045c9177B545Ea05fdA73848291a3f8B8",
   "core": [
     "0x557b4cd961844F9548EBc9534B84D66fED1df407",

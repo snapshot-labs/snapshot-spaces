@@ -1,11 +1,9 @@
 {
-  "key": "hubdao",
   "name": "HubDao",
   "chainId": 1,
   "decimals": 18,
   "symbol": "HD",
   "defaultView": "core",
-  "address": "0x6ce654ac973d326f89f0685e7459542641410ed9",
   "token": "0x6ce654ac973d326f89f0685e7459542641410ed9",
   "core": [
     "0x1a41310D0e7D943624e745fCBFA69cd3b958628D"

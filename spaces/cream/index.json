@@ -1,11 +1,9 @@
 {
-  "key": "cream",
   "name": "Cream Finance",
   "chainId": 1,
   "decimals": 18,
   "symbol": "CREAM",
   "defaultView": "all",
-  "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
   "token": "0x2ba592F78dB6436527729929AAf6c908497cB200",
   "core": [
     "0x3795897D5152977fA61da3D480421734a46f0491",

@@ -1,11 +1,9 @@
 {
-  "key": "percent",
   "symbol": "PCT QV",
   "name": "Percent",
   "chainId": 1,
   "decimals": 9,
   "defaultView": "core",
-  "address": "0x4128fe23Ef23194E00405603c937b19d3e30482C",
   "token": "0x4128fe23Ef23194E00405603c937b19d3e30482C",
   "core": [
     "0x4fB94CB25918Cbe62EC2ab80E3569492af59B8c3"
