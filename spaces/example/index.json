@@ -1,9 +1,9 @@
 {
-  "key": "example",
-  "name": "Example",
+  "key": "corex",
+  "name": "CoreX",
   "chainId": 1,
   "decimals": 18,
-  "symbol": "EXAMPLE",
+  "symbol": "CXF",
   "defaultView": "core",
   "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
   "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
