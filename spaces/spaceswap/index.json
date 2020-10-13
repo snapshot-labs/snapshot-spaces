@@ -1,0 +1,14 @@
+{
+  "name": "SpaceSwap",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "MILK2",
+  "defaultView": "core",
+  "token": "0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de",
+  "core": [
+    "0x72d49544D17e3C98B0f94D97eE851981279f3aa9"
+  ],
+  "min": 5000,
+  "invalid": [],
+  "skin": "spaceswap"
+}

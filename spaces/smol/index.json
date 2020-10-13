@@ -1,0 +1,12 @@
+{
+  "name": "smol",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "SMOL",
+  "defaultView": "all",
+  "token": "0x2216e873ea4282ebef7a02ac5aea220be6391a7c",
+  "core": [],
+  "min": 100,
+  "invalid": [],
+  "skin": "smol"
+}

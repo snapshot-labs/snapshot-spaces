@@ -1,11 +1,9 @@
 {
-  "key": "bobaswap",
   "name": "Bobaswap",
   "chainId": 1,
   "decimals": 18,
   "symbol": "BOBA",
   "defaultView": "all",
-  "address": "0xce9afaf5b0da6ce0366ab40435a48ccff65d2ed7",
   "token": "0xce9afaf5b0da6ce0366ab40435a48ccff65d2ed7",
   "core": [
     "0xDC1926b681838A684277767eE8b7597a3d29439b",

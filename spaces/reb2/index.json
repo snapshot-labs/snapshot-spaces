@@ -1,13 +1,11 @@
 {
-  "key": "reb2",
   "symbol": "REB2",
   "name": "Rebased v2",
   "chainId": 1,
   "decimals": 9,
   "defaultView": "all",
-  "address": "0x87F5F9eBE40786D49D35E1B5997b07cCAA8ADbFF",
   "token": "0x87F5F9eBE40786D49D35E1B5997b07cCAA8ADbFF",
   "core": [],
   "min": 1000,
   "invalid": []
-  }
+}
