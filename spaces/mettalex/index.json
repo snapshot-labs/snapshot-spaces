@@ -1,0 +1,15 @@
+{
+  "name": "Mettalex",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "MTLX",
+  "defaultView": "all",
+  "address": "0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14",
+  "token": "0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14",
+  "core": [],
+  "min": 5000,
+  "invalid": [
+    "0xa8E089b31667105233DC69360C6e73c998606f42"
+  ],
+  "skin": "mettalex"
+}
