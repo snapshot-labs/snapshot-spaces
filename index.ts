@@ -21,7 +21,7 @@ export default Object.fromEntries(
         [
           'erc20-balance-of',
           {
-            address: space.address,
+            address: space.token,
             decimals: space.decimals,
             symbol: space.symbol
           }
