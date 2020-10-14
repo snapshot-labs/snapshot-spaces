@@ -9,6 +9,11 @@
     "0xce73904422880604e78591fD6c758B0D5106dD50"
   ],
   "min": 100,
-  "invalid": [],
+  "invalid": [
+    "QmebhSMNjHhoCJGKBrZeC4Y5aLok1NybTXThG9JgEgJLtE",
+    "QmY6C3qaLBCEyrfi1XxvNGtsYH38VKdgyFGvv2zPXSA59n",
+    "Qmc9eKGWQDGkJXfxc3vbpPCHp1Z1CVTgn7Pby4X1FgU6Uk",
+    "Qmc1Pw8a8SHvg39uPG5WPet4WqHqRu9J38hGg4UsoKn4RA"
+  ],
   "skin": "tripscommunity"
 }
