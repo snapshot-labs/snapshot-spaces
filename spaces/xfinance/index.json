@@ -9,5 +9,6 @@
     "0xF104f1d4F71920334DC765aD2194B8F450567DF2"
   ],
   "min": 20,
-  "invalid": [xfi.scss]
+  "invalid": []
+  "skin": "xfi",
 }
