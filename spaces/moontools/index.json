@@ -1,0 +1,14 @@
+{
+  "name": "MoonTools.io",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "MOONS",
+  "defaultView": "core",
+  "token": "0x260e63d91fccc499606bae3fe945c4ed1cf56a56",
+  "core": [
+    "0x9be82c0E5B75C53F32E63b40442E9dA8cCA06f21"
+  ],
+  "min": 50000,
+  "invalid": [],
+  "skin": "moontools"
+}
