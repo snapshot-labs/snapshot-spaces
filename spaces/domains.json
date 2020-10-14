@@ -1,6 +1,7 @@
 {
   "yearn.snapshot.page": "yearn",
   "signal.aave.com": "aave",
+  "gov.xfinance.io": "xfinance",
   "pillar.snapshot.page": "pillar",
   "signal.pickle.finance": "pickle",
   "vote.airswap.io": "airswap",
@@ -9,7 +10,11 @@
   "signal.goldmining.farm": "gmt",
   "gov.aragon.org": "aragon",
   "oaklandvote.citydao.org": "oaklanddao",
-  "voting.trustwallet.com": "trustwallet",
+  "governance.trustwallet.com": "trustwallet",
   "voting.dfi.money": "dfi",
-  "vote.ykz.network": "yakuza"
+  "vote.ykz.network": "yakuza",
+  "vote.cream.finance": "cream",
+  "gov.exnt.io": "exnetwork",
+  "dao.thirm.com": "thirm",
+  "gov.synthetix.io": "synthetix"
 }

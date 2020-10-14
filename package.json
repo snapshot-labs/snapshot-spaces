@@ -4,6 +4,8 @@
   "repository": "bonustrack/snapshot-spaces",
   "license": "MIT",
   "files": [
-    "spaces"
+    "spaces",
+    "skins",
+    "index.ts"
   ]
 }

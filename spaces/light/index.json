@@ -1,0 +1,12 @@
+{
+    "name": "LIGHT",
+    "chainId": 1,
+    "decimals": 18,
+    "symbol": "LIGHT",
+    "skin": "light",
+    "defaultView": "all",
+    "token": "0x0dBB4b96a23Ea7943BB72a8F16cc2c248F372935",
+    "core": [],
+    "min": 1,
+    "invalid": []
+}

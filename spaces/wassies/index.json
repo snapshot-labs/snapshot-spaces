@@ -1,11 +1,9 @@
 {
-  "key": "wassies",
   "name": "Wassies",
   "chainId": 1,
   "decimals": 18,
   "symbol": "WASSIES",
   "defaultView": "all",
-  "address": "0x37875a0c44c926efa1af79352f0ddae07a597e58",
   "token": "0x37875a0c44c926efa1af79352f0ddae07a597e58",
   "core": [
     "0xB8C47b5a46721125D5F28F8D037e65954854CEc4"

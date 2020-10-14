@@ -1,11 +1,9 @@
 {
-  "key": "portion",
   "name": "Portion",
   "chainId": 1,
   "decimals": 18,
   "symbol": "PRT",
   "defaultView": "core",
-  "address": "0x6D0F5149c502faf215C89ab306ec3E50b15e2892",
   "token": "0x6D0F5149c502faf215C89ab306ec3E50b15e2892",
   "core": [
     "0x2f89c57d519308917Af6293a8516803Fbd895776"
