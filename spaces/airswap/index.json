@@ -5,10 +5,9 @@
   "symbol": "AST",
   "defaultView": "all",
   "token": "0x27054b13b1b798b345b591a4d22e6562d47ea75a",
-  "core": [
-    "0x1FF808E34E4DF60326a3fc4c2b0F80748A3D60c2"
-  ],
-  "min": 100,
+  "core": ["0x1FF808E34E4DF60326a3fc4c2b0F80748A3D60c2"],
+  "showOnlyCore": true,
+  "min": 0,
   "invalid": [],
   "skin": "airswap"
 }
