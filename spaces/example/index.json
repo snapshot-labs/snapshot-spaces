@@ -5,10 +5,10 @@
   "decimals": 18,
   "symbol": "CXF",
   "defaultView": "core",
-  "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-  "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "address": "0xaA0C90888Ce7433fB8D61188B7160D501A377527",
+  "token": "0xaA0C90888Ce7433fB8D61188B7160D501A377527",
   "core": [
-    "0xeF8305E140ac520225DAf050e2f71d5fBcC543e7"
+    "0x57af79BdFb4F86bc81b2860787dE2388738E266f"
   ],
   "min": 0,
   "invalid": [],
