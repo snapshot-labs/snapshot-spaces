@@ -1,11 +1,9 @@
 {
-  "key": "zeta",
   "name": "ZETA",
   "chainId": 1,
   "decimals": 18,
   "symbol": "ZETA",
   "defaultView": "core",
-  "address": "0x6226392cf37FA359Bfa58C9Cb3d66a5f96083eB6",
   "token": "0x6226392cf37FA359Bfa58C9Cb3d66a5f96083eB6",
   "core": [
     "0x17142514BBb117aa14B80e081eC4423770cCB464",
