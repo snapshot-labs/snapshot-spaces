@@ -1,11 +1,10 @@
 {
-  "key": "index",
   "name": "Index",
   "chainId": 1,
   "decimals": 18,
   "symbol": "INDEX",
+  "skin": "index",
   "defaultView": "all",
-  "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
   "token": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
   "core": [
     "0x1013f219e6629F91418136a691A9944E572dCbd5",
