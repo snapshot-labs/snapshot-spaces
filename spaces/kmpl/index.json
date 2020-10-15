@@ -1,0 +1,32 @@
+{
+  "name": "kMPL",
+  "chainId": 1,
+  "decimals": 9,
+  "symbol": "kMPL",
+  "defaultView": "all",
+  "token": "0xCCf24F117acce3C138310412da44EA6236dda056",
+  "core": [
+    "0x695375090C1E9ca67f1495528162f055eD7630c5"
+  ],
+  "min": 0,
+  "invalid": [],
+  "showOnlyCore": true,
+  "strategies": [
+    [
+      "erc20-balance-of",
+      {
+        "address": "0xCCf24F117acce3C138310412da44EA6236dda056",
+        "symbol": "kMPL",
+        "decimals": 9
+      }
+    ],
+    [
+      "erc20-balance-of",
+      {
+        "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+        "symbol": "AMPL/1000",
+        "decimals": 12
+      }
+    ]
+  ]
+}
