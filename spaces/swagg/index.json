@@ -1,0 +1,14 @@
+{
+  "name": "SWAGG™",
+  "chainId": 1,
+  "decimals": 4,
+  "symbol": "SWAGG",
+  "defaultView": "core",
+  "token": "0xa19A40FbD7375431fAB013a4B08F00871B9a2791",
+  "core": [
+    "0x662d5d79849113A5403Af776210307a7c82a5267"
+  ],
+  "min": 0,
+  "invalid": [],
+  "skin": "swagg"
+}
