@@ -9,5 +9,11 @@
   "min": 0,
   "invalid": [],
   "skin": "synthetix",
-  "strategies": [["synthetix"]]
+  "strategies": [
+    [
+      "synthetix", {
+        "symbol": "SNX"
+      }
+    ]
+  ]
 }
