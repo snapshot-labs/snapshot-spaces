@@ -10,6 +10,9 @@
     "0xF4c5acD9fDf8E6bCb285D60C4B083f8A02e7816a"
   ],
   "min": 100000,
-  "invalid": [],
+  "invalid": [
+    "QmYnwRRFPAMobxG82JeBKNKCTs267tkzebb7JGuH7HJkDP",
+    "QmQML6MUf5w5KLw7PeDQpioeLQYeZiSc7Ct4tEP1rqQtT6"
+  ],
   "skin": "trustwallet"
 }
