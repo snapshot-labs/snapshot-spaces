@@ -1,0 +1,11 @@
+{
+  "name": "Decentribe",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "DECENT",
+  "defaultView": "all",
+  "token": "0x900B1998A226CFE238Ba1a14F03eB934C513C20B",
+  "core": ["0x8CeF884A0458D92ccA1942D2df3C272022C6A69a"],
+  "min": 0,
+  "invalid": []
+}
