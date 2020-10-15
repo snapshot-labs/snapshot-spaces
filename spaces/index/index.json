@@ -12,15 +12,5 @@
     "0xDefb844D4529c0F61bb1ee6a0d889058D66BB962"
   ],
   "min": 0,
-  "invalid": [],
-  "strategies": [
-    [
-      "erc20-balance-of",
-      {
-        "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
-        "symbol": "INDEX",
-        "decimals": 18
-      }
-    ]
-  ]
+  "invalid": []
 }
