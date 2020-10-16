@@ -9,5 +9,8 @@
   "token": "0x9B44Df3318972bE845d83f961735609137C4C23c",
   "core": [],
   "min": 0,
-  "invalid": []
+  "invalid": [
+    "Qmbskzogi2H2edVos93jfMGg8EidThridBNJZxBazovBPB",
+    "QmWRdftt8JjTXrFARxqoiWhBcysyBZkwgD8xz3YDWC9hLB"
+  ]
 }
