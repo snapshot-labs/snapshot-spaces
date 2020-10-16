@@ -1,12 +1,12 @@
 {
-  "name": "kMPL",
+  "name": "AmpleSense",
   "chainId": 1,
   "decimals": 9,
   "symbol": "kMPL",
   "defaultView": "all",
   "token": "0xCCf24F117acce3C138310412da44EA6236dda056",
   "core": [
-    "0x695375090C1E9ca67f1495528162f055eD7630c5"
+    "0x9926e27C1e9e41071C378fFCFFe44C9471F0B752"
   ],
   "min": 0,
   "invalid": [],
