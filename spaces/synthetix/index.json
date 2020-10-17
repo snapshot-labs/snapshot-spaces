@@ -8,5 +8,12 @@
   "core": [],
   "min": 0,
   "invalid": [],
-  "skin": "synthetix"
+  "skin": "synthetix",
+  "strategies": [
+    [
+      "synthetix", {
+        "symbol": "SNX (WV)"
+      }
+    ]
+  ]
 }
