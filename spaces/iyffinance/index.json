@@ -1,0 +1,12 @@
+{
+  "name": "iyf.finance",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "IYF",
+  "defaultView": "core",
+  "token": "0x5d762f76b9e91f71cc4f94391bdfe6333db8519c",
+  "core": [],
+  "min": 10,
+  "invalid": [],
+  "skin": "iyffinance"
+}
