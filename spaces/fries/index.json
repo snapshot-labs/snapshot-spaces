@@ -1,0 +1,13 @@
+{
+  "symbol": "fry.world",
+  "name": "fry.KetchupVOTE",
+  "chainId": 56,
+  "decimals": 18,
+  "defaultView": "core",
+  "token": "0x44E0dDBc407aaA0dd9F99d59605f14D84F663419",
+  "core": [
+    "0x7237536c3B5a4f89b6339Df86dFe8Cd367CCd84f"
+  ],
+  "min": 10000,
+  "skin": "fries"
+}

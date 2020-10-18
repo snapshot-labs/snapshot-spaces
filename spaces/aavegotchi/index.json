@@ -1,0 +1,12 @@
+{
+  "name": "Aavegotchi",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "GHST",
+  "defaultView": "all",
+  "token": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+  "core": [],
+  "min": 0,
+  "invalid": [],
+  "skin": "aavegotchi"
+}

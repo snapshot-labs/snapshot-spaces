@@ -1,0 +1,12 @@
+{
+  "name": "dForce",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "DF",
+  "defaultView": "core",
+  "token": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
+  "core": [],
+  "min": 1,
+  "invalid": [],
+  "skin": "dforce"
+}

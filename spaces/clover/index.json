@@ -1,0 +1,12 @@
+{
+  "name": "Clover",
+  "chainId": 1,
+  "decimals": 6,
+  "symbol": "CLV",
+  "defaultView": "all",
+  "token": "0x22222C03318440305aC3e8a7820563d6A9FD777F",
+  "core": [
+  ],
+  "min": 22,
+  "invalid": []
+}

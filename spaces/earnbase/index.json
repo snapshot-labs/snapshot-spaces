@@ -1,0 +1,13 @@
+{
+  "name": "Earnbase",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "ENB",
+  "defaultView": "core",
+  "token": "0xa6FB1DF483b24EEAB569e19447E0e107003B9E15",
+  "core": [
+    "0xC2ce2bedDE7Fba4B40971A91AC0abb481E22Db11"
+  ],
+  "min": 100,
+  "invalid": []
+}
