@@ -7,10 +7,4 @@
   --border-color: #353d45;
   --header-bg: #1C272D;
   --block-bg: transparent;
-
-  #topnav {
-    border-bottom: 4px solid black !important;
-    border-image-slice: 1;
-    border-image-source:  linear-gradient(90deg, rgba(82,157,173,1) 0%, rgba(96,192,147,1) 100%);
-  }
 }
