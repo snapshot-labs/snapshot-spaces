@@ -1,11 +1,19 @@
 {
-  "name": "Compound Uniswap",
-  "chainId": 1,
-  "decimals": 8,
-  "symbol": "cUNI",
-  "defaultView": "core",
   "token": "0x35A18000230DA775CAc24873d00Ff85BccdeD550",
-  "core": [
+  "name": "Compound Uniswap",
+  "network": "1",
+  "symbol": "cUNI",
+  "skin": "cuni",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x35A18000230DA775CAc24873d00Ff85BccdeD550",
+        "symbol": "cUNI"
+      }
+    }
+  ],
+  "members": [
     "0xac5720d6ee2d7872b88914c9c5fa9bf38e72faf6",
     "0x54a37d93e57c5da659f508069cf65a381b61e189",
     "0x8169522c2c57883e8ef80c498aab7820da539806",
@@ -13,7 +21,8 @@
     "0x2b384212edc04ae8bb41738d05ba20e33277bf33",
     "0xc3aae58ab81663872dd36d73613eb295b167f546"
   ],
-  "min": 20,
-  "invalid": [],
-  "skin": "cuni"
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 20
+  }
 }

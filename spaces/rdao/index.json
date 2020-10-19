@@ -1,13 +1,22 @@
 {
-  "name": "Revelation",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "RDAO",
-  "defaultView": "core",
   "token": "0x244bD173a540B5FCEa524E173b3FB6841C20Ab24",
-  "core": [
+  "name": "Revelation",
+  "network": "1",
+  "symbol": "RDAO",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x244bD173a540B5FCEa524E173b3FB6841C20Ab24",
+        "symbol": "RDAO"
+      }
+    }
+  ],
+  "members": [
     "0xE4EeEb39039da82d5A392E925daadA76F17Dad26"
   ],
-  "min": 0,
-  "invalid": []
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
 }

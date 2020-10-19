@@ -1,14 +1,23 @@
 {
-  "name": "Example",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "EXAMPLE",
-  "defaultView": "core",
   "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-  "core": [
+  "name": "Example",
+  "network": "1",
+  "symbol": "EXAMPLE",
+  "skin": "example",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "symbol": "EXAMPLE"
+      }
+    }
+  ],
+  "members": [
     "0xeF8305E140ac520225DAf050e2f71d5fBcC543e7"
   ],
-  "min": 0,
-  "invalid": [],
-  "skin": "example"
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
 }

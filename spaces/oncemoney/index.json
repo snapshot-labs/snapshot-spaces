@@ -1,13 +1,22 @@
 {
-  "name": "Oncedevgov",
-  "chainId": 1,
-  "decimals": 0,
-  "symbol": "ONCEDEVGOV",
-  "defaultView": "all",
   "token": "0x96c6e9056db6130f658231316ca561c42bd47c30",
-  "core": [
+  "name": "Oncedevgov",
+  "network": "1",
+  "symbol": "ONCEDEVGOV",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x96c6e9056db6130f658231316ca561c42bd47c30",
+        "symbol": "ONCEDEVGOV"
+      }
+    }
+  ],
+  "members": [
     "0x69FA62bcE617B68465A35Aa35A4D720cE26425a4"
   ],
-  "min": 1,
-  "invalid": []
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1
+  }
 }

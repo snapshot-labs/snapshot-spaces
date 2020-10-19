@@ -1,11 +1,19 @@
 {
-  "name": "LexDAO",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "MYSTIC",
-  "defaultView": "all",
   "token": "0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d",
-  "core": [],
-  "min": 1000,
-  "invalid": []
+  "name": "LexDAO",
+  "network": "1",
+  "symbol": "MYSTIC",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d",
+        "symbol": "MYSTIC"
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1000
+  }
 }

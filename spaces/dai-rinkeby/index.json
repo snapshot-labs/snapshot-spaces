@@ -1,18 +1,19 @@
 {
-  "name": "Dai Rinkeby",
-  "chainId": 4,
-  "decimals": 18,
-  "symbol": "DAI",
-  "defaultView": "all",
   "token": "0x0527E400502d0CB4f214dd0D2F2a323fc88Ff924",
-  "core": [],
-  "min": 0,
-  "invalid": [],
-  "plugins": {
-    "aragon": {
-      "agentAddress": "0x1faab98418763b7b6a6634e8e3865bfdd15bd8ce",
-      "disputableDelayAddress": "0xb3afa4e5f05bf656133fe198f1a43f9ec085983d",
-      "daoAddress": "0x73e57bDBB9b154f2fddbFe302B8c4d8B318179bE"
+  "name": "Dai Rinkeby",
+  "network": "4",
+  "symbol": "DAI",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x0527E400502d0CB4f214dd0D2F2a323fc88Ff924",
+        "symbol": "DAI"
+      }
     }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
   }
 }

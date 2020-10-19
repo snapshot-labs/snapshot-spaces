@@ -1,11 +1,18 @@
 {
-  "name": "Rally",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "RLY",
-  "defaultView": "core",
   "token": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
-  "core": [
+  "name": "Rally",
+  "network": "1",
+  "symbol": "RLY",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
+        "symbol": "RLY"
+      }
+    }
+  ],
+  "members": [
     "0x893D2E776F21143354123241bC1DC237C47BC3fC",
     "0xf4d40931B642af450a3EDDA27BE9B467b40b89dA",
     "0xBbD378951fB947eef963C096F46d04420F97905B",
@@ -16,6 +23,8 @@
     "0x215dD4BEE1a6ef22eA4d054E5229e8d02876f18f",
     "0xfE3Ea7F424b3CDfE2a3CfECcEBC8f4114c955858"
   ],
-  "min": 1000,
-  "invalid": []
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 1000
+  }
 }

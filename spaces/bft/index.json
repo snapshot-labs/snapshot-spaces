@@ -1,13 +1,22 @@
 {
-  "name": "BFT Finance",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "BFT",
-  "defaultView": "all",
   "token": "0x1ec128C3D3F256Cad161cf7A3F148f47F03f1D36",
-  "core": [
+  "name": "BFT Finance",
+  "network": "1",
+  "symbol": "BFT",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x1ec128C3D3F256Cad161cf7A3F148f47F03f1D36",
+        "symbol": "BFT"
+      }
+    }
+  ],
+  "members": [
     "0x7eB2a7f798b01E9BCc1C158140b8c8E036205233"
   ],
-  "min": 10000,
-  "invalid": []
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 10000
+  }
 }

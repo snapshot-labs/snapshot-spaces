@@ -1,12 +1,20 @@
 {
-  "symbol": "XPZ",
-  "name": "Esprezzo",
-  "chainId": 667,
-  "decimals": 18,
-  "defaultView": "core",
   "token": "0x8B4684aFa6CaBa9837F998AdDC16DF02b391C764",
-  "core": [],
-  "min": 100000,
-  "invalid": [],
-  "skin": "esprezzo"
+  "name": "Esprezzo",
+  "network": "667",
+  "symbol": "XPZ",
+  "skin": "esprezzo",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x8B4684aFa6CaBa9837F998AdDC16DF02b391C764",
+        "symbol": "XPZ"
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 100000
+  }
 }

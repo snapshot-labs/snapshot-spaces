@@ -1,13 +1,22 @@
 {
-  "name": "AmpleGold",
-  "chainId": 1,
-  "decimals": 9,
-  "symbol": "AMPLG",
-  "defaultView": "all",
   "token": "0x8003c49f6ebacddc493ea47cab45e892d1b638a1",
-  "core": [
+  "name": "AmpleGold",
+  "network": "1",
+  "symbol": "AMPLG",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x8003c49f6ebacddc493ea47cab45e892d1b638a1",
+        "symbol": "AMPLG"
+      }
+    }
+  ],
+  "members": [
     "0xF112F4452E8Dc33C5574B13C939383A0aB8aa583"
   ],
-  "min": 50,
-  "invalid": []
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 50
+  }
 }

@@ -1,11 +1,19 @@
 {
-  "name": "yAxis",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "YAX",
-  "defaultView": "core",
   "token": "0xb1dC9124c395c1e97773ab855d66E879f053A289",
-  "core": [
+  "name": "yAxis",
+  "network": "1",
+  "symbol": "YAX",
+  "skin": "yaxis",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xb1dC9124c395c1e97773ab855d66E879f053A289",
+        "symbol": "YAX"
+      }
+    }
+  ],
+  "members": [
     "0x5661bF295f48F499A70857E8A6450066a8D16400",
     "0x26d9E5f37f3232ec8747803990fFC42BC17aC9bd",
     "0x7e4B6E2B6732F2889b1f1Ee7A8E7e42eAcF6a6e2",
@@ -14,7 +22,8 @@
     "0xbE84E63118fD55DE42236a68721845C8bc075076",
     "0xd9c66fc2b01Bb6d72e8884d2AA1e2DDA2995ecD6"
   ],
-  "min": 100,
-  "invalid": [],
-  "skin": "yaxis"
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 100
+  }
 }

@@ -1,14 +1,24 @@
 {
-  "name": "Love",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "LOVE",
-  "defaultView": "all",
   "token": "0xa39adbe25c4564a5f68a6ab22a0554c440c53542",
-  "core": [
+  "name": "Love",
+  "network": "1",
+  "symbol": "LOVE",
+  "skin": "love",
+  "domain": "signal.osho.finance",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xa39adbe25c4564a5f68a6ab22a0554c440c53542",
+        "symbol": "LOVE"
+      }
+    }
+  ],
+  "members": [
     "0xCae3773dbF6987f6E6b032FF0506FF2c6385CEE5"
   ],
-  "min": 1,
-  "invalid": [],
-  "skin": "love"
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1
+  }
 }

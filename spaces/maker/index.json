@@ -1,29 +1,28 @@
 {
-  "name": "MakerDAO",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "MKR",
-  "defaultView": "all",
   "token": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
-  "core": [],
-  "min": 0,
-  "invalid": [],
+  "name": "MakerDAO",
+  "network": "1",
+  "symbol": "MKR",
+  "skin": "maker",
   "strategies": [
-    [
-      "erc20-balance-of",
-      {
+    {
+      "name": "erc20-balance-of",
+      "params": {
         "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
         "symbol": "MKR",
         "decimals": 18
       }
-    ],
-    [
-      "maker-ds-chief",
-      {
+    },
+    {
+      "name": "maker-ds-chief",
+      "params": {
         "symbol": "MKR DSChief",
         "decimals": 18
       }
-    ]
+    }
   ],
-  "skin": "maker"
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
 }

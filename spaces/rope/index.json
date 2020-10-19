@@ -1,11 +1,19 @@
 {
-  "name": "ROPETHEVOTE",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "$ROPE",
-  "defaultView": "core",
   "token": "0xa5080230d752915F157FABe058d5E37c62947DEB",
-  "core": [
+  "name": "ROPETHEVOTE",
+  "network": "1",
+  "symbol": "$ROPE",
+  "skin": "rope",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xa5080230d752915F157FABe058d5E37c62947DEB",
+        "symbol": "$ROPE"
+      }
+    }
+  ],
+  "members": [
     "0xAD16ebE6FfC7d96624A380F394cD64395B0C6144",
     "0xC340B7A2A70d7e08F25435CB97F3B25A45002e6C",
     "0xc391791Ecbb9B8CcCc9E708Fc847E941AF8025B2",
@@ -16,7 +24,8 @@
     "0xb92baB1C17435fd129CF3879740FbD2D92b08fB3",
     "0xa75458342eF5965Fe48028d48945a85fea7B89da"
   ],
-  "min": 74.6,
-  "invalid": [],
-  "skin": "rope"
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 74.6
+  }
 }

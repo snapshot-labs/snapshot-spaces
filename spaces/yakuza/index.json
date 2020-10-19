@@ -1,16 +1,27 @@
 {
-  "name": "Yakuza",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "YKZ",
-  "defaultView": "all",
   "token": "0x87047986e8e4961c11d2edcd94285e3a1331d97b",
-  "core": [
+  "name": "Yakuza",
+  "network": "1",
+  "symbol": "YKZ",
+  "skin": "yakuza",
+  "domain": "vote.ykz.network",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x87047986e8e4961c11d2edcd94285e3a1331d97b",
+        "symbol": "YKZ"
+      }
+    }
+  ],
+  "members": [
     "0x69eF61AFc3AA356e1ac97347119d75cBdAbEF534"
   ],
-  "min": 1,
-  "invalid": [
-    "QmdxrApBvuX55gZ8YXhMWycBurRZmK7erWvZeenusuSnAF"
-  ],
-  "skin": "yakuza"
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1,
+    "invalids": [
+      "QmdxrApBvuX55gZ8YXhMWycBurRZmK7erWvZeenusuSnAF"
+    ]
+  }
 }

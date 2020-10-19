@@ -1,12 +1,20 @@
 {
-  "name": "Panvala Pan",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "PAN",
-  "defaultView": "all",
   "token": "0xd56dac73a4d6766464b38ec6d91eb45ce7457c44",
-  "core": [],
-  "min": 0,
-  "invalid": [],
-  "skin": "giveth"
+  "name": "Panvala Pan",
+  "network": "1",
+  "symbol": "PAN",
+  "skin": "giveth",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xd56dac73a4d6766464b38ec6d91eb45ce7457c44",
+        "symbol": "PAN"
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
 }

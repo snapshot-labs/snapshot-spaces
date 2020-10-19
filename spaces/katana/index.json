@@ -1,13 +1,22 @@
 {
-  "symbol": "KATANA",
-  "name": "KATANA.FINANCE",
-  "chainId": 1,
-  "decimals": 18,
-  "defaultView": "All",
   "token": "0xe6410569602124506658ff992f258616ea2d4a3d",
-  "core": [
+  "name": "KATANA.FINANCE",
+  "network": "1",
+  "symbol": "KATANA",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xe6410569602124506658ff992f258616ea2d4a3d",
+        "symbol": "KATANA"
+      }
+    }
+  ],
+  "members": [
     "0x43BAb6d115324aCD2755E10910367aBE38174f58"
   ],
-  "min": 1000,
-  "invalid": []
+  "filters": {
+    "defaultTab": "All",
+    "minScore": 1000
+  }
 }

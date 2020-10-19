@@ -1,12 +1,20 @@
 {
-  "name": "Aavegotchi",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "GHST",
-  "defaultView": "all",
   "token": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
-  "core": [],
-  "min": 0,
-  "invalid": [],
-  "skin": "aavegotchi"
+  "name": "Aavegotchi",
+  "network": "1",
+  "symbol": "GHST",
+  "skin": "aavegotchi",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+        "symbol": "GHST"
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
 }

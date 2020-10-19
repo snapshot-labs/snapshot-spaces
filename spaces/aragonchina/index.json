@@ -1,12 +1,20 @@
 {
-  "name": "Aragon China",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "ANC",
-  "defaultView": "all",
   "token": "0xbbe319b73744db9d54f5d29df7d8256b7e43995c",
-  "core": [],
-  "min": 0,
-  "invalid": [],
-  "skin": "aragonchina"
+  "name": "Aragon China",
+  "network": "1",
+  "symbol": "ANC",
+  "skin": "aragonchina",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xbbe319b73744db9d54f5d29df7d8256b7e43995c",
+        "symbol": "ANC"
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
 }

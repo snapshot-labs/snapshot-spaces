@@ -1,14 +1,23 @@
 {
-  "name": "chadsvc",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "CHADS",
-  "defaultView": "all",
   "token": "0x69692D3345010a207b759a7D1af6fc7F38b35c5E",
-  "core": [
+  "name": "chadsvc",
+  "network": "1",
+  "symbol": "CHADS",
+  "skin": "chadsvc",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x69692D3345010a207b759a7D1af6fc7F38b35c5E",
+        "symbol": "CHADS"
+      }
+    }
+  ],
+  "members": [
     "0x8aEf57fe9d16BE8F24df37ab56da6eC18f7e9a08"
   ],
-  "min": 0,
-  "invalid": [],
-  "skin": "chadsvc"
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
 }

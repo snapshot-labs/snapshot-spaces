@@ -1,11 +1,28 @@
 {
-  "name": "Balancer",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "BAL",
-  "defaultView": "core",
   "token": "0xba100000625a3754423978a60c9317c58a424e3D",
-  "core": [
+  "name": "Balancer",
+  "network": "1",
+  "symbol": "BAL",
+  "skin": "balancer",
+  "domain": "vote.balancer.finance",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+        "symbol": "BAL",
+        "decimals": 18
+      }
+    },
+    {
+      "name": "balancer",
+      "params": {
+        "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+        "symbol": "BAL BPT"
+      }
+    }
+  ],
+  "members": [
     "0x24A12Fa313F57aF541d447c594072A992c605DCf",
     "0x8BBE4Ac64246d600BC2889ef5d83809D138F03DF",
     "0xeF8305E140ac520225DAf050e2f71d5fBcC543e7",
@@ -14,25 +31,9 @@
     "0x40FDAa1bff3BB87bC70955Be6657edBFdBeb122e",
     "0xcc6A949DB9b26a7173648d50Cf7C55e800E6585B"
   ],
-  "min": 1,
-  "invalid": [],
-  "showOnlyCore": true,
-  "strategies": [
-    [
-      "erc20-balance-of",
-      {
-        "address": "0xba100000625a3754423978a60c9317c58a424e3D",
-        "symbol": "BAL",
-        "decimals": 18
-      }
-    ],
-    [
-      "balancer",
-      {
-        "address": "0xba100000625a3754423978a60c9317c58a424e3D",
-        "symbol": "BAL BPT"
-      }
-    ]
-  ],
-  "skin": "balancer"
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 1,
+    "onlyMembers": true
+  }
 }

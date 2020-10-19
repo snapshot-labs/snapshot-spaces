@@ -1,11 +1,19 @@
 {
-  "name": "CoreVault",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "CORE",
-  "defaultView": "all",
   "token": "0x62359ed7505efc61ff1d56fef82158ccaffa23d7",
-  "core": [],
-  "min": 0,
-  "invalid": []
+  "name": "CoreVault",
+  "network": "1",
+  "symbol": "CORE",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x62359ed7505efc61ff1d56fef82158ccaffa23d7",
+        "symbol": "CORE"
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
 }
