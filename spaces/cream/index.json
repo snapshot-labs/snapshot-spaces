@@ -1,11 +1,19 @@
 {
-  "name": "Cream Finance",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "CREAM",
-  "defaultView": "all",
   "token": "0x2ba592F78dB6436527729929AAf6c908497cB200",
-  "core": [
+  "name": "Cream Finance",
+  "network": "1",
+  "symbol": "CREAM",
+  "domain": "vote.cream.finance",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
+        "symbol": "CREAM"
+      }
+    }
+  ],
+  "members": [
     "0x3795897D5152977fA61da3D480421734a46f0491",
     "0xC85170886A7F34e1365E2aA04486ae8F1106F783",
     "0xb2c43455ee556dEa95c0599B0d3F7D0aBBf32FDB",
@@ -19,6 +27,11 @@
     "0xc9e3eB04AAE820a1AA77789e699E7c433F75e216",
     "0xD466C878A504CDc2c711016ebb847Ba10260ef54"
   ],
-  "min": 10,
-  "invalid": ["QmRDcS4jFf7HsXFVcc98ef67fSDDgqh8C79mt7qvnUNyJ3"]
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 10,
+    "invalids": [
+      "QmRDcS4jFf7HsXFVcc98ef67fSDDgqh8C79mt7qvnUNyJ3"
+    ]
+  }
 }

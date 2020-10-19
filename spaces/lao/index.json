@@ -1,12 +1,20 @@
 {
-  "name": "LAO Community",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "LAO-C",
-  "defaultView": "all",
   "token": "0x8Ffb89D50eB0b9788f40123Cb3B8b8a84Edb4202",
-  "core": [],
-  "min": 1,
-  "invalid": [],
-  "skin": "lao"
+  "name": "LAO Community",
+  "network": "1",
+  "symbol": "LAO-C",
+  "skin": "lao",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x8Ffb89D50eB0b9788f40123Cb3B8b8a84Edb4202",
+        "symbol": "LAO-C"
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1
+  }
 }

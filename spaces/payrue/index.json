@@ -1,11 +1,19 @@
 {
-  "name": "PayRue",
-  "chainId": 56,
-  "decimals": 18,
-  "symbol": "Propel",
-  "defaultView": "all",
   "token": "0x9B44Df3318972bE845d83f961735609137C4C23c",
-  "core": [],
-  "min": 0,
-  "invalid": []
+  "name": "PayRue",
+  "network": "56",
+  "symbol": "Propel",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x9B44Df3318972bE845d83f961735609137C4C23c",
+        "symbol": "Propel"
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
 }

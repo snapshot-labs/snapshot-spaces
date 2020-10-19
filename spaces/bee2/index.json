@@ -1,14 +1,23 @@
 {
-  "name": "Bee2 Finance",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "BEE2",
-  "defaultView": "core",
   "token": "0xcD4292701995F4707AE63fb1a48d80dB2c5F04D4",
-  "core": [
+  "name": "Bee2 Finance",
+  "network": "1",
+  "symbol": "BEE2",
+  "skin": "bee2",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xcD4292701995F4707AE63fb1a48d80dB2c5F04D4",
+        "symbol": "BEE2"
+      }
+    }
+  ],
+  "members": [
     "0x0d8E708F9CfF2634169D7c221CF6bfA0C5731d63"
   ],
-  "min": 1,
-  "invalid": [],
-  "skin": "bee2"
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 1
+  }
 }

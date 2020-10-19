@@ -1,13 +1,22 @@
 {
-  "name": "bZx",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "BZRX",
-  "defaultView": "core",
   "token": "0x56d811088235F11C8920698a204A5010a788f4b3",
-  "core": [
+  "name": "bZx",
+  "network": "1",
+  "symbol": "BZRX",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
+        "symbol": "BZRX"
+      }
+    }
+  ],
+  "members": [
     "0xB7F72028D9b502Dc871C444363a7aC5A52546608"
   ],
-  "min": 100,
-  "invalid": []
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 100
+  }
 }

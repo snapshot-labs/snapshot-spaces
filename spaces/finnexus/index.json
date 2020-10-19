@@ -1,13 +1,22 @@
 {
-  "name": "FinNexus",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "FNX",
-  "defaultView": "core",
   "token": "0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
-  "core": [
+  "name": "FinNexus",
+  "network": "1",
+  "symbol": "FNX",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
+        "symbol": "FNX"
+      }
+    }
+  ],
+  "members": [
     "0x987cb6599E55DAb551335e0D4F733BDEb3Abe6aB"
   ],
-  "min": 0,
-  "invalid": []
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
 }

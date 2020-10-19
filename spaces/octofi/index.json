@@ -1,12 +1,20 @@
 {
-  "name": "OctoFi",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "OCTO",
-  "defaultView": "all",
   "token": "0x7240ac91f01233baaf8b064248e80feaa5912ba3",
-  "core": [],
-  "min": 0,
-  "invalid": [],
-  "skin": "octofi"
+  "name": "OctoFi",
+  "network": "1",
+  "symbol": "OCTO",
+  "skin": "octofi",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x7240ac91f01233baaf8b064248e80feaa5912ba3",
+        "symbol": "OCTO"
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
 }

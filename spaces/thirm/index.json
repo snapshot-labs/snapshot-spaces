@@ -1,14 +1,24 @@
 {
-  "name": "Thirm",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "THIRM",
-  "defaultView": "all",
   "token": "0xb526fd41360c98929006f3bdcbd16d55de4b0069",
-  "core": [
+  "name": "Thirm",
+  "network": "1",
+  "symbol": "THIRM",
+  "skin": "thirm",
+  "domain": "dao.thirm.com",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xb526fd41360c98929006f3bdcbd16d55de4b0069",
+        "symbol": "THIRM"
+      }
+    }
+  ],
+  "members": [
     "0xa34ef48b73870fa2aca1558239576ccbc60ad542"
   ],
-  "min": 1,
-  "invalid": [],
-  "skin": "thirm"
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1
+  }
 }

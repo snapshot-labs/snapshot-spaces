@@ -1,12 +1,19 @@
 {
-  "name": "Clover",
-  "chainId": 1,
-  "decimals": 6,
-  "symbol": "CLV",
-  "defaultView": "all",
   "token": "0x22222C03318440305aC3e8a7820563d6A9FD777F",
-  "core": [
+  "name": "Clover",
+  "network": "1",
+  "symbol": "CLV",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x22222C03318440305aC3e8a7820563d6A9FD777F",
+        "symbol": "CLV"
+      }
+    }
   ],
-  "min": 22,
-  "invalid": []
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 22
+  }
 }

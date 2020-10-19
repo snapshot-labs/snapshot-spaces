@@ -1,14 +1,23 @@
 {
-  "symbol": "GFIN",
-  "name": "Griffin",
-  "chainId": 1,
-  "decimals": 18,
-  "defaultView": "core",
   "token": "0x21E19121e1360e09AA1F810280c97A87b85d1069",
-  "core": [
+  "name": "Griffin",
+  "network": "1",
+  "symbol": "GFIN",
+  "skin": "griffin",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x21E19121e1360e09AA1F810280c97A87b85d1069",
+        "symbol": "GFIN"
+      }
+    }
+  ],
+  "members": [
     "0x420A7e31d1177F4f7e0ae9d5e45101D5785F4d21"
   ],
-  "min": 0,
-  "invalid": [],
-  "skin": "griffin"
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
 }

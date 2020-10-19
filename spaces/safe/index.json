@@ -1,14 +1,23 @@
 {
-  "name": "SAFE",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "SAFE",
-  "defaultView": "core",
   "token": "0x1Aa61c196E76805fcBe394eA00e4fFCEd24FC469",
-  "core": [
+  "name": "SAFE",
+  "network": "1",
+  "symbol": "SAFE",
+  "skin": "safe",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x1Aa61c196E76805fcBe394eA00e4fFCEd24FC469",
+        "symbol": "SAFE"
+      }
+    }
+  ],
+  "members": [
     "0x2f80E5163A7A774038753593010173322eA6f9fe"
   ],
-  "min": 0,
-  "invalid": [],
-  "skin": "safe"
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
 }

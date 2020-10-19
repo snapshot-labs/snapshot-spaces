@@ -1,12 +1,20 @@
 {
-  "name": "Boosted Finance",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "BOOST",
-  "defaultView": "all",
   "token": "0x3e780920601D61cEdb860fe9c4a90c9EA6A35E78",
-  "core": [],
-  "min": 0,
-  "invalid": [],
-  "skin": "boosted-finance"
+  "name": "Boosted Finance",
+  "network": "1",
+  "symbol": "BOOST",
+  "skin": "boosted-finance",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x3e780920601D61cEdb860fe9c4a90c9EA6A35E78",
+        "symbol": "BOOST"
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
 }

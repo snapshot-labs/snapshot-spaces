@@ -1,14 +1,23 @@
 {
-  "symbol": "YFFS",
-  "name": "YFFS.FINANCE",
-  "chainId": 1,
-  "decimals": 18,
-  "defaultView": "core",
   "token": "0x90D702f071d2af33032943137AD0aB4280705817",
-  "core": [
+  "name": "YFFS.FINANCE",
+  "network": "1",
+  "symbol": "YFFS",
+  "skin": "yffs",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x90D702f071d2af33032943137AD0aB4280705817",
+        "symbol": "YFFS"
+      }
+    }
+  ],
+  "members": [
     "0x489B689850999F751760a38d03693Bd979C4A690"
   ],
-  "min": 0,
-  "invalid": [],
-  "skin": "yffs"
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
 }

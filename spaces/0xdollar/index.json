@@ -1,13 +1,22 @@
 {
-  "name": "0xDollar.Finance",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "0xDollar",
-  "defaultView": "core",
   "token": "0x34870322f473830d28d28bef7f1d4178edf832d8",
-  "core": [
+  "name": "0xDollar.Finance",
+  "network": "1",
+  "symbol": "0xDollar",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x34870322f473830d28d28bef7f1d4178edf832d8",
+        "symbol": "0xDollar"
+      }
+    }
+  ],
+  "members": [
     "0xaE0091bD0689c32c38e062C6956c2240eC658bE4"
   ],
-  "min": 0,
-  "invalid": []
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
 }

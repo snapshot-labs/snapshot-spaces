@@ -1,12 +1,20 @@
 {
-  "name": "Aragon Network Moloch DAO",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "ANJMOL",
-  "defaultView": "all",
   "token": "0xBa1A22228B091D2bC6E111df61Ae6f7e5102Da1a",
-  "core": [],
-  "min": 1,
-  "invalid": [],
-  "skin": "anjmol"
+  "name": "Aragon Network Moloch DAO",
+  "network": "1",
+  "symbol": "ANJMOL",
+  "skin": "anjmol",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xBa1A22228B091D2bC6E111df61Ae6f7e5102Da1a",
+        "symbol": "ANJMOL"
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1
+  }
 }

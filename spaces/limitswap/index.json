@@ -1,15 +1,24 @@
 {
-  "name": "LimitSwap",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "LIMIT",
-  "defaultView": "core",
   "token": "0x1712aad2c773ee04bdc9114b32163c058321cd85",
-  "core": [
+  "name": "LimitSwap",
+  "network": "1",
+  "symbol": "LIMIT",
+  "skin": "limitswap",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x1712aad2c773ee04bdc9114b32163c058321cd85",
+        "symbol": "LIMIT"
+      }
+    }
+  ],
+  "members": [
     "0xe0200B203ffFd1Bb31a79a10b0e558346e9934De",
     "0x261377cfB52E6FD3048B0aB991D991EE43eF2d4A"
   ],
-  "min": 10,
-  "invalid": [],
-  "skin": "limitswap"
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 10
+  }
 }

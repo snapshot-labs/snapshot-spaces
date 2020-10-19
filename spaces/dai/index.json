@@ -1,21 +1,20 @@
 {
-  "name": "Dai",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "DAI",
-  "defaultView": "all",
   "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-  "core": [],
-  "min": 0,
-  "invalid": [],
+  "name": "Dai",
+  "network": "1",
+  "symbol": "DAI",
   "strategies": [
-    [
-      "erc20-balance-of-cv",
-      {
+    {
+      "name": "erc20-balance-of-cv",
+      "params": {
         "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
         "symbol": "DAI CV",
         "decimals": 18
       }
-    ]
-  ]
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
 }

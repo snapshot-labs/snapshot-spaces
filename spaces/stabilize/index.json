@@ -1,13 +1,22 @@
 {
-  "name": "Stabilize",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "STBZ",
-  "defaultView": "core",
   "token": "0xB987D48Ed8f2C468D52D6405624EADBa5e76d723",
-  "core": [
+  "name": "Stabilize",
+  "network": "1",
+  "symbol": "STBZ",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xB987D48Ed8f2C468D52D6405624EADBa5e76d723",
+        "symbol": "STBZ"
+      }
+    }
+  ],
+  "members": [
     "0x1a776c84d64eCADA985C968c3589B3c8615A1e7C"
   ],
-  "min": 30,
-  "invalid": []
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 30
+  }
 }

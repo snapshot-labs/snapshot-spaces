@@ -1,13 +1,22 @@
 {
-  "name": "Pepemon",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "PPBLZ",
-  "defaultView": "core",
   "token": "0x4D2eE5DAe46C86DA2FF521F7657dad98834f97b8",
-  "core": [
+  "name": "Pepemon",
+  "network": "1",
+  "symbol": "PPBLZ",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x4D2eE5DAe46C86DA2FF521F7657dad98834f97b8",
+        "symbol": "PPBLZ"
+      }
+    }
+  ],
+  "members": [
     "0xE71FbB197BC8fD11090FA657C100d52Dbb407662"
   ],
-  "min": 100,
-  "invalid": []
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 100
+  }
 }

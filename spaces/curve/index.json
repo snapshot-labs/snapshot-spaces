@@ -1,11 +1,19 @@
 {
-  "name": "Curve",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "veCRV",
-  "defaultView": "core",
   "token": "0x5f3b5DfEb7B28CDbD7FAba78963EE202a494e2A2",
-  "core": [
+  "name": "Curve",
+  "network": "1",
+  "symbol": "veCRV",
+  "skin": "curve",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x5f3b5DfEb7B28CDbD7FAba78963EE202a494e2A2",
+        "symbol": "veCRV"
+      }
+    }
+  ],
+  "members": [
     "0x7a16fF8270133F063aAb6C9977183D9e72835428",
     "0xF89501B77b2FA6329F94F5A05FE84cEbb5c8b1a0",
     "0x9B44473E223f8a3c047AD86f387B80402536B029",
@@ -20,7 +28,8 @@
     "0x6632EdA2685EABFb7B3B45669CFa5441349485d3",
     "0x0Ac51a4E170bF73e7ac54283E61C9717EAc2A241"
   ],
-  "min": 1,
-  "invalid": [],
-  "skin": "curve"
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 1
+  }
 }

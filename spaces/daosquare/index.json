@@ -1,12 +1,20 @@
 {
-  "name": "DAOSquare",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "RICE",
-  "defaultView": "all",
   "token": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7",
-  "core": [],
-  "min": 0,
-  "invalid": [],
-  "skin": "daosquare"
+  "name": "DAOSquare",
+  "network": "1",
+  "symbol": "RICE",
+  "skin": "daosquare",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7",
+        "symbol": "RICE"
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
 }

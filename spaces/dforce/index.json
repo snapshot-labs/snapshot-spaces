@@ -1,12 +1,20 @@
 {
-  "name": "dForce",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "DF",
-  "defaultView": "core",
   "token": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
-  "core": [],
-  "min": 1,
-  "invalid": [],
-  "skin": "dforce"
+  "name": "dForce",
+  "network": "1",
+  "symbol": "DF",
+  "skin": "dforce",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
+        "symbol": "DF"
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 1
+  }
 }

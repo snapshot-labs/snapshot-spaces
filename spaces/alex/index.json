@@ -1,11 +1,19 @@
 {
-  "name": "Alex Masmej",
-  "chainId": 1,
-  "decimals": 4,
-  "symbol": "ALEX",
-  "defaultView": "all",
   "token": "0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315",
-  "core": [],
-  "min": 0,
-  "invalid": []
+  "name": "Alex Masmej",
+  "network": "1",
+  "symbol": "ALEX",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315",
+        "symbol": "ALEX"
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
 }

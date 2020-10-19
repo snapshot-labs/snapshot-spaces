@@ -1,12 +1,20 @@
 {
-  "name": "Swarm Network",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "SWM",
-  "defaultView": "core",
   "token": "0x3505f494c3f0fed0b594e01fa41dd3967645ca39",
-  "core": [],
-  "min": 50000,
-  "invalid": [],
-  "skin": "swarm"
+  "name": "Swarm Network",
+  "network": "1",
+  "symbol": "SWM",
+  "skin": "swarm",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x3505f494c3f0fed0b594e01fa41dd3967645ca39",
+        "symbol": "SWM"
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 50000
+  }
 }

@@ -1,13 +1,22 @@
 {
-  "name": "Yeld",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "YELD",
-  "defaultView": "core",
   "token": "0x468ab3b1f63A1C14b361bC367c3cC92277588Da1",
-  "core": [
+  "name": "Yeld",
+  "network": "1",
+  "symbol": "YELD",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x468ab3b1f63A1C14b361bC367c3cC92277588Da1",
+        "symbol": "YELD"
+      }
+    }
+  ],
+  "members": [
     "0xc6e3977472f88e45C8A8B796fB15dC115866f6a4"
   ],
-  "min": 10,
-  "invalid": []
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 10
+  }
 }

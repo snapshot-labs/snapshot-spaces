@@ -1,14 +1,23 @@
 {
-  "name": "MyBit",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "MYB",
-  "defaultView": "core",
   "token": "0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc",
-  "core": [
+  "name": "MyBit",
+  "network": "1",
+  "symbol": "MYB",
+  "skin": "mybit",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc",
+        "symbol": "MYB"
+      }
+    }
+  ],
+  "members": [
     "0x2B50d53c2d10954aEA741ae61001c3fb77717e5e"
   ],
-  "min": 0,
-  "invalid": [],
-  "skin": "mybit"
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
 }

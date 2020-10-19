@@ -1,16 +1,26 @@
 {
-  "name": "NFT Protocol",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "NFT",
-  "defaultView": "core",
   "token": "0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",
-  "core": [
+  "name": "NFT Protocol",
+  "network": "1",
+  "symbol": "NFT",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",
+        "symbol": "NFT"
+      }
+    }
+  ],
+  "members": [
     "0x2FFBE7Cb6b8e3bA6B621242612685dAA687C03D5",
     "0x1024E993f717a19B0b7131546b1996D65338e8E8"
   ],
-  "min": 100,
-  "invalid": [
-    "QmXAZP8tYwX2zZz5EzfxLZUYJt6TM9EmxY1L4qodhZ5zcZ"
-  ]
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 100,
+    "invalids": [
+      "QmXAZP8tYwX2zZz5EzfxLZUYJt6TM9EmxY1L4qodhZ5zcZ"
+    ]
+  }
 }

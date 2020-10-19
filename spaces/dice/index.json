@@ -1,13 +1,22 @@
 {
-  "symbol": "DICE",
-  "name": "DICE.FINANCE TOKEN",
-  "chainId": 56,
-  "decimals": 18,
-  "defaultView": "core",
   "token": "0x748AD98b14C814B28812eB42ad219C8672909879",
-  "core": [
+  "name": "DICE.FINANCE TOKEN",
+  "network": "56",
+  "symbol": "DICE",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x748AD98b14C814B28812eB42ad219C8672909879",
+        "symbol": "DICE"
+      }
+    }
+  ],
+  "members": [
     "0xA05952c083983017EEb092B21Ac82AdF6B5cf733"
   ],
-  "min": 0,
-  "invalid": []
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
 }

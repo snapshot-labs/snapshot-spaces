@@ -1,12 +1,20 @@
 {
-  "name": "shroom.finance",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "SHROOM",
-  "defaultView": "core",
   "token": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
-  "core": [],
-  "min": 0,
-  "invalid": [],
-  "skin": "shroom"
+  "name": "shroom.finance",
+  "network": "1",
+  "symbol": "SHROOM",
+  "skin": "shroom",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
+        "symbol": "SHROOM"
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
 }

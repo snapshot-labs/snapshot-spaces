@@ -1,16 +1,25 @@
 {
-  "name": "Bobaswap",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "BOBA",
-  "defaultView": "all",
   "token": "0xce9afaf5b0da6ce0366ab40435a48ccff65d2ed7",
-  "core": [
+  "name": "Bobaswap",
+  "network": "1",
+  "symbol": "BOBA",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xce9afaf5b0da6ce0366ab40435a48ccff65d2ed7",
+        "symbol": "BOBA"
+      }
+    }
+  ],
+  "members": [
     "0xDC1926b681838A684277767eE8b7597a3d29439b",
     "0x3Bd029d547CF483C684DBd6Dc207D4ce15e5b4d1",
     "0x66F1C92B29441BCbA925c07abbBa2e23676b79a4"
   ],
-  "min": 0,
-  "invalid": [],
-  "showOnlyCore": true
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0,
+    "onlyMembers": true
+  }
 }

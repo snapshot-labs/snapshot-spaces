@@ -1,14 +1,23 @@
 {
-  "name": "SAKEVOTER",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "SAKE",
-  "defaultView": "core",
   "token": "0x0A291AF57DEb09efd3760B8Ca7167207bcE019d6",
-  "core": [
+  "name": "SAKEVOTER",
+  "network": "1",
+  "symbol": "SAKE",
+  "skin": "sake",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x0A291AF57DEb09efd3760B8Ca7167207bcE019d6",
+        "symbol": "SAKE"
+      }
+    }
+  ],
+  "members": [
     "0x142151D3b15b8961F2937Cf7880Bcd10c050800C"
   ],
-  "min": 0,
-  "invalid": [],
-  "skin": "sake"
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
 }

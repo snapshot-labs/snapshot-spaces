@@ -1,11 +1,19 @@
 {
-  "name": "RigoBlock",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "GRG",
-  "defaultView": "all",
   "token": "0x4fbb350052bca5417566f188eb2ebce5b19bc964",
-  "core": [],
-  "min": 5000,
-  "invalid": []
+  "name": "RigoBlock",
+  "network": "1",
+  "symbol": "GRG",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x4fbb350052bca5417566f188eb2ebce5b19bc964",
+        "symbol": "GRG"
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 5000
+  }
 }

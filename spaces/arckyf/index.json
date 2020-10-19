@@ -1,12 +1,20 @@
 {
-  "name": "ARC KYF Voting",
-  "chainId": 1,
-  "decimals": 0,
-  "symbol": "ARCKYF",
-  "defaultView": "all",
   "token": "0xD85e2772912213e0c584d80B2694c79D6a09E39A",
-  "core": [],
-  "min": 0,
-  "invalid": [],
-  "skin": "arckyf"
+  "name": "ARC KYF Voting",
+  "network": "1",
+  "symbol": "ARCKYF",
+  "skin": "arckyf",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xD85e2772912213e0c584d80B2694c79D6a09E39A",
+        "symbol": "ARCKYF"
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
 }
