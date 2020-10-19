@@ -1,0 +1,13 @@
+{
+  "name": "BTF Finance",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "BTF",
+  "defaultView": "core",
+  "token": "0x71ca7438183d978442BebE29fb9eC19CA35d20d4",
+  "core": [
+    "0xcAbB6cc419E7361EeC1f508f9f99C1e79c4E33eD"
+  ],
+  "min": 0,
+  "invalid": []
+}

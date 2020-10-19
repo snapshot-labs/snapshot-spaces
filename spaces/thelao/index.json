@@ -1,0 +1,22 @@
+{
+  "name": "The LAO",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "LAO",
+  "defaultView": "all",
+  "token": "0x8f56682a50becb1df2fb8136954f2062871bc7fc",
+  "core": [],
+  "min": 1,
+  "invalid": [],
+  "strategies": [
+    [
+      "moloch",
+      {
+        "address": "0x8f56682a50becb1df2fb8136954f2062871bc7fc",
+        "symbol": "LAO",
+        "decimals": 18
+      }
+    ]
+  ],
+  "skin": "thelao"
+}
