@@ -1,0 +1,12 @@
+{
+  "name": "Web3API",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "W3API",
+  "defaultView": "all",
+  "token": "0x9F59E5Ed123C10D57E92629612511b14628D2799",
+  "core": [ ],
+  "min": 1,
+  "invalid": [],
+  "skin": "web3-api"
+}
