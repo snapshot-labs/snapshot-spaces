@@ -17,19 +17,6 @@ export default Object.fromEntries(
     .map(file => {
       const space = requireSpace(file);
       const key = file.replace('./', '').replace('/index.json', '');
-      const strategies = [
-        [
-          'erc20-balance-of',
-          {
-            address: space.token,
-            decimals: space.decimals,
-            symbol: space.symbol
-          }
-        ]
-      ];
-      return [
-        key,
-        { ...space, key, strategies: space.strategies || strategies }
-      ];
+      return [key, space];
     })
 );
