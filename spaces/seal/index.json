@@ -1,0 +1,13 @@
+{
+  "name": "Seal Finance",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "Seal",
+  "defaultView": "all",
+  "token": "0x89CCE324dE3F212B39d090375b3732A19EC54d30",
+  "core": [
+    "0xde2d219fea5ebe1a75ddfbaf0b4477f6da757f76"
+  ],
+  "min": 35,
+  "invalid": []
+}
