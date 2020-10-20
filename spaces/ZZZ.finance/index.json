@@ -8,7 +8,7 @@
   "core": [
     "0x488874e8b9C7999a853b2b2f4c1Dd8b952B3c2dB"
   ],
-  "min": 100,
+  "min": 20,
   "invalid": [],
   "skin": "example"
 }
