@@ -4,6 +4,7 @@
   "network": "1",
   "symbol": "UNICORE",
   "skin": "unicore",
+  "domain": "vote.uvault.finance",
   "strategies": [
     {
       "name": "erc20-balance-of",
