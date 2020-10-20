@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xd17e374a7d49287f583ddfbdeb6ad4da21c00ce3",
-        "symbol": "MEW"
+        "symbol": "MEW",
+        "decimals": 18
       }
     }
   ],

@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x94939D55000B31B7808904a80aA7Bab05eF59Ed6",
-        "symbol": "JIAOZI"
+        "symbol": "JIAOZI",
+        "decimals": 18
       }
     }
   ],

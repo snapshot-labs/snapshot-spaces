@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x95845b551302462a6141dd574889EEE1A914438D",
-        "symbol": "FAIRPOWER"
+        "symbol": "FAIRPOWER",
+        "decimals": 9
       }
     }
   ],

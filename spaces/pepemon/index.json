@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x4D2eE5DAe46C86DA2FF521F7657dad98834f97b8",
-        "symbol": "PPBLZ"
+        "symbol": "PPBLZ",
+        "decimals": 18
       }
     }
   ],

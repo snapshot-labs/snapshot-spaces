@@ -10,7 +10,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x2b7018Fca0eccfBc738828e1E8f1C7038EBBCaa8",
-        "symbol": "EGG"
+        "symbol": "EGG",
+        "decimals": 18
       }
     }
   ],

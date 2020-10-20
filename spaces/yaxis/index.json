@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xb1dC9124c395c1e97773ab855d66E879f053A289",
-        "symbol": "YAX"
+        "symbol": "YAX",
+        "decimals": 18
       }
     }
   ],

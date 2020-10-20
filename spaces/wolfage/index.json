@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x31735f0292D42801dce3b0f83B0d9A09bFf75b07",
-        "symbol": "WEFI"
+        "symbol": "WEFI",
+        "decimals": 18
       }
     }
   ],

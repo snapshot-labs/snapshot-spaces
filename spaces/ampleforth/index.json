@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
-        "symbol": "AMPL"
+        "symbol": "AMPL",
+        "decimals": 9
       }
     }
   ],

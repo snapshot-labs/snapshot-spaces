@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x4fbb350052bca5417566f188eb2ebce5b19bc964",
-        "symbol": "GRG"
+        "symbol": "GRG",
+        "decimals": 18
       }
     }
   ],

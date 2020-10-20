@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xCE92FbAC689710bCa1e1c8DB265e9B06BCB85c08",
-        "symbol": "DEGO"
+        "symbol": "DEGO",
+        "decimals": 18
       }
     }
   ],

@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc",
-        "symbol": "MYB"
+        "symbol": "MYB",
+        "decimals": 18
       }
     }
   ],

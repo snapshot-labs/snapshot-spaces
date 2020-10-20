@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x3505f494c3f0fed0b594e01fa41dd3967645ca39",
-        "symbol": "SWM"
+        "symbol": "SWM",
+        "decimals": 18
       }
     }
   ],

@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xA663121582725aA0eb8BF20B0F56F1917762e873",
-        "symbol": "MUTANT"
+        "symbol": "MUTANT",
+        "decimals": 18
       }
     }
   ],

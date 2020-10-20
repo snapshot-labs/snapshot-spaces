@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x8003c49f6ebacddc493ea47cab45e892d1b638a1",
-        "symbol": "AMPLG"
+        "symbol": "AMPLG",
+        "decimals": 9
       }
     }
   ],

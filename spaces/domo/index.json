@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x77EC93780e478637ED777D2FB2Dc161048DfE6d8",
-        "symbol": "DOMO"
+        "symbol": "DOMO",
+        "decimals": 18
       }
     }
   ],

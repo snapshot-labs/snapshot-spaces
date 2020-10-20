@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739",
-        "symbol": "BUILD"
+        "symbol": "BUILD",
+        "decimals": 18
       }
     }
   ],

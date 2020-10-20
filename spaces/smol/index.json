@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x2216e873ea4282ebef7a02ac5aea220be6391a7c",
-        "symbol": "SMOL"
+        "symbol": "SMOL",
+        "decimals": 18
       }
     }
   ],

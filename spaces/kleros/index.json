@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
-        "symbol": "PNK"
+        "symbol": "PNK",
+        "decimals": 18
       }
     }
   ],

@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x8B4684aFa6CaBa9837F998AdDC16DF02b391C764",
-        "symbol": "XPZ"
+        "symbol": "XPZ",
+        "decimals": 18
       }
     }
   ],

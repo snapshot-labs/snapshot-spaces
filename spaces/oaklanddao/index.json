@@ -10,7 +10,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xd41de6a4af5fafa7c9483bdafeb592a626ba7584",
-        "symbol": "OAKM"
+        "symbol": "OAKM",
+        "decimals": 0
       }
     }
   ],

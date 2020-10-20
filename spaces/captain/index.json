@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x4de25f080e02e8b3fdd450f0b2b9ed22c7e6cf0a",
-        "symbol": "CAPT"
+        "symbol": "CAPT",
+        "decimals": 18
       }
     }
   ],

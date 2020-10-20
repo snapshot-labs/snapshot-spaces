@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a",
-        "symbol": "TON"
+        "symbol": "TON",
+        "decimals": 18
       }
     }
   ],

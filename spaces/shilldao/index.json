@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x54c818a55a795493de47620fa08efae74fc48974",
-        "symbol": "SHILL"
+        "symbol": "SHILL",
+        "decimals": 18
       }
     }
   ],

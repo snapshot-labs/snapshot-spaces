@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xe6410569602124506658ff992f258616ea2d4a3d",
-        "symbol": "KATANA"
+        "symbol": "KATANA",
+        "decimals": 18
       }
     }
   ],

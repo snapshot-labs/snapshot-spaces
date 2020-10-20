@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x367B072D50ac465bA47Ab474c6d381BfC0e45F86",
-        "symbol": "CAPY"
+        "symbol": "CAPY",
+        "decimals": 18
       }
     }
   ],

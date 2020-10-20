@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x244bD173a540B5FCEa524E173b3FB6841C20Ab24",
-        "symbol": "RDAO"
+        "symbol": "RDAO",
+        "decimals": 18
       }
     }
   ],

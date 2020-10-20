@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x56687cf29ac9751ce2a4e764680b6ad7e668942e",
-        "symbol": "$JAMM"
+        "symbol": "$JAMM",
+        "decimals": 4
       }
     }
   ],

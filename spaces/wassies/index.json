@@ -10,7 +10,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x37875a0c44c926efa1af79352f0ddae07a597e58",
-        "symbol": "WASSIES"
+        "symbol": "WASSIES",
+        "decimals": 18
       }
     }
   ],
