@@ -12,6 +12,13 @@
         "symbol": "CREAM",
         "decimals": 18
       }
+    },
+    {
+      "name": "balancer",
+      "params": {
+        "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
+        "symbol": "CREAM BPT"
+      }
     }
   ],
   "members": [
@@ -31,7 +38,7 @@
   ],
   "filters": {
     "defaultTab": "all",
-    "minScore": 10,
+    "minScore": 1500,
     "invalids": [
       "QmRDcS4jFf7HsXFVcc98ef67fSDDgqh8C79mt7qvnUNyJ3"
     ]
