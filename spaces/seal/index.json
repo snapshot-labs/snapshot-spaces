@@ -2,7 +2,7 @@
   "name": "Seal Finance",
   "chainId": 1,
   "decimals": 18,
-  "symbol": "Seal",
+  "symbol": "SVT",
   "defaultView": "all",
   "token": "0x89CCE324dE3F212B39d090375b3732A19EC54d30",
   "core": [
