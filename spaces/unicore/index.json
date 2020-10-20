@@ -3,6 +3,7 @@
   "name": "UniCore",
   "network": "1",
   "symbol": "UNICORE",
+  "decimals": 18,
   "skin": "unicore",
   "domain": "vote.uvault.finance",
   "strategies": [
