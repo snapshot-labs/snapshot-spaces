@@ -4,7 +4,7 @@
   "network": "1",
   "symbol": "TACO",
   "skin": "aave",
-  "domain": "game.taconomics.io",
+  "domain": "vote.taconomics.io",
   "strategies": [
     {
       "name": "erc20-balance-of",
