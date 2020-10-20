@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de",
-        "symbol": "MILK2"
+        "symbol": "MILK2",
+        "decimals": 18
       }
     }
   ],

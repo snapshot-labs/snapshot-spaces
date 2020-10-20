@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x8Ffb89D50eB0b9788f40123Cb3B8b8a84Edb4202",
-        "symbol": "LAO-C"
+        "symbol": "LAO-C",
+        "decimals": 18
       }
     }
   ],

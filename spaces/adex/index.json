@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xd9A4cB9dc9296e111c66dFACAb8Be034EE2E1c2C",
-        "symbol": "ADX-LOYALTY"
+        "symbol": "ADX-LOYALTY",
+        "decimals": 18
       }
     }
   ],

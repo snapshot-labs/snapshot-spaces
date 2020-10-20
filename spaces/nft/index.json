@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",
-        "symbol": "NFT"
+        "symbol": "NFT",
+        "decimals": 18
       }
     }
   ],

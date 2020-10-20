@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xe09216f1d343dd39d6aa732a08036fee48555af0",
-        "symbol": "TRIB"
+        "symbol": "TRIB",
+        "decimals": 18
       }
     }
   ],

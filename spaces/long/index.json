@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x2ece5a5f2bf395e77d2f3e645b1611a0739b4ef9",
-        "symbol": "LONGPOWER"
+        "symbol": "LONGPOWER",
+        "decimals": 18
       }
     }
   ],

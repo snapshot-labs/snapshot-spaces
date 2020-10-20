@@ -18,7 +18,7 @@
       "params": {
         "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
         "symbol": "AMPL/1000",
-        "decimals": 12
+        "decimals": 9
       }
     }
   ],

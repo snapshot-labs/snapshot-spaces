@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
-        "symbol": "SNT"
+        "symbol": "SNT",
+        "decimals": 18
       }
     }
   ],

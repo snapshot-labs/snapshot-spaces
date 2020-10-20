@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x468ab3b1f63A1C14b361bC367c3cC92277588Da1",
-        "symbol": "YELD"
+        "symbol": "YELD",
+        "decimals": 18
       }
     }
   ],

@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x9dd63ed4d9597b15cd2c1e5b9f3be01089ce9adc",
-        "symbol": "EXNG"
+        "symbol": "EXNG",
+        "decimals": 18
       }
     }
   ],

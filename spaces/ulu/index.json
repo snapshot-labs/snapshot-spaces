@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x035bfe6057e15ea692c0dfdcab3bb41a64dd2ad4",
-        "symbol": "ULU"
+        "symbol": "ULU",
+        "decimals": 18
       }
     }
   ],

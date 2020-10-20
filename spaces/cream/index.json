@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
-        "symbol": "CREAM"
+        "symbol": "CREAM",
+        "decimals": 18
       }
     }
   ],

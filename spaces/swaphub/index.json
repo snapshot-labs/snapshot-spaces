@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x2B6da14f488fba03f6CF6E2a6B530d656a963755",
-        "symbol": "HUBDAO"
+        "symbol": "HUBDAO",
+        "decimals": 18
       }
     }
   ],

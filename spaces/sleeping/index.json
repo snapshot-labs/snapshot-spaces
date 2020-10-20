@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x3C1EE45e11E90fC20427BE5e6Db5FEe557f1E07f",
-        "symbol": "SLEEP"
+        "symbol": "SLEEP",
+        "decimals": 18
       }
     }
   ],

@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x382d04194E3607dab5Ebaa5b9f8011A4c06e8b17",
-        "symbol": "BAKEVOTE"
+        "symbol": "BAKEVOTE",
+        "decimals": 18
       }
     }
   ],

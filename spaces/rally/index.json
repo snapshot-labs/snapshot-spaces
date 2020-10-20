@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
-        "symbol": "RLY"
+        "symbol": "RLY",
+        "decimals": 18
       }
     }
   ],

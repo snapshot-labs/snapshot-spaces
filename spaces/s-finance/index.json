@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x8a6ACA71A218301c7081d4e96D64292D3B275ce0",
-        "symbol": "SFG"
+        "symbol": "SFG",
+        "decimals": 18
       }
     }
   ],

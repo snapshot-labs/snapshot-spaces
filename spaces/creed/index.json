@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x675E7d927Af7e6D0082e0153dc3485B687a6F0ad",
-        "symbol": "CREED"
+        "symbol": "CREED",
+        "decimals": 18
       }
     }
   ],

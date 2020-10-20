@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xE54f9E6Ab80ebc28515aF8b8233c1aeE6506a15E",
-        "symbol": "PASTA"
+        "symbol": "PASTA",
+        "decimals": 18
       }
     }
   ],

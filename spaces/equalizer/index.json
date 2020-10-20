@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x81428a8047cca11177a4e15789e368d6806da376",
-        "symbol": "EQL"
+        "symbol": "EQL",
+        "decimals": 18
       }
     }
   ],

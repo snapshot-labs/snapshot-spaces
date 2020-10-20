@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c",
-        "symbol": "GOF"
+        "symbol": "GOF",
+        "decimals": 18
       }
     }
   ],

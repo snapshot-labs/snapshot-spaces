@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x96c6e9056db6130f658231316ca561c42bd47c30",
-        "symbol": "ONCEDEVGOV"
+        "symbol": "ONCEDEVGOV",
+        "decimals": 0
       }
     }
   ],

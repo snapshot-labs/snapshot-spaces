@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x44E0dDBc407aaA0dd9F99d59605f14D84F663419",
-        "symbol": "fry.world"
+        "symbol": "fry.world",
+        "decimals": 18
       }
     }
   ],

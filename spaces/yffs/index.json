@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x90D702f071d2af33032943137AD0aB4280705817",
-        "symbol": "YFFS"
+        "symbol": "YFFS",
+        "decimals": 18
       }
     }
   ],

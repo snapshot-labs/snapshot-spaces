@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xeaccb6E0f24d66cF4Aa6cBDa33971b9231d332a1",
-        "symbol": "PGT"
+        "symbol": "PGT",
+        "decimals": 18
       }
     }
   ],

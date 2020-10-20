@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x4128fe23Ef23194E00405603c937b19d3e30482C",
-        "symbol": "PCT QV"
+        "symbol": "PCT QV",
+        "decimals": 9
       }
     }
   ],

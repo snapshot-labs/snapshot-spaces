@@ -10,7 +10,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xb526fd41360c98929006f3bdcbd16d55de4b0069",
-        "symbol": "THIRM"
+        "symbol": "THIRM",
+        "decimals": 18
       }
     }
   ],

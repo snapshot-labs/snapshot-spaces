@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xb25FEda5512445Aa4e481Add71731cD0cffF18C1",
-        "symbol": "SDOGE"
+        "symbol": "SDOGE",
+        "decimals": 18
       }
     }
   ],

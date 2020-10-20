@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xBa1A22228B091D2bC6E111df61Ae6f7e5102Da1a",
-        "symbol": "ANJMOL"
+        "symbol": "ANJMOL",
+        "decimals": 18
       }
     }
   ],

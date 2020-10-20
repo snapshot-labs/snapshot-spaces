@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
-        "symbol": "BEL"
+        "symbol": "BEL",
+        "decimals": 18
       }
     }
   ],

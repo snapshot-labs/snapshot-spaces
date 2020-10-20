@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xc5074D5964De8B8157BF6D4F4846dF9BC415FDdf",
-        "symbol": "UNICOPE"
+        "symbol": "UNICOPE",
+        "decimals": 18
       }
     }
   ],

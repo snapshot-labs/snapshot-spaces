@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x04abEdA201850aC0124161F037Efd70c74ddC74C",
-        "symbol": "NEST"
+        "symbol": "NEST",
+        "decimals": 18
       }
     }
   ],

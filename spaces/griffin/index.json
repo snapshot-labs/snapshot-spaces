@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x21E19121e1360e09AA1F810280c97A87b85d1069",
-        "symbol": "GFIN"
+        "symbol": "GFIN",
+        "decimals": 18
       }
     }
   ],

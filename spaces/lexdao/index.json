@@ -8,7 +8,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d",
-        "symbol": "MYSTIC"
+        "symbol": "MYSTIC",
+        "decimals": 18
       }
     }
   ],

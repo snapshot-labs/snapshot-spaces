@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7",
-        "symbol": "RICE"
+        "symbol": "RICE",
+        "decimals": 18
       }
     }
   ],

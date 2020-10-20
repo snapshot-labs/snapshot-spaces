@@ -9,7 +9,8 @@
     {
       "name": "synthetix",
       "params": {
-        "symbol": "SNX (WV)"
+        "symbol": "SNX (WV)",
+        "decimals": 18
       }
     }
   ],

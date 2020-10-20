@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x90f62B96a62801488b151fF3c65eaC5Fae21a962",
-        "symbol": "GEM"
+        "symbol": "GEM",
+        "decimals": 18
       }
     }
   ],

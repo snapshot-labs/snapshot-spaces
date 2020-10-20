@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xC1d204fC521F9e125a55dd8b2152d7344766cC21",
-        "symbol": "MRR"
+        "symbol": "MRR",
+        "decimals": 18
       }
     }
   ],

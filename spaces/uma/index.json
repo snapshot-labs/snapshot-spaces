@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
-        "symbol": "UMA"
+        "symbol": "UMA",
+        "decimals": 18
       }
     }
   ],

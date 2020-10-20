@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xD85e2772912213e0c584d80B2694c79D6a09E39A",
-        "symbol": "ARCKYF"
+        "symbol": "ARCKYF",
+        "decimals": 0
       }
     }
   ],

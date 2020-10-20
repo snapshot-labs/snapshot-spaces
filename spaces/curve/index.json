@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0x5f3b5DfEb7B28CDbD7FAba78963EE202a494e2A2",
-        "symbol": "veCRV"
+        "symbol": "veCRV",
+        "decimals": 18
       }
     }
   ],

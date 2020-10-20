@@ -9,7 +9,8 @@
       "name": "erc20-balance-of",
       "params": {
         "address": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
-        "symbol": "DOUGH"
+        "symbol": "DOUGH",
+        "decimals": 18
       }
     }
   ],
