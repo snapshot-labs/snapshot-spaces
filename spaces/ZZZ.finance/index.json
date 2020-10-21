@@ -1,18 +1,10 @@
 {
-  "name": "ZZZ.Finance", // Name of the space (max 12 chars)
-  "chainId": 1, // ID of the blockchain network
-  "decimals": 18, // Number of decimals in the token
-  "symbol": "ZZZ", // Symbol of the base token
-  "skin": "example", // Copy skin filename "example.scss" located at "/skins" folder and renaming it to "your-space.scss"
-  "defaultView": "all", // The default tab to see in your space
-  "token": "0xc75f15ada581219c95485c578e124df3985e4ce0", // The same address of the base token
-  "core": [ // List of official addresses that can post in "Core" tab of your space
-    
-  ],
-  "min": 20, // Minimum balance to have from the base token to have your proposal visible in the space (unless the address is a core address)
-  "invalid": [ // List of proposal ids, use this to remove a proposal from your space
-    
-  ]
+  "token": ""0xc75f15ada581219c95485c578e124df3985e4ce0",
+  "name": "ZZZ.Finance",
+  "network": "1",
+  "symbol": "ZZZ",
+  "skin": "example",
+  "domain": "https://zzz.finance/",
   "strategies": [
     {
       "name": "erc20-balance-of",
@@ -32,4 +24,11 @@
       }
     }
   ],
+  "members": [],
+  "filters": {
+    "defaultTab": "all", // The default tab for the space
+    "minScore": 20, // Minimum balance from the base token that a user should have to show his proposal in the space (unless the address is a core address)
+    "onlyMembers": true
+  },
+  "invalids": []
 }
