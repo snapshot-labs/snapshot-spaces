@@ -17,7 +17,7 @@
     {
       "name": "erc20-balance-of-coeff",
       "params": {
-        "address": "0x66b3037aa8dd64c3ef1aee13a4d1f2509f672d1c.",
+        "address": "0x66b3037aa8dd64c3ef1aee13a4d1f2509f672d1c",
         "symbol": "NAP",
         "decimals": 18,
         "coeff": 2000
