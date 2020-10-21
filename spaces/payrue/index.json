@@ -4,7 +4,6 @@
   "network": "56",
   "symbol": "Propel",
   "skin": "payrue",
-  "domain": "payrue.com",
   "strategies": [
     {
       "name": "erc20-balance-of",
