@@ -1,5 +1,5 @@
 {
-  "token": "0xDD0c21B935038ae5904487F843D1498A09C91854",
+  "token": "0xD82b34c04C182f337F050D4CdF9bAFa334e12a1A",
   "name": "Toast.finance",
   "network": "1",
   "symbol": "HOUSE",
@@ -7,7 +7,7 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0xDD0c21B935038ae5904487F843D1498A09C91854",
+        "address": "0xD82b34c04C182f337F050D4CdF9bAFa334e12a1A",
         "symbol": "HOUSE",
         "decimals": 0
       }
