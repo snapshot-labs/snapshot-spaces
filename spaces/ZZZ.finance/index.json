@@ -1,14 +1,35 @@
 {
-  "name": "ZZZ.finance",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "ZZZ",
-  "defaultView": "core",
-  "token": "0xc75f15ada581219c95485c578e124df3985e4ce0",
-  "core": [
-    "0x488874e8b9C7999a853b2b2f4c1Dd8b952B3c2dB"
+  "name": "ZZZ.Finance", // Name of the space (max 12 chars)
+  "chainId": 1, // ID of the blockchain network
+  "decimals": 18, // Number of decimals in the token
+  "symbol": "ZZZ", // Symbol of the base token
+  "skin": "example", // Copy skin filename "example.scss" located at "/skins" folder and renaming it to "your-space.scss"
+  "defaultView": "all", // The default tab to see in your space
+  "token": "0xc75f15ada581219c95485c578e124df3985e4ce0", // The same address of the base token
+  "core": [ // List of official addresses that can post in "Core" tab of your space
+    
   ],
-  "min": 20,
-  "invalid": [],
-  "skin": "example"
+  "min": 20, // Minimum balance to have from the base token to have your proposal visible in the space (unless the address is a core address)
+  "invalid": [ // List of proposal ids, use this to remove a proposal from your space
+    
+  ]
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xc75f15ada581219c95485c578e124df3985e4ce0",
+        "symbol": "ZZZ",
+        "decimals": 18
+      }
+    },
+    {
+      "name": "erc20-balance-of-coeff",
+      "params": {
+        "address": "0x66b3037aa8dd64c3ef1aee13a4d1f2509f672d1c.",
+        "symbol": "NAP",
+        "decimals": 18,
+        "coeff": 1000
+      }
+    }
+  ],
 }
