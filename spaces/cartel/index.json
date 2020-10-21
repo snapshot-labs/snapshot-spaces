@@ -3,7 +3,6 @@
   "name": "Cartel",
   "network": "1",
   "symbol": "CARTEL",
-  "skin": "example",
   "strategies": [
     {
       "name": "erc20-balance-of",
