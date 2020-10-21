@@ -1,4 +1,5 @@
 {
+  "vote.balancer.finance": "balancer",
   "yearn.snapshot.page": "yearn",
   "signal.aave.com": "aave",
   "gov.xfinance.io": "xfinance",
@@ -18,5 +19,10 @@
   "dao.thirm.com": "thirm",
   "gov.synthetix.io": "synthetix",
   "voting.pancakeswap.finance": "pancake",
-  "gov.wassies.com": "wassies"
+  "gov.wassies.com": "wassies",
+  "signal.osho.finance": "love",
+  "voting.amplesense.io": "kmpl",
+  "gov.mettalex.com": "mettalex",
+  "gov.moontools.io": "moontools",
+  "voting.pancakeswap.finance": "pancake"
 }

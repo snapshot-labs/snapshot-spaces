@@ -1,13 +1,21 @@
 {
-  "name": "Synthetix",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "SNX",
-  "defaultView": "all",
   "token": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
-  "core": [],
-  "min": 0,
-  "invalid": [],
+  "name": "Synthetix",
+  "network": "1",
+  "symbol": "SNX",
   "skin": "synthetix",
-  "strategies": [["synthetix"]]
+  "domain": "gov.synthetix.io",
+  "strategies": [
+    {
+      "name": "synthetix",
+      "params": {
+        "symbol": "SNX (WV)",
+        "decimals": 18
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
 }

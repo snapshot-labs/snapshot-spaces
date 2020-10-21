@@ -1,31 +1,31 @@
 {
-  "name": "Sogur",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "SGR+SGN",
-  "defaultView": "core",
   "token": "0xaea8e1b6cb5c05d1dac618551c76bcd578ea3524",
-  "core": [
-    "0x3Ff63EC64143993C9eDf89e36f58b9bd69f173AD"
-  ],
-  "min": 10,
-  "invalid": [],
+  "name": "Sogur",
+  "network": "1",
+  "symbol": "SGR+SGN",
   "strategies": [
-    [
-      "erc20-balance-of",
-      {
+    {
+      "name": "erc20-balance-of",
+      "params": {
         "address": "0xaea8e1b6cb5c05d1dac618551c76bcd578ea3524",
         "symbol": "SGR",
         "decimals": 18
       }
-    ],
-    [
-      "erc20-balance-of",
-      {
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
         "address": "0x082E6d22225a6a26ED3CD35342E6722dB31F42e5",
         "symbol": "SGN",
         "decimals": 18
       }
-    ]
-  ]
+    }
+  ],
+  "members": [
+    "0x3Ff63EC64143993C9eDf89e36f58b9bd69f173AD"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 10
+  }
 }

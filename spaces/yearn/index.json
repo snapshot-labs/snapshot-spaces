@@ -1,11 +1,29 @@
 {
-  "name": "yearn.finance",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "YFI",
-  "defaultView": "all",
   "token": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
-  "core": [
+  "name": "yearn.finance",
+  "network": "1",
+  "symbol": "YFI",
+  "skin": "yearn",
+  "domain": "yearn.snapshot.page",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
+        "symbol": "YFI",
+        "decimals": 18
+      }
+    },
+    {
+      "name": "yearn-vault",
+      "params": {
+        "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
+        "symbol": "YFI (yYFI)",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
     "0x24A12Fa313F57aF541d447c594072A992c605DCf",
     "0x8BBE4Ac64246d600BC2889ef5d83809D138F03DF",
     "0xeF8305E140ac520225DAf050e2f71d5fBcC543e7",
@@ -15,25 +33,8 @@
     "0x29C4dbC1a81d06c9AA2fAed93Bb8B4a78F3eabDb",
     "0x0Cec743b8CE4Ef8802cAc0e5df18a180ed8402A7"
   ],
-  "min": 1,
-  "invalid": [],
-  "strategies": [
-    [
-      "erc20-balance-of",
-      {
-        "address": "0xBa37B002AbaFDd8E89a1995dA52740bbC013D992",
-        "symbol": "YFI",
-        "decimals": 18
-      }
-    ],
-    [
-      "yearn-vault",
-      {
-        "address": "0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1",
-        "symbol": "YFI (yYFI)",
-        "decimals": 18
-      }
-    ]
-  ],
-  "skin": "yearn"
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1
+  }
 }
