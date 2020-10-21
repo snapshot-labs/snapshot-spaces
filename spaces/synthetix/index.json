@@ -9,7 +9,7 @@
     {
       "name": "synthetix",
       "params": {
-        "symbol": "Quadratically Weighted Debt",
+        "symbol": "Weighted Debt",
         "decimals": 18
       }
     }
