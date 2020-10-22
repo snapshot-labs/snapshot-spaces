@@ -3,7 +3,7 @@
   "name": "SAFE2",
   "network": "1",
   "symbol": "SAFE2",
-  "skin": "safe2",
+  "skin": "safe",
   "strategies": [
     {
       "name": "erc20-balance-of",
