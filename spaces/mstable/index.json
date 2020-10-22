@@ -28,6 +28,8 @@
     "defaultTab": "core",
     "minScore": 250000,
     "invalids": [
+      "QmeP1Mz1EikZvsGiW2Pjnxe9CpCYhXuXbUVhTK5hWfWd8w",
+      "QmNm6MnTXnEgoTHQgERSj2a5RtzkDpfp1e7obwUu4sooDt",
       "QmWSMLrpwBijqXtP7w8cXpSwPeFv9FKqE9zQdH7PSCQjTq",
       "QmPCcwcGCroYULq27n2JpuHu5rocDM21a3AH7wqPoGRkJc",
       "QmYVfRWKfMtE6QEeG46QQBoDyrimeQSpXTxuE7QYVwgUum",
