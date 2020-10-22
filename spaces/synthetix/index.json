@@ -2,14 +2,14 @@
   "token": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
   "name": "Synthetix",
   "network": "1",
-  "symbol": "SNX",
+  "symbol": "Weighted Debt",
   "skin": "synthetix",
   "domain": "gov.synthetix.io",
   "strategies": [
     {
       "name": "synthetix",
       "params": {
-        "symbol": "SNX (WV)",
+        "symbol": "Weighted Debt",
         "decimals": 18
       }
     }

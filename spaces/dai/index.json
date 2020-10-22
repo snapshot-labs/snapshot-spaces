@@ -5,10 +5,10 @@
   "symbol": "DAI",
   "strategies": [
     {
-      "name": "erc20-balance-of-cv",
+      "name": "erc20-balance-of",
       "params": {
         "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-        "symbol": "DAI CV",
+        "symbol": "DAI",
         "decimals": 18
       }
     }
