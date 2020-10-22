@@ -1,0 +1,26 @@
+{
+  "token": "0xE534619dEFDBF0cAf673b8AbF7158714F5BD4bd9",
+  "name": "Tokenlon",
+  "network": "1",
+  "symbol": "TFT",
+  "skin": "tokenlon",
+  "strategies": [
+    {
+      "name": "tokenlon",
+      "params": {
+        "address": "0xE534619dEFDBF0cAf673b8AbF7158714F5BD4bd9",
+        "symbol": "TFT",
+        "decimals": 0
+      }
+    }
+  ],
+  "members": [
+    "0x25A087dC3512e3BE548F0cA13233ae29d3781bdC"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 50,
+    "onlyMembers": false
+  },
+  "invalids": []
+}
