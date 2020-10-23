@@ -3,7 +3,6 @@
     "name": "Music DAO",
     "network": "1",
     "symbol": "DNLD",
-    "skin": "music",
     "strategies": [
       {
         "name": "erc20-balance-of",
