@@ -15,7 +15,14 @@
     }
   ],
   "filters": {
-    "defaultTab": "all",
+    "defaultTab": "core",
     "minScore": 0
-  }
+  },
+  "members": [
+    "0xa331986ec34E103D567937B293FF8103330FEAda",
+    "0x87d27D2362da9b0ea7fED81776F0f2b1531A4E3C",
+    "0x9dDD076E9073732eB024195eb944E7eC7149bAF6",
+    "0x585e90100A24f5522cD0a9D1415dC3Ac567870c4",
+    "0xbF5acD26942E85ac12A12B8095bc9E6E5D89001a"
+  ]
 }
