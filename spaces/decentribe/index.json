@@ -1,0 +1,11 @@
+{
+  "name": "Decentribe",
+  "network": "1",
+  "symbol": "DECENT",
+  "defaultView": "all",
+  "token": "0x900B1998A226CFE238Ba1a14F03eB934C513C20B",
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
