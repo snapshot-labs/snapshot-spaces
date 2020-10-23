@@ -1,0 +1,35 @@
+{
+  "token": "0x79C5a1Ae586322A07BfB60be36E1b31CE8C84A1e",
+  "name": "Freight Trust Network",
+  "network": "1",
+  "symbol": "EDI",
+  "skin": "edi",
+  "domain": "gov.as2.network",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x79C5a1Ae586322A07BfB60be36E1b31CE8C84A1e",
+        "symbol": "EDI",
+         "decimals": 18,
+      }
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x7D2D3688Df45Ce7C552E19c27e007673da9204B8",
+        "symbol": "evo[a-z,A-Z,0-9]",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x75cD05F80eF325345082435D5Aa68400518bA56f",
+    "0x9Cd2313B67b9F7d115a14a428a60C68eD7a42602"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0,
+    "onlyMembers": true
+  }
+}
