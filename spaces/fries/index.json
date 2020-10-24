@@ -1,5 +1,5 @@
 {
-  "token": "0x44E0dDBc407aaA0dd9F99d59605f14D84F663419",
+  "token": "0x08a785c0C19c131cAcE73532Ebb0f5f6E88462a5",
   "name": "fry.world",
   "network": "56",
   "symbol": "fry.KetchupVOTE",
@@ -8,7 +8,7 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x08a785c0C19c131cAcE73532Ebb0f5f6E88462a5",
+        "address": "0x15B3d410fCd0d695E1bbe4F717F8E1B6D0Fb2D0C",
         "symbol": "fry.world",
         "decimals": 18
       }
@@ -20,6 +20,9 @@
   "filters": {
     "defaultTab": "core",
     "minScore": 10000,
-    "onlyMembers": true
+    "onlyMembers": true,
+    "invalids": [
+      "QmXndywCHmbYSNhUn7CTbrKJDH7zhHUvynvEJshryDhXWE"
+    ]
   }
 }
