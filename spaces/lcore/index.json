@@ -3,7 +3,6 @@
   "name": "Liquid Core Voting",
   "network": "1",
   "symbol": "LCORE",
-  "skin": "lcore",
   "strategies": [
     {
       "name": "erc20-balance-of-cv",
