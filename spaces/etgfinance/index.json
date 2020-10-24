@@ -18,12 +18,8 @@
   "members": [ 
     "0xf14e2952a6a71c342cba3d7aa4ed932151964945" 
   ],
-  "filters": { 
-    "defaultTab": "all", 
-    "minScore": 0.01, 
-    "onlyMembers": true 
-  },
-  "invalids": [ 
-    "0x6a36222e45265640B636e6BD2b558d1fB81458E6" 
-  ]
-}
+"filters": {
+      "defaultTab": "all",
+      "minScore": 0.01
+    }
+  }
