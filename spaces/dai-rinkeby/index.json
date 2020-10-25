@@ -19,8 +19,8 @@
   },
   "plugins": {
     "aragon": {
-      "govern": "0x1faab98418763b7b6a6634e8e3865bfdd15bd8ce",
-      "governQueue": "0xb3afa4e5f05bf656133fe198f1a43f9ec085983d"
+      "governAddress": "0x1faab98418763b7b6a6634e8e3865bfdd15bd8ce",
+      "governQueueAddress": "0xb3afa4e5f05bf656133fe198f1a43f9ec085983d"
     }
   }
 }
