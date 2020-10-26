@@ -3,8 +3,8 @@
   "name": "ZAC.Finance", 
   "network": "1", 
   "symbol": "ZAC", 
-  "skin": "zacfinance",
-  "domain": "governance.zac.finance", 
+  "skin": "use default skin",
+  "domain": "", 
   "strategies": [ 
     {
       "name": "erc20-balance-of", 
