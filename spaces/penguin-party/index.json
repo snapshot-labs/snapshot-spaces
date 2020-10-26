@@ -3,7 +3,7 @@
   "name": "🐧Penguin Party Fish🐟 ",
   "network": "1",
   "symbol": "🐟 ",
-  "skin": "example",
+  "skin": "penguin-party",
   "strategies": [
     {
       "name": "erc20-balance-of",
