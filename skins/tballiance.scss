@@ -7,4 +7,9 @@
   --border-color: #d1d5da;
   --header-bg: #f7f7f7;
   --block-bg: white;
+
+  .button.button--active {
+    background-color: #21b670;
+    color: white;
+  }
 }
