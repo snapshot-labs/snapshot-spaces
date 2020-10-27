@@ -1,9 +1,9 @@
 // @ts-ignore
-import requireContext from 'require-context';
+const requireContext = require('require-context');
 
 const requireSpace = requireContext(`${__dirname}/spaces`, true, /[\w-]+\.json$/);
 
-export default Object.fromEntries(
+module.exports = Object.fromEntries(
   requireSpace
     .keys()
     .filter(
