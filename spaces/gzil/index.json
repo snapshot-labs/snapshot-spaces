@@ -1,0 +1,23 @@
+{
+  "token": "zil14pzuzq6v6pmmmrfjhczywguu0e97djepxt8g3e",
+  "name": "Governance ZIL",
+  "network": "mainnet",
+  "symbol": "gZIL",
+  "strategies": [
+    {
+      "name": "zrc2-balance-of",
+      "params": {
+        "address": "zil14pzuzq6v6pmmmrfjhczywguu0e97djepxt8g3e",
+        "symbol": "gZIL",
+        "decimals": 15
+      }
+    }
+  ],
+  "members": [
+    "zil1sdltdpgtkws3wt4efd2hwchywj5wntrnvpasll"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}

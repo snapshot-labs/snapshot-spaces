@@ -1,0 +1,23 @@
+{
+  "token": "zil1l0g8u6f9g0fsvjuu74ctyla2hltefrdyt7k5f4",
+  "name": "ZilPay wallet",
+  "network": "mainnet",
+  "symbol": "ZLP",
+  "strategies": [
+    {
+      "name": "zrc2-balance-of",
+      "params": {
+        "address": "zil1l0g8u6f9g0fsvjuu74ctyla2hltefrdyt7k5f4",
+        "symbol": "ZLP",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "zil1wl38cwww2u3g8wzgutxlxtxwwc0rf7jf27zace"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
