@@ -1,15 +1,15 @@
 {
-  "token": "0x08a785c0C19c131cAcE73532Ebb0f5f6E88462a5",
+  "token": "0x15B3d410fCd0d695E1bbe4F717F8E1B6D0Fb2D0C",
   "name": "fry.world",
   "network": "56",
-  "symbol": "fry.KetchupVOTE",
+  "symbol": "KHP",
   "skin": "fries",
   "strategies": [
     {
       "name": "erc20-balance-of",
       "params": {
         "address": "0x15B3d410fCd0d695E1bbe4F717F8E1B6D0Fb2D0C",
-        "symbol": "fry.world",
+        "symbol": "KHP",
         "decimals": 18
       }
     }
