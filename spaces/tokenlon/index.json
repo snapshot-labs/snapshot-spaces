@@ -3,10 +3,9 @@
   "name": "Tokenlon",
   "network": "1",
   "symbol": "TFT",
-  "skin": "tokenlon",
   "strategies": [
     {
-      "name": "tokenlon",
+      "name": "erc20-with-balance",
       "params": {
         "address": "0xE534619dEFDBF0cAf673b8AbF7158714F5BD4bd9",
         "symbol": "TFT",
@@ -23,6 +22,5 @@
     "defaultTab": "all",
     "minScore": 50,
     "onlyMembers": false
-  },
-  "invalids": []
+  }
 }
