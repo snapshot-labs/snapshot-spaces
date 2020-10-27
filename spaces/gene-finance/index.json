@@ -1,0 +1,22 @@
+{
+  "token": "0xf6ec87dfe1ed3a7256cc0c38e3c8139103e9af3b",
+  "name": "Gene Finance",
+  "network": "1",
+  "symbol": "GENE",
+  "skin": "gene-finance",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xf6ec87dfe1ed3a7256cc0c38e3c8139103e9af3b",
+        "symbol": "GENE",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": ["0xC35e07aC812f3767eaDcc552033abdb431522536"],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 10000
+  }
+}
