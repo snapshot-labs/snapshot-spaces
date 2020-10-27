@@ -28,5 +28,6 @@
   "voting.pancakeswap.finance": "pancake",
   "vote.taconomics.io": "taco",
   "gov.narwhalswap.org": "narwhal",
-  "governance.etgproject.org": "etgfinance"
+  "governance.etgproject.org": "etgfinance",
+  "gov.pokt.network": "pokt-network"
 }
