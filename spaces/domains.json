@@ -11,10 +11,12 @@
   "signal.goldmining.farm": "gmt",
   "gov.aragon.org": "aragon",
   "oaklandvote.citydao.org": "oaklanddao",
+  "governance.chartex.pro": "chartex",
   "governance.trustwallet.com": "trustwallet",
   "voting.dfi.money": "dfi",
   "vote.ykz.network": "yakuza",
   "vote.cream.finance": "cream",
+  "vote.uvault.finance": "unicore",
   "gov.exnt.io": "exnetwork",
   "dao.thirm.com": "thirm",
   "gov.synthetix.io": "synthetix",
@@ -25,5 +27,6 @@
   "gov.moontools.io": "moontools",
   "voting.pancakeswap.finance": "pancake",
   "vote.taconomics.io": "taco",
-  "gov.narwhalswap.org": "narwhal"
+  "gov.narwhalswap.org": "narwhal",
+  "governance.etgproject.org": "etgfinance"
 }
