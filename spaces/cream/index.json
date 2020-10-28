@@ -40,7 +40,10 @@
     "defaultTab": "all",
     "minScore": 1500,
     "invalids": [
-      "QmRDcS4jFf7HsXFVcc98ef67fSDDgqh8C79mt7qvnUNyJ3"
+      "QmRDcS4jFf7HsXFVcc98ef67fSDDgqh8C79mt7qvnUNyJ3",
+      "QmUTph2QznHwiF3zohvjmy8ri3QC1RNJzTTRZHzV1u8Y7q",
+      "QmeyCDGhppWPzhpJRKpoW2Be1DSnb4cHDbE21BqHJvms7A",
+      "QmVyoHr76eEMJb25HhAtKaZchfFRQB7ZtEDNSDR5JoScKR"
     ]
   }
 }
