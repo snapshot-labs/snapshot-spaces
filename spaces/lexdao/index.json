@@ -1,5 +1,5 @@
 {
-  "token": "0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d",
+  "token": "0x4053981a40836141Cb79F05f68E9da385ff1814E",
   "name": "LexDAO",
   "network": "1",
   "symbol": "MYSTIC",
@@ -7,7 +7,7 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d",
+        "address": "0x4053981a40836141Cb79F05f68E9da385ff1814E",
         "symbol": "MYSTIC",
         "decimals": 18
       }
