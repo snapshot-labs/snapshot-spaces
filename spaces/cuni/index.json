@@ -6,7 +6,7 @@
   "skin": "cuni",
   "strategies": [
     {
-      "name": "cToken",
+      "name": "ctoken",
       "params": {
         "address": "0x35A18000230DA775CAc24873d00Ff85BccdeD550",
         "symbol": "cUNI",
