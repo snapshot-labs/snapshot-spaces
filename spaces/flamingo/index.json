@@ -1,22 +1,21 @@
 {
-  "name": "Flamingo DAO",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "FLA-C",
-  "defaultView": "all",
   "token": "0x43310bd1c8f261ee7b9025662207ed95329aa193",
-  "core": [],
-  "min": 1,
-  "invalid": [],
+  "name": "Flamingo DAO",
+  "network": "1",
+  "symbol": "FLA-C",
+  "skin": "flamingo",
   "strategies": [
-    [
-      "moloch",
-      {
+    {
+      "name": "moloch",
+      "params": {
         "address": "0x43310bd1c8f261ee7b9025662207ed95329aa193",
         "symbol": "FLA",
         "decimals": 18
       }
-    ]
+    }
   ],
-  "skin": "flamingo"
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1
+  }
 }

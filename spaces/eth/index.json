@@ -1,28 +1,27 @@
 {
-  "name": "ETH",
-  "chainId": 1,
-  "decimals": 18,
-  "symbol": "ETH",
-  "defaultView": "all",
   "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-  "core": [],
-  "min": 1,
-  "invalid": [],
+  "name": "ETH",
+  "network": "1",
+  "symbol": "ETH",
+  "skin": "eth",
   "strategies": [
-    [
-      "eth-balance",
-      {
+    {
+      "name": "eth-balance",
+      "params": {
         "symbol": "ETH"
       }
-    ],
-    [
-      "erc20-balance-of",
-      {
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
         "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
         "symbol": "WETH",
         "decimals": 18
       }
-    ]
+    }
   ],
-  "skin": "eth"
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1
+  }
 }
