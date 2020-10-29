@@ -26,7 +26,7 @@
   "filters": {
     "defaultTab": "all",
     "minScore": 20,
-    "onlyMembers": false
+    "onlyMembers": false,
     "invalids": [
       "QmXjbYGmX4A4eoCx1VK2jihTZJ2V7YHkZapkiKfp1KbY1N",
       "QmV3jj2np5zNMG18mmo9CCPVjN39byiABzpoucWsCGRi5x",
