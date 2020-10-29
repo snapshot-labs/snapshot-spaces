@@ -15,7 +15,7 @@
     }
   ],
   "filters": {
-    "defaultTab": "core",
-    "minScore": 1
+    "defaultTab": "all",
+    "minScore": 1000
   }
 }
