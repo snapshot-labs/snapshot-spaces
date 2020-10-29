@@ -6,11 +6,13 @@
   "skin": "cuni",
   "strategies": [
     {
-      "name": "erc20-balance-of",
+      "name": "ctoken",
       "params": {
         "address": "0x35A18000230DA775CAc24873d00Ff85BccdeD550",
         "symbol": "cUNI",
-        "decimals": 8
+        "decimals": 8,
+        "offsetCheck":40320,
+        "borrowingRestricted":true
       }
     }
   ],
