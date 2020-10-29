@@ -1,0 +1,27 @@
+{
+  "token": "0x334cbb5858417aee161b53ee0d5349ccf54514cf",
+  "name": "PoolTogether",
+  "network": "1",
+  "symbol": "PcDAI",
+  "skin": "pooltogether",
+  "domain": "snapshot.pooltogether.com",
+  "strategies": [
+    {
+      "name": "erc20-with-balance",
+      "params": {
+        "address": "0x334cbb5858417aee161b53ee0d5349ccf54514cf",
+        "symbol": "PcDAI",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0xA57D294c3a11fB542D524062aE4C5100E0E373Ec",
+    "0x5E6CC2397EcB33e6041C15360E17c777555A5E63",
+    "0x0a09cd09B0107Bb98a83f211704F036ECa94B92e"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
