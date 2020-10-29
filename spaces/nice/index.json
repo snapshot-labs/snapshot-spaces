@@ -4,7 +4,6 @@
   "network": "1",
   "symbol": "NICE",
   "skin": "nice",
-  "domain": "vote.niceee.org",
   "strategies": [
     {
       "name": "contract-call",
