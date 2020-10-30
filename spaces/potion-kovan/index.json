@@ -1,15 +1,15 @@
 {
   "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-  "name": "Potion Kovan",
+  "name": "Potion Test Kovan",
   "network": "42",
-  "symbol": "POT",
+  "symbol": "TESTPOT",
   "skin": "potion",
   "strategies": [
     {
       "name": "erc20-balance-of",
       "params": {
         "address": "0x3Ba0003fF00BE2b005fe59cC4A3D122F6f54b8C1",
-        "symbol": "POT",
+        "symbol": "TESTPOT",
         "decimals": 18
       }
     }
