@@ -1,5 +1,5 @@
 {
-  "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "token": "0x970A40ccEBCAec0D2f98210F4fEE38a62259Ac93",
   "name": "Potion Test Kovan",
   "network": "42",
   "symbol": "TESTPOT",
@@ -8,7 +8,7 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x3Ba0003fF00BE2b005fe59cC4A3D122F6f54b8C1",
+        "address": "0x970A40ccEBCAec0D2f98210F4fEE38a62259Ac93",
         "symbol": "TESTPOT",
         "decimals": 18
       }
