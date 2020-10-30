@@ -19,7 +19,10 @@
     "0xBB8022893b39012C7D2ac33b882BdFb92d68F644"
   ],
   "filters": {
-    "defaultTab": "core",
-    "minScore": 0
+    "defaultTab": "all",
+    "minScore": 10,
+    "invalids": [
+      "QmTQuD1CAKRkH12A94SSEafZz1byqefLrJAfgGzDGU9xTj"
+    ]
   }
 }
