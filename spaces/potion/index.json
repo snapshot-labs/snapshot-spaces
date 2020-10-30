@@ -1,0 +1,25 @@
+{
+  "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "name": "Potion",
+  "network": "42",
+  "symbol": "POT",
+  "skin": "potion",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x3Ba0003fF00BE2b005fe59cC4A3D122F6f54b8C1",
+        "symbol": "POT",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0xeF8305E140ac520225DAf050e2f71d5fBcC543e7",
+    "0xBB8022893b39012C7D2ac33b882BdFb92d68F644"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
