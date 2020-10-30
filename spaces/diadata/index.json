@@ -4,6 +4,7 @@
   "network": "1",
   "symbol": "DIA",
   "domain": "vote.diadata.org",
+  "skin": "diadata",
   "strategies": [
     {
       "name": "erc20-balance-of",
