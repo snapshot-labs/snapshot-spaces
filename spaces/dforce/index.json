@@ -19,7 +19,10 @@
     "minScore": 10000,
     "invalids": [
       "QmRbvbutPUUCyasdTuBwnuCCxJ24FC2X8qGUaDgJsMAfpM",
-      "QmYEj6JkRNvW9tY61bQqkmQKbjPiGPmRpmLZs3nz3HkUkG"
+      "QmYEj6JkRNvW9tY61bQqkmQKbjPiGPmRpmLZs3nz3HkUkG",
+      "QmViLxxVd2CJaDVDmNKtimxhLFYFhj1zgTomseuqtAW1R1",
+      "QmdYQVHg9HxUqnPmvubZZ1ZhE4WQbkBnGLKAnHrVzUc8Am",
+      "QmbuJ2twDC1bwyZfmnHPEEMhotbMTULoCptncmoW3F3jH5"
     ]
   }
 }
