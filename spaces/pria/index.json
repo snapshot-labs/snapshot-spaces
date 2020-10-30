@@ -3,7 +3,7 @@
   "name": "PRIA/ETH ",
   "network": "1",
   "symbol": "PRIA",
-  "skin": "example",
+  "skin": "pria",
   "strategies": [
     {
       "name": "erc20-balance-of",
