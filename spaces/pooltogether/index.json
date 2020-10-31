@@ -4,7 +4,7 @@
   "network": "1",
   "symbol": "PcDAI",
   "skin": "pooltogether",
-  "domain": "snapshot.pooltogether.com",
+  "domain": "vote.pooltogether.com",
   "strategies": [
     {
       "name": "erc20-with-balance",
