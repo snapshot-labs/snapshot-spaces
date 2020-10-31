@@ -1,0 +1,37 @@
+{
+  "token": "0xD291E7a03283640FDc51b121aC401383A46cC623",
+  "name": "Rari Capital",
+  "network": "1",
+  "symbol": "RGT",
+  "skin": "rari",
+  "domain": "vote.rari.capital",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xD291E7a03283640FDc51b121aC401383A46cC623",
+        "symbol": "RGT",
+        "decimals": 18
+      }
+    },
+    {
+      "name": "rari-unclaimed-rgt",
+      "params": {
+        "address": "0x9C0CaEb986c003417D21A7Daaf30221d61FC1043",
+        "symbol": "RGT",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x446947ec47f4C25ca59E89f45EDCE8579f1B6917",
+    "0x10dB6Bce3F2AE1589ec91A872213DAE59697967a",
+    "0x58c1a65f5f39dd1b4fa899455d319422df4399f1",
+    "0xf9c18f2d1ea93e9a36507f238cffc6f0ad7d6eb3",
+    "0xba46695289f0835d73658cb7de23dbf24667e0be"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
