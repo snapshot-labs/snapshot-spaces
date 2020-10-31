@@ -31,5 +31,6 @@
   "vote.streamr.network": "streamr",
   "governance.etgproject.org": "etgfinance",
   "gov.pokt.network": "pokt-network",
-  "vote.niceee.org": "nice"
+  "vote.niceee.org": "nice",
+  "vote.diadata.org": "diadata"
 }
