@@ -3,6 +3,7 @@
   "network": "1",
   "symbol": "cUNI",
   "skin": "cuni",
+  "domain": "cuni.comp.vote",
   "strategies": [
     {
       "name": "ctoken",
