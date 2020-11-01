@@ -1,7 +1,7 @@
 {
-  "token": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
-  "name": "Alpha Finance",
-  "network": "1",
+  "token": "alpha-bsc",
+  "name": "Alpha Finance (BSC)",
+  "network": "56",
   "symbol": "ALPHA",
   "skin": "alpha",
   "strategies": [
