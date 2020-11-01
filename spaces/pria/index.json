@@ -3,7 +3,6 @@
   "name": "PRIA ",
   "network": "1",
   "symbol": "PRIA",
-  "skin": "pria",
   "strategies": [
     {
       "name": "erc20-balance-of",
