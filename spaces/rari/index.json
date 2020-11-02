@@ -14,11 +14,32 @@
       }
     },
     {
-      "name": "rari-unclaimed-rgt",
+      "name": "contract-call",
       "params": {
         "address": "0x9C0CaEb986c003417D21A7Daaf30221d61FC1043",
         "symbol": "RGT",
-        "decimals": 18
+        "decimals": 18,
+        "methodABI": {
+          "constant": true,
+          "inputs": [
+            {
+              "internalType": "address",
+              "name": "holder",
+              "type": "address"
+            }
+          ],
+          "name": "getUnclaimedRgt",
+          "outputs": [
+            {
+              "internalType": "uint256",
+              "name": "",
+              "type": "uint256"
+            }
+          ],
+          "payable": false,
+          "stateMutability": "view",
+          "type": "function"
+        }
       }
     }
   ],
