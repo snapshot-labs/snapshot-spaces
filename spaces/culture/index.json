@@ -1,9 +1,7 @@
 {
-  "token": "0xEeA1dd32b4c4DfD16D200AC2cb286b28F7402728",
   "name": "TEAM CULTURE",
   "network": "1",
   "symbol": "CULTURE",
-  "skin": "example",
   "strategies": [
     {
       "name": "erc20-balance-of",
