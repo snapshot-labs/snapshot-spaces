@@ -28,6 +28,7 @@
   "voting.pancakeswap.finance": "pancake",
   "vote.taconomics.io": "taco",
   "gov.narwhalswap.org": "narwhal",
+<<<<<<< HEAD
   "vote.streamr.network": "streamr",
   "governance.etgproject.org": "etgfinance",
   "gov.pokt.network": "pokt-network",
@@ -35,4 +36,12 @@
   "vote.niceee.org": "nice",
   "vote.diadata.org": "diadata",
   "cuni.comp.vote": "cuni"
+=======
+<<<<<<< HEAD
+  "governance.etgproject.org": "etgfinance",
+  "gov.pokt.network": "pokt-network"
+=======
+  "gov.as2.network": "freight trust"
+>>>>>>> e0cf1bb... add: freight trust gov.
+>>>>>>> d787b3d... add: freight trust gov.
 }
