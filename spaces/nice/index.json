@@ -1,5 +1,4 @@
 {
-  "token": "0x53f64be99da00fec224eaf9f8ce2012149d2fc88",
   "name": "NICEE",
   "network": "1",
   "symbol": "NICE",
@@ -12,7 +11,7 @@
         "address": "0x669Bffac935Be666219c68D20931CBf677b8Fa1C",
         "decimals": 18,
         "symbol": "NICE",
-        "methodABI":    {
+        "methodABI": {
           "inputs": [
             {
               "internalType": "address",

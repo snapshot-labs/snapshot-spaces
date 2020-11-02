@@ -31,7 +31,9 @@
   "vote.streamr.network": "streamr",
   "governance.etgproject.org": "etgfinance",
   "gov.pokt.network": "pokt-network",
+  "vote.pooltogether.com": "pooltogether",
   "vote.niceee.org": "nice",
   "vote.diadata.org": "diadata",
+  "cuni.comp.vote": "cuni",
   "vote.rari.capital": "rari"
 }
