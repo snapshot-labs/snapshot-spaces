@@ -3,6 +3,7 @@
   "network": "42",
   "symbol": "TBA",
   "skin": "tballiance",
+  "domain": "tbavote.joyso.io",
   "strategies": [
     {
       "name": "erc20-balance-of",
