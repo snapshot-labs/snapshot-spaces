@@ -24,7 +24,8 @@
   "filters": {
     "defaultTab": "core",
     "minScore": 1000
-  }
+  },
+  "strategies": [
     {
       "name": "contract-call",
       "params": {
