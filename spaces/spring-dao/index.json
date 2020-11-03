@@ -2,7 +2,7 @@
   "name": "SpringDAO",
   "network": "1",
   "symbol": "SPRNG",
-  "skin": "spring-dao",
+  
   "strategies": [
     {
       "name": "erc20-balance-of",
