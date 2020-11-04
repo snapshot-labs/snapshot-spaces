@@ -1,5 +1,4 @@
 {
-  "token": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
   "name": "DIAData",
   "network": "1",
   "symbol": "DIA",
@@ -24,7 +23,7 @@
     "defaultTab": "core",
     "minScore": 10000000,
     "onlyMembers" : true,
-    "invalids": [ // List of proposals IDs (use this to remove a proposal from your space)
+    "invalids": [
       "QmZrhfvX1MUT6AprZLDezsjX69zLAFsisZu6ZvHqGjgNCM"
     ]
   }
