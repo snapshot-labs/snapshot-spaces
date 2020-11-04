@@ -1,5 +1,4 @@
 {
-  "token": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
   "name": "Synthetix",
   "network": "1",
   "symbol": "WD",
@@ -17,7 +16,10 @@
   "filters": {
     "defaultTab": "core",
     "minScore": 0,
-    "invalids": ["QmYdM23aoTo6zW6AB6diqJQLcYLPsMDBkj8LkcFhUkNTAg"]
+    "invalids": [
+      "QmYdM23aoTo6zW6AB6diqJQLcYLPsMDBkj8LkcFhUkNTAg",
+      "QmPogRTZuJZNRbYs8bK515Tp4KrbVxkMytkFjusYxLsh6b"
+    ]
   },
   "members": [
     "0xa331986ec34E103D567937B293FF8103330FEAda",

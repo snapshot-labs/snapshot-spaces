@@ -1,9 +1,9 @@
 {
-  "token": "0x35A18000230DA775CAc24873d00Ff85BccdeD550",
   "name": "Compound Uniswap",
   "network": "1",
   "symbol": "cUNI",
   "skin": "cuni",
+  "domain": "cuni.comp.vote",
   "strategies": [
     {
       "name": "ctoken",
@@ -11,8 +11,8 @@
         "address": "0x35A18000230DA775CAc24873d00Ff85BccdeD550",
         "symbol": "cUNI",
         "decimals": 8,
-        "offsetCheck":40320,
-        "borrowingRestricted":true
+        "offsetCheck": 40320,
+        "borrowingRestricted": true
       }
     }
   ],
