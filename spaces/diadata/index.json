@@ -7,22 +7,25 @@
   "skin": "diadata",
   "strategies": [
     {
-      "name": "erc20-balance-of",
+      "name": "diadata",
       "params": {
         "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
-        "symbol": "DIA",
-        "decimals": 18
+          "symbol": "DIA",
+          "decimals": 18,
+          "minTokenBalance": 10
       }
     }
   ],
   "members": [
     "0x5737bf56559Dd32D8880Cfa236fE613E2162e157",
     "0x8f6Ce1D7D9f01193e5E077Ac5e2c76A6Ec6FbF0C"
-
   ],
   "filters": {
     "defaultTab": "core",
     "minScore": 10000000,
-    "onlyMembers" : true
+    "onlyMembers" : true,
+    "invalids": [ // List of proposals IDs (use this to remove a proposal from your space)
+      "QmZrhfvX1MUT6AprZLDezsjX69zLAFsisZu6ZvHqGjgNCM"
+    ]
   }
 }
