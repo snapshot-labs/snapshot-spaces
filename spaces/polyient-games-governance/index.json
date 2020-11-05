@@ -11,6 +11,14 @@
         "symbol": "PGT",
         "decimals": 18
       }
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+          "address": "0xcebeca2f22080a7eb1c810e8a3ed42bbcff233c6",
+          "symbol": "PGLP",
+          "decimals": 18
+      }
     }
   ],
   "members": [
