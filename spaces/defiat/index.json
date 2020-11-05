@@ -1,0 +1,25 @@
+{
+  "name": "DeFiat",
+  "network": "1",
+  "symbol": "DFT",
+  "skin": "defiat",
+  "domain": "gov.defiat.net",
+  "strategies": [
+    {
+      "name": "defiat",
+      "params": {
+        "address": "0xB6eE603933E024d8d53dDE3faa0bf98fE2a3d6f1",
+        "symbol": "DFT",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x4F4B49E7f3661652F13A6D2C86d9Af4435414721",
+    "0x9B793F967Adc7C09B5Bd192C9E99215A12521fC4"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
