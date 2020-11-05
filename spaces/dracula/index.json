@@ -1,0 +1,24 @@
+{
+  "name": "Dracula Protocol",
+  "network": "1",
+  "symbol": "DRC",
+  "skin": "dracula",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8",
+        "symbol": "DRC",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x94627695F66Ab36Ae00c1995a30Bf5B30E139873",
+    "0xa896e4bd97a733F049b23d2AcEB091BcE01f298d"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
