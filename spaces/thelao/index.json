@@ -1,20 +1,20 @@
 {
-  "key": "thelao",
   "name": "The LAO",
-  "chainId": 1,
-  "decimals": 18,
+  "network": "1",
   "symbol": "LAO",
-  "defaultView": "all",
-  "address": "0x8f56682a50becb1df2fb8136954f2062871bc7fc",
-  "token": "0x8f56682a50becb1df2fb8136954f2062871bc7fc",
-  "core": [],
-  "min": 1,
-  "invalid": [],
+  "skin": "thelao",
   "strategies": [
-    ["moloch", {
-      "address": "0x8f56682a50becb1df2fb8136954f2062871bc7fc",
-      "symbol": "LAO",
-      "decimals": 18
-    }]
-  ]
+    {
+      "name": "moloch",
+      "params": {
+        "address": "0x8f56682a50becb1df2fb8136954f2062871bc7fc",
+        "symbol": "LAO",
+        "decimals": 18
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1
+  }
 }

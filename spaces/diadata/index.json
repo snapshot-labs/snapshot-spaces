@@ -1,0 +1,26 @@
+{
+  "name": "DIAData",
+  "network": "1",
+  "symbol": "DIA",
+  "domain": "vote.diadata.org",
+  "skin": "diadata",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+        "symbol": "DIA",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x5737bf56559Dd32D8880Cfa236fE613E2162e157",
+    "0x8f6Ce1D7D9f01193e5E077Ac5e2c76A6Ec6FbF0C"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 10000000,
+    "onlyMembers": true
+  }
+}

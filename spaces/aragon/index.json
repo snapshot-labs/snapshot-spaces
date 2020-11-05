@@ -1,30 +1,36 @@
 {
-  "key": "aragon",
   "name": "Aragon",
-  "chainId": 1,
-  "decimals": 18,
+  "network": "1",
   "symbol": "ANT",
-  "defaultView": "core",
-  "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
-  "token": "0x960b236A07cf122663c4303350609A66A7B288C0",
-  "core": [
+  "skin": "aragon",
+  "domain": "gov.aragon.org",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
+        "symbol": "ANT",
+        "decimals": 18
+      }
+    },
+    {
+      "name": "balancer",
+      "params": {
+        "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
+        "symbol": "ANT BPT"
+      }
+    }
+  ],
+  "members": [
     "0xf08b64258465A9896691E23caaF9E6C830ec4b9D"
   ],
-  "min": 0,
-  "invalid": [
-    "QmPNvdddbA1gQ8PCQxnEjhTeGSTvkdCarwkRyzgeoFHSgH",
-    "QmNTgjdR3rNj25Ah6PxYzAzb8cD7cT6HmKoFFmKADrr2gC"
-  ],
-  "showOnlyCore": true,
-  "strategies": [
-    ["erc20-balance-of", {
-      "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
-      "symbol": "ANT",
-      "decimals": 18
-    }],
-    ["balancer", {
-      "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
-      "symbol": "ANT BPT"
-    }]
-  ]
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0,
+    "onlyMembers": true,
+    "invalids": [
+      "QmPNvdddbA1gQ8PCQxnEjhTeGSTvkdCarwkRyzgeoFHSgH",
+      "QmNTgjdR3rNj25Ah6PxYzAzb8cD7cT6HmKoFFmKADrr2gC"
+    ]
+  }
 }
