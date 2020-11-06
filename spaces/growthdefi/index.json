@@ -1,8 +1,8 @@
 {
-  "name": "GrowthDefi", 
+  "name": "growthdefi", 
   "network": "1", 
   "symbol": "GRO", 
-  "skin": "GrowthDefi", 
+  "skin": "growthdefi", 
   
   "strategies": [ 
     {
