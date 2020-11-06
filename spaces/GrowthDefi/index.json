@@ -1,27 +1,27 @@
 {
-  "name": "GrowthDefi", // Name of your space (max 20 chars)
-  "network": "1", // What network you are on? (if on Ethereum it is "1", for other check: https://docs.snapshot.page/networks)
-  "symbol": "GRO", // Your main token symbol 
-  "skin": "GrowthDefi", // Copy skin filename "example.scss" located at "/skins" folder and renaming it to "your-space.scss"
-  //"domain": "vote.yourdomain.com", // Add your voting/governance subdomain if you have one
-  "strategies": [ // Strategies
+  "name": "GrowthDefi", 
+  "network": "1", 
+  "symbol": "GRO", 
+  "skin": "GrowthDefi", 
+  
+  "strategies": [ 
     {
-      "name": "erc20-balance-of", // Strategy name
-      "params": { // Strategy parameters
-        "address": "0x09e64c2b61a5f1690ee6fbed9baf5d6990f8dfd0", // Address of the base token
-        "symbol": "GRO", // Symbol of the base token
-        "decimals": 18 // Decimals of the base token
+      "name": "erc20-balance-of", 
+      "params": { 
+        "address": "0x09e64c2b61a5f1690ee6fbed9baf5d6990f8dfd0",
+        "symbol": "GRO", 
+        "decimals": 18 
       }
     }
   ],
-  "members": [ // List of official addresses that can post in "Core" tab of the space
-    "0xeF8305E140ac520225DAf050e2f71d5fBcC543e7" // Core member address
+  "members": [ 
+    "0xeF8305E140ac520225DAf050e2f71d5fBcC543e7"
   ],
-  "filters": { // Filters
-    "defaultTab": "all", // The default tab for the space
-    "minScore": 1, // Minimum balance from the base token that a user should have to show his proposal in the space (unless the address is a core address)
-    "onlyMembers": true // Shows only core tab and core proposals
-    "invalids": [ // List of proposals IDs (use this to remove a proposal from your space)
+  "filters": { 
+    "defaultTab": "all", 
+    "minScore": 1, 
+    "onlyMembers": true 
+    "invalids": [ 
       
     ]
   }
