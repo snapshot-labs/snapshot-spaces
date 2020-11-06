@@ -1,5 +1,4 @@
 {
-  "token": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
   "name": "Alpha Finance (BSC)",
   "network": "56",
   "symbol": "ALPHA",
@@ -19,6 +18,7 @@
   ],
   "filters": {
     "defaultTab": "all",
-    "minScore": 0
+    "minScore": 0,
+    "onlyMembers": true
   }
 }

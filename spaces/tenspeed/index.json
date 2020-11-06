@@ -1,5 +1,4 @@
 {
-  "token": "0x776CA7dEd9474829ea20AD4a5Ab7a6fFdB64C796",
   "name": "TenSpeed",
   "network": "1",
   "symbol": "TENS",
@@ -17,4 +16,4 @@
     "defaultTab": "all",
     "minScore": 0
   }
-} 
+}

@@ -1,5 +1,4 @@
 {
-  "token": "0x9257e8c80119fedab64842024ced4113912b0ab1",
   "name": "Cartel",
   "network": "1",
   "symbol": "CARTEL",
@@ -13,7 +12,9 @@
       }
     }
   ],
-  "members": ["0xa34ef48b73870fa2aca1558239576ccbc60ad542"],
+  "members": [
+    "0xa34ef48b73870fa2aca1558239576ccbc60ad542"
+  ],
   "filters": {
     "defaultTab": "all",
     "minScore": 0.01
