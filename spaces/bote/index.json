@@ -1,0 +1,22 @@
+{
+  "name": "Bote",
+  "network": "1",
+  "symbol": "",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "",
+        "symbol": "",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    ""
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
