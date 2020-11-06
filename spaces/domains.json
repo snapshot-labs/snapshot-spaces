@@ -31,9 +31,6 @@
   "vote.streamr.network": "streamr",
   "governance.etgproject.org": "etgfinance",
   "gov.pokt.network": "pokt-network",
-<<<<<<< HEAD
-  "vote.pooltogether.com": "pooltogether"
-=======
   "vote.pooltogether.com": "pooltogether",
   "vote.niceee.org": "nice",
   "vote.diadata.org": "diadata",
@@ -43,5 +40,4 @@
   "vote.rari.capital": "rari",
   "vote.bloodyfi.org": "bloody",
   "vote.indexcoop.com": "index"
->>>>>>> 38ff37dbf7e1f1404087edd1aa334baed4a0a42d
 }
