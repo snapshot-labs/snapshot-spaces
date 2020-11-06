@@ -3,7 +3,6 @@
   "network": "1",
   "symbol": "eRSDL",
   "skin": "unfederalreserve",
-  "domain": [],
   "strategies": [
     {
       "name": "erc20-balance-of",
