@@ -2,16 +2,6 @@
   "name": "Rally",
   "network": "1",
   "symbol": "RLY",
-  "strategies": [
-    {
-      "name": "erc20-balance-of",
-      "params": {
-        "address": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
-        "symbol": "RLY",
-        "decimals": 18
-      }
-    }
-  ],
   "members": [
     "0x893D2E776F21143354123241bC1DC237C47BC3fC",
     "0xf4d40931B642af450a3EDDA27BE9B467b40b89dA",
@@ -33,5 +23,36 @@
   "filters": {
     "defaultTab": "core",
     "minScore": 1000
-  }
+  },
+  "strategies": [
+    {
+      "name": "contract-call",
+      "params": {
+        "address": "0x3f5911fd5853EA3B30E259c5044Ac2BBE1A86a6C",
+        "decimals": 9,
+        "symbol": "RLY",
+        "methodABI": {
+          "constant": true,
+          "inputs": [
+            {
+              "internalType": "address",
+              "name": "account",
+              "type": "address"
+            }
+          ],
+          "name": "snapshotScore",
+          "outputs": [
+            {
+              "internalType": "uint256",
+              "name": "",
+              "type": "uint256"
+            }
+          ],
+          "payable": false,
+          "stateMutability": "view",
+          "type": "function"
+        }
+      }
+    }
+  ]
 }
