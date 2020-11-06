@@ -21,8 +21,6 @@
     "defaultTab": "all", 
     "minScore": 1, 
     "onlyMembers": true 
-    "invalids": [ 
-      
-    ]
+    
   }
 }
