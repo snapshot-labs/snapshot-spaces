@@ -11,7 +11,7 @@
         "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
           "symbol": "DIA",
           "decimals": 18,
-          "minTokenBalance": 10
+          "minBalance": 10
       }
     }
   ],
