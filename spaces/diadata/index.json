@@ -6,12 +6,11 @@
   "skin": "diadata",
   "strategies": [
     {
-      "name": "erc20-with-balance",
+      "name": "erc20-balance-of",
       "params": {
         "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
-          "symbol": "DIA",
-          "decimals": 18,
-          "minBalance": 10
+        "symbol": "DIA",
+        "decimals": 18
       }
     }
   ],
@@ -22,9 +21,6 @@
   "filters": {
     "defaultTab": "core",
     "minScore": 10000000,
-    "onlyMembers" : true,
-    "invalids": [
-      "QmZrhfvX1MUT6AprZLDezsjX69zLAFsisZu6ZvHqGjgNCM"
-    ]
+    "onlyMembers": true
   }
 }
