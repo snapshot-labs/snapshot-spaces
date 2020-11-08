@@ -5,12 +5,20 @@
   "skin": "mantra-dao",
   "strategies": [
     {
-      "name": "mantra-dao",
+      "name": "erc20-balance-of",
       "params": {
-        "omStakingAddress": "0x2bCD929283Ad0EE603E743412ddb214b91fbab88",
-        "omUniStakingAddress": "0x99b1db3318aa3040f336fb65c55400e164ddcd7f",
-        "omUniScalingFactor": 5,
+        "address": "0x2bCD929283Ad0EE603E743412ddb214b91fbab88",
+        "symbol": "OM",
         "decimals": 18
+      }
+    },
+    {
+      "name": "erc20-balance-of-coeff",
+      "params": {
+        "address": "0x99b1db3318aa3040f336fb65c55400e164ddcd7f",
+        "symbol": "OMUNI",
+        "decimals": 18,
+        "coeff": 2
       }
     }
   ],
