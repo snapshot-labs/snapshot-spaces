@@ -20,9 +20,8 @@
     "0x8f6Ce1D7D9f01193e5E077Ac5e2c76A6Ec6FbF0C"
   ],
   "filters": {
-    "defaultTab": "core",
-    "minScore": 10000000,
-    "onlyMembers" : true,
+    "defaultTab": "all",
+    "minScore": 10,
     "invalids": [
       "QmZrhfvX1MUT6AprZLDezsjX69zLAFsisZu6ZvHqGjgNCM"
     ]
