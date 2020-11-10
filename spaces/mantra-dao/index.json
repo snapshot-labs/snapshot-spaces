@@ -18,7 +18,7 @@
         "address": "0x99b1db3318aa3040f336fb65c55400e164ddcd7f",
         "symbol": "OMUNI",
         "decimals": 18,
-        "coeff": 2
+        "coeff": 250
       }
     }
   ],
