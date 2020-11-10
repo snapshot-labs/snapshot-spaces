@@ -4,9 +4,9 @@
   "decimals": 18,
   "symbol": "BTF",
   "defaultView": "core",
-  "token": "0x71ca7438183d978442BebE29fb9eC19CA35d20d4",
+  "token": "0xa80C32c721d06c91DcEFfEa78f184503c9046940",
   "core": [
-    "0xcAbB6cc419E7361EeC1f508f9f99C1e79c4E33eD"
+    "0xe550bfdb3f4de5a19f85d56f40394803e70b3e69"
   ],
   "min": 0,
   "invalid": []
