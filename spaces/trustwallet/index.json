@@ -20,7 +20,7 @@
   ],
   "filters": {
     "defaultTab": "core",
-    "minScore": 100000,
+    "minScore": 800000,
     "invalids": [
       "QmYnwRRFPAMobxG82JeBKNKCTs267tkzebb7JGuH7HJkDP",
       "QmQML6MUf5w5KLw7PeDQpioeLQYeZiSc7Ct4tEP1rqQtT6",
