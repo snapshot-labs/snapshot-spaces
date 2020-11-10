@@ -2,8 +2,7 @@
   "name": "growthdefi", 
   "network": "1", 
   "symbol": "GRO", 
-  "skin": "growthdefi", 
-  
+    
   "strategies": [ 
     {
       "name": "erc20-balance-of", 
