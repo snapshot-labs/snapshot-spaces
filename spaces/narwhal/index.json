@@ -1,5 +1,4 @@
 {
-  "token": "0x6451571Cb5bEe9Fd575ad98506E96f3d09C66F91",
   "name": "Narwhal",
   "network": "56",
   "symbol": "NARHOLDERS",
@@ -20,11 +19,11 @@
   ],
   "filters": {
     "defaultTab": "core",
-    "minScore": 1
-  },
-  "invalids": [
-    "QmZU3Kfzcr3z3RVs2GxF71PJJusRdyk9p7WdtBvKghnHXb",
-    "QmWCENSGLBqyTRvPrFYDGBb5CdSRxeSp9p6YGYKrQHdT1v",
-    "QmcLaVLFVBHMWETwjCCDL6UQaKuKWchUei5Nh3ntEjgpvt"
-  ]
+    "minScore": 1,
+    "invalids": [
+      "QmZU3Kfzcr3z3RVs2GxF71PJJusRdyk9p7WdtBvKghnHXb",
+      "QmWCENSGLBqyTRvPrFYDGBb5CdSRxeSp9p6YGYKrQHdT1v",
+      "QmcLaVLFVBHMWETwjCCDL6UQaKuKWchUei5Nh3ntEjgpvt"
+    ]
+  }
 }

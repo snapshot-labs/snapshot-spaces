@@ -1,5 +1,4 @@
 {
-  "token": "0x4b0f1812e5df2a09796481ff14017e6005508003",
   "name": "Trust Wallet",
   "network": "56",
   "symbol": "TWT",
@@ -24,7 +23,9 @@
     "minScore": 100000,
     "invalids": [
       "QmYnwRRFPAMobxG82JeBKNKCTs267tkzebb7JGuH7HJkDP",
-      "QmQML6MUf5w5KLw7PeDQpioeLQYeZiSc7Ct4tEP1rqQtT6"
+      "QmQML6MUf5w5KLw7PeDQpioeLQYeZiSc7Ct4tEP1rqQtT6",
+      "QmPxDMtwNbNUmoQPX8RJKAaKb5PqCfFBSHg774c1kxAArw",
+      "QmWtiztDHr7pKNvSk4Gxjrfogj3gWJDm5NfViMCC4y8udc"
     ]
   }
 }
