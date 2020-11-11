@@ -1,0 +1,23 @@
+{
+  "name": "pok.finance",
+  "network": "1",
+  "symbol": "POK",
+  "skin": "pok",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x32b4a68008701e724914d29e58c2db7e3e30e631",
+        "symbol": "POK",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0xF8b1747D07B39Dd1A018fe171A1d99982f04B85c"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
