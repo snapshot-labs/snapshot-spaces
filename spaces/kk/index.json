@@ -1,0 +1,30 @@
+{
+  "name": "kk token",
+  "network": "4",
+  "symbol": "KK",
+  "skin": "kk",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x5242EEE92D535d743a50c5c92F4fa3F723B3151e",
+        "symbol": "KK",
+        "decimals": 18
+      }
+    },
+    {
+      "name": "uniswap",
+      "params": {
+        "address": "0x5242EEE92D535d743a50c5c92F4fa3F723B3151e",
+        "symbol": "KK BPT"
+      }
+    }
+  ],
+  "members": [
+    "0x4ad6e21BEf59268f2CCf10bFa18c20c8C13eD859"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 100
+  }
+}
