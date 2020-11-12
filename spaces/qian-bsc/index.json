@@ -43,6 +43,6 @@
   "filters": {
     "defaultTab": "all",
     "minScore": 0,
-    "onlyMembers": true
+    "onlyMembers": false
   }
 }
