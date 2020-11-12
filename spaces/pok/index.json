@@ -17,7 +17,12 @@
     "0xF8b1747D07B39Dd1A018fe171A1d99982f04B85c"
   ],
   "filters": {
-    "defaultTab": "core",
-    "minScore": 0
+    "defaultTab": "all",
+    "minScore": 100,
+    "invalids": [
+      "QmV6KRUEJ2DNLyhyAH6NrKNP3WQD41CHMVud6N4dUhu6HH",
+      "QmTttbezp5zYzz5u9Dc6xspBZJcuTbXH7hBX5MEfcs1oxj",
+      "QmdR53WqJL7oYYGYqmAJyvR9cf6yxKLP9jgkBy3kk1t5n3"
+    ]
   }
 }
