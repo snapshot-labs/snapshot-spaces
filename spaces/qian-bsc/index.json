@@ -3,7 +3,6 @@
   "network": "56",
   "symbol": "KUN",
   "skin": "qian",
-  "domain": "signal.qian.com",
   "strategies": [
     {
       "name": "contract-call",
