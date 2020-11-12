@@ -1,0 +1,25 @@
+{
+  "name": "bti.finance",
+  "network": "1",
+  "symbol": "bti",
+  "skin": "example",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x266cA21f966D93F5580E20b55ef66C8320E4760E",
+        "symbol": "YFII",
+        "decimals": 18
+      }
+    }
+  ],
+  "filters": { // Filters
+    "defaultTab": "all", // The default tab for the space
+    "minScore": 123, // Minimum balance from the base token that a user should have to show his proposal in the space (unless the address is a core address)
+    "onlyMembers": true, // Shows only core tab and core proposals
+    "invalids": [ // List of proposals IDs (use this to remove a proposal from your space)
+      "QmXAZP8tYwX2zZz5EzfxLZUYJt6TM9EmxY1L4qodhZ5zcZ",
+      "QmXAZV8tYwX2zZz5EzfxLZUYJt6TM9EmxY1L4qodhZ5lbL"
+    ]
+  }
+}
