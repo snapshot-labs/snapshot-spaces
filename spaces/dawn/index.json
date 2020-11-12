@@ -1,0 +1,24 @@
+{
+  "name": "Dawn",
+  "network": "1",
+  "symbol": "DAWN",
+  "skin": "dawn",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "‍0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
+        "symbol": "DAWN",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x168767eeb7b63A49F1D1E213FF354A6a934a93b0",
+    "0x49739f37d855fa644C2aeeCf41BFE09678371D02"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
