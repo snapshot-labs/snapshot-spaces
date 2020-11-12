@@ -19,6 +19,7 @@
   "vote.uvault.finance": "unicore",
   "gov.exnt.io": "exnetwork",
   "dao.thirm.com": "thirm",
+  "gov.defiat.net": "defiat",
   "gov.synthetix.io": "synthetix",
   "gov.wassies.com": "wassies",
   "signal.osho.finance": "love",
@@ -39,5 +40,6 @@
   "vote.rottenswap.org": "rot",
   "vote.rari.capital": "rari",
   "vote.bloodyfi.org": "bloody",
-  "vote.indexcoop.com": "index"
+  "vote.indexcoop.com": "index",
+  "gov.yaxis.io": "yaxis"
 }
