@@ -1,15 +1,15 @@
 {
-  "token": "0xb1dC9124c395c1e97773ab855d66E879f053A289",
   "name": "yAxis",
   "network": "1",
   "symbol": "YAX",
   "skin": "yaxis",
+  "domain": "gov.yaxis.io",
   "strategies": [
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0xb1dC9124c395c1e97773ab855d66E879f053A289",
-        "symbol": "YAX",
+        "address": "0x162c07f7076b5287cf1d599972c480c51ae00743",
+        "symbol": "YAX VP",
         "decimals": 18
       }
     }
@@ -25,6 +25,6 @@
   ],
   "filters": {
     "defaultTab": "core",
-    "minScore": 100
+    "minScore": 10
   }
 }

@@ -1,13 +1,12 @@
 {
-  "token": "0xA5C5C8Af327248c4c2dce810a3d3Cffb8C4F66ab",
-  "name": "LexDAO Engineering",
+  "name": "LexDAO Collective",
   "network": "1",
   "symbol": "LEX",
   "strategies": [
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0xA5C5C8Af327248c4c2dce810a3d3Cffb8C4F66ab",
+        "address": "0x591Af40D7937B5aBC2FBbC374Cd6c07243d23d9d",
         "symbol": "LEX",
         "decimals": 18
       }
