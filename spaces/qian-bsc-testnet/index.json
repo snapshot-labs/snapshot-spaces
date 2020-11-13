@@ -42,6 +42,9 @@
   "filters": {
     "defaultTab": "all",
     "minScore": 0,
-    "onlyMembers": false
+    "onlyMembers": false,
+    "invalids": [
+      "QmRkBojd2vwQQY8PFDFyFVkv3EXwWe4pQnrPDPRAeFwCD4"
+    ]
   }
 }
