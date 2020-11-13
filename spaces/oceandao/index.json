@@ -2,7 +2,7 @@
   "name": "OceanDAO",
   "network": "1",
   "symbol": "OCEAN",
-  "skin": "ocean-dao",
+  "skin": "oceandao",
   "strategies": [
     {
       "name": "erc20-balance-of",
