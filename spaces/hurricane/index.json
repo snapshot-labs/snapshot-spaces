@@ -3,6 +3,7 @@
   "network": "42",
   "symbol": "CAT5",
   "skin": "hurricane",
+  "domain": "gov.hurricane.finance",
   "strategies": [
     {
       "name": "erc20-balance-of",
