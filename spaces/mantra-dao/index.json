@@ -1,0 +1,33 @@
+{
+  "name": "MANTRA DAO",
+  "network": "1",
+  "symbol": "OM",
+  "skin": "mantra-dao",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x2bCD929283Ad0EE603E743412ddb214b91fbab88",
+        "symbol": "OM",
+        "decimals": 18
+      }
+    },
+    {
+      "name": "erc20-balance-of-coeff",
+      "params": {
+        "address": "0x99b1db3318aa3040f336fb65c55400e164ddcd7f",
+        "symbol": "OMUNI",
+        "decimals": 18,
+        "coeff": 250
+      }
+    }
+  ],
+  "members": [
+    "0xd4eee3d50588d7dee8dcc42635e50093e0aa8cc0",
+    "0x12e79894e7d9EdC6f1Ea7dB7bB9AC8F911BE716b"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}

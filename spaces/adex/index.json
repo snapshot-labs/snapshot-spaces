@@ -13,6 +13,10 @@
       }
     }
   ],
+  "members": [
+    "0x913bBB4c71DA6E88F90BF7e53E6b1310d75d306e",
+    "0x23C2c34f38ce66ccC10E71e9bB2A06532D52C5E9"
+  ],
   "filters": {
     "defaultTab": "all",
     "minScore": 0
