@@ -7,7 +7,7 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0xCCf24F117acce3C138310412da44EA6236dda056",
+        "address": "0xc463f34040ad6222C1fFB03ACEbDFAAC032202d6",
         "symbol": "kMPL",
         "decimals": 9
       }
@@ -20,6 +20,14 @@
         "decimals": 9,
         "coeff": 0.001
       }
+    },
+    {
+      "name": "uniswap",
+      "params": {
+        "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+        "symbol": "AMPL",
+        "weight": 0.001
+      }
     }
   ],
   "members": [
@@ -28,6 +36,7 @@
   "filters": {
     "defaultTab": "all",
     "minScore": 0,
-    "onlyMembers": true
+    "onlyMembers": true,
+    "invalids": [ "QmT81dYKc7F83vtpoSnyfnv7UZh8Vei3zgC9nYo1d7Ybhh" ]
   }
 }
