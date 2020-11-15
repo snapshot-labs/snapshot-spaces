@@ -6,7 +6,7 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x591Af40D7937B5aBC2FBbC374Cd6c07243d23d9d",
+        "address": "0x63125c0d5Cd9071de9A1ac84c400982f41C697AE",
         "symbol": "LEX",
         "decimals": 18
       }
