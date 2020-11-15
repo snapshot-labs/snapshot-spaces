@@ -3,6 +3,7 @@
   "network": "1",
   "symbol": "PGT",
   "skin": "polyient-games-governance",
+  "domain": "vote.polyient.games",
   "strategies": [
     {
       "name": "erc20-balance-of",
