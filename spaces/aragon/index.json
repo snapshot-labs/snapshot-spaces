@@ -1,29 +1,31 @@
 {
   "name": "Aragon",
   "network": "1",
-  "symbol": "ANT",
+  "symbol": "ANJ",
   "skin": "aragon",
   "domain": "gov.aragon.org",
   "strategies": [
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
-        "symbol": "ANT",
+        "address": "0xcD62b1C403fa761BAadFC74C525ce2B51780b184",
+        "symbol": "ANJ",
         "decimals": 18
       }
     },
     {
-      "name": "balancer",
+      "name": "anj-staked",
       "params": {
-        "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
-        "symbol": "ANT BPT"
+        "jurorsRegistry": "0x0F7471C1df2021fF45f112878F755aAbe7AA16bF",
+        "symbol": "ANJ RGT",
+        "decimals": 18
       }
     }
   ],
   "members": [
     "0xf08b64258465A9896691E23caaF9E6C830ec4b9D",
-    "0x4cB3FD420555A09bA98845f0B816e45cFb230983"
+    "0x4cB3FD420555A09bA98845f0B816e45cFb230983",
+    "0xa1d4c9e0a46068afa3d8424b0618218bf85ccaaa"
   ],
   "filters": {
     "defaultTab": "core",
