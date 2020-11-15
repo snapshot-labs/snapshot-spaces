@@ -17,7 +17,7 @@
       "name": "anj-staked",
       "params": {
         "jurorsRegistry": "0x0F7471C1df2021fF45f112878F755aAbe7AA16bF",
-        "symbol": "ANJ RGT",
+        "symbol": "sANJ",
         "decimals": 18
       }
     }
