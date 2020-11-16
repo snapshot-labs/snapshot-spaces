@@ -1,4 +1,5 @@
 {
+  "vote.acryptos.com": "acryptos",
   "vote.balancer.finance": "balancer",
   "yearn.snapshot.page": "yearn",
   "signal.aave.com": "aave",
@@ -42,5 +43,9 @@
   "vote.bloodyfi.org": "bloody",
   "vote.indexcoop.com": "index",
   "gov.yaxis.io": "yaxis",
+<<<<<<< HEAD
   "gov.bti.finance": "bti"
+=======
+  "gov.hurricane.finance":"hurricane"
+>>>>>>> master/master
 }
