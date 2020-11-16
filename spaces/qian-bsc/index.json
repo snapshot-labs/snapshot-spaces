@@ -41,7 +41,7 @@
   ],
   "filters": {
     "defaultTab": "all",
-    "minScore": 0,
+    "minScore": 100,
     "onlyMembers": false
   }
 }
