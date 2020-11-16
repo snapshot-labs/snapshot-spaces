@@ -14,11 +14,30 @@
       }
     },
     {
-      "name": "anj-staked",
+      "name": "contract-call",
       "params": {
-        "jurorsRegistry": "0x0F7471C1df2021fF45f112878F755aAbe7AA16bF",
+        "address": "0x0F7471C1df2021fF45f112878F755aAbe7AA16bF",
         "symbol": "sANJ",
-        "decimals": 18
+        "decimals": 18,
+        "methodABI": {
+          "constant": true,
+          "inputs": [
+            {
+              "name": "_juror",
+              "type": "address"
+            }
+          ],
+          "name": "totalStakedFor",
+          "outputs": [
+            {
+              "name": "",
+              "type": "uint256"
+            }
+          ],
+          "payable": false,
+          "stateMutability": "view",
+          "type": "function"
+        }
       }
     }
   ],
