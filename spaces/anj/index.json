@@ -1,9 +1,8 @@
 {
-  "name": "Aragon",
+  "name": "ANJ",
   "network": "1",
   "symbol": "ANJ",
   "skin": "aragon",
-  "domain": "gov.aragon.org",
   "strategies": [
     {
       "name": "erc20-balance-of",
@@ -50,9 +49,6 @@
     "defaultTab": "core",
     "minScore": 0,
     "onlyMembers": true,
-    "invalids": [
-      "QmPNvdddbA1gQ8PCQxnEjhTeGSTvkdCarwkRyzgeoFHSgH",
-      "QmNTgjdR3rNj25Ah6PxYzAzb8cD7cT6HmKoFFmKADrr2gC"
-    ]
+    "invalids": ["QmcZAWzbFvXnddFXuZNZjXkwKceSyMiN6vqoT3XbCD8civ"]
   }
 }
