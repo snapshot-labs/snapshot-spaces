@@ -3,6 +3,7 @@
   "network": "1",
   "symbol": "OCEAN",
   "skin": "oceandao",
+  "domain": "vote.oceanprotocol.com",
   "strategies": [
     {
       "name": "erc20-balance-of",
