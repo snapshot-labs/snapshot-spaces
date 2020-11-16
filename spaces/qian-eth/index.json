@@ -1,13 +1,13 @@
 {
-  "name": "QIAN(BSC Testnet)",
-  "network": "97",
+  "name": "QIAN(ETH)",
+  "network": "1",
   "symbol": "KUN",
   "skin": "qian",
   "strategies": [
     {
       "name": "contract-call",
       "params": {
-        "address": "0xC4323faB07b6944Bf8d06B33fFf398a21D6CA207",
+        "address": "0xA61520F2a20bE603Dcfbdef3FB616615eEB1e675",
         "decimals": 18,
         "symbol": "KUN",
         "methodABI": {
@@ -42,9 +42,6 @@
   "filters": {
     "defaultTab": "all",
     "minScore": 100,
-    "onlyMembers": false,
-    "invalids": [
-      "QmRkBojd2vwQQY8PFDFyFVkv3EXwWe4pQnrPDPRAeFwCD4"
-    ]
+    "onlyMembers": false
   }
 }
