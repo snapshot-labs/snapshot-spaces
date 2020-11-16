@@ -1,23 +1,11 @@
 {
-  "name": "SouthChain Network",
-  "network": "100",
-  "symbol": "SCT",
-  "skin": "",
-  "strategies": [
-    {
-      "name": "SouthChain Token",
-      "params": {
-        "address": "0x343e713B07Ff40c88b6ae9A2fF6206E79488a830",
-        "symbol": "SCT",
-        "decimals": 18
-      }
-    }
-  ],
-  "members": [
-    "0x51A33a5bBa82f8EBd0fE2192A25CA2E60B9Dc32f"
-  ],
-  "filters": {
-    "defaultTab": "core",
-    "minScore": 0
-  }
+  "name": "@snapshot-labs/snapshot-spaces",
+  "version": "0.1.0",
+  "repository": "snapshot-labs/snapshot-spaces",
+  "license": "MIT",
+  "files": [
+    "spaces",
+    "skins",
+    "index.ts"
+  ]
 }
