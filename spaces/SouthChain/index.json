@@ -1,12 +1,12 @@
 {
   "name": "SouthChain",
   "network": "100", 
-  "symbol": "SCT", // Your main token symbol 
-  "skin": "SouthChain.scss", 
-  "domain": "vote.southchain.digital",
-  "strategies": [ // Strategies
+  "symbol": "SCT",  
+  "skin": "southchain.scss", 
+  "domain": "governance.southchain.digital",
+  "strategies": [ 
     {
-      "name": "SouthChainToken", 
+      "name": "erc20-balance-of", 
       "params": { 
         "address": "0x343e713B07Ff40c88b6ae9A2fF6206E79488a830", 
         "symbol": "SCT",
