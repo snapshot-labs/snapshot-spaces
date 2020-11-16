@@ -1,4 +1,6 @@
 {
+  "vote.polyient.games": "polyient-games-governance",
+  "vote.acryptos.com": "acryptos",
   "vote.balancer.finance": "balancer",
   "yearn.snapshot.page": "yearn",
   "signal.aave.com": "aave",
@@ -19,6 +21,7 @@
   "vote.uvault.finance": "unicore",
   "gov.exnt.io": "exnetwork",
   "dao.thirm.com": "thirm",
+  "gov.defiat.net": "defiat",
   "gov.synthetix.io": "synthetix",
   "gov.wassies.com": "wassies",
   "signal.osho.finance": "love",
@@ -31,8 +34,8 @@
   "vote.streamr.network": "streamr",
   "governance.etgproject.org": "etgfinance",
   "gov.pokt.network": "pokt-network",
-  "vote.pooltogether.com": "pooltogether",
   "vote.niceee.org": "nice",
+  "vote.pooltogether.com": "pooltogether",
   "vote.diadata.org": "diadata",
   "cuni.comp.vote": "cuni",
   "tbavote.joyso.io": "tballiance",
@@ -41,4 +44,6 @@
   "vote.bloodyfi.org": "bloody",
   "vote.indexcoop.com": "index",
   "governance.dawn.org": "dawn"
+  "gov.yaxis.io": "yaxis",
+  "gov.hurricane.finance":"hurricane"
 }
