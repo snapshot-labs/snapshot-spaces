@@ -1,29 +1,7 @@
-// CSS is loaded always, even vieweing other spaces, so cannot load fonts without affecting the site performance a lot
-// @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap');
-
 .dawn {
     --primary-color: #fc8071;
     --block-bg: white;
     --text-color: #0b0521;
     --heading-color: #140b38;
     --bg-color: #f9fafb;
-
-    /*
-    html,
-    body,
-    #app {
-        font-family: "Barlow Condensed", sans-serif;
-    }*/
-
-    #topnav {
-        border-bottom: 4px solid #140b3b !important;
-
-        .button {
-            text-transform: uppercase;
-            font-weight: bold;
-            background: var(--primary-color) !important;
-            color: white !important;
-            border: 0 !important;
-        }
-    }
 }

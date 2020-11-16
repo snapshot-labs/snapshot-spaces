@@ -3,6 +3,7 @@
   "network": "1",
   "symbol": "DAWN",
   "skin": "dawn",
+  "domain": "governance.dawn.org",
   "strategies": [
     {
       "name": "erc20-balance-of",
