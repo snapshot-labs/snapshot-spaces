@@ -7,11 +7,11 @@
     {
       "name": "contract-call",
       "params": {
-        "address": "0x0AaCfbeC6a24756c20D41914F2caba817C0d8521",
+        "address": "0xc32f9b0292965c5dd4a0ea1abfcc1f5a36d66986",
         "decimals": 24,
         "symbol": "YAM",
         "methodABI": {
-          "constant": true,
+          "constant": false,
           "inputs": [
             {
               "internalType": "address",
@@ -19,7 +19,7 @@
               "type": "address"
             }
           ],
-          "name": "balanceOfUnderlying",
+          "name": "getCurrentVotes",
           "outputs": [
             {
               "internalType": "uint256",
@@ -28,7 +28,7 @@
             }
           ],
           "payable": false,
-          "stateMutability": "view",
+          "stateMutability": "nonpayable",
           "type": "function"
         }
       }
