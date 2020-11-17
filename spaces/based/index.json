@@ -1,13 +1,20 @@
 {
-  "key": "based",
   "name": "mbBASED",
-  "chainId": 1,
-  "decimals": 18,
+  "network": "1",
   "symbol": "mbBASED",
-  "defaultView": "all",
-  "address": "0x26cf82e4ae43d31ea51e72b663d26e26a75af729",
-  "token": "0x26cf82e4ae43d31ea51e72b663d26e26a75af729",
-  "core": [],
-  "min": 0,
-  "invalid": []
+  "skin": "based",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x26cf82e4ae43d31ea51e72b663d26e26a75af729",
+        "symbol": "mbBASED",
+        "decimals": 18
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
 }

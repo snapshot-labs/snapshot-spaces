@@ -1,13 +1,23 @@
 {
-  "key": "grap",
   "name": "Grap Finance",
-  "chainId": 1,
-  "decimals": 18,
+  "network": "1",
   "symbol": "GRAP",
-  "defaultView": "core",
-  "address": "0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB",
-  "token": "0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB",
-  "core": ["0x00007569643bc1709561ec2e86f385df3759e5dd"],
-  "min": 0,
-  "invalid": []
+  "skin": "grap",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB",
+        "symbol": "GRAP",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x00007569643bc1709561ec2e86f385df3759e5dd"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
 }

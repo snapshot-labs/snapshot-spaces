@@ -1,15 +1,23 @@
 {
-  "key": "metafactory",
   "name": "MetaFactory",
-  "chainId": 1,
-  "decimals": 18,
+  "network": "1",
   "symbol": "ROBOT",
-  "defaultView": "core",
-  "address": "0x196cf105036dca244e35cb549a7b45c87d325ec3",
-  "token": "0x196cf105036dca244e35cb549a7b45c87d325ec3",
-  "core": [
-    "0x1fc9Ea66DE35F97a8076c9F52CdB2b6334067aee"
+  "skin": "metafactory",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xfb5453340c03db5ade474b27e68b6a9c6b2823eb",
+        "symbol": "ROBOT",
+        "decimals": 18
+      }
+    }
   ],
-  "min": 500,
-  "invalid": []
+  "members": [
+    "0x2150Cb38ee362bceAC3d4A2704A82eeeD02E93EC"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 1000
+  }
 }
