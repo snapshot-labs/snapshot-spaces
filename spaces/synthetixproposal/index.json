@@ -1,13 +1,15 @@
 {
-  "name": "Synthetix (SIP-90 Archive)",
+  "name": "Synthetix Governance",
   "network": "1",
-  "symbol": "WD",
+  "symbol": "SC-NFT",
   "skin": "synthetix",
+  "domain": "gov.synthetix.io",
   "strategies": [
     {
-      "name": "synthetix",
+      "name": "erc20-balance-of",
       "params": {
-        "symbol": "Weighted Debt",
+        "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+        "symbol": "Spartan Council NFT",
         "decimals": 18
       }
     }
@@ -15,10 +17,7 @@
   "filters": {
     "defaultTab": "core",
     "minScore": 0,
-    "invalids": [
-      "QmYdM23aoTo6zW6AB6diqJQLcYLPsMDBkj8LkcFhUkNTAg",
-      "QmPogRTZuJZNRbYs8bK515Tp4KrbVxkMytkFjusYxLsh6b"
-    ]
+    "invalids": []
   },
   "members": [
     "0xa331986ec34E103D567937B293FF8103330FEAda",
