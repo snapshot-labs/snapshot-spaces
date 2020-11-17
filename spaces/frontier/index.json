@@ -15,14 +15,14 @@
       },
       {
         "name": "balancer",
-        {
+        "params": {
           "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
           "symbol": "FRONT BPT"
         }
       },
       {
         "uniswap",
-        {
+        "params": {
           "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
           "symbol": "FRONT LPT"
         }
