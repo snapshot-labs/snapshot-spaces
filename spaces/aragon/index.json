@@ -1,7 +1,7 @@
 {
   "name": "Aragon",
   "network": "1",
-  "symbol": "ANT",
+  "symbol": "ANJ",
   "skin": "aragon",
   "domain": "gov.aragon.org",
   "strategies": [
@@ -23,7 +23,8 @@
   ],
   "members": [
     "0xf08b64258465A9896691E23caaF9E6C830ec4b9D",
-    "0x4cB3FD420555A09bA98845f0B816e45cFb230983"
+    "0x4cB3FD420555A09bA98845f0B816e45cFb230983",
+    "0xa1d4c9e0a46068afa3d8424b0618218bf85ccaaa"
   ],
   "filters": {
     "defaultTab": "core",
