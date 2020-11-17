@@ -1,6 +1,6 @@
 {
   "name": "Esprezzo",
-  "network": "667",
+  "network": "1",
   "symbol": "XPZ",
   "skin": "esprezzo",
   "strategies": [
@@ -15,6 +15,6 @@
   ],
   "filters": {
     "defaultTab": "core",
-    "minScore": 100000
+    "minScore": 100
   }
 }
