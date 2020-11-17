@@ -1,0 +1,21 @@
+{
+  "name": "Hurricane.Finance",
+  "network": "42",
+  "symbol": "CAT5",
+  "skin": "hurricane",
+  "domain": "gov.hurricane.finance",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xBba8d34F5bD14939Ee56AB5B2f2415d4B39c87e8",
+        "symbol": "HUGO",
+        "decimals": 18
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1
+  }
+}

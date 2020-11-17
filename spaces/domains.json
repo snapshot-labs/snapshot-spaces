@@ -1,4 +1,6 @@
 {
+  "vote.polyient.games": "polyient-games-governance",
+  "vote.acryptos.com": "acryptos",
   "vote.balancer.finance": "balancer",
   "yearn.snapshot.page": "yearn",
   "signal.aave.com": "aave",
@@ -42,5 +44,6 @@
   "vote.rari.capital": "rari",
   "vote.bloodyfi.org": "bloody",
   "vote.indexcoop.com": "index",
-  "gov.yaxis.io": "yaxis"
+  "gov.yaxis.io": "yaxis",
+  "gov.hurricane.finance":"hurricane"
 }
