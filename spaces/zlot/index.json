@@ -8,14 +8,6 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0xA8e7AD77C60eE6f30BaC54E2E7c0617Bd7B5A03E",
-        "symbol": "ZLOT",
-        "decimals": 18
-      }
-    },
-    {
-      "name": "erc20-balance-of",
-      "params": {
         "address": "0x7c7b924b4eaed3da875bc792b5c1a0b33d118047",
         "symbol": "ZLOT",
         "decimals": 18
@@ -27,6 +19,6 @@
   ],
   "filters": {
     "defaultTab": "all",
-    "minScore": 1
+    "minScore": 0
   }
 }
