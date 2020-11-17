@@ -22,7 +22,8 @@
   "gov.exnt.io": "exnetwork",
   "dao.thirm.com": "thirm",
   "gov.defiat.net": "defiat",
-  "gov.synthetix.io": "synthetix",
+  "gov.synthetix.io": "synthetixgov",
+  "council.synthetix.io": "synthetixcouncil",
   "gov.wassies.com": "wassies",
   "signal.osho.finance": "love",
   "voting.amplesense.io": "amplesense",
@@ -45,5 +46,8 @@
   "vote.indexcoop.com": "index",
   "gov.yaxis.io": "yaxis",
   "gov.hurricane.finance":"hurricane",
-  "vote.oceanprotocol.com": "oceandao"
+  "gov.dhedge.org":"dhedge",
+  "vote.frontier.xyz":"frontier",
+  "vote.oceanprotocol.com": "oceandao",
+  "vote.sav3.org": "sav3"
 }
