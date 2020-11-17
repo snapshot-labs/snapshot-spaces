@@ -5,7 +5,6 @@
   "skin": "frontier",
   "domain": "vote.frontier.xyz",
   "strategies": [
-    [
       {
         "name": "erc20-balance-of",
         "params": {
@@ -13,23 +12,22 @@
           "symbol": "FRONT",
           "decimals": 18
         }
+      },
+      {
+        "name": "balancer",
+        {
+          "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
+          "symbol": "FRONT BPT"
+        }
+      },
+      {
+        "uniswap",
+        {
+          "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
+          "symbol": "FRONT LPT"
+        }
       }
     ],
-    [
-      "balancer",
-      {
-        "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
-        "symbol": "FRONT"
-      }
-    ],
-    [
-      "uniswap",
-      {
-        "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
-        "symbol": "FRONT"
-      }
-    ]
-  ],
   "members": [
     "0xfC43f5F9dd45258b3AFf31Bdbe6561D97e8B71de",
     "0xDC36158CDb5A9bb63dbe07F10E7965dE9E802691",
