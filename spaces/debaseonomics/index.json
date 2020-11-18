@@ -2,7 +2,7 @@
 	"name": "Debaseonomics",
 	"network": "1",
 	"symbol": "DEGOV",
-	"skin": "your-space",
+	"skin": "debaseonomics",
 	"strategies": [
 		{
 			"name": "erc20-balance-of",
