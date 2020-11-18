@@ -13,8 +13,8 @@
     }
   ],
   "members": [
-    "0x1a6c95c161b0f4159a65371ed1113bc1f6257add"
-	"0x57f4e37255767190962874D85C98082Ed31c59fB"
+    "0x1a6c95c161b0f4159a65371ed1113bc1f6257add",
+	  "0x57f4e37255767190962874D85C98082Ed31c59fB"
   ],
   "filters": {
     "defaultTab": "core",
