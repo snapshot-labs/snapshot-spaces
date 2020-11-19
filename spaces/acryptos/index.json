@@ -1,0 +1,23 @@
+{
+  "name": "ACryptoS",
+  "network": "56",
+  "symbol": "ACS",
+  "domain": "vote.acryptos.com",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x7679381507af0c8DE64586A458161aa58D3A4FC3",
+        "symbol": "acsACS",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0xB9a81e121d8C9D619682bB9dDB6823439178F2f8"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 88
+  }
+}
