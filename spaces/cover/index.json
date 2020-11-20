@@ -1,0 +1,22 @@
+{
+  "name": "Cover Protocol",
+  "network": "1",
+  "symbol": "COVER",
+  "skin": "cover",
+  "domain": "vote.coverprotocol.com",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x5D8d9F5b96f4438195BE9b99eee6118Ed4304286",
+        "symbol": "COVER",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": ["0x2f80E5163A7A774038753593010173322eA6f9fe"],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1
+  }
+}
