@@ -19,6 +19,6 @@
   ],
   "filters": {
     "defaultTab": "all",
-    "minScore": 0
+    "minScore": 1
   }
 }
