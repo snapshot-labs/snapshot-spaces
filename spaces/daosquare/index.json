@@ -13,7 +13,7 @@
       }
     }
   ],
-  "members": [ // List of official addresses that can post in "Core" tab of the space
+  "members": [ 
     "0x26C6a3e6662b8CABeA69760Dd3a1f335CFDD10e8",
     "0xb68F52FE2583b5a568E7E57dc98c69d93821f6e4",
     "0xCea5E66bec5193e5eC0b049a3Fe5d7Dd896fD480",
@@ -24,7 +24,7 @@
   "filters": {
     "defaultTab": "all",
     "minScore": 0,
-    "invalids": [ // List of proposals IDs (use this to remove a proposal from your space)
+    "invalids": [ 
       "QmPdU1BwTkPb5cYRQy98i61BFFAv4XZWo6bKGoHCwsK3Qe"
     ]
   }
