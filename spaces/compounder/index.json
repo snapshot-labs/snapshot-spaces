@@ -1,0 +1,22 @@
+{
+  "name": "Compounder",
+  "network": "1",
+  "symbol": "CP3R",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x7Ef1081Ecc8b5B5B130656a41d4cE4f89dBBCC8c",
+        "symbol": "CP3R",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x079667f4f7a0B440Ad35ebd780eFd216751f0758"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
