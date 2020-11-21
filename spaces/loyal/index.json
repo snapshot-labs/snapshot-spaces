@@ -7,8 +7,8 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0xeefdad6a480496875172ada1bafd03b81575166c",
-        "symbol": "LYL",
+        "address": "0x0C9BbF4364F90db22B1B21b45177069a078842Aa",
+        "symbol": "RLYL",
         "decimals": 18
       }
     }
@@ -18,6 +18,6 @@
   ],
   "filters": {
     "defaultTab": "all",
-    "minScore": 50
+    "minScore": 0
   }
 }
