@@ -1,0 +1,23 @@
+{
+  "name": "Loyal.Finance",
+  "network": "1",
+  "symbol": "LYL",
+  "skin": "example",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xeefdad6a480496875172ada1bafd03b81575166c",
+        "symbol": "LYL",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0xA0E242fC039bd87f6250749288eec0b6d9164aE4"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 50
+  }
+}
