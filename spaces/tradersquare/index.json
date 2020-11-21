@@ -2,6 +2,7 @@
   "name": "TraderSquare",
   "network": "1",
   "symbol": "TRS",
+  "skin" : "tradersquare.scss",
   "strategies": [
     {
       "name": "erc20-balance-of",
