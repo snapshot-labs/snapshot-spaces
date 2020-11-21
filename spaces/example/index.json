@@ -1,24 +1,23 @@
 {
-  "name": "TraderSquare",
+  "name": "Example",
   "network": "1",
-  "symbol": "TRS",
+  "symbol": "EXAMPLE",
   "skin": "example",
   "strategies": [
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x1Ef4d930097D30689B16945Aa8286C62Ce7f75dF",
-        "symbol": "TRS",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "symbol": "EXAMPLE",
         "decimals": 18
       }
     }
   ],
   "members": [
-    "0x1Ef4d930097D30689B16945Aa8286C62Ce7f75dF"
+    "0xeF8305E140ac520225DAf050e2f71d5fBcC543e7"
   ],
   "filters": {
-    "defaultTab": "all",
-    "minScore": 500,
-    "onlyMembers": true
+    "defaultTab": "core",
+    "minScore": 0
   }
 }
