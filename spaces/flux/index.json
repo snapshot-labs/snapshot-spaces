@@ -1,0 +1,23 @@
+{
+  "name": "FLUX",
+  "network": "1",
+  "symbol": "FLUX",
+  "skin": "flux",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9",
+        "symbol": "FLUX",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x99a27a9B24511e1d5AC9b0fb5b0Ce740d7b46e84"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 100
+  }
+}
