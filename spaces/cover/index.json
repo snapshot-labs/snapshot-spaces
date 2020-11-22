@@ -12,7 +12,14 @@
         "symbol": "COVER",
         "decimals": 18
       }
-    }
+    },
+    {
+      "name": "uniswap",
+      "params": {
+        "address": "0x5d8d9f5b96f4438195be9b99eee6118ed4304286",
+        "symbol": "COVER"
+      }
+    },
   ],
   "members": [
     "0x2f80E5163A7A774038753593010173322eA6f9fe",
