@@ -31,5 +31,8 @@
     "defaultTab": "core",
     "minScore": 1,
     "onlyMembers": true
+  },
+  "plugins": {
+    "gnosis": {}
   }
 }
