@@ -1,0 +1,26 @@
+{
+  "name": "Idle",
+  "network": "1",
+  "symbol": "IDLE",
+  "skin": "idle",
+  "domain": "signal.idle.finance",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x875773784Af8135eA0ef43b5a374AaD105c5D39e",
+        "symbol": "IDLE",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x3675D2A334f17bCD4689533b7Af263D48D96eC72",
+    "0x4F314638B730Bc46Df5e600E524267d0641C98B4",
+    "0xd889Acb680D5eDbFeE593d2b7355a666248bAB9b"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1
+  }
+}
