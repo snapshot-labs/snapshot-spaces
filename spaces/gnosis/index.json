@@ -1,5 +1,5 @@
 {
-  "name": "Gnosis",
+  "name": "GnosisDAO",
   "network": "1",
   "symbol": "GNO",
   "skin": "gnosis",
@@ -30,7 +30,10 @@
   "filters": {
     "defaultTab": "core",
     "minScore": 1,
-    "onlyMembers": true
+    "onlyMembers": true,
+    "invalids": [
+      "QmcERezRFobLTWGqYw47t9NZtWVsiW791rVeqHvPTBs8gW"
+    ]
   },
   "plugins": {
     "gnosis": {}
