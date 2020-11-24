@@ -18,6 +18,9 @@
   ],
   "filters": {
     "defaultTab": "community",
-    "minScore": 0
+    "minScore": 0,
+    "invalids": [
+      "QmXT9fANjkpUDbWU3jc73ta9UG1jhH5iH8QYeovz1kLvD4"
+    ]
   }
 }
