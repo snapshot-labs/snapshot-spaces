@@ -1,0 +1,33 @@
+{
+    "name": "boringdao",
+    "network": "1",
+    "symbol": "BOR",
+    "skin": "boringdao",
+    "domain": "vote.boringdao.com",
+    "strategies": [ 
+      {
+        "name": "erc20-balance-of",
+        "params": {
+          "address": "0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9",
+          "symbol": "BOR",
+          "decimals": 18
+        }
+      },
+      {
+        "name": "erc20-balance-of",
+        "params": {
+          "address": "0xAE5096c8d5c5461f3F65904f7ADca932807E14f7",
+          "symbol": "oBTC-PPT",
+          "decimals": 18
+        }
+      }
+    ],
+    "members": [ 
+      "0x67Ee188Ee1319CDAc271553e7b8FAAed2fBC52CC"
+    ],
+    "filters": {
+      "defaultTab": "all",
+      "minScore": 0,
+      "onlyMembers": true 
+    }
+  }
