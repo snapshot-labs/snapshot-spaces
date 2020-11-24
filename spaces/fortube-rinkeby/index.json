@@ -1,15 +1,15 @@
 {
-  "name": "QIAN(BSC)",
-  "network": "56",
-  "symbol": "KUN",
-  "skin": "qian",
+  "name": "ForTube(Rinkeby)",
+  "network": "4",
+  "symbol": "GFOR",
+  "skin": "fortube",
   "strategies": [
     {
       "name": "contract-call",
       "params": {
-        "address": "0xDb20CD5C383896430125D3842E3D06C7E3Cd92Ae",
+        "address": "0x79C4b872Ae01874F9EC77812338aB926A8C3d6a9",
         "decimals": 18,
-        "symbol": "KUN",
+        "symbol": "GFOR",
         "methodABI": {
           "inputs": [
             {
@@ -42,9 +42,6 @@
   "filters": {
     "defaultTab": "all",
     "minScore": 100,
-    "onlyMembers": false,
-    "invalids": [
-      "QmT18oJ1eCUmffVfqN6DutacyXESiqasiGzmM7C4ZYRPjQ"
-    ]
+    "onlyMembers": false
   }
 }

@@ -44,9 +44,12 @@
   "vote.rari.capital": "rari",
   "vote.bloodyfi.org": "bloody",
   "vote.indexcoop.com": "index",
+  "governance.dawn.org": "dawn",
   "gov.yaxis.io": "yaxis",
-  "gov.hurricane.finance":"hurricane",
-  "gov.dhedge.org":"dhedge",
-  "vote.frontier.xyz":"frontier",
-  "vote.oceanprotocol.com": "oceandao"
+  "gov.hurricane.finance": "hurricane",
+  "gov.dhedge.org": "dhedge",
+  "vote.frontier.xyz": "frontier",
+  "vote.oceanprotocol.com": "oceandao",
+  "vote.sav3.org": "sav3",
+  "vote.zlot.finance": "zlot"
 }
