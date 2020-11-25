@@ -1,0 +1,37 @@
+{
+  "name": "Meter-ETH",
+  "network": "1",
+  "symbol": "eMTRG",
+  "skin": "example",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address"0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+        "symbol": "eMTRG",
+        "decimals": 18
+      }
+    },
+    {
+      "name": "balancer",
+      "params": {
+        "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+        "symbol": "eMTRG BPT"
+      }
+    },
+    {
+      "name": "uniswap",
+      "params": {
+        "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+        "symbol": "eMTRG LPT"
+      }
+    }
+  ],
+  "members": [
+    "0x78e6f3af2bf71afa209c6e81b161c6a41d2da79d"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 100
+  }
+}

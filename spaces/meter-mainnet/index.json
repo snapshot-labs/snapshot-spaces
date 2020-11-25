@@ -1,0 +1,23 @@
+{
+  "name": "Meter-mainnet",
+  "network": "82",
+  "symbol": "MTRG",
+  "skin": "example",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address"0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3",
+        "symbol": "MTRG",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x78e6f3af2bf71afa209c6e81b161c6a41d2da79d"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 100
+  }
+}
