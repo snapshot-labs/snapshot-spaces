@@ -1,24 +1,25 @@
 {
-  "name": "QIAN(ETH)",
+  "name": "SAV3",
   "network": "1",
-  "symbol": "KUN",
-  "skin": "qian",
+  "symbol": "SAV3",
+  "skin": "sav3",
+  "domain": "vote.sav3.org",
   "strategies": [
     {
       "name": "contract-call",
       "params": {
-        "address": "0xA61520F2a20bE603Dcfbdef3FB616615eEB1e675",
+        "address": "0x5aefe39a1ccebc80c3c3ce1257b6dd60e0521763",
         "decimals": 18,
-        "symbol": "KUN",
+        "symbol": "SAV3",
         "methodABI": {
           "inputs": [
             {
               "internalType": "address",
-              "name": "voter",
+              "name": "_user",
               "type": "address"
             }
           ],
-          "name": "votesOf",
+          "name": "sav3BalanceAll",
           "outputs": [
             {
               "internalType": "uint256",
@@ -33,18 +34,10 @@
     }
   ],
   "members": [
-    "0xf03ff0992B338fb89d16DB42c7761102388BA0f0",
-    "0xaAaAAaf5149dcA9A6F6C05BdC7d8dC89b27e191A",
-    "0xd49524f9FDC4EA8ba65345253C2B9FdE3b6FAF3A",
-    "0x39Bd263cF3eE8Cc01cA0eFAbE2c94309e7Da7690",
-    "0xDb80BD4f295623D50c2019581624454d07f070be"
+    "0xb2F861C61f703c59A01b748231bDE1D31bCb1A35"
   ],
   "filters": {
     "defaultTab": "all",
-    "minScore": 100,
-    "onlyMembers": false,
-    "invalids": [
-      "QmfBAeBoe5HX91gX26QCqUJPKko1abRyyDfGcnU6hWMm7j"
-    ]
+    "minScore": 0
   }
 }

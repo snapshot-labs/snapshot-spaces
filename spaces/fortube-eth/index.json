@@ -1,15 +1,15 @@
 {
-  "name": "QIAN(BSC)",
-  "network": "56",
-  "symbol": "KUN",
-  "skin": "qian",
+  "name": "ForTube(Ethereum)",
+  "network": "1",
+  "symbol": "GFOR",
+  "skin": "fortube",
   "strategies": [
     {
       "name": "contract-call",
       "params": {
-        "address": "0xDb20CD5C383896430125D3842E3D06C7E3Cd92Ae",
+        "address": "0xC6ECa979b0d17C348055733bb84E94f5C655CD52",
         "decimals": 18,
-        "symbol": "KUN",
+        "symbol": "GFOR",
         "methodABI": {
           "inputs": [
             {
@@ -42,9 +42,6 @@
   "filters": {
     "defaultTab": "all",
     "minScore": 100,
-    "onlyMembers": false,
-    "invalids": [
-      "QmT18oJ1eCUmffVfqN6DutacyXESiqasiGzmM7C4ZYRPjQ"
-    ]
+    "onlyMembers": false
   }
 }
