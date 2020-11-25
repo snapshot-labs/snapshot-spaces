@@ -1,0 +1,22 @@
+{
+  "name": "FarmLand Finance",
+  "network": "1",
+  "symbol": "LAND",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x6eaf1b33b8672c5dc40aB8f4bA3A0111723126c7",
+        "symbol": "LAND",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x6eaf1b33b8672c5dc40aB8f4bA3A0111723126c7"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
