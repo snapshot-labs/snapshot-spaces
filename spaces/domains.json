@@ -22,7 +22,7 @@
   "gov.exnt.io": "exnetwork",
   "dao.thirm.com": "thirm",
   "gov.defiat.net": "defiat",
-  "gov.synthetix.io": "synthetixgov",
+  "gov.synthetix.io": "synthetixproposal",
   "council.synthetix.io": "synthetixcouncil",
   "gov.wassies.com": "wassies",
   "signal.osho.finance": "love",
@@ -51,5 +51,6 @@
   "vote.frontier.xyz": "frontier",
   "vote.oceanprotocol.com": "oceandao",
   "vote.sav3.org": "sav3",
-  "vote.zlot.finance": "zlot"
+  "vote.zlot.finance": "zlot",
+  "vote.finnexus.io": "fnx"
 }
