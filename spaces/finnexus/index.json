@@ -2,19 +2,50 @@
   "name": "FinNexus",
   "network": "1",
   "symbol": "FNX",
+  "skin": "fnx",
+  "domain": "vote.finnexus.io",
   "strategies": [
     {
-      "name": "erc20-balance-of",
+      "name": "contract-call",
       "params": {
-        "address": "0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
-        "symbol": "FNX",
-        "decimals": 18
+        "address": "0x3f5014e49e03d4444483662cc70618cd8087f9d2",
+        "decimals": 18,
+        "symbol": "fnx",
+        "methodABI": {
+          "constant": true,
+          "inputs": [
+            {
+              "internalType": "address",
+              "name": "_user",
+              "type": "address"
+            }
+          ],
+          "name": "fnxBalanceAll",
+          "outputs": [
+            {
+              "internalType": "uint256",
+              "name": "",
+              "type": "uint256"
+            }
+          ],
+          "payable": false,
+          "stateMutability": "view",
+          "type": "function"
+        }
       }
     }
   ],
+
   "members": [
-    "0x987cb6599E55DAb551335e0D4F733BDEb3Abe6aB"
+    "0xb2F861C61f703c59A01b748231bDE1D31bCb1A35",
+    "0xd37Ef5EeDE847a9c4DC11576c5E5c564D13FdA73",
+    "0xB4e61d10344203DE4530D4a99D55F32Ad25580E9",
+    "0x5847848b4e80Eb6d7A47c2AE8E7b73A982Bfe083",
+    "0x404d854065f1ba0a3E64b444C67d28aF9F7ff505",
+    "0xa936b6f2557c096c0052a9a4765963b381d33896",
+    "0x3921b8d2a28dcfbd1bb1a79a16aa1e98113f7a4b"
   ],
+
   "filters": {
     "defaultTab": "core",
     "minScore": 0
