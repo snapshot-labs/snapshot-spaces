@@ -11,6 +11,14 @@
         "symbol": "🐟",
         "decimals": 18
       }
+    },
+    {
+      "name": "uniswap",
+      "params": {
+        "address": "0x30bcd71b8d21fe830e493b30e90befba29de9114",
+        "symbol": "🐟",
+        "decimals": 18
+      }
     }
   ],
   "members": [
