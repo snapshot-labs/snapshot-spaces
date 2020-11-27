@@ -1,0 +1,24 @@
+{
+  "name": "FLUSH",
+  "network": "1",
+  "symbol": "PAPER",
+  "skin": "flash",
+  "domain": "gov.flush.lol",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xdDce093888C8Dc636677Cd29BC6C68D35cFDAC33",
+        "symbol": "PAPER",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0xcd9B0611bAD3c052215968bA5CBD7A0A51549BA6"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 10
+  }
+}
