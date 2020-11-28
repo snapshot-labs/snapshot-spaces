@@ -2,7 +2,8 @@
   "name": "OceanDAO",
   "network": "1",
   "symbol": "OCEAN",
-  "skin": "ocean-dao",
+  "skin": "oceandao",
+  "domain": "vote.oceanprotocol.com",
   "strategies": [
     {
       "name": "erc20-balance-of",
@@ -19,6 +20,9 @@
   "filters": {
     "defaultTab": "core",
     "minScore": 0,
-    "onlyMembers": true
+    "onlyMembers": true,
+    "invalids": [
+      "QmSCVnzz8mXgFcvC92tfeU4DfQzsGdaU5yBoyWT6eNfVyt"
+    ]
   }
 } 
