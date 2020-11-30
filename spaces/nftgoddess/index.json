@@ -1,0 +1,28 @@
+{
+  "name": "NFTGoddess",
+  "network": "1",
+  "symbol": "GDS", 
+  "skin": "nftgoddess.scss",
+  "domain": "vote.nftgoddess.art",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xdB78f97B26757330bEDC2b4d9729c3E4C4560736",
+        "symbol": "GDS",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x8DB6A3FE0f238ed9f9E440fbeD33d6C25E06D8a5"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0,
+    "onlyMembers": true,
+    "invalids": [
+    ]
+  }
+}
+
