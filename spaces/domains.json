@@ -1,4 +1,5 @@
 {
+  "vote.southchain.digital": "vote.southchain.eth",
   "vote.polyient.games": "polyient-games-governance",
   "vote.acryptos.com": "acryptos",
   "vote.balancer.finance": "balancer",
@@ -54,5 +55,6 @@
   "vote.zlot.finance": "zlot",
   "vote.finnexus.io": "fnx",
   "signal.idle.finance": "idlefinance.eth",
-  "gov.flush.lol": "flushlol.eth"
+  "gov.flush.lol": "flushlol.eth",
+  "fund.emptyset.finance": "esd.eth"
 }
