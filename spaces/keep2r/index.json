@@ -1,0 +1,20 @@
+{
+  "key": "keep2r",
+  "name": "Keep2r",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "KP2R",
+  "defaultView": "core",
+  "address": "0x9BdE098Be22658d057C3F1F185e3Fd4653E2fbD1",
+  "token": "0x9BdE098Be22658d057C3F1F185e3Fd4653E2fbD1",
+  "core": [
+    "0x69ba033E6622e76f10C733A38aB8a9A6a6C1Ce4B",
+    "0xB2b4076a36b8993094cBfdb72512820B8BeDb6Ce",
+    "0x46bFfd048dF65392C26245e1f3c00c72b6f1DE62",
+    "0xf771d78D4db4F6ba725DCC8849a701D5e8bF66F3",
+    "0x1665e27Eced76a256710513605781b28E380BAb6",
+    "0xb058daD825A8E84cB453949bEFc4f7e77CaAa65E"
+    ],
+  "min": 1,
+  "invalid": []
+}
