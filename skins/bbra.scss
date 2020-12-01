@@ -1,0 +1,38 @@
+.bbra{
+  --primary-color: rgb(173 48 48);
+  --bg-color: #9BA4FB;
+  --text-color: rgb(0 0 0);
+  --link-color: #4a4a4a;
+  --heading-color: #000000;
+  --border-color: rgb(81, 78, 51);
+  --header-bg: #FBDCEF;
+  --block-bg: #FBDCEF;
+
+  #topnav {
+      border-bottom: 3px solid black !important;
+      box-shadow: rgb(192, 143, 189) -1px 1px 10px 2px;
+  }
+  .border-md {
+      border-width: 4px !important;
+      border-color: var(--border-color);
+  }
+  .rounded-md-2 {
+      border-radius: 2px!important;
+  }
+  .block-bg {
+      box-shadow: rgb(192, 143, 189) -1px 1px 10px 2px;
+  }
+  button {
+      border-radius: 2px !important;
+      background-color: var(--block-bg) !important;
+      box-shadow: rgb(192, 143, 189) -1px 1px 10px 2px;
+      border-width: 3px !important;
+      border-color: var(--border-color);
+  }
+  .Progress {
+      background-color:var(--bg-color);
+  }
+  .border{
+      border: none !important;
+  }
+}
