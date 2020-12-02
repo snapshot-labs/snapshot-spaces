@@ -52,6 +52,10 @@
   "vote.oceanprotocol.com": "oceandao",
   "vote.sav3.org": "sav3",
   "vote.zlot.finance": "zlot",
-  "mtrg.meter.io": "meter-mainnet.eth"
+  "vote.finnexus.io": "fnx",
+  "signal.idle.finance": "idlefinance.eth",
+  "gov.flush.lol": "flushlol.eth",
+  "fund.emptyset.finance": "esd.eth",
+  "mtrg.meter.io": "meter-mainnet.eth",
   "emtrg.meter.io": "meter-eth.eth"
 }
