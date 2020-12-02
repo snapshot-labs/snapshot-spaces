@@ -1,5 +1,6 @@
 {
   "gov.archerdao.io": "archerdao.eth",
+  "vote.southchain.digital": "vote.southchain.eth",
   "vote.polyient.games": "polyient-games-governance",
   "vote.acryptos.com": "acryptos",
   "vote.balancer.finance": "balancer",
@@ -54,5 +55,8 @@
   "vote.sav3.org": "sav3",
   "vote.zlot.finance": "zlot",
   "vote.finnexus.io": "fnx",
-  "signal.idle.finance": "idlefinance.eth"
+  "signal.idle.finance": "idlefinance.eth",
+  "gov.flush.lol": "flushlol.eth",
+  "fund.emptyset.finance": "esd.eth",
+  "gov.kp2r.network": "keep2r.eth"
 }
