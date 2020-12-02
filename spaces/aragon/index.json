@@ -8,7 +8,7 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
+        "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
         "symbol": "ANT",
         "decimals": 18
       }
@@ -16,13 +16,15 @@
     {
       "name": "balancer",
       "params": {
-        "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
+        "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
         "symbol": "ANT BPT"
       }
     }
   ],
   "members": [
-    "0xf08b64258465A9896691E23caaF9E6C830ec4b9D"
+    "0xf08b64258465A9896691E23caaF9E6C830ec4b9D",
+    "0x4cB3FD420555A09bA98845f0B816e45cFb230983",
+    "0xa1d4c9e0a46068afa3d8424b0618218bf85ccaaa"
   ],
   "filters": {
     "defaultTab": "core",
