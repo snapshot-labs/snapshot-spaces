@@ -58,5 +58,7 @@
   "signal.idle.finance": "idlefinance.eth",
   "gov.flush.lol": "flushlol.eth",
   "fund.emptyset.finance": "esd.eth",
+  "mtrg.meter.io": "meter-mainnet.eth",
+  "emtrg.meter.io": "meter-eth.eth",
   "gov.kp2r.network": "keep2r.eth"
 }
