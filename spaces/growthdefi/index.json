@@ -6,8 +6,8 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x09e64c2b61a5f1690ee6fbed9baf5d6990f8dfd0",
-        "symbol": "GRO",
+        "address": "0xd93f98b483cc2f9efe512696df8f5decb73f9497",
+        "symbol": "stkGRO",
         "decimals": 18
       }
     }
