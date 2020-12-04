@@ -53,10 +53,8 @@
   "vote.frontier.xyz": "frontier",
   "vote.oceanprotocol.com": "oceandao",
   "vote.sav3.org": "sav3",
-<<<<<<< HEAD
   "vote.bt.finance": "btfinance.eth",
   "vote.zlot.finance": "zlot"
-=======
   "vote.zlot.finance": "zlot",
   "vote.finnexus.io": "fnx",
   "signal.idle.finance": "idlefinance.eth",
@@ -65,5 +63,6 @@
   "mtrg.meter.io": "meter-mainnet.eth",
   "emtrg.meter.io": "meter-eth.eth",
   "gov.kp2r.network": "keep2r.eth"
->>>>>>> master/master
+  "gov.kp2r.network": "keep2r.eth",
+  "gov.metapool.finance": "metapoolgov.eth"
 }
