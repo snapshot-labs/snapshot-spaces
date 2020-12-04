@@ -1,0 +1,20 @@
+{
+  "name": "BT.Finance",
+  "network": "1",
+  "symbol": "BT",
+  "domain": "vote.bt.finance",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x85E129b851d07D942e743f9444D637f57d3E3767",
+        "symbol": "BT",
+        "decimals": 9
+      }
+    }
+  ],
+  "filters": { 
+    "defaultTab": "all", 
+    "minScore": 0
+  }
+}

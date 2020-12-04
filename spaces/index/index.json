@@ -12,6 +12,41 @@
         "symbol": "INDEX",
         "decimals": 18
       }
+    },
+    {
+      "name": "uniswap",
+      "params": {
+        "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
+        "symbol": "INDEX",
+        "decimals": 18
+      }
+    },
+    {
+      "name": "contract-call",
+      "params": {
+        "address": "0x8f06FBA4684B5E0988F215a47775Bb611Af0F986",
+        "symbol": "INDEX",
+        "decimals": 18,
+        "methodABI": {
+          "inputs": [
+            {
+              "internalType": "address",
+              "name":  "account",
+              "type": "address"
+            }
+          ],
+          "name": "earned",
+          "outputs": [
+            {
+              "internalType": "uint256",
+              "name":"",
+              "type": "uint256"
+            }
+          ],
+          "stateMutability": "view",
+          "type": "function"
+        }
+      }
     }
   ],
   "members": [
