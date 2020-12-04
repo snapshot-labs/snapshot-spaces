@@ -1,4 +1,5 @@
 {
+  "gov.archerdao.io": "archerdao.eth",
   "vote.southchain.digital": "vote.southchain.eth",
   "vote.polyient.games": "polyient-games-governance",
   "vote.acryptos.com": "acryptos",
@@ -57,5 +58,8 @@
   "signal.idle.finance": "idlefinance.eth",
   "gov.flush.lol": "flushlol.eth",
   "fund.emptyset.finance": "esd.eth",
-  "vote.ushiled.org": "ushiled"
+   "mtrg.meter.io": "meter-mainnet.eth",
+  "emtrg.meter.io": "meter-eth.eth",
+  "gov.kp2r.network": "keep2r.eth",
+  "vote.ushiled.org": "ltcapital.eth"
 }
