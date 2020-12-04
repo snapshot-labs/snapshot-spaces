@@ -1,4 +1,6 @@
 {
+  "gov.archerdao.io": "archerdao.eth",
+  "vote.southchain.digital": "vote.southchain.eth",
   "vote.polyient.games": "polyient-games-governance",
   "vote.acryptos.com": "acryptos",
   "vote.balancer.finance": "balancer",
@@ -22,7 +24,7 @@
   "gov.exnt.io": "exnetwork",
   "dao.thirm.com": "thirm",
   "gov.defiat.net": "defiat",
-  "gov.synthetix.io": "synthetixgov",
+  "gov.synthetix.io": "synthetixproposal",
   "council.synthetix.io": "synthetixcouncil",
   "gov.wassies.com": "wassies",
   "signal.osho.finance": "love",
@@ -52,5 +54,11 @@
   "vote.oceanprotocol.com": "oceandao",
   "vote.sav3.org": "sav3",
   "vote.zlot.finance": "zlot",
-  "vote.finnexus.io": "fnx"
+  "vote.finnexus.io": "fnx",
+  "signal.idle.finance": "idlefinance.eth",
+  "gov.flush.lol": "flushlol.eth",
+  "fund.emptyset.finance": "esd.eth",
+  "mtrg.meter.io": "meter-mainnet.eth",
+  "emtrg.meter.io": "meter-eth.eth",
+  "gov.kp2r.network": "keep2r.eth"
 }
