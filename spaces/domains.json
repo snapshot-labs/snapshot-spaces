@@ -62,5 +62,6 @@
   "emtrg.meter.io": "meter-eth.eth",
   "gov.kp2r.network": "keep2r.eth",
   "gov.metapool.finance": "metapoolgov.eth",
-  "vote.gokai.org": "gokai.eth"
+  "vote.gokai.org": "gokai.eth",
+  "gov.mink.finance": "minkfinance.eth"
 }
