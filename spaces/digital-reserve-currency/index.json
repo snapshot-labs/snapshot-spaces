@@ -39,10 +39,6 @@
   ],
   "filters": {
     "defaultTab": "all",
-    "minScore": 1000,
-    "invalids": [
-      "QmaawPXdWbdShDn6SmLiH7KMpbPHUj4MbWSRWuQEE8kbHE",
-      "QmRFqhYmNzCs4JigxYe3KwEwtkphaZKvv2GU3DpYZcWWq4"
-    ]
+    "minScore": 1000
   }
 }
