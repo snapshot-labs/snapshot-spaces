@@ -64,5 +64,6 @@
   "gov.kp2r.network": "keep2r.eth",
   "gov.metapool.finance": "metapoolgov.eth",
   "vote.gokai.org": "gokai.eth",
-  "gov.mink.finance": "minkfinance.eth"
+  "gov.mink.finance": "minkfinance.eth",
+  "congress.myhoney.finance": "honeyfinance.eth"
 }
