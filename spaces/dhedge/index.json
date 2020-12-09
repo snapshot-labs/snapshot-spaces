@@ -1,7 +1,7 @@
 {
   "name": "dHEDGE",
   "network": "1",
-  "symbol": "DHT",
+  "symbol": "Staked-DHT-USDC",
   "skin": "dhedge",
   "domain": "gov.dhedge.org",
   "strategies": [
@@ -17,7 +17,10 @@
   "members": [
   ],
   "filters": {
-    "defaultTab": "core",
-    "minScore": 0
+    "defaultTab": "community",
+    "minScore": 0,
+    "invalids": [
+      "QmXT9fANjkpUDbWU3jc73ta9UG1jhH5iH8QYeovz1kLvD4"
+    ]
   }
 }

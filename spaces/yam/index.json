@@ -35,7 +35,10 @@
     }
   ],
   "members": [
-    "0x683A78bA1f6b25E29fbBC9Cd1BFA29A51520De84"
+    "0x683A78bA1f6b25E29fbBC9Cd1BFA29A51520De84",
+    "0x9Ebc8AD4011C7f559743Eb25705CCF5A9B58D0bc",
+    "0xC3edCBe0F93a6258c3933e86fFaA3bcF12F8D695",
+    "0xbdac5657eDd13F47C3DD924eAa36Cf1Ec49672cc"
   ],
   "filters": {
     "defaultTab": "all",
@@ -55,7 +58,8 @@
       "QmbsfvggQxx7HCqbUKTdzTvEjKjDZ6csL5UfQB7fLcdTp1",
       "QmdAzmM54xEmyf1RvpFEW4x36vSpUzKfKSBd93AD5i7wtT",
       "QmNw65Tx88J9gshHF3qDZnUfEGUEJroovzFBaXUPdomToD",
-      "QmTowiscuTWKHs9AvbEzTv6qpwGqugAduVYmNkXmv6hri1"
+      "QmTowiscuTWKHs9AvbEzTv6qpwGqugAduVYmNkXmv6hri1",
+      "QmRoYDNNCVNJDq7q3ZCm3q9NairrLWSynJXtz1Q3YfnUio"
     ]
   }
 }
