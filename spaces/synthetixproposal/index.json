@@ -10,7 +10,7 @@
       "params": {
         "address": "0x1d78ec233c424b38c3893f2b19c3c85b7ba2b39a",
         "symbol": "SSC",
-        "decimals": 18
+        "decimals": 0
       }
     }
   ],
