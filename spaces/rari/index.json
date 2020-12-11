@@ -46,7 +46,7 @@
       "name": "contract-call",
       "params": {
         "address": "0xA54B473028f4ba881F1eD6B670af4103e8F9B98a",
-        "symbol": "RGT",
+        "symbol": "vRGT",
         "decimals": 18,
         "methodABI": {
           "constant": true,
