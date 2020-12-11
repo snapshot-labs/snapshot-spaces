@@ -7,11 +7,11 @@
     {
       "name": "contract-call",
       "params": {
-        "address": "0x0AaCfbeC6a24756c20D41914F2caba817C0d8521",
+        "address": "0xc32f9b0292965c5dd4a0ea1abfcc1f5a36d66986",
         "decimals": 24,
         "symbol": "YAM",
         "methodABI": {
-          "constant": true,
+          "constant": false,
           "inputs": [
             {
               "internalType": "address",
@@ -19,7 +19,7 @@
               "type": "address"
             }
           ],
-          "name": "balanceOfUnderlying",
+          "name": "getCurrentVotes",
           "outputs": [
             {
               "internalType": "uint256",
@@ -28,14 +28,17 @@
             }
           ],
           "payable": false,
-          "stateMutability": "view",
+          "stateMutability": "nonpayable",
           "type": "function"
         }
       }
     }
   ],
   "members": [
-    "0x683A78bA1f6b25E29fbBC9Cd1BFA29A51520De84"
+    "0x683A78bA1f6b25E29fbBC9Cd1BFA29A51520De84",
+    "0x9Ebc8AD4011C7f559743Eb25705CCF5A9B58D0bc",
+    "0xC3edCBe0F93a6258c3933e86fFaA3bcF12F8D695",
+    "0xbdac5657eDd13F47C3DD924eAa36Cf1Ec49672cc"
   ],
   "filters": {
     "defaultTab": "all",
@@ -53,7 +56,11 @@
       "QmXJD23cZwsPu6zNcKWTrXQikH8un7sAofhUW9yv7WwRpx",
       "QmVb1SPf66s9mmVbLp6ovhbmUfWfkKAXdJf9SqS3SErmbH",
       "QmbsfvggQxx7HCqbUKTdzTvEjKjDZ6csL5UfQB7fLcdTp1",
-      "QmdAzmM54xEmyf1RvpFEW4x36vSpUzKfKSBd93AD5i7wtT"
+      "QmdAzmM54xEmyf1RvpFEW4x36vSpUzKfKSBd93AD5i7wtT",
+      "QmNw65Tx88J9gshHF3qDZnUfEGUEJroovzFBaXUPdomToD",
+      "QmTowiscuTWKHs9AvbEzTv6qpwGqugAduVYmNkXmv6hri1",
+      "QmRoYDNNCVNJDq7q3ZCm3q9NairrLWSynJXtz1Q3YfnUio",
+      "QmdkQjw2p7UU8vm4tZNeVXAa1zcqx9fLdSjYzG4KAXn5Af"
     ]
   }
 }

@@ -20,10 +20,12 @@
   ],
   "filters": {
     "defaultTab": "core",
-    "minScore": 100000,
+    "minScore": 1000000,
     "invalids": [
       "QmYnwRRFPAMobxG82JeBKNKCTs267tkzebb7JGuH7HJkDP",
-      "QmQML6MUf5w5KLw7PeDQpioeLQYeZiSc7Ct4tEP1rqQtT6"
+      "QmQML6MUf5w5KLw7PeDQpioeLQYeZiSc7Ct4tEP1rqQtT6",
+      "QmPxDMtwNbNUmoQPX8RJKAaKb5PqCfFBSHg774c1kxAArw",
+      "QmWtiztDHr7pKNvSk4Gxjrfogj3gWJDm5NfViMCC4y8udc"
     ]
   }
 }

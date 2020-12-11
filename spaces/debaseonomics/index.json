@@ -1,0 +1,21 @@
+{
+	"name": "Debaseonomics",
+	"network": "1",
+	"symbol": "DEGOV",
+	"skin": "debaseonomics",
+	"strategies": [
+		{
+			"name": "erc20-balance-of",
+			"params": {
+				"address": "0x469E66e06fEc34839E5eB1273ba85A119B8D702F",
+				"symbol": "DEGOV",
+				"decimals": 18
+			}
+		}
+	],
+	"members": [ "0x6dbbc75f2951B826730ac1b2B774C5dEC941A860" ],
+	"filters": {
+		"defaultTab": "all",
+		"minScore": 1000
+	}
+}

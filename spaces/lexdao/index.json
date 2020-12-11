@@ -1,13 +1,13 @@
 {
-  "name": "LexDAO",
+  "name": "LexDAO Coop",
   "network": "1",
-  "symbol": "MYSTIC",
+  "symbol": "COOP",
   "strategies": [
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x057e820D740D5AAaFfa3c6De08C5c98d990dB00d",
-        "symbol": "MYSTIC",
+        "address": "0x7938a822dFab3Fc318f5ECfC3C986089fa89f319",
+        "symbol": "COOP",
         "decimals": 18
       }
     }
