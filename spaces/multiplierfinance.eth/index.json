@@ -1,0 +1,28 @@
+{
+    "name": "Multiplier",
+    "network": "1",
+    "symbol": "MXX",
+    "skin": "multiplier",
+    "domain": "voting-mxx.multiplier.finance",
+    "strategies": [
+      {
+        "name": "uni",
+        "params": {
+          "address": "0x8a6f3BF52A26a21531514E23016eEAe8Ba7e7018",
+          "symbol": "MXX",
+          "decimals": 8
+        }
+      }
+    ],
+    "members": [
+      "0x6CC3De778CA90FBFC703e728164AA39b5205327D",
+      "0x8f6B0eC3a88e08744E735cA2782D406804478261",
+      "0xbc90ADe1004B6E6b0fA8fbfc4fB89c50254C62A6",
+      "0xf2d9c754533e1843E44cD320Def81A408d59eC71"
+    ],
+    "filters": {
+      "defaultTab": "all",
+      "minScore": 0,
+      "onlyMembers": true
+    }
+  }
