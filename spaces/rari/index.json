@@ -41,6 +41,35 @@
           "type": "function"
         }
       }
+    },
+    {
+      "name": "contract-call",
+      "params": {
+        "address": "0xA54B473028f4ba881F1eD6B670af4103e8F9B98a",
+        "symbol": "vRGT",
+        "decimals": 18,
+        "methodABI": {
+          "constant": true,
+          "inputs": [
+            {
+              "internalType": "address",
+              "name": "holder",
+              "type": "address"
+            }
+          ],
+          "name": "getUnclaimedPrivateRgt",
+          "outputs": [
+            {
+              "internalType": "uint256",
+              "name": "",
+              "type": "uint256"
+            }
+          ],
+          "payable": false,
+          "stateMutability": "view",
+          "type": "function"
+        }
+      }
     }
   ],
   "members": [

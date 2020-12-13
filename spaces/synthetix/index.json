@@ -1,9 +1,8 @@
 {
-  "name": "Synthetix",
+  "name": "Synthetix (SIP-90 Archive)",
   "network": "1",
   "symbol": "WD",
   "skin": "synthetix",
-  "domain": "gov.synthetix.io",
   "strategies": [
     {
       "name": "synthetix",
