@@ -6,7 +6,7 @@
     "domain": "voting-mxx.multiplier.finance",
     "strategies": [
       {
-        "name": "uni",
+        "name": "erc20-balance-of",
         "params": {
           "address": "0x8a6f3BF52A26a21531514E23016eEAe8Ba7e7018",
           "symbol": "MXX",
