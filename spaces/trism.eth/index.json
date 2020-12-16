@@ -1,0 +1,23 @@
+{
+  "name": "Trism",
+  "network": "1",
+  "symbol": "TRISM",
+  "skin": "rope",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x56b4f8c39e07d4d5d91692acf9d0f6d4d3493763",
+        "symbol": "TRISM",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0xff83BCfdfE13aB72331FE39Df1cac42f09b2ed41"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 1000
+  }
+}
