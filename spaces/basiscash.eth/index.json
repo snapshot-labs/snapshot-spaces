@@ -1,0 +1,20 @@
+{
+  "name": "BasisCash",
+  "network": "1",
+  "symbol": "BAC",
+  "skin": "fries",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "symbol": "SBAS",
+        "address": "0x6bddF10f9956dCdA89998C2e673f74a09DEB729B",
+        "decimals": 18
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
