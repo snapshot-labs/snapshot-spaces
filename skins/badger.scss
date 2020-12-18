@@ -7,3 +7,8 @@
   --border-color: #F2A52B;
   --header-bg: #1f1f29;
 }
+
+.button--active {
+  color: #fff !important;
+  background-color: var(--primary-color) !important;
+}
