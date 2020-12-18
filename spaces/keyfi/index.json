@@ -1,0 +1,23 @@
+{
+    "name": "KeyFi",
+    "network": "1",
+    "symbol": "KEYFI",
+    "skin": "keyfi",
+    "domain": "vote.keyfi.com",
+    "strategies": [
+      {
+        "name": "erc20-balance-of",
+        "params": {
+          "address": "0xB8647e90C0645152Fccf4d9AbB6B59Eb4AA99052",
+          "symbol": "KEYFI",
+          "decimals": 18
+        }
+      }
+    ],
+    "members": ["0xFdb6ac6750690D9c46d038f2536eC995D9d3D6d8"],
+    "filters": {
+      "defaultTab": "all",
+      "minScore": 100
+    }
+  }
+  
