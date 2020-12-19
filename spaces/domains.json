@@ -72,5 +72,6 @@
   "governance.unique.one": "uniqueone.eth",
   "vote.coverprotocol.com": "cover",
   "vote.basis.cash": "basiscash.eth",
-  "gov.keeper.finance": "keeperfi.eth"
+  "gov.keeper.finance": "keeperfi.eth",
+  "vote.tacoswap.io": "tacoswap.eth"
 }

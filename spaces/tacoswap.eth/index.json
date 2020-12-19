@@ -1,0 +1,22 @@
+{
+  "name": "Tacoswap",
+  "network": "1",
+  "symbol": "TBA",
+  "skin": "dforce",
+  "domain": "vote.tacoswap.io",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x41C028a4C1F461eBFC3af91619b240004ebAD216",
+        "symbol": "TACO",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
