@@ -1,0 +1,25 @@
+{
+  "name": "xDai STAKE",
+  "network": "1",
+  "symbol": "STAKE",
+  "domain": "xdaistake.eth",
+  "strategies": [
+    {
+      "name": "xdai-stake",
+      "params": {
+        "address": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
+        "symbol": "STAKE",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x50c87176BcD227aB083A6B4Cf2038b0D5081fFe5",
+    "0xA84944735B66e957Fe385567dcc85975022Fe68A",
+    "0xdC31113dd4011101abC126c7e339717cD0aF91Eb"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
