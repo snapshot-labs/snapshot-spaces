@@ -1,0 +1,34 @@
+{
+  "name": "SpiderDAO",
+  "network": "1",
+  "symbol": "SPDR",
+  "skin": "spiderdao",
+  "domain": "vote.spiderdao.io",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xbcD4b7dE6fde81025f74426D43165a5b0D790Fdd",
+        "symbol": "SPDR",
+        "decimals": 18
+      }
+      
+    },
+    {
+      "name": "uniswap",
+      "params": {
+        "address": "0xbcD4b7dE6fde81025f74426D43165a5b0D790Fdd",
+        "symbol": "SPDR LPT"
+      }
+    }
+  ],
+  "members": [
+    "0xDe0809D2eb69b68B878aCA0EDB0e353be0D03cf6"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1000,
+    "onlyMembers": false,
+    "invalids": []
+  }
+}
