@@ -1,0 +1,23 @@
+{
+  "name": "GainSwap",
+  "network": "1",
+  "symbol": "GAIN",
+  "skin": "frontier",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xFcce65a70794BeC59e5Be38c85ebe71aEdaA74ef",
+        "symbol": "GAIN",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0xA869e5956cA1eA9FE9755b7032457CFca4ff53fc"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 1000
+  }
+}
