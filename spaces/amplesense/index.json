@@ -5,30 +5,31 @@
   "domain": "voting.amplesense.io",
   "strategies": [
     {
-      "name": "erc20-balance-of",
+      "name": "contract-call",
       "params": {
-        "address": "0xc463f34040ad6222C1fFB03ACEbDFAAC032202d6",
-        "symbol": "kMPL",
-        "decimals": 9
-      }
-    },
-    {
-      "name": "erc20-balance-of-coeff",
-      "params": {
-        "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
-        "symbol": "AMPL",
+        "address": "0x4FBB8b1876858260Cb0eA5e21A83C48DE6f6cAC0",
         "decimals": 9,
-        "coeff": 0.001
-      }
-    },
-    {
-      "name": "uniswap",
-      "params": {
-        "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
-        "symbol": "AMPL",
-        "weight": 0.001
-      }
-    }
+        "symbol": "kMPL",
+        "methodABI": {
+          "inputs": [
+            {
+              "internalType": "address",
+              "name": "account",
+              "type": "address"
+            }
+          ],
+          "name": "getScore",
+          "outputs": [
+            {
+              "internalType": "uint256",
+              "name": "",
+              "type": "uint256"
+            }
+          ],
+          "stateMutability": "view",
+          "type": "function"
+        }
+    }}
   ],
   "members": [
     "0x9926e27C1e9e41071C378fFCFFe44C9471F0B752"
