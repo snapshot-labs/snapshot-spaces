@@ -1,0 +1,13 @@
+{
+  "name": "ADAO TOKEN",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "ADAO",
+  "defaultView": "core",
+  "token": "0x71fbc1d795fcfbca43a3ebf6de0101952f31a410",
+  "core": [
+    "0xCE8dc2110C3419D9a81D043AF1c3BB16508b636D"
+  ],
+  "min": 0,
+  "invalid": []
+}
