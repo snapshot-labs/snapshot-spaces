@@ -19,7 +19,7 @@
   ],
   "filters": {
     "defaultTab": "all",
-    "minScore": 100000,
-    "onlyMembers": false
+    "minScore": 1000,
+    "invalids": "QmeGr9bGNsxzNRGXmgNVz1yzTp2HXFMMHxe4817CvAUZqM"
   }
 }
