@@ -1,11 +1,8 @@
 [
-  "yam",
+  "yam.eth",
   "yearn",
   "balancer",
   "sushi",
-  "swerve",
-  "aave",
-  "rarible",
   "pickle",
   "aavegotchi",
   "uniswap",
@@ -13,5 +10,8 @@
   "synthetixproposal",
   "synthetixcouncil",
   "mstable",
+  "swerve",
+  "aave",
+  "rarible",
   "lexdao"
 ]
