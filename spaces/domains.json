@@ -79,5 +79,6 @@
   "gov.basisdollar.fi": "basisdollar.eth",
   "vote.keyfi.com": "keyfi-app.eth",
   "vote.amptoken.org": "amp.eth",
-  "vote.spiderdao.io": "spider-dao.eth"
+  "vote.spiderdao.io": "spider-dao.eth",
+  "vote.bdollar.fi": "bdollar.eth"
 }
