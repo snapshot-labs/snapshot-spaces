@@ -80,5 +80,6 @@
   "vote.keyfi.com": "keyfi-app.eth",
   "vote.amptoken.org": "amp.eth",
   "vote.spiderdao.io": "spider-dao.eth",
-  "vote.bdollar.fi": "bdollar.eth"
+  "vote.bdollar.fi": "bdollar.eth",
+  "devcon.snapshot.page": "devcondemo.eth"
 }
