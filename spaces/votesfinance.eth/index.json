@@ -2,7 +2,7 @@
   "name": "VOTE Token",
   "network": "1",
   "symbol": "VOTE",
-  "skin": "votetoken",
+  "skin": "uniswap",
   "strategies": [
     {
       "name": "erc20-balance-of",
