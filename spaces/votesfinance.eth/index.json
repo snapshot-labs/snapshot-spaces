@@ -1,20 +1,21 @@
 {
-  "name": "VELO Token",
+  "name": "VOTE Token",
   "network": "1",
-  "symbol": "VLO",
-  "skin": "velotoken",
+  "symbol": "VOTE",
+  "skin": "votetoken",
   "strategies": [
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x98ad9B32dD10f8D8486927D846D4Df8BAf39Abe2",
-        "symbol": "VLO",
+        "address": "0x9FB69d59Efb40cffF0ceCD6FCe66f4977765ecf3",
+        "symbol": "VOTE",
         "decimals": 18
       }
     }
   ],
   "members": [
-    "0x844Bd107F1059736701ED974B46Bcd59692Cf8e8"
+    "0x124F297eEa6E303bcd84593F2fE9F3D41629e1F3",
+    "0x09BE68823D2A7a22Be569816c9b2c104628545cF"
   ],
   "filters": {
     "defaultTab": "core",
