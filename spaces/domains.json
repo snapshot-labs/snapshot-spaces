@@ -1,5 +1,6 @@
 {
   "gov.archerdao.io": "archerdao.eth",
+  "vote.carrotswap.org": "carrotswap.eth",
   "vote.southchain.digital": "vote.southchain.eth",
   "vote.polyient.games": "polyient-games-governance",
   "vote.acryptos.com": "acryptos",
@@ -11,6 +12,7 @@
   "pillar.snapshot.page": "pillar",
   "signal.pickle.finance": "pickle",
   "vote.airswap.io": "airswap",
+  "vote.loopring.org": "lrctoken.eth",
   "signal.s.finance": "s-finance",
   "signal.eggy.finance": "egg",
   "signal.goldmining.farm": "gmt",
@@ -66,5 +68,20 @@
   "gov.metapool.finance": "metapoolgov.eth",
   "vote.gokai.org": "gokai.eth",
   "gov.mink.finance": "minkfinance.eth",
-  "congress.myhoney.finance": "honeyfinance.eth"
+  "congress.myhoney.finance": "honeyfinance.eth",
+  "governance.relay3r.network": "relayernetwork.eth",
+  "voting-mxx.multiplier.finance": "multiplierfinance.eth",
+  "governance.unique.one": "uniqueone.eth",
+  "vote.coverprotocol.com": "cover",
+  "vote.basis.cash": "basiscash.eth",
+  "gov.keeper.finance": "keeperfi.eth",
+  "vote.tacoswap.io": "tacoswap.eth",
+  "gov.basisdollar.fi": "basisdollar.eth",
+  "vote.keyfi.com": "keyfi-app.eth",
+  "vote.amptoken.org": "amp.eth",
+  "vote.spiderdao.io": "spider-dao.eth",
+  "vote.bdollar.fi": "bdollar.eth",
+  "devcon.snapshot.page": "devcondemo.eth",
+  "vote.saffron.finance": "saffronfinance.eth",
+  "governance.bscex.org": "bscex.eth"
 }
