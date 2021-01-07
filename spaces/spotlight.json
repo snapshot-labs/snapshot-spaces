@@ -1,15 +1,21 @@
 [
-  "yam",
+  "yam.eth",
   "yearn",
   "balancer",
   "sushi",
-  "swerve",
-  "aave",
-  "rarible",
   "pickle",
-  "aavegotchi",
+  "aavegotchi.eth",
   "uniswap",
   "aragon",
+  "synthetixproposal",
+  "synthetixcouncil",
+  "cream",
   "mstable",
-  "lexdao"
+  "cover",
+  "esd.eth",
+  "piedao",
+  "aave",
+  "rarible",
+  "lexdao",
+  "swerve"
 ]

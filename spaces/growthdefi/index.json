@@ -1,16 +1,14 @@
 {
-  "name": "growthdefi", 
-  "network": "1", 
-  "symbol": "GRO", 
-  "skin": "growthdefi", 
-  
-  "strategies": [ 
+  "name": "growthdefi",
+  "network": "1",
+  "symbol": "GRO",
+  "strategies": [
     {
-      "name": "erc20-balance-of", 
-      "params": { 
-        "address": "0x09e64c2b61a5f1690ee6fbed9baf5d6990f8dfd0",
-        "symbol": "GRO", 
-        "decimals": 18 
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xd93f98b483cc2f9efe512696df8f5decb73f9497",
+        "symbol": "stkGRO",
+        "decimals": 18
       }
     }
   ],
@@ -22,7 +20,6 @@
   "filters": { 
     "defaultTab": "all", 
     "minScore": 1, 
-    "onlyMembers": true 
-    
+    "onlyMembers": true
   }
 }
