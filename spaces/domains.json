@@ -88,5 +88,6 @@
   "fund.1sd.finance": "1sd.eth",
   "vote.mith.cash": "mithcash.eth",
   "gov.indexed.finance": "ndx.eth",
-  "vote.perp.fi": "vote-perp.eth"
+  "vote.perp.fi": "vote-perp.eth",
+  "gov.ironbank.fi": "ironbankfi.eth"
 }
