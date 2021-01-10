@@ -1,0 +1,20 @@
+{
+  "name": "CofeeSwap",
+  "network": "1",
+  "symbol": "COFE",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xa11483dfe44f69707708d8af40350ba983b9d741",
+        "symbol": "COFE",
+        "decimals": 18
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1,
+    "onlyMembers": false
+  }
+}
