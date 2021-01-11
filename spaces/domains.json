@@ -90,5 +90,6 @@
   "vote.mith.cash": "mithcash.eth",
   "gov.indexed.finance": "ndx.eth",
   "vote.perp.fi": "vote-perp.eth",
-  "gov.ironbank.fi": "ironbankfi.eth"
+  "gov.ironbank.fi": "ironbankfi.eth",
+  "mint.empty-set.gold": "emptysetgold.eth"
 }
