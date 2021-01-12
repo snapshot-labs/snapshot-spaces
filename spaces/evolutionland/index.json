@@ -1,0 +1,26 @@
+{
+  "name": "Evolution Land",
+  "network": "1",
+  "symbol": "Power",
+  "skin": "evolutionland",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x67e79e2603c1e2dd6576acd2899677ed9918c0cc",
+        "symbol": "Power",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0xd2c7008400F54aA70Af01CF8C747a4473246593E",
+	"0x00E3993566b34e5367d1C602439997BD08c11FF7",
+	"0x52386BE2397e8EAc26298F733b390684203fB580",
+	"0x570FCA2c6f902949dBb90664Be5680fEc94A84f6"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 100
+  }
+}
