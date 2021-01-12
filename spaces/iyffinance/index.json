@@ -7,7 +7,7 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x5d762f76b9e91f71cc4f94391bdfe6333db8519c",
+        "address": "0xb49a64c0ec79dEDD1BDbf03F38B79DC4Dc993762",
         "symbol": "IYF",
         "decimals": 18
       }
