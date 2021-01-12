@@ -7,7 +7,7 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x2bCD929283Ad0EE603E743412ddb214b91fbab88",
+        "address": "0x9E15Ad979919bB4db331Bfe864475Ae3BFFebA93",
         "symbol": "OM",
         "decimals": 18
       }
@@ -15,7 +15,7 @@
     {
       "name": "erc20-balance-of-coeff",
       "params": {
-        "address": "0x99b1db3318aa3040f336fb65c55400e164ddcd7f",
+        "address": "0x91fe14df53eae3a87e310ec6edcdd2d775e1a23f",
         "symbol": "OMUNI",
         "decimals": 18,
         "coeff": 250
