@@ -1,4 +1,5 @@
 {
+  "vote.coffeeswap.finance": "coffeeswap.eth",
   "gov.archerdao.io": "archerdao.eth",
   "vote.carrotswap.org": "carrotswap.eth",
   "vote.southchain.digital": "vote.southchain.eth",
@@ -13,6 +14,7 @@
   "signal.pickle.finance": "pickle",
   "vote.airswap.io": "airswap",
   "vote.loopring.org": "lrctoken.eth",
+  "vote.mahadao.com": "maha.eth",
   "signal.s.finance": "s-finance",
   "signal.eggy.finance": "egg",
   "signal.goldmining.farm": "gmt",
@@ -89,5 +91,7 @@
   "vote.mith.cash": "mithcash.eth",
   "gov.indexed.finance": "ndx.eth",
   "vote.perp.fi": "vote-perp.eth",
-  "gov.ironbank.fi": "ironbankfi.eth"
+  "gov.ironbank.fi": "ironbankfi.eth",
+  "mint.emptyset.gold": "emptysetgold.eth",
+  "mars.poolin.fi": "marsproject.eth"
 }
