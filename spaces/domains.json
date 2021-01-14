@@ -14,6 +14,7 @@
   "signal.pickle.finance": "pickle",
   "vote.airswap.io": "airswap",
   "vote.loopring.org": "lrctoken.eth",
+  "vote.mahadao.com": "maha.eth",
   "signal.s.finance": "s-finance",
   "signal.eggy.finance": "egg",
   "signal.goldmining.farm": "gmt",
@@ -92,5 +93,6 @@
   "vote.perp.fi": "vote-perp.eth",
   "gov.ironbank.fi": "ironbankfi.eth",
   "mint.emptyset.gold": "emptysetgold.eth",
-  "signal.barnbridge.com": "barnbridge.eth"
+  "signal.barnbridge.com": "barnbridge.eth",
+  "mars.poolin.fi": "marsproject.eth"
 }
