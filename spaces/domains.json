@@ -14,6 +14,7 @@
   "signal.pickle.finance": "pickle",
   "vote.airswap.io": "airswap",
   "vote.loopring.org": "lrctoken.eth",
+  "vote.mahadao.com": "maha.eth",
   "signal.s.finance": "s-finance",
   "signal.eggy.finance": "egg",
   "signal.goldmining.farm": "gmt",
@@ -23,7 +24,7 @@
   "governance.trustwallet.com": "trustwallet",
   "voting.dfi.money": "dfi",
   "vote.ykz.network": "yakuza",
-  "vote.cream.finance": "cream",
+  "vote.cream.finance": "cream-finance.eth",
   "vote.uvault.finance": "unicore",
   "gov.exnt.io": "exnetwork",
   "dao.thirm.com": "thirm",
@@ -91,5 +92,7 @@
   "gov.indexed.finance": "ndx.eth",
   "vote.perp.fi": "vote-perp.eth",
   "gov.ironbank.fi": "ironbankfi.eth",
-  "mint.emptyset.gold": "emptysetgold.eth"
+  "mint.emptyset.gold": "emptysetgold.eth",
+  "signal.barnbridge.com": "barnbridge.eth",
+  "mars.poolin.fi": "marsproject.eth"
 }
