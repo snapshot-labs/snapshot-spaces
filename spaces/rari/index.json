@@ -41,17 +41,50 @@
           "type": "function"
         }
       }
+    },
+    {
+      "name": "contract-call",
+      "params": {
+        "address": "0xA54B473028f4ba881F1eD6B670af4103e8F9B98a",
+        "symbol": "vRGT",
+        "decimals": 18,
+        "methodABI": {
+          "constant": true,
+          "inputs": [
+            {
+              "internalType": "address",
+              "name": "holder",
+              "type": "address"
+            }
+          ],
+          "name": "getUnclaimedPrivateRgt",
+          "outputs": [
+            {
+              "internalType": "uint256",
+              "name": "",
+              "type": "uint256"
+            }
+          ],
+          "payable": false,
+          "stateMutability": "view",
+          "type": "function"
+        }
+      }
     }
   ],
   "members": [
-    "0x446947ec47f4C25ca59E89f45EDCE8579f1B6917",
-    "0x10dB6Bce3F2AE1589ec91A872213DAE59697967a",
-    "0x58c1a65f5f39dd1b4fa899455d319422df4399f1",
-    "0xf9c18f2d1ea93e9a36507f238cffc6f0ad7d6eb3",
-    "0xba46695289f0835d73658cb7de23dbf24667e0be"
+    "0xf5C2D472C1f96b44d7BA22118F93876e2AA3aDD1",
+    "0xeAd815D7faD76bf587EBbC27CE3c0212c3B256Be",
+    "0x58C1A65f5F39dD1b4FA899455d319422dF4399F1",
+    "0xdDA9b40A85905023b74EF166Ded3C919d4BA5B9a",
+    "0xfb9F8Ea924dDbDB8C23c6a519ea8C70Cf8F7B92A",
+    "0x35aa01E8E16c35BDd5196844D4c9B729827B0CaC"
   ],
   "filters": {
     "defaultTab": "all",
-    "minScore": 0
+    "minScore": 0,
+    "invalids": [
+      "QmNt4RFpBF956FZPN1G7CP1smTTpX1phRxpqoDb1Rgdjgp"
+    ]
   }
 }
