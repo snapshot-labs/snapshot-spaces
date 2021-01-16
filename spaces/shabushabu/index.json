@@ -1,0 +1,25 @@
+{
+  "name": "Shabushabu",
+  "network": "1",
+  "symbol": "KOBE",
+  "skin": "example",
+  "domain": "vote.shabushabu.finance",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xCb4e8CafEDa995da5cEdfda5205BD5664a12b848",
+        "symbol": "KOBE",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0xe86E2887869314f46E202aac95Fe5CcCC7887FA4",
+    "0xFC2B11Ff9b9AD60284acf97822E11471b70D5968"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 100
+  }
+}
