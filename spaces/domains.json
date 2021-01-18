@@ -24,7 +24,7 @@
   "governance.trustwallet.com": "trustwallet",
   "voting.dfi.money": "dfi",
   "vote.ykz.network": "yakuza",
-  "vote.cream.finance": "cream",
+  "vote.cream.finance": "cream-finance.eth",
   "vote.uvault.finance": "unicore",
   "gov.exnt.io": "exnetwork",
   "dao.thirm.com": "thirm",
@@ -71,6 +71,7 @@
   "vote.gokai.org": "gokai.eth",
   "gov.mink.finance": "minkfinance.eth",
   "congress.myhoney.finance": "honeyfinance.eth",
+  "gdao.synthetix.io": "synthetixgrants",
   "governance.relay3r.network": "relayernetwork.eth",
   "voting-mxx.multiplier.finance": "multiplierfinance.eth",
   "governance.unique.one": "uniqueone.eth",
@@ -93,5 +94,8 @@
   "vote.perp.fi": "vote-perp.eth",
   "gov.ironbank.fi": "ironbankfi.eth",
   "mint.emptyset.gold": "emptysetgold.eth",
-  "mars.poolin.fi": "marsproject.eth"
+  "signal.barnbridge.com": "barnbridge.eth",
+  "mars.poolin.fi": "marsproject.eth",
+  "treasury.dsd.finance": "dsd.eth",
+  "signal.derivadex.com": "derivadao.eth"
 }
