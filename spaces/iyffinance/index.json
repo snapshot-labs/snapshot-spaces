@@ -17,4 +17,21 @@
     "defaultTab": "core",
     "minScore": 10
   }
-}
+},
+{
+      "name": "IYF",
+      "params": {
+        "address": "0x5d762f76b9e91f71cc4f94391bdfe6333db8519c",
+        "symbol": "IYF"
+      }
+    }
+  ],
+  "members": [
+    "0xb49a64c0ec79dEDD1BDbf03F38B79DC4Dc993762"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 1,
+    "onlyMembers": true
+  }
+} 
