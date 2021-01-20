@@ -13,7 +13,7 @@
     }
   ],
   "filters": {
-    "defaultTab": "core",
+    "defaultTab": "all",
     "minScore": 1
   }
 }
