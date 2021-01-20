@@ -5,7 +5,7 @@
   "skin": "example",
   "strategies": [
     {
-      "name": "test-of-balance",
+      "name": "erc20-balance-of",
       "params": {
         "address": "0x6d070e46edebd9252be4424af3e79c76247ec532",
         "symbol": "MIN",
