@@ -1,16 +1,23 @@
 .gzil {
-  --primary-color: #04b7bc;
-  --bg-color: #4c1f7d;
-  --text-color: white;
-  --link-color: white;
-  --heading-color: white;
-  --border-color: rgba(255, 255, 255, 0.2);
-  --header-bg: #f741f0;
+  --primary-color: #ff007a;
+  --bg-color: #FFFFFF;
+  --text-color: #565b69;
+  --link-color: #000000;
+  --heading-color: #ff007a;
+  --border-color: #e1e3e7;
+  --header-bg: #FFFFFF;
   --block-bg: transparent;
+}
 
-  #topnav {
-    border-bottom: 4px solid black !important;
-    border-image-slice: 1;
-    border-image-source: linear-gradient(to left, #f741f0, #04b7bc);
+@media (prefers-color-scheme: dark) {
+  .gzil {
+    --primary-color: #2172E5;
+    --bg-color: #212429;
+    --text-color: #c2c5ca;
+    --link-color: #FFFFFF;
+    --heading-color: #2172E5;
+    --border-color: #40454f;
+    --header-bg: #212429;
+    --block-bg: transparent;
   }
 }
