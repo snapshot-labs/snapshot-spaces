@@ -1,0 +1,22 @@
+{
+  "name": "Synthetix Grants DAO",
+  "network": "1",
+  "symbol": "WD",
+  "skin": "synthetix",
+  "domain": "gdao.synthetix.io",
+  "strategies": [
+    {
+      "name": "synthetix",
+      "params": {
+        "symbol": "Weighted Debt",
+        "decimals": 18
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0,
+    "invalids": []
+  },
+  "members": []
+}
