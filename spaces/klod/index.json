@@ -1,0 +1,23 @@
+{
+  "name": "Klod",
+  "network": "4",
+  "symbol": "MIN",
+  "skin": "example",
+  "strategies": [
+    {
+      "name": "test-of-balance",
+      "params": {
+        "address": "0x6d070e46edebd9252be4424af3e79c76247ec532",
+        "symbol": "MIN",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x0Ac81CBe8e07172643Fe5266A0F102bFE47DC1F1"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
