@@ -82,6 +82,9 @@
   ],
   "filters": {
     "defaultTab": "all",
-    "minScore": 0
+    "minScore": 0,
+    "invalids": [
+      "QmNt4RFpBF956FZPN1G7CP1smTTpX1phRxpqoDb1Rgdjgp"
+    ]
   }
 }
