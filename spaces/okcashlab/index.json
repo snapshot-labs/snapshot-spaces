@@ -1,0 +1,20 @@
+{
+    "name": "OKC-LAB",
+    "network": "1",
+    "symbol": "OKC",
+    "skin": "okcashlab",
+    "strategies": [
+      {
+        "name": "erc20-balance-of",
+        "params": {
+          "address": "0x7B3EfF0b7Ff26A4f437237A820De4801cC5dbB1B",
+          "symbol": "OKC",
+          "decimals": 18
+        }
+      }
+    ],
+    "filters": {
+      "defaultTab": "all",
+      "minScore": 0
+    }
+  }
