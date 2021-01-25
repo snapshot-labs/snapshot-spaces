@@ -8,7 +8,7 @@
     {
       "name": "contract-call",
       "params": {
-        "address": "0x3f5014e49e03d4444483662cc70618cd8087f9d2",
+        "address": "0x8664c6CAC83973068d47c4A430Eb4918125f40B0",
         "decimals": 18,
         "symbol": "fnx",
         "methodABI": {
