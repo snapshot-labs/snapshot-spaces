@@ -103,5 +103,6 @@
   "dao.scifi.finance": "spicedao.eth",
   "dao.prosper.so": "prosperso.eth",
   "governance.dextf.com": "dextfprotocol.eth",
-  "gov.clap.finance": "clapfinance.eth"
+  "gov.clap.finance": "clapfinance.eth",
+  "vote.pandayield.com": "pandayield.eth"
 }
