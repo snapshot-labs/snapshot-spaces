@@ -1,4 +1,5 @@
 {
+  "signal.bzx.network": "bzx.eth",
   "signal.stakedao.org": "stakedao.eth",
   "vote.coffeeswap.finance": "coffeeswap.eth",
   "gov.archerdao.io": "archerdao.eth",
