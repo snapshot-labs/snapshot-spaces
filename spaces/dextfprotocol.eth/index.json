@@ -12,6 +12,13 @@
         "symbol": "DEXTF",
         "decimals": 18
       }
+    },
+    {
+      "name": "uniswap",
+      "params": {
+        "address": "0x5f64ab1544d28732f0a24f4713c2c8ec0da089f0",
+        "symbol": "DEXTF (Uniswap)"
+      }
     }
   ],
   "members": [
@@ -22,6 +29,9 @@
     "defaultTab": "core",
     "minScore": 1,
     "onlyMembers": true,
-    "invalids": ["QmV72dPmg6rxGLYoc67DNJUXkwfGyGBvGWGmSbyNrFMMWu"]
+    "invalids": [
+      "QmV72dPmg6rxGLYoc67DNJUXkwfGyGBvGWGmSbyNrFMMWu",
+      "QmVmQb9T45zpHQDoSou3D3THyGpgwiNqwjSNWvo1K1nvXu"
+    ]
   }
 }
