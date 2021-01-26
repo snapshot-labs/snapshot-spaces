@@ -1,0 +1,27 @@
+{
+  "name": "DEXTF Governance",
+  "network": "1",
+  "symbol": "DEX",
+  "skin": "dextfprotocol",
+  "domain": "governance.dextf.com",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x5f64ab1544d28732f0a24f4713c2c8ec0da089f0",
+        "symbol": "DEXTF",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x9Eaf0E25Aa660557018847e71ED9cf9C7772cF77",
+    "0x71f2bAa3E689479C3125c99957aF680FfcC800A7"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 1,
+    "onlyMembers": true,
+    "invalids": ["QmV72dPmg6rxGLYoc67DNJUXkwfGyGBvGWGmSbyNrFMMWu"]
+  }
+}
