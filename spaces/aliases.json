@@ -1,5 +1,7 @@
 {
   "aavegotchi": "aavegotchi.eth",
+  "airswap": "vote.airswap.eth",
+  "airswap-rinkeby": "vote-rinkeby.airswap.eth",
   "unfederalreserve": "unfederalreserve.eth",
   "yam": "yam.eth",
   "velotoken": "velotoken.eth",
