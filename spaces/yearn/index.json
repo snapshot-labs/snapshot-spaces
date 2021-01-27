@@ -56,6 +56,9 @@
   ],
   "filters": {
     "defaultTab": "all",
-    "minScore": 1
+    "minScore": 1,
+    "invalids": [
+      "QmaCQEb57nUTsezKa8dsm369exVwMKhXVLTwcsG3XSYkKY"
+    ]
   }
 }
