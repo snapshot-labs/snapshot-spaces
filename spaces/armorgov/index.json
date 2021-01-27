@@ -1,0 +1,11 @@
+{
+  "key": "armorgov.eth",
+  "symbol": "ARMOR",
+  "name": "Armor",
+  "defaultView": "all",
+  "address": "0xfCF028001db9be08B9D4C22824aBC72aaCD580b3",
+  "token": "0xfCF028001db9be08B9D4C22824aBC72aaCD580b3",
+  "core": [],
+  "min": 0,
+  "invalid": []
+}
