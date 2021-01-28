@@ -21,11 +21,23 @@
       }
     },
     {
-      "name": "balancer-delegation",
+      "name": "delegation",
       "params": {
         "symbol": "BAL (delegated)",
-        "address": "0xba100000625a3754423978a60c9317c58a424e3D",
-        "decimals": 18
+        "strategies": [
+          {
+            "name": "erc20-balance-of",
+            "params": {
+              "address": "0xba100000625a3754423978a60c9317c58a424e3D"
+            }
+          },
+          {
+            "name": "balancer",
+            "params": {
+              "address": "0xba100000625a3754423978a60c9317c58a424e3D"
+            }
+          }
+        ]
       }
     }
   ],

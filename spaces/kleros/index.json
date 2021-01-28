@@ -13,11 +13,18 @@
       }
     },
     {
-      "name": "erc20-balance-of-delegation",
+      "name": "delegation",
       "params": {
-        "address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
         "symbol": "PNK (delegated)",
-        "decimals": 18
+        "strategies": [
+          {
+            "name": "erc20-balance-of",
+            "params": {
+              "address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+              "decimals": 18
+            }
+          }
+        ]
       }
     }
   ],
