@@ -11,6 +11,13 @@
         "symbol": "ROBOT",
         "decimals": 18
       }
+    },
+    {
+      "name": "balancer",
+      "params": {
+        "address": "0xfb5453340c03db5ade474b27e68b6a9c6b2823eb",
+        "symbol": "GEAR"
+      }
     }
   ],
   "members": [
@@ -18,6 +25,6 @@
   ],
   "filters": {
     "defaultTab": "core",
-    "minScore": 1000
+    "minScore": 500
   }
 }
