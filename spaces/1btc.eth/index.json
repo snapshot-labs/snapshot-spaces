@@ -1,0 +1,47 @@
+{
+  "name": "StandardHashrate",
+  "network": "56",
+  "symbol": "BTCST",
+  "skin": "fries",
+  "domain": "vote.1-b.tc",
+  "strategies": [
+    {
+      "name": "contract-call",
+      "params": {
+        "symbol": "BTCST",
+        "address": "0x8Bd446aD0710D04bF509A176D6373c7d2b76b5C1",
+        "decimals": 18,
+        "methodABI": {
+          "constant": true,
+          "inputs": [
+            {
+              "internalType": "address",
+              "name": "account",
+              "type": "address"
+            }
+          ],
+          "name": "govScoreFor",
+          "outputs": [
+            {
+              "internalType": "uint256",
+              "name": "",
+              "type": "uint256"
+            }
+          ],
+          "payable": false,
+          "stateMutability": "view",
+          "type": "function"
+        }
+      }
+    }
+  ],
+  "members": [
+    "0xBc927b2F8E8b9C6A19C1C633523da3DBb600FC07",
+    "0xad3784cd071602d6c9c2980d8e0933466c3f0a0a"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0,
+    "onlyMembers": false
+  }
+}
