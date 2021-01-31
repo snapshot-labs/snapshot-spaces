@@ -1,0 +1,37 @@
+{
+  "name": "OMG",
+  "network": "1",
+  "symbol": "OMG",
+  "domain": "vote.omg.network",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xa80C32c721d06c91DcEFfEa78f184503c9046940",
+        "symbol": "OMG",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x3EE35Ec0855B41980C7E80A9600cECFA03F8ab59",
+    "0x5EAEB0b5D1fB129A9495051aF0531867E6f919C5",
+    "0xAF13F1d922f6f75cDD1D96701191125EdCE92168",
+    "0x034242Eca478CBfB2a5dfb92C2eA0e4F251A2DAd",
+    "0x217298BEebf62F97C1DfAD9cC93Ff3A640862bad",
+    "0x97e144Ab35ec7C88572319D901D15307351334a3",
+    "0xEaa943B100B401A2d83a24AD25689177074A02F2",
+    "0x97e144Ab35ec7C88572319D901D15307351334a3",
+    "0x60DFAf54C16e6b7525608061cEF124555F708764",
+    "0x6005005DFEAAdFBa25d9a9757bDd07B35a0Da0f8",
+    "0xF71dc466eBf92856d0f7baD467789352d84FbeeF",
+    "0x5C07c5a7f6A2d8793b4b00E6Cbe34F21c90b81E2",
+    "0x6005005DFEAAdFBa25d9a9757bDd07B35a0Da0f8",
+    "0xd234798Dc715D5414372C52354B72338cdeC2c2B",
+    "0xB2A5c803247e275a2B9a4BD0d2f28e8183C607dD",
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
