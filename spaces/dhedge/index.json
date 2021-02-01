@@ -1,15 +1,15 @@
 {
   "name": "dHEDGE",
   "network": "1",
-  "symbol": "Staked-DHT-USDC",
+  "symbol": "vDHT",
   "skin": "dhedge",
   "domain": "gov.dhedge.org",
   "strategies": [
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0xc40c0C82B40A82fd87DE74d7af5AC3f908C512a1",
-        "symbol": "Staked-DHT-USDC",
+        "address": "0xEe1B6b93733eE8BA77f558F8a87480349bD81F7f",
+        "symbol": "vDHT",
         "decimals": 18
       }
     }
