@@ -109,6 +109,7 @@
   "gov.clap.finance": "clapfinance.eth",
   "vote.pandayield.com": "pandayield.eth",
   "gov.aventus.io": "aventus.eth",
-  "gov.omg.network": "omg.eth",
-  "gov.kebabfinance.com": "kebabfinance.eth"
+  "vote.omg.network": "omg.eth",
+  "gov.kebabfinance.com": "kebabfinance.eth",
+  "vote.monsterslayer.finance": "monsterslayer.eth"
 }
