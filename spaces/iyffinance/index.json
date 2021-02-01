@@ -13,8 +13,12 @@
       }
     }
   ],
+  "members": [
+    "0xb49a64c0ec79dEDD1BDbf03F38B79DC4Dc993762"
+  ],
   "filters": {
     "defaultTab": "core",
-    "minScore": 10
+    "minScore": 1,
+    "onlyMembers": true
   }
 }
