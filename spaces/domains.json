@@ -111,5 +111,6 @@
   "gov.aventus.io": "aventus.eth",
   "gov.kebabfinance.com": "kebabfinance.eth",
   "vote.monsterslayer.finance": "monsterslayer.eth",
-  "signal.opium.network": "opiumprotocol.eth"
+  "signal.opium.network": "opiumprotocol.eth",
+  "vote.omg.network": "omg.eth"
 }
