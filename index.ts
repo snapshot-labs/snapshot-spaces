@@ -11,6 +11,7 @@ export default Object.fromEntries(
         ![
           'domains.json',
           'spotlight.json',
+          'aliases.json',
           'example/index.json'
         ].includes(file)
     )
