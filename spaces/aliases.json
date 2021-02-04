@@ -8,5 +8,6 @@
   "cream": "cream-finance.eth",
   "bzx": "bzx.eth",
   "metafactory": "metafactory.eth",
-  "stabilize": "stabilize-governance.eth"
+  "stabilize": "stabilize-governance.eth",
+  "diadata" : "diadao.eth"
 }
