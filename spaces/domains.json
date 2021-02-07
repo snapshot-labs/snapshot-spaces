@@ -114,5 +114,6 @@
   "signal.opium.network": "opiumprotocol.eth",
   "vote.omg.network": "omg.eth",
   "vote.shabushabu.finance": "shabushabufi.eth",
-  "council.illuvium.io": "ilv.eth"
+  "council.illuvium.io": "ilv.eth",
+  "vote.yzydao.finance": "yzydao.eth"
 }
