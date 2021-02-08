@@ -10,7 +10,7 @@
       "params": {
         "address": "0x59F9e6E5e495F2fB259963DeC5BA56CFBd5846e7",
         "symbol": "POKTDAO",
-        "decimals": 18
+        "decimals": 0
       }
     }
   ],
