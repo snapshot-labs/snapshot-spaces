@@ -3,6 +3,7 @@
 	"network": "1",
 	"symbol": "DEGOV",
 	"skin": "debaseonomics",
+	"domain": "vote.debaseonomics.io",
 	"strategies": [
 		{
 			"name": "erc20-balance-of",
@@ -13,9 +14,9 @@
 			}
 		}
 	],
-	"members": [ "0x6dbbc75f2951B826730ac1b2B774C5dEC941A860" ],
+	"members": [],
 	"filters": {
 		"defaultTab": "all",
-		"minScore": 1000
+		"minScore": 250
 	}
 }
