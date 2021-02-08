@@ -116,5 +116,6 @@
   "vote.omg.network": "omg.eth",
   "vote.shabushabu.finance": "shabushabufi.eth",
   "council.illuvium.io": "ilv.eth",
-  "vote.yzydao.finance": "yzydao.eth"
+  "vote.yzydao.finance": "yzydao.eth",
+  "gov.premia.finance": "premia.eth"
 }
