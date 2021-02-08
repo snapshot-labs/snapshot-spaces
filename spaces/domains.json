@@ -1,5 +1,7 @@
 {
+  "genesis-dao.hoprnet.org": "genesis-dao.hopr.eth",
   "gov.stablex.finance": "stablexfinance.eth",
+  "gov.mig.business": "migbusiness.eth",
   "signal.bzx.network": "bzx.eth",
   "signal.stakedao.org": "stakedao.eth",
   "vote.coffeeswap.finance": "coffeeswap.eth",
@@ -114,5 +116,7 @@
   "signal.opium.network": "opiumprotocol.eth",
   "vote.omg.network": "omg.eth",
   "vote.shabushabu.finance": "shabushabufi.eth",
-  "council.illuvium.io": "ilv.eth"
+  "council.illuvium.io": "ilv.eth",
+  "vote.yzydao.finance": "yzydao.eth",
+  "gov.premia.finance": "premia.eth"
 }
