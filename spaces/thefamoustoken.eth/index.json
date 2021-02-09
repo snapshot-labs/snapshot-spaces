@@ -1,0 +1,22 @@
+{
+  "name": "thefamoustoken.com",
+  "network": "1",
+  "symbol": "TFT",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xaef4f02e31cdbf007f8d98da4ae365188a0e9ecc",
+        "symbol": "TFT",
+        "decimals": 8
+      }
+    }
+  ],
+  "members": [
+    "0x861464a7bF8Db8C2cbd111DcD9465719f8e6C649"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
