@@ -1,14 +1,14 @@
 {
-  "token": "0xeaccb6E0f24d66cF4Aa6cBDa33971b9231d332a1",
   "name": "Polyient Games Governance",
   "network": "1",
   "symbol": "PGT",
   "skin": "polyient-games-governance",
+  "domain": "vote.polyient.games",
   "strategies": [
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0xeaccb6E0f24d66cF4Aa6cBDa33971b9231d332a1",
+        "address": "0x85327e4C2D3484cEa109D5F90Bcb616D5aE40AD5",
         "symbol": "PGT",
         "decimals": 18
       }
@@ -23,4 +23,4 @@
     "defaultTab": "core",
     "minScore": 100
   }
-}
+} 

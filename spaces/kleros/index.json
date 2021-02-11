@@ -1,5 +1,4 @@
 {
-  "token": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
   "name": "Kleros",
   "network": "1",
   "symbol": "PNK",
@@ -11,6 +10,21 @@
         "address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
         "symbol": "PNK",
         "decimals": 18
+      }
+    },
+    {
+      "name": "delegation",
+      "params": {
+        "symbol": "PNK (delegated)",
+        "strategies": [
+          {
+            "name": "erc20-balance-of",
+            "params": {
+              "address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+              "decimals": 18
+            }
+          }
+        ]
       }
     }
   ],
