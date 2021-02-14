@@ -120,5 +120,6 @@
   "council.illuvium.io": "ilv.eth",
   "vote.yzydao.finance": "yzydao.eth",
   "gov.premia.finance": "premia.eth",
-  "vote.perlinx.finance": "perlinx.eth"
+  "vote.perlinx.finance": "perlinx.eth",
+  "vote.defigeek.xyz":"defigeek.eth"
 }
