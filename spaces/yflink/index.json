@@ -1,14 +1,20 @@
 {
-  "key": "yflink",
   "name": "YFLink",
-  "chainId": 1,
-  "decimals": 18,
+  "network": "1",
   "symbol": "YFL",
-  "defaultView": "all",
-  "address": "0x28cb7e841ee97947a86B06fA4090C8451f64c0be",
-  "token": "0x28cb7e841ee97947a86B06fA4090C8451f64c0be",
-  "core": [],
-  "min": 0,
-  "invalid": [],
-  "visible": false
+  "skin": "yflink",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x75D1aA733920b14fC74c9F6e6faB7ac1EcE8482E",
+        "symbol": "yYFL",
+        "decimals": 18
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
 }
