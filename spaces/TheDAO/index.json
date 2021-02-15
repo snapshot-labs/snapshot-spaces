@@ -1,0 +1,19 @@
+{
+  "name": "TheDAO",
+  "network": "1",
+  "symbol": "TheDAO",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xBB9bc244D798123fDe783fCc1C72d3Bb8C189413",
+        "symbol": "TheDAO",
+        "decimals": 16
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1
+  }
+}
