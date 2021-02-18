@@ -1,4 +1,4 @@
-{ 
+{
   "voting.cafeswap.finance": "cafeswapfinance.eth",
   "cast.alchemist.wtf": "alchemistcoin.eth",
   "genesis-dao.hoprnet.org": "genesis-dao.hopr.eth",
@@ -122,5 +122,5 @@
   "vote.yzydao.finance": "yzydao.eth",
   "gov.premia.finance": "premia.eth",
   "vote.perlinx.finance": "perlinx.eth",
-  "vote.defigeek.xyz":"defigeek.eth"
+  "vote.defigeek.xyz": "defigeek.eth"
 }
