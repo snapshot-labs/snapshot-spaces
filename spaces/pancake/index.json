@@ -10,22 +10,6 @@
       "params": {
         "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
         "chefAddresses": [
-          {
-            "address": "0xFb1088Dae0f03C5123587d2babb3F307831E6367",
-            "decimals": 18
-          },
-          {
-            "address": "0x9c4EBADa591FFeC4124A7785CAbCfb7068fED2fb",
-            "decimals": 18
-          },
-          {
-            "address": "0x90F995b9d46b32c4a1908A8c6D0122e392B3Be97",
-            "decimals": 18
-          },
-          {
-            "address": "0x42Afc29b2dEa792974d1e9420696870f1Ca6d18b",
-            "decimals": 6
-          }
         ]
       }
     }
