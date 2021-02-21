@@ -1,4 +1,6 @@
 {
+  "voting.cafeswap.finance": "cafeswapfinance.eth",
+  "cast.alchemist.wtf": "alchemistcoin.eth",
   "genesis-dao.hoprnet.org": "genesis-dao.hopr.eth",
   "gov.stablex.finance": "stablexfinance.eth",
   "gov.mig.business": "migbusiness.eth",
@@ -118,5 +120,8 @@
   "vote.shabushabu.finance": "shabushabufi.eth",
   "council.illuvium.io": "ilv.eth",
   "vote.yzydao.finance": "yzydao.eth",
-  "gov.premia.finance": "premia.eth"
+  "gov.premia.finance": "premia.eth",
+  "vote.perlinx.finance": "perlinx.eth",
+  "vote.defigeek.xyz": "defigeek.eth",
+  "ambassador.synthetix.io": "snxambassador.eth"
 }
