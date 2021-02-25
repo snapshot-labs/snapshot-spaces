@@ -9,5 +9,6 @@
   "bzx": "bzx.eth",
   "metafactory": "metafactory.eth",
   "stabilize": "stabilize-governance.eth",
-  "diadata" : "diadao.eth"
+  "diadata" : "diadao.eth",
+  "gnosis" : "gnosis.eth"
 }
