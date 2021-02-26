@@ -15,7 +15,7 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x91370D9265B37469e8414e002eD3036A52D4f951",
+        "address": "0x1571eD0bed4D987fe2b498DdBaE7DFA19519F651",
         "symbol": "iFARM",
         "decimals": 18
       }
