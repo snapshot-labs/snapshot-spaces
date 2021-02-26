@@ -1,9 +1,32 @@
-.yearn {
-  --primary-color: #307fec;
-  --bg-color: #f9fafb;
-  --text-color: #949ca9;
-  --link-color: #212529;
-  --heading-color: #212529;
-  --border-color: #e1e1e1;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500;700&display=swap');
+
+:root {
+  --primary-color: #0657F9;
+  --bg-color: white;
+  --text-color: #586069;
+  --link-color: #111111;
+  --heading-color: #111111;
+  --border-color: #d1d5da;
   --header-bg: white;
+  --block-bg: white;
+}
+
+#app {
+  font-family: 'Roboto', sans-serif !important;
+}
+
+#topnav {
+  background-color: #313795;
+  border-bottom: 3px solid #0657F9 !important;
+  border-image-slice: 1;
+  border-image-source: linear-gradient(to left, #095EB5, #0077FC);
+}
+
+#topnav a {
+  color: white !important;
+}
+
+#topnav button {
+  border-color: white;
+  color: white;
 }
