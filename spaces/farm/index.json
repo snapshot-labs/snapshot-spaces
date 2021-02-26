@@ -13,6 +13,14 @@
       }
     },
     {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x91370D9265B37469e8414e002eD3036A52D4f951",
+        "symbol": "iFARM",
+        "decimals": 18
+      }
+    },
+    {
       "name": "contract-call",
       "params": {
         "address": "0x25550Cccbd68533Fa04bFD3e3AC4D09f9e00Fc50",
