@@ -10,5 +10,6 @@
   "metafactory": "metafactory.eth",
   "stabilize": "stabilize-governance.eth",
   "diadata" : "diadao.eth",
-  "gnosis" : "gnosis.eth"
+  "gnosis" : "gnosis.eth",
+  "harvest" : "harvestfi.eth"
 }
