@@ -129,5 +129,6 @@
   "vote.1-b.tc":"1btc.eth",
   "poll.santiment.net": "santiment.eth",
   "voting-bmxx.multiplier.finance": "mcl-multiplierfinance.eth",
-  "vote.cndy.finance": "candyfinance.eth"
+  "vote.cndy.finance": "candyfinance.eth",
+  "gov.alpacafinance.org": "alpacafinance.eth"
 }
