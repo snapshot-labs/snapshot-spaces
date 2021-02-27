@@ -1,4 +1,5 @@
 {
+  "vote.easybake.finance": "easybake.eth",
   "voting.cafeswap.finance": "cafeswapfinance.eth",
   "cast.alchemist.wtf": "alchemistcoin.eth",
   "genesis-dao.hoprnet.org": "genesis-dao.hopr.eth",
@@ -126,5 +127,7 @@
   "vote.defigeek.xyz": "defigeek.eth",
   "ambassador.synthetix.io": "snxambassador.eth",
   "vote.1-b.tc":"1btc.eth",
-  "voting-bmxx.multiplier.finance": "mcl-multiplierfinance.eth"
+  "poll.santiment.net": "santiment.eth",
+  "voting-bmxx.multiplier.finance": "mcl-multiplierfinance.eth",
+  "vote.cndy.finance": "candyfinance.eth"
 }
