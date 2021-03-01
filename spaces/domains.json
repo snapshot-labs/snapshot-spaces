@@ -131,5 +131,6 @@
   "poll.santiment.net": "santiment.eth",
   "voting-bmxx.multiplier.finance": "mcl-multiplierfinance.eth",
   "vote.cndy.finance": "candyfinance.eth",
-  "gov.alpacafinance.org": "alpacafinance.eth"
+  "gov.alpacafinance.org": "alpacafinance.eth",
+  "dao.zfo.gg": "zfogg.eth"
 }
