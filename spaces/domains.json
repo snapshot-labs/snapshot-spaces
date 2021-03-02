@@ -1,6 +1,7 @@
 {
   "vote.easybake.finance": "easybake.eth",
   "voting.cafeswap.finance": "cafeswapfinance.eth",
+  "vote.magicbalancer.org": "magicbalancer.eth",
   "cast.alchemist.wtf": "alchemistcoin.eth",
   "genesis-dao.hoprnet.org": "genesis-dao.hopr.eth",
   "gov.stablex.finance": "stablexfinance.eth",
@@ -130,5 +131,6 @@
   "poll.santiment.net": "santiment.eth",
   "voting-bmxx.multiplier.finance": "mcl-multiplierfinance.eth",
   "vote.cndy.finance": "candyfinance.eth",
-  "gov.alpacafinance.org": "alpacafinance.eth"
+  "gov.alpacafinance.org": "alpacafinance.eth",
+  "dao.zfo.gg": "zfogg.eth"
 }
