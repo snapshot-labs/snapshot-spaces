@@ -1,5 +1,7 @@
 {
+  "vote.easybake.finance": "easybake.eth",
   "voting.cafeswap.finance": "cafeswapfinance.eth",
+  "vote.magicbalancer.org": "magicbalancer.eth",
   "cast.alchemist.wtf": "alchemistcoin.eth",
   "genesis-dao.hoprnet.org": "genesis-dao.hopr.eth",
   "gov.stablex.finance": "stablexfinance.eth",
@@ -45,6 +47,7 @@
   "gov.mettalex.com": "mettalex",
   "gov.moontools.io": "moontools",
   "voting.pancakeswap.finance": "pancake",
+  "vote.pancakebunny.finance": "pancakebunny.eth",
   "vote.taconomics.io": "taco",
   "gov.narwhalswap.org": "narwhal",
   "vote.streamr.network": "streamr",
@@ -123,5 +126,12 @@
   "gov.premia.finance": "premia.eth",
   "vote.perlinx.finance": "perlinx.eth",
   "vote.defigeek.xyz": "defigeek.eth",
-  "ambassador.synthetix.io": "snxambassador.eth"
+  "ambassador.synthetix.io": "snxambassador.eth",
+  "vote.bamboodefi.com": "bamboodefi.eth",
+  "vote.1-b.tc": "1btc.eth",
+  "poll.santiment.net": "santiment.eth",
+  "voting-bmxx.multiplier.finance": "mcl-multiplierfinance.eth",
+  "vote.cndy.finance": "candyfinance.eth",
+  "gov.alpacafinance.org": "alpacafinance.eth",
+  "dao.zfo.gg": "zfogg.eth"
 }
