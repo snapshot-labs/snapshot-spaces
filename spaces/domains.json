@@ -133,5 +133,6 @@
   "voting-bmxx.multiplier.finance": "mcl-multiplierfinance.eth",
   "vote.cndy.finance": "candyfinance.eth",
   "gov.alpacafinance.org": "alpacafinance.eth",
-  "dao.zfo.gg": "zfogg.eth"
+  "dao.zfo.gg": "zfogg.eth",
+  "vote.ensuser.com": "ensuser.eth"
 }
