@@ -1,0 +1,23 @@
+{
+  "token": "0xFE05B972EAb7761B60b4A14558EAC3Fef78F306A",
+  "name": "Homebrew.Finance NFT Platforms",
+  "network": "1",
+  "symbol": "MUG",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xFE05B972EAb7761B60b4A14558EAC3Fef78F306A",
+        "symbol": "MUG",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x353C62f328f06aC08581DAAa735DfADc0C3297f2",
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 10
+  }
+}
