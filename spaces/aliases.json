@@ -9,6 +9,11 @@
   "bzx": "bzx.eth",
   "metafactory": "metafactory.eth",
   "stabilize": "stabilize-governance.eth",
-  "diadata" : "diadao.eth",
-  "gnosis" : "gnosis.eth"
+  "diadata": "diadao.eth",
+  "gnosis": "gnosis.eth",
+  "farm": "harvestfi.eth",
+  "tokenlon": "tokenlon.eth",
+  "synthetixcouncil": "spartancouncil.eth",
+  "synthetixproposal": "snxgov.eth",
+  "synthetixgrants": "snxgrants.eth"
 }
