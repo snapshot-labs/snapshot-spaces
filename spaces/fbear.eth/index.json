@@ -1,0 +1,23 @@
+{
+  "name": "Bears Finance",
+  "network": "56",
+  "symbol": "BEAR",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x580f500cc7da45b7b058de7df325f6d8f83065e1",
+        "symbol": "BEAR",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x3d7fA848a2E156b4802b562Ed0122d35A2758D07",
+    "0x8570E3942d7F14BB3Dd51E2fB0A813Ce93d8e4C9"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
