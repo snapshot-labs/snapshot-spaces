@@ -1,0 +1,19 @@
+{
+  "name": "SPI Governance",
+  "network": "56",
+  "symbol": "GSPI",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xb42e1c3902b85b410334f5fff79cdc51fbee6950",
+        "symbol": "GSPI",
+        "decimals": 18
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
