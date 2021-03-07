@@ -1,0 +1,20 @@
+{
+  "name": "Visor",
+  "network": "1",
+  "symbol": "VISR",
+  "skin": "visor",
+  "strategies": [
+    {
+      "name": "Visor",
+      "params": {
+        "address": "0xf62dff6d13b8ac6f7707335b4d936a2ca5e16d04",
+        "symbol": "VISR",
+        "decimals": 18
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 100000
+  }
+}
