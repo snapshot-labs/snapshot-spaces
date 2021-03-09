@@ -1,0 +1,25 @@
+{
+    "name": "ITAM",
+    "network": "56",
+    "symbol": "ITAM",
+    "skin": "itam",
+    "domain": "voting.itam.games",
+    "strategies": [
+      {
+        "name": "erc20-balance-of",
+        "params": {
+          "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+          "symbol": "ITAM",
+          "decimals": 18
+        }
+      }
+    ],
+    "members": [
+      "0x1E846f848CD9Cd29777E70532852B68826Df20E2"
+    ],
+    "filters": {
+      "defaultTab": "core",
+      "minScore": 0,
+      "invalids": []
+    }
+  }
