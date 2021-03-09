@@ -8,7 +8,7 @@
       {
         "name": "erc20-balance-of",
         "params": {
-          "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+          "address": "0x04c747b40be4d535fc83d09939fb0f626f32800b",
           "symbol": "ITAM",
           "decimals": 18
         }
