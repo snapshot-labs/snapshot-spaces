@@ -14,9 +14,7 @@
         }
       }
     ],
-    "members": [
-      "0x1E846f848CD9Cd29777E70532852B68826Df20E2"
-    ],
+    "members": [],
     "filters": {
       "defaultTab": "core",
       "minScore": 0,
