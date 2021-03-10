@@ -8,16 +8,8 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0xb1dc9124c395c1e97773ab855d66e879f053a289",
-        "symbol": "YAX",
-        "decimals": 18
-      }
-    },
-    {
-      "name": "erc20-balance-of",
-      "params": {
-        "address": "0xeF31Cb88048416E301Fee1eA13e7664b887BA7e8",
-        "symbol": "sYAX",
+        "address": "0x162c07f7076b5287cf1d599972c480c51ae00743",
+        "symbol": "YAX VP",
         "decimals": 18
       }
     }
