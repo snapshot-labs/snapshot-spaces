@@ -1,4 +1,5 @@
 {
+  "gov.visor.finance": "visor.eth",
   "vote.easybake.finance": "easybake.eth",
   "voting.cafeswap.finance": "cafeswapfinance.eth",
   "vote.magicbalancer.org": "magicbalancer.eth",
@@ -136,5 +137,8 @@
   "dao.zfo.gg": "zfogg.eth",
   "vote.ensuser.com": "ensuser.eth",
   "governance.diamondhandsfinance.org": "diamondhandsfinance.eth",
-  "vote.bears.finance":"fbear.eth"
+  "vote.bears.finance":"fbear.eth",
+  "vote.combine.finance": "xcomb.eth",
+  "vote.rulerprotocol.com": "rulerprotocol.eth",
+  "voting.itam.games": "itam.eth"
 }
