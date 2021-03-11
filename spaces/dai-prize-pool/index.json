@@ -1,10 +1,9 @@
 {
   "token": "0x334cbb5858417aee161b53ee0d5349ccf54514cf",
-  "name": "PoolTogether",
+  "name": "Dai Prize Pool (PoolTogether)",
   "network": "1",
   "symbol": "PcDAI",
   "skin": "pooltogether",
-  "domain": "vote.pooltogether.com",
   "strategies": [
     {
       "name": "erc20-with-balance",
