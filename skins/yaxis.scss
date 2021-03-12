@@ -5,22 +5,10 @@
   --link-color: white;
   --heading-color: rgba(0, 0, 0, 0.85);
   --border-color: #e7eaec;
-  --header-bg: #f8fafd;
+  --header-bg: white;
   --block-bg: white;
 
   #topnav {
     background: linear-gradient(180deg, #016eac 20.17%, #52b2dc 100%);
-  }
-
-  #border-bottom {
-    border: none;
-  }
-
-  #pl-1 #pr-2 #text-gray {
-    color: white;
-  }
-
-  #router-link-active {
-    color: rgba(0, 0, 0, 0.85);
   }
 }
