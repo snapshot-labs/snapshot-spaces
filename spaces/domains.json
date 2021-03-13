@@ -140,5 +140,6 @@
   "vote.combine.finance": "xcomb.eth",
   "vote.rulerprotocol.com": "rulerprotocol.eth",
   "voting.itam.games": "itam.eth",
-  "snapshot.valuedefi.io": "gvvalue.eth"
+  "snapshot.valuedefi.io": "gvvalue.eth",
+  "voting.bingocash.finance": "bingocash.eth"
 }
