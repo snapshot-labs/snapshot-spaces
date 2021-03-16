@@ -8,7 +8,7 @@
     {
       "name": "contract-call",
       "params": {
-        "address": "0x3f5014e49e03d4444483662cc70618cd8087f9d2",
+        "address": "0x8664c6CAC83973068d47c4A430Eb4918125f40B0",
         "decimals": 18,
         "symbol": "fnx",
         "methodABI": {
@@ -44,8 +44,8 @@
     "0xa936b6f2557c096c0052a9a4765963b381d33896",
     "0x3921b8d2a28dcfbd1bb1a79a16aa1e98113f7a4b",
     "0xDc18Dbc8CBB728AD583f8A6fF724F029D8Db82fC",
-    "0x404d854065f1ba0a3E64b444C67d28aF9F7ff505"
-    
+    "0x404d854065f1ba0a3E64b444C67d28aF9F7ff505",
+    "0x2348Fb97d600Cfbc0882CC95a5AD155dC8a42717"
   ],
 
   "filters": {
