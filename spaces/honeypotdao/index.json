@@ -1,0 +1,30 @@
+{
+  "name": "🍯️DAO",
+  "network": "1",
+  "symbol": "ETH",
+  "strategies": [
+    {
+      "name": "eth-balance"
+    },
+    {
+      "name": "delegation",
+      "params": {
+        "symbol": "ETH (delegated)",
+        "strategies": [
+          {
+            "name": "eth-balance"
+          }
+        ]
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0.01
+  },
+  "plugins": {
+    "daoModule": {
+      "address": "0x6c57cEa2dE7D386d349Ff6c4E8631bD567DFd0fC"
+    }
+  }
+}
