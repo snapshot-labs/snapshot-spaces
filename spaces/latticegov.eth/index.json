@@ -1,0 +1,24 @@
+{
+  "name": "Lattice",
+  "network": "1",
+  "symbol": "LTX",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xa393473d64d2F9F026B60b6Df7859A689715d092",
+        "symbol": "LTX",
+        "decimals": 8
+      }
+    }
+  ],
+  "members": [
+    "0x1d0AAdFf68ff7AAA9AFa10B7aB121756c4DbCaeB",
+    "0x7Df995aa3f301ba343Bd9093773E236b75E31C04"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 10,
+    "onlyMembers": true
+  }
+}
