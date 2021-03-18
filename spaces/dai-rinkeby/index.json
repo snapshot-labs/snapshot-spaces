@@ -6,7 +6,7 @@
     {
       "name": "erc20-balance-of",
       "params": {
-        "address": "0x0527E400502d0CB4f214dd0D2F2a323fc88Ff924",
+        "address": "0xb08e32d658700f768f5badf0679e153fffec42e6",
         "symbol": "DAI",
         "decimals": 18
       }
@@ -18,7 +18,7 @@
   },
   "plugins": {
     "aragon": {
-      "id": "tstdao1"
+      "id": "RinkebyDAO"
     }
   }
 }

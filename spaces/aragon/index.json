@@ -24,7 +24,8 @@
   "members": [
     "0xf08b64258465A9896691E23caaF9E6C830ec4b9D",
     "0x4cB3FD420555A09bA98845f0B816e45cFb230983",
-    "0xa1d4c9e0a46068afa3d8424b0618218bf85ccaaa"
+    "0xa1d4c9e0a46068afa3d8424b0618218bf85ccaaa",
+    "0x5799AEb17cBBC576b55288EDc2BD180d61E01dEd"
   ],
   "filters": {
     "defaultTab": "core",
