@@ -16,5 +16,6 @@
   "synthetixcouncil": "spartancouncil.eth",
   "synthetixproposal": "snxgov.eth",
   "synthetixgrants": "snxgrants.eth",
-  "cover": "cover-protocol.eth"
+  "cover": "cover-protocol.eth",
+  "iwan": "iwan.eth"
 }
