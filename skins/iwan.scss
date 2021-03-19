@@ -1,17 +1,9 @@
 .iwan {
-    --primary-color: #0aa772;
-    --bg-color: #f5f1f2;
+    --primary-color: #C20606;
+    --bg-color: #000;
     --text-color: #999;
     --link-color: #C20606;
     --heading-color: #fff;
-    --border-color: #000000;
     --header-bg: #201e1e;
-    --block-bg: white;
-  
-    #topnav {
-      border-bottom: 4px solid black !important;
-      border-image-slice: 1;
-      border-image-source: linear-gradient(to left, #c9328f, #9b30c5);
-    }
   }
   
