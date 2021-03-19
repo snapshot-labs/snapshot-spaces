@@ -2,6 +2,7 @@
   "name": "Iwan",
   "network": "1",
   "symbol": "IWT",
+  "skin": "iwan",
   "strategies": [
     {
       "name": "erc20-balance-of",
