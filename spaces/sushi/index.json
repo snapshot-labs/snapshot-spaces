@@ -11,6 +11,21 @@
         "symbol": "SUSHIPOWAH",
         "decimals": 18
       }
+    },
+    {
+      "name": "delegation",
+      "params": {
+        "symbol": "SUSHIPOWAH (delegated)",
+        "strategies": [
+          {
+            "name": "erc20-balance-of",
+            "params": {
+              "address": "0x2dbce82984595d977564888e08476053c6dbb0e3",
+              "decimals": 18
+            }
+          }
+        ]
+      }
     }
   ],
   "members": [
