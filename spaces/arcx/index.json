@@ -1,0 +1,20 @@
+{
+  "name": "ARCx DAO Voting",
+  "network": "1",
+  "symbol": "ARCX",
+  "skin": "arcx",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xed30dd7e50edf3581ad970efc5d9379ce2614adb",
+        "symbol": "ARCX",
+        "decimals": 18
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 0
+  }
+}
