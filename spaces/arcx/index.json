@@ -3,6 +3,7 @@
   "network": "1",
   "symbol": "ARCX",
   "skin": "arcx",
+  "domain": "vote.arcx.money",
   "strategies": [
     {
       "name": "erc20-balance-of",
