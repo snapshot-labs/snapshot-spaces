@@ -1,0 +1,47 @@
+{
+  "name": "Akropolis",
+  "network": "1",
+  "symbol": "AKRO",
+  "skin": "akropolis",
+  "strategies": [
+    {
+      "name": "contract-call",
+      "params": {
+        "address": "0x3501Ec11d205fa249f2C42f5470e137b529b35D0",
+        "decimals": 18,
+        "symbol": "AKRO",
+        "methodABI": {
+          "constant": true,
+          "inputs": [
+            {
+              "internalType": "address",
+              "name": "_address",
+              "type": "address"
+            }
+          ],
+          "name": "totalScoresFor",
+          "outputs": [
+            {
+              "internalType": "uint256",
+              "name": "",
+              "type": "uint256"
+            }
+          ],
+          "payable": false,
+          "stateMutability": "view",
+          "type": "function"
+        }
+      }
+    }
+  ],
+  "members": [
+    "0xe23ec148d7969c58a468F7c6aA4757a365211E5a"
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 20000,
+    "invalids": [
+      "QmekHwJHoiL7SpYEYYqxHZeJjP7sVp1enq1UppzhP5UcEM"
+    ]
+  }
+}
