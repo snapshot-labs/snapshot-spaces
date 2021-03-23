@@ -1,7 +1,7 @@
 {
   "name": "Akropolis",
   "network": "1",
-  "symbol": "govAKRO",
+  "symbol": "AKRO",
   "skin": "akropolis",
   "strategies": [
     {
@@ -9,7 +9,7 @@
       "params": {
         "address": "0x3501Ec11d205fa249f2C42f5470e137b529b35D0",
         "decimals": 18,
-        "symbol": "govAKRO",
+        "symbol": "AKRO",
         "methodABI": {
           "constant": true,
           "inputs": [

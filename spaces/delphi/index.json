@@ -1,7 +1,7 @@
 {
   "name": "Delphi",
   "network": "1",
-  "symbol": "govADEL",
+  "symbol": "ADEL",
   "skin": "delphi",
   "strategies": [
     {
@@ -9,7 +9,7 @@
       "params": {
         "address": "0x1A547c3dd03c39Fb2b5aEaFC524033879bD28F13",
         "decimals": 18,
-        "symbol": "govADEL",
+        "symbol": "ADEL",
         "methodABI": {
           "constant": true,
           "inputs": [
