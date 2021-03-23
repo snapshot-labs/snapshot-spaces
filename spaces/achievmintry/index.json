@@ -15,6 +15,11 @@
   ],
   "filters": {
     "defaultTab": "core",
-    "minScore": 0
+    "minScore": 0,
+    "invalids": [
+      "QmdSBniGYcx5fm5jCeKZ6HQrLADjUnwQbWYybKJBHTyNFB",
+      "QmP2vz7e1YpmbjLshe9UddpUvTEmvRHufpkFwLwRuDAW9G",
+      "QmRJy66nWwbdiNR3ZTLNKWBN8gzf453yzyeij8ANNibMLG"
+    ]
   }
 }
