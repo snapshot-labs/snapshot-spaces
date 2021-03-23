@@ -1,0 +1,39 @@
+{
+  "name": "WEENUS",
+  "network": "4",
+  "symbol": "WEENUS",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xaFF4481D10270F50f203E0763e2597776068CBc5",
+        "symbol": "WEENUS",
+        "decimals": 18
+      }
+    },
+    {
+      "name": "delegation",
+      "params": {
+        "symbol": "WEENUS (delegated)",
+        "strategies": [
+          {
+            "name": "erc20-balance-of",
+            "params": {
+              "address": "0xaFF4481D10270F50f203E0763e2597776068CBc5",
+              "decimals": 18
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1
+  },
+  "plugins": {
+    "daoModule": {
+      "address": "0x5CC00E150CbFB64039Bdd076911ff0a81180F1b3"
+    }
+  }
+}
