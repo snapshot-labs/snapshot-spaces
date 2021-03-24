@@ -152,5 +152,6 @@
   "vote.cryptokombat.com": "cryptokombat.eth",
   "vote.88mph.app": "88mph.eth",
   "vote.kimchidao.org": "kimchidao.eth",
-  "governance.curio.cards": "curiovoters.eth"
+  "governance.curio.cards": "curiovoters.eth",
+  "snapshot.comp.vote": "comp-vote.eth"
 }
