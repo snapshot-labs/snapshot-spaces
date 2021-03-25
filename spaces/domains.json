@@ -153,5 +153,6 @@
   "vote.88mph.app": "88mph.eth",
   "vote.kimchidao.org": "kimchidao.eth",
   "governance.curio.cards": "curiovoters.eth",
-  "vote.forkenomics.com": "forkenomics"
+  "vote.forkenomics.com": "forkenomics",
+  "snapshot.comp.vote": "comp-vote.eth"
 }
