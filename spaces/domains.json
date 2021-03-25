@@ -1,4 +1,5 @@
 {
+  "vote.tracer.finance": "tracer.eth",
   "gov.visor.finance": "visor.eth",
   "vote.easybake.finance": "easybake.eth",
   "voting.cafeswap.finance": "cafeswapfinance.eth",
@@ -68,7 +69,7 @@
   "gov.hurricane.finance": "hurricane",
   "gov.dhedge.org": "gov.dhedge.eth",
   "vote.frontier.xyz": "frontier",
-  "vote.oceanprotocol.com": "oceandao",
+  "vote.oceanprotocol.com": "officialoceandao.eth",
   "vote.sav3.org": "sav3",
   "vote.bt.finance": "btfinance.eth",
   "vote.zlot.finance": "zlot",
@@ -123,6 +124,7 @@
   "vote.omg.network": "omg.eth",
   "vote.shabushabu.finance": "shabushabufi.eth",
   "council.illuvium.io": "ilv.eth",
+  "gov.illuvium.io": "ilvgov.eth",
   "vote.yzydao.finance": "yzydao.eth",
   "gov.premia.finance": "premia.eth",
   "vote.perlinx.finance": "perlinx.eth",
@@ -148,5 +150,10 @@
   "gov.forcedao.com": "forcedao.eth",
   "vote.bancor.network": "bancornetwork.eth",
   "vote.cryptokombat.com": "cryptokombat.eth",
-  "vote.arcx.money": "arcx.eth"
+  "vote.arcx.money": "arcx.eth",
+  "vote.88mph.app": "88mph.eth",
+  "vote.kimchidao.org": "kimchidao.eth",
+  "governance.curio.cards": "curiovoters.eth",
+  "vote.forkenomics.com": "forkenomics",
+  "snapshot.comp.vote": "comp-vote.eth"
 }
