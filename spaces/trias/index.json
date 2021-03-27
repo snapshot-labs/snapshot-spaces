@@ -1,13 +1,13 @@
 {
   "name": "Trias",
   "network": "1",
-  "symbol": "TRY",
+  "symbol": "TRIAS",
   "strategies": [
     {
       "name": "erc20-balance-of",
       "params": {
         "address": "0xe431a4c5db8b73c773e06cf2587da1eb53c41373",
-        "symbol": "TRY",
+        "symbol": "TRIAS",
         "decimals": 18
       }
     }
