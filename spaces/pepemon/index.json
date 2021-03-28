@@ -4,9 +4,11 @@
   "symbol": "PPBLZ",
   "strategies": [
     {
-      "name": "erc20-balance-of",
+      "name": "pepemon",
       "params": {
-        "address": "0x4D2eE5DAe46C86DA2FF521F7657dad98834f97b8",
+        "tokenAddress": "0x4D2eE5DAe46C86DA2FF521F7657dad98834f97b8",
+        "uniswapAddress" : "0x9479b62FD1CB36F8FEd1EEBb1Bb373d238d08216",
+        "stakingAddress" : "0xf1F508c7C9f0d1b15a76fbA564eEf2d956220cf7",
         "symbol": "PPBLZ",
         "decimals": 18
       }
