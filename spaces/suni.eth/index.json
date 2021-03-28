@@ -1,0 +1,20 @@
+{
+  "name": "Suni",
+  "network": "1",
+  "symbol": "SUNI",
+  "skin": "uniswap",
+  "strategies": [
+    {
+      "name": "SUNI",
+      "params": {
+        "address": "0x15DBAFbC783fed89A0bBea7626DdfE86fB94F5E8",
+        "symbol": "SUNI",
+        "decimals": 18
+      }
+    }
+  ],
+  "filters": {
+    "defaultTab": "all",
+    "minScore": 1000
+  }
+}
