@@ -158,5 +158,7 @@
   "vote.forkenomics.com": "forkenomics.eth",
   "snapshot.comp.vote": "comp-vote.eth",
   "gov.tusker.finance": "tuskerfinance.eth",
-  "gov.sunicoin.org": "suni.eth"
+  "gov.sunicoin.org": "suni.eth",
+  "vote.macaronswap.finance": "macaronswap.eth"
+
 }
