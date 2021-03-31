@@ -3,6 +3,7 @@
   "network": "1",
   "symbol": "UNI",
   "skin": "uniswap",
+  "about": "Only delegated UNI may be used to vote on proposals. You can delegate to yourself or another address here: https://app.uniswap.org/#/vote'",
   "strategies": [
     {
       "name": "uni",
