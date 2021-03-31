@@ -24,6 +24,6 @@
   ],
   "filters": {
     "defaultTab": "core",
-    "minScore": 10
+    "minScore": 1
   }
 }
