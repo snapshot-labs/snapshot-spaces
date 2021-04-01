@@ -15,5 +15,11 @@
   "filters": {
     "defaultTab": "all",
     "minScore": 0
+  },
+  "plugins": {
+    "gnosis": {},
+    "aragon": {
+      "id": "bitconnect"
+    }
   }
 }

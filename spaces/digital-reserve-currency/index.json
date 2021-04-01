@@ -4,11 +4,30 @@
   "symbol": "DRC",
   "strategies": [
     {
-      "name": "erc20-balance-of",
+      "name": "contract-call",
       "params": {
-        "address": "0xa150db9b1fa65b44799d4dd949d922c0a33ee606",
+        "address": "0x182d00A93b992E2F03bc588e5330693b3dDcb1d5",
+        "decimals": 0,
         "symbol": "DRC",
-        "decimals": 0
+        "methodABI": {
+          "inputs": [
+            {
+              "internalType": "address",
+              "name": "_user",
+              "type": "address"
+            }
+          ],
+          "name": "balanceOf",
+          "outputs": [
+            {
+              "internalType": "uint256",
+              "name": "",
+              "type": "uint256"
+            }
+          ],
+          "stateMutability": "view",
+          "type": "function"
+        }
       }
     }
   ],
@@ -18,7 +37,11 @@
     "0x218203CaCf2027b9143DA388933D73ab072DadD9"
   ],
   "filters": {
-    "defaultTab": "core",
-    "minScore": 1000
+    "defaultTab": "all",
+    "minScore": 1000,
+    "invalids": [
+      "QmaawPXdWbdShDn6SmLiH7KMpbPHUj4MbWSRWuQEE8kbHE",
+      "QmRFqhYmNzCs4JigxYe3KwEwtkphaZKvv2GU3DpYZcWWq4"
+    ]
   }
 }

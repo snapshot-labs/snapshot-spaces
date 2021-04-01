@@ -19,6 +19,27 @@
         "address": "0xba100000625a3754423978a60c9317c58a424e3D",
         "symbol": "BAL BPT"
       }
+    },
+    {
+      "name": "delegation",
+      "params": {
+        "symbol": "BAL & BAL BPT (delegated)",
+        "strategies": [
+          {
+            "name": "erc20-balance-of",
+            "params": {
+              "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+              "decimals": 18
+            }
+          },
+          {
+            "name": "balancer",
+            "params": {
+              "address": "0xba100000625a3754423978a60c9317c58a424e3D"
+            }
+          }
+        ]
+      }
     }
   ],
   "members": [
@@ -28,7 +49,8 @@
     "0x107174D70b33523E83711EA4C3F4229cdB8A7Cb1",
     "0x0b21Dbc34A953a35dFA629ad31e1cEE3dE0433Fb",
     "0x40FDAa1bff3BB87bC70955Be6657edBFdBeb122e",
-    "0xcc6A949DB9b26a7173648d50Cf7C55e800E6585B"
+    "0xcc6A949DB9b26a7173648d50Cf7C55e800E6585B",
+    "0xC1C8ac723Fd9Db3db6E947dF42aaEdd28058A31D"
   ],
   "filters": {
     "defaultTab": "core",
