@@ -19,7 +19,5 @@
   "cover": "cover-protocol.eth",
   "iwan": "iwan.eth",
   "oceandao": "officialoceandao.eth",
-  "macaronswap": "macaronswap.eth",
-  "mBProtocol" : "m.bsnapshot.eth",
-  "cBProtocol" : "bsnapshot.eth"
+  "macaronswap": "macaronswap.eth"
 }
