@@ -166,5 +166,6 @@
   "vote.levyathan.finance": "levyathan.eth",
   "vote.akropolis.io": "akropolis.eth",
   "mscore.bprotocol.org" : "m.bsnapshot.eth",
+  "vote.blockzerolabs.io": "blockzerolabs.eth",
   "cscore.bprotocol.org" : "bsnapshot.eth"  
 }
