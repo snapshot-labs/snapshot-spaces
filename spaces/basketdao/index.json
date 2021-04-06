@@ -1,0 +1,15 @@
+{
+    "key": "basketdao",
+    "symbol": "sBASK/ETH",
+    "name": "sBASK/ETH",
+    "defaultView": "core",
+    "address": "0x891ED1597DB30FcD16c5e38A30BC65013E3222f4",
+    "token": "0x891ED1597DB30FcD16c5e38A30BC65013E3222f4",
+    "core": [
+      "0xb5e9C0DE21cA60FC10520492b095f44A89Ce690E",
+      "0xE309F48aa45731762865B856E8642Cc76304f69E",
+      "0xf552836Bf7159EC0151f329633502F6417Ca20b9"
+    ],
+    "min": 0,
+    "invalid": []
+  }
