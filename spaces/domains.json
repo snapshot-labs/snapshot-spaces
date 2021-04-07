@@ -1,4 +1,5 @@
 {
+  "vote.axion.network": "axiondao.eth",
   "vote.tracer.finance": "tracer.eth",
   "gov.visor.finance": "visor.eth",
   "vote.easybake.finance": "easybake.eth",
@@ -165,7 +166,6 @@
   "dao.pepemon.world": "pepedontdump.eth",
   "vote.levyathan.finance": "levyathan.eth",
   "vote.akropolis.io": "akropolis.eth",
-  "mscore.bprotocol.org" : "m.bsnapshot.eth",
-  "vote.blockzerolabs.io": "blockzerolabs.eth",
-  "cscore.bprotocol.org" : "bsnapshot.eth"  
+  "mscore.bprotocol.org": "m.bsnapshot.eth",
+  "cscore.bprotocol.org": "bsnapshot.eth"
 }
