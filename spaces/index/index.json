@@ -81,10 +81,11 @@
     "0xB0Ff82C91178f66aA40224Abd425E2AC7AE28ceA",
     "0xDefb844D4529c0F61bb1ee6a0d889058D66BB962",
     "0x58430C50EAa0b399C2A228B9d28270C5C8Fe09A5",
-    "0xc95Fdee19b74bc9588F4888fB0762E83cfEF5d45"
+    "0xc95Fdee19b74bc9588F4888fB0762E83cfEF5d45",
+    "0x6d428208a3be587b914f8047851bcd561e0c6735"
   ],
   "filters": {
-    "defaultTab": "all",
+    "defaultTab": "core",
     "minScore": 0,
     "invalids": [
       "QmQ2s6DsA2jc7ops9BC2KzQwo4rYZLYavisLJvLihpTGvH"
