@@ -1,0 +1,44 @@
+{
+  "name": "Supra Finance",
+  "network": "56",
+  "symbol": "SUPRAVOTE",
+  "skin": "swagg",
+  "domain": "vote.supra.finance",
+  "strategies": [
+    {
+      "name": "erc20-balance-of-coeff",
+      "params": {
+        "address": "0x87ff96aba480f1813af5c780387d8de7cf7d8261",
+        "symbol": "FLP",
+        "decimals": 18,
+        "coeff": 1000
+      }
+    },
+    {
+      "name": "erc20-balance-of-coeff",
+      "params": {
+        "address": "0x68a66a7c35e037192f6e38c766d6692d54219e6d",
+        "symbol": "VOODOO",
+        "decimals": 18,
+        "coeff": 1
+      }
+    },
+    {
+      "name": "erc20-balance-of-coeff",
+      "params": {
+        "address": "0x4ae2f11df681eec979bd93085dd1a05e9593c8c6",
+        "symbol": "SUPRA",
+        "decimals": 18,
+        "coeff": 100
+      }
+    }
+  ],
+  "members": [
+    "0xE1b6BA005697e58354488BD147339511F2471C04",
+    "0x3ebd346253b6737626b9571694051502dea1594c",
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
