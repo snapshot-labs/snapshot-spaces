@@ -164,11 +164,13 @@
   "vote.macaronswap.finance": "macaronswap.eth",
   "vote.resdx.io": "resdx.eth",
   "snapshot.solos.so": "solos.eth",
+  "snapshot.fei.money": "fei.eth",
   "dao.pepemon.world": "pepedontdump.eth",
   "vote.levyathan.finance": "levyathan.eth",
   "vote.akropolis.io": "akropolis.eth",
   "vote.blockzerolabs.io": "blockzerolabs.eth",
   "mscore.bprotocol.org": "m.bsnapshot.eth",
   "cscore.bprotocol.org": "bsnapshot.eth",
-  "vote.supra.finance": "suprafinance.xyz"
+  "vote.supra.finance": "suprafinance.xyz",
+  "snapshot.strudel.finance": "strudel.eth"
 }
