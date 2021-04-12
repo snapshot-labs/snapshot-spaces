@@ -1,1 +1,0 @@
-Claimxyz.eth
