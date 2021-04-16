@@ -10,6 +10,7 @@
   "mstable",
   "bancornetwork.eth",
   "pancake",
+  "badgerdao.eth",
   "cream-finance.eth",
   "fei.eth",
   "pickle",
@@ -22,5 +23,6 @@
   "barnbridge.eth",
   "gov.dhedge.eth",
   "aave",
-  "vote.airswap.eth"
+  "vote.airswap.eth",
+  "pokt-network"
 ]
