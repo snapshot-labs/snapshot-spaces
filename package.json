@@ -6,6 +6,7 @@
   "files": [
     "spaces",
     "skins",
-    "index.ts"
+    "index.ts",
+    "mod.js"
   ]
 }
