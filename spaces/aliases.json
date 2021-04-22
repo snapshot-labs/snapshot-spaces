@@ -16,5 +16,11 @@
   "synthetixcouncil": "spartancouncil.eth",
   "synthetixproposal": "snxgov.eth",
   "synthetixgrants": "snxgrants.eth",
-  "iwan": "iwan.eth"
+  "cover": "cover-protocol.eth",
+  "iwan": "iwan.eth",
+  "oceandao": "officialoceandao.eth",
+  "macaronswap": "macaronswap.eth",
+  "pepemon": "pepedontdump.eth",
+  "akropolis-delphi": "akropolis.eth",
+  "rally": "rallygov.eth"
 }
