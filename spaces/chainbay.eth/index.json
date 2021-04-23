@@ -1,0 +1,24 @@
+{
+  "name": "Chainbay",
+  "network": "1",
+  "symbol": "CBAY",
+  "skin": "chainbay",
+  "domain": "chainbay.finance",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x49bed7fe88dedc19eb878e80ff669b1736cb533b",
+        "symbol": "CBAY",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0xCF6f9477eD824F7721aE07ee5803Bb2961f36d6f"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
