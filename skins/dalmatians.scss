@@ -1,16 +1,8 @@
-.dalmatians {
-  --primary-color: #0aa772;
-  --bg-color: #ffffff;
-  --text-color: #000000;
-  --link-color: #ca3390;
-  --heading-color: #000000;
-  --border-color: #000000;
-  --header-bg: #ffffff;
-  --block-bg: white;
-
-  #topnav {
-    border-bottom: 4px solid black !important;
-    border-image-slice: 1;
-    border-image-source: linear-gradient(to left, #c9328f, #9b30c5);
-  }
+.dalmatians  {
+  --primary-color: #d8a437;
+  --bg-color: #000;
+  --text-color: #999;
+  --link-color: #d8a437;
+  --heading-color: #fff;
+  --header-bg: #201e1e;
 }
