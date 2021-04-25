@@ -17,7 +17,7 @@ export default Object.fromEntries(
     )
     .map(file => {
       const space = requireSpace(file);
-      const key = file.replace('./', '').replace('/index.json', '');
+      const key = file.replace('./', '').replace('/index.json', '').replace('\\index.json', '');
       return [key, space];
     })
 );
