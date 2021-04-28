@@ -186,5 +186,6 @@
   "gov.dalmatians.io": "dalmatians.eth",
   "dao.levinswap.org": "levinswap.eth",
   "voting.pippi.finance": "pippi.eth",
-  "ctrl.lift.kitchen": "liftkitchen.eth"
+  "ctrl.lift.kitchen": "liftkitchen.eth",
+  "vote.lattice.exchange": "latticegov.eth"
 }
