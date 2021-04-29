@@ -1,4 +1,5 @@
-{	
+{
+  "vote.xsigma.fi": "xsig.eth",
   "vote.shardcoin.io": "shardcoin.eth",
   "gov.hyruleswap.com": "hyruleswap.eth",
   "complus.network": "complus.eth",
@@ -181,7 +182,12 @@
   "gov.parallaxprotocol.com": "parallaxprotocol.eth",
   "snapshot.everipedia.com": "everipediaiq.eth",
   "vote.nerve.fi": "nervefinance.eth",
-  "vote.mask.io": "tianranzhang.eth",
+  "ekklesia.mask.io": "masknetwork.eth",
   "vote.stakewise.io": "stakewise.eth",
-  "gov.dalmatians.io": "dalmatians.eth"
+  "gov.dalmatians.io": "dalmatians.eth",
+  "dao.levinswap.org": "levinswap.eth",
+  "vote.apeswap.finance": "apeswap-finance.eth",
+  "voting.pippi.finance": "pippi.eth",
+  "ctrl.lift.kitchen": "liftkitchen.eth",
+  "vote.lattice.exchange": "latticegov.eth"
 }
