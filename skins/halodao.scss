@@ -1,0 +1,23 @@
+.halodao {
+  --primary-color: #471BB2;
+  --bg-color:#E5E5E5;
+  --text-color: #FFFFFF;
+  --link-color: #111111;
+  --heading-color: #FFFFFF;
+  --border-color: #d1d5da;
+  --header-bg: #471BB2;
+  --block-bg: white;
+
+  #topnav {
+    background-color: #FFFFFF;
+  }
+
+  #topnav a {
+    color: white !important;
+  }
+
+  #topnav button {
+    background: linear-gradient(54.93deg, #15006D 12.16%, #15006D 33.28%, #5521B6 66.19%, #2DB7C4 93.15%);
+    border-radius: 53px;
+  }
+}
