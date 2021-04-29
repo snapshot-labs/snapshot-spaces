@@ -1,6 +1,11 @@
 .shedapp {
   --primary-color: #df2d71;
-  --bg-color: linear-gradient(190deg,#03b3ff 0%,#38234a 22.92%,#df2d71 60.42%,#fb7429 100%
+  --bg-color: linear-gradient(
+    190deg,
+    #03b3ff 0%,
+    #38234a 22.92%,
+    #df2d71 60.42%,
+    #fb7429 100%
   );
   --text-color: #e6ffff;
   --link-color: #e6ffff;
@@ -8,10 +13,27 @@
   --border-color: #dad5d1;
   --header-bg: #a2859a;
   --block-bg: rgba(255, 255, 255, 0.5);
-}
 
-.shedapp #topnav {
-  border-bottom: 3px solid #000 !important;
-  border-image-slice: 0;
-  border-image-source: rgba(255, 255, 255, 0.5);
+  .calendar .day.selected.border-right {
+    color: black !important;
+  }
+
+  .calendar .day.selectable.border-right:hover {
+    color: black !important;
+  }
+
+  //calendar background
+  .modal .shell {
+    background-color: rbga(0, 0, 0, 0.7);
+  }
+
+  .button.button--submit:disabled {
+    background-color: transparent !important;
+  }
+
+  #topnav {
+    border-bottom: 3px solid #000 !important;
+    border-image-slice: 0;
+    border-image-source: rgba(255, 255, 255, 0.5);
+  }
 }
