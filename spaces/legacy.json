@@ -4388,6 +4388,7 @@
   },
   "maker": {
     "name": "MakerDAO",
+    "private": true,
     "network": "1",
     "symbol": "MKR",
     "skin": "maker",
@@ -6847,6 +6848,7 @@
   },
   "uma": {
     "name": "UMA",
+    "private": true,
     "network": "1",
     "symbol": "UMA",
     "skin": "uma",
