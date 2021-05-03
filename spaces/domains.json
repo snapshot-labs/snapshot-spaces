@@ -194,5 +194,6 @@
   "vote.lattice.exchange": "latticegov.eth",
   "gov.libertas.network": "libertas.eth",
   "voting.pantherswap.com": "pantherswap.eth",
-  "vote.alchemistdefi.com" : "alchemistdefi.eth"
+  "vote.alchemistdefi.com" : "alchemistdefi.eth",
+  "vote.feeder.finance": "feederfinance.eth"
 }
