@@ -1,0 +1,19 @@
+.apeswap {
+  --primary-color: #FFB300;
+  --bg-color: #fff;
+  --text-color: #333;
+  --link-color: #333;
+  --heading-color: #333;
+  --border-color: #FFB300;
+  --header-bg: #FFB300;
+  --block-bg: transparent
+}
+
+.apeswap h4{
+  --heading-color: #fff;
+}
+
+.apeswap .bg-gray-dark .text-gray {
+  color: #fff !important;
+  --heading-color: #fff;
+}
