@@ -1,4 +1,5 @@
 {
+  "vote.xbn.finance": "elasticbnb.eth",
   "dao.moonrat.finance": "moonrat.eth",
   "vote.dappchaser.com": "dappchaser.eth",
   "vote.xsigma.fi": "xsig.eth",
@@ -196,5 +197,12 @@
   "voting.pantherswap.com": "pantherswap.eth",
   "vote.alchemistdefi.com" : "alchemistdefi.eth",
   "vote.feeder.finance": "feederfinance.eth",
-  "voting.adventureland.finance": "adventurelandfinance.eth"
+  "voting.adventureland.finance": "adventurelandfinance.eth",
+  "vote.flydao.app": "flydao.eth",
+  "vote.spookyswap.finance": "spookyswap.eth",
+  "signal.ampleforth.org": "ampleforthorg.eth",
+  "vote.altrucoin.io": "altrucoin.eth",
+  "voting.font.community": "fontcommunity.eth",
+  "snapshot.vswap.fi": "vbswap.eth",
+  "voting.rotomoon.app": "rotomoon.eth"
 }
