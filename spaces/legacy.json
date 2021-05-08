@@ -5021,9 +5021,9 @@
       {
         "name": "erc20-balance-of",
         "params": {
-          "address": "0x47b7b0983bf3b1d8d5b773006809edcb208af191",
+          "address": "0x6dFcDd474857306c78b7fdad9Ee3125CFd9aB968",
           "symbol": "PICKLE C",
-          "decimals": 9
+          "decimals": 18
         }
       }
     ],
