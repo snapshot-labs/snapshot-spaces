@@ -12,8 +12,7 @@
   "pancake",
   "badgerdao.eth",
   "cream-finance.eth",
-  "fei.eth",
-  "pickle",
+  "pickle.eth",
   "esd.eth",
   "piedao",
   "aavegotchi.eth",
@@ -24,5 +23,6 @@
   "gov.dhedge.eth",
   "aave",
   "vote.airswap.eth",
-  "pokt-network"
+  "pokt-network",
+  "fei.eth"
 ]
