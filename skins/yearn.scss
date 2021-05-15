@@ -10,12 +10,10 @@
 
   #topnav {
     background-color: #0657F9;
-    border-bottom: 3px solid #0657F9 !important;
-    border-image-slice: 1;
-    border-image-source: linear-gradient(to left, #095EB5, #0077FC);
+    border-bottom: 1px solid #0657F9 !important;
   }
 
-  #topnav a {
+  #topnav a, #topnav .text-gray {
     color: white !important;
   }
 
