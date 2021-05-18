@@ -216,5 +216,6 @@
   "voting.smartdex.finance": "smartdex-voting.eth",
   "vote.moonpirate.finance": "moonpirate.eth",
   "vote.mai.finance" : "qidao.eth",
-  "dao.modefi.io" : "mod.eth"
+  "dao.modefi.io" : "mod.eth",
+  "vote.snapshot.org": "snowswap.eth"
 }
