@@ -1,4 +1,5 @@
-{
+{ 
+  "gov.dogownertoken.com": "dogown.eth",
   "vote.gametoken.finance": "gmetoken.eth",
   "vote.xbn.finance": "elasticbnb.eth",
   "dao.moonrat.finance": "moonrat.eth",
@@ -25,6 +26,7 @@
   "vote.southchain.digital": "vote.southchain.eth",
   "vote.polyient.games": "polyient-games-governance",
   "vote.acryptos.com": "acryptos",
+  "vote.balancer.fi": "balancer",
   "vote.balancer.finance": "balancer",
   "yearn.snapshot.page": "yearn",
   "signal.aave.com": "aave",
@@ -213,5 +215,7 @@
   "vote.fairmoon.community": "fairmoon.eth",
   "voting.smartdex.finance": "smartdex-voting.eth",
   "vote.moonpirate.finance": "moonpirate.eth",
+  "vote.mai.finance" : "qidao.eth",
+  "dao.modefi.io" : "mod.eth",
   "vote.koaladefi.eth": "koaladefi.eth"
 }
