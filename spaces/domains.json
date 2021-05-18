@@ -25,6 +25,7 @@
   "vote.southchain.digital": "vote.southchain.eth",
   "vote.polyient.games": "polyient-games-governance",
   "vote.acryptos.com": "acryptos",
+  "vote.balancer.fi": "balancer",
   "vote.balancer.finance": "balancer",
   "yearn.snapshot.page": "yearn",
   "signal.aave.com": "aave",
@@ -211,5 +212,6 @@
   "gov.zoocoin.cash": "zoocoin.eth",
   "vote.nftsnafu.org": "nftsnafu.eth",
   "vote.fairmoon.community": "fairmoon.eth",
-  "voting.smartdex.finance": "smartdex-voting.eth"
+  "voting.smartdex.finance": "smartdex-voting.eth",
+  "vote.moonpirate.finance": "moonpirate.eth"
 }
