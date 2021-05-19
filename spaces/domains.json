@@ -1,4 +1,4 @@
-{ 
+{
   "gov.dogownertoken.com": "dogown.eth",
   "vote.gametoken.finance": "gmetoken.eth",
   "vote.xbn.finance": "elasticbnb.eth",
@@ -217,5 +217,6 @@
   "vote.moonpirate.finance": "moonpirate.eth",
   "vote.mai.finance" : "qidao.eth",
   "dao.modefi.io" : "mod.eth",
-  "vote.koaladefi.eth": "koaladefi.eth"
+  "vote.koaladefi.eth": "koaladefi.eth",
+  "cybertime.finance": "cybertime.finance"
 }
