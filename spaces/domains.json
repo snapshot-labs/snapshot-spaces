@@ -207,7 +207,6 @@
   "vote.altrucoin.io": "altrucoin.eth",
   "voting.font.community": "fontcommunity.eth",
   "snapshot.vswap.fi": "vbswap.eth",
-  "voting.rotomoon.app": "rotomoon.eth",
   "vote.munchtoken.com": "munchproject.eth",
   "snapshot.behodler.io":"behodler.eth",
   "gov.zoocoin.cash": "zoocoin.eth",
@@ -218,5 +217,6 @@
   "vote.mai.finance" : "qidao.eth",
   "dao.modefi.io" : "mod.eth",
   "vote.koaladefi.eth": "koaladefi.eth",
-  "vote.imsuperleague.com": "imsuperleague.eth"
+  "vote.imsuperleague.com": "imsuperleague.eth",
+  "governance.rotomoon.app": "rotomoon.eth"
 }
