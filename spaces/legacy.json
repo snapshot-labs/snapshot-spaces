@@ -7638,5 +7638,27 @@
         "QmZK8oMK3am1psmFsQV6MNRdTkmmeqaLD6GKP2X2ZodPeP"
       ]
     }
+  },
+  "pudding": {
+    "name": "Pudding.Finance",
+    "network": "70",
+    "symbol": "PUD",
+    "strategies": [
+      {
+        "name": "erc20-balance-of",
+        "params": {
+          "address": "0xbE8D16084841875a1f398E6C3eC00bBfcbFa571b",
+          "symbol": "PUD",
+          "decimals": 18
+        }
+      }
+    ],
+    "members": [
+      "0x5cae3a434C9501fbe0a2E0b739A45F54fCF3Daf7"
+    ],
+    "filters": {
+      "defaultTab": "core",
+      "minScore": 0
+    }
   }
 }
