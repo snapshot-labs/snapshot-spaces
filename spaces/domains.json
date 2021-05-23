@@ -224,5 +224,6 @@
   "vote.earnnetwork.io": "earnnetwork.eth",
   "vote.warp.finance": "votewarp.eth",
   "gov.polygon.iron.finance": "iron-polygon.eth",
-  "vote.steakhouse.finance": "vote-steakhouse.eth"
+  "vote.steakhouse.finance": "vote-steakhouse.eth",
+  "vote.fenixtoken.net": "fenixtoken.eth"
 }
