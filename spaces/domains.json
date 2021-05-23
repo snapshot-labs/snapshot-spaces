@@ -1,4 +1,4 @@
-{ 
+{
   "gov.siphon.finance": "siphonfinance.eth",
   "gov.dogownertoken.com": "dogown.eth",
   "vote.gametoken.finance": "gmetoken.eth",
@@ -220,5 +220,6 @@
   "vote.koaladefi.eth": "koaladefi.eth",
   "vote.imsuperleague.com": "imsuperleague.eth",
   "governance.rotomoon.app": "rotomoon.eth",
-  "vote.earnnetwork.io": "earnnetwork.eth"
+  "vote.earnnetwork.io": "earnnetwork.eth",
+  "gov.polygon.iron.finance": "iron-polygon.eth"
 }
