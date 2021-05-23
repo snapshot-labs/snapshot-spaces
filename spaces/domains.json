@@ -219,5 +219,6 @@
   "dao.modefi.io" : "mod.eth",
   "vote.koaladefi.eth": "koaladefi.eth",
   "vote.imsuperleague.com": "imsuperleague.eth",
-  "governance.rotomoon.app": "rotomoon.eth"
+  "governance.rotomoon.app": "rotomoon.eth",
+  "vote.earnnetwork.io": "earnnetwork.eth"
 }
