@@ -7654,7 +7654,8 @@
       }
     ],
     "members": [
-      "0x5cae3a434C9501fbe0a2E0b739A45F54fCF3Daf7"
+      "0x5cae3a434C9501fbe0a2E0b739A45F54fCF3Daf7",
+      "0x649F3ace838d52B47fFE9fB1014F8489b1665481"
     ],
     "filters": {
       "defaultTab": "core",
