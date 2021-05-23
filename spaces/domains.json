@@ -222,5 +222,6 @@
   "governance.rotomoon.app": "rotomoon.eth",
   "vote.honestchain.finance": "honestfinance.eth",
   "vote.earnnetwork.io": "earnnetwork.eth",
+  "vote.warp.finance": "votewarp.eth",
   "gov.polygon.iron.finance": "iron-polygon.eth"
 }
