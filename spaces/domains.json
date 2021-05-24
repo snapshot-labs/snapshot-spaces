@@ -1,4 +1,5 @@
-{ 
+{
+  "gov.siphon.finance": "siphonfinance.eth",
   "gov.dogownertoken.com": "dogown.eth",
   "vote.gametoken.finance": "gmetoken.eth",
   "vote.xbn.finance": "elasticbnb.eth",
@@ -207,7 +208,6 @@
   "vote.altrucoin.io": "altrucoin.eth",
   "voting.font.community": "fontcommunity.eth",
   "snapshot.vswap.fi": "vbswap.eth",
-  "voting.rotomoon.app": "rotomoon.eth",
   "vote.munchtoken.com": "munchproject.eth",
   "snapshot.behodler.io":"behodler.eth",
   "gov.zoocoin.cash": "zoocoin.eth",
@@ -217,5 +217,13 @@
   "vote.moonpirate.finance": "moonpirate.eth",
   "vote.mai.finance" : "qidao.eth",
   "dao.modefi.io" : "mod.eth",
-  "vote.koaladefi.eth": "koaladefi.eth"
+  "vote.koaladefi.eth": "koaladefi.eth",
+  "vote.imsuperleague.com": "imsuperleague.eth",
+  "governance.rotomoon.app": "rotomoon.eth",
+  "vote.honestchain.finance": "honestfinance.eth",
+  "vote.earnnetwork.io": "earnnetwork.eth",
+  "vote.warp.finance": "votewarp.eth",
+  "gov.polygon.iron.finance": "iron-polygon.eth",
+  "vote.steakhouse.finance": "vote-steakhouse.eth",
+  "vote.flashstake.io": "flashcommunity.eth"
 }
