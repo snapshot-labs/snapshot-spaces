@@ -225,5 +225,6 @@
   "vote.warp.finance": "votewarp.eth",
   "gov.polygon.iron.finance": "iron-polygon.eth",
   "vote.steakhouse.finance": "vote-steakhouse.eth",
+  "vote.flashstake.io": "flashcommunity.eth",
   "vote.fenixtoken.net": "fenixtoken.eth"
 }
