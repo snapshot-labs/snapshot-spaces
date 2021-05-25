@@ -217,6 +217,7 @@
   "vote.moonpirate.finance": "moonpirate.eth",
   "vote.mai.finance" : "qidao.eth",
   "dao.modefi.io" : "mod.eth",
+  "vote.conqueruranus.com": "conqueruranus.eth",
   "vote.koaladefi.eth": "koaladefi.eth",
   "vote.imsuperleague.com": "imsuperleague.eth",
   "governance.rotomoon.app": "rotomoon.eth",
@@ -225,5 +226,7 @@
   "vote.warp.finance": "votewarp.eth",
   "gov.polygon.iron.finance": "iron-polygon.eth",
   "vote.steakhouse.finance": "vote-steakhouse.eth",
-  "vote.flashstake.io": "flashcommunity.eth"
+  "vote.flashstake.io": "flashcommunity.eth",
+  "vote.fenixtoken.net": "fenixtoken.eth",
+  "vote.liquifi.org": "liquifi.eth"
 }
