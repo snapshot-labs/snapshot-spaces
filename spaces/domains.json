@@ -232,5 +232,6 @@
   "vote.x0swap.com": "x0swap.eth",
   "vote.honeydao.com": "honeydao.eth",
   "gov.kumatoken.com": "kumainu.eth",
-  "gov.beluga.fi": "belugaprotocol.eth"
+  "gov.beluga.fi": "belugaprotocol.eth",
+  "vote.viralata.finance": "viralata.eth"
 }
