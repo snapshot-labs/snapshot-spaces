@@ -228,6 +228,10 @@
   "vote.steakhouse.finance": "vote-steakhouse.eth",
   "vote.flashstake.io": "flashcommunity.eth",
   "vote.fenixtoken.net": "fenixtoken.eth",
-  "vote.supershiba.exchange": "supershiba.eth"
-  "vote.liquifi.org": "liquifi.eth"
+  "vote.supershiba.exchange": "supershiba.eth",
+  "vote.liquifi.org": "liquifi.eth",
+  "vote.x0swap.com": "x0swap.eth",
+  "vote.honeydao.com": "honeydao.eth",
+  "gov.kumatoken.com": "kumainu.eth",
+  "gov.beluga.fi": "belugaprotocol.eth",
 }
