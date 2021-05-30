@@ -235,5 +235,6 @@
   "vote.honeydao.com": "honeydao.eth",
   "gov.kumatoken.com": "kumainu.eth",
   "gov.beluga.fi": "belugaprotocol.eth",
-  "vote.viralata.finance": "viralata.eth"
+  "vote.viralata.finance": "viralata.eth",
+  "vote.svcs.finance": "givingtoservices.eth"
 }
