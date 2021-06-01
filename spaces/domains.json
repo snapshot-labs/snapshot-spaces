@@ -238,5 +238,6 @@
   "vote.viralata.finance": "viralata.eth",
   "vote.svcs.finance": "givingtoservices.eth",
   "vote.spore.engineering": "spore-engineering.eth",
-  "vote.deversifi.com": "deversifi.eth"
+  "vote.deversifi.com": "deversifi.eth",
+  "dao.dogeswap.com": "dogevote.eth"
 }
