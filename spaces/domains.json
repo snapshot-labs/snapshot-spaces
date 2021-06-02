@@ -237,5 +237,6 @@
   "gov.beluga.fi": "belugaprotocol.eth",
   "vote.viralata.finance": "viralata.eth",
   "vote.svcs.finance": "givingtoservices.eth",
-  "vote.spore.engineering": "spore-engineering.eth"
+  "vote.spore.engineering": "spore-engineering.eth",
+  "vote.deversifi.com": "deversifi.eth"
 }
