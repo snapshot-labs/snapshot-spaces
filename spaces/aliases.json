@@ -24,5 +24,8 @@
 	"akropolis-delphi": "akropolis.eth",
 	"rally": "rallygov.eth",
 	"debaseonomics": "debaseonomics.eth",
-  "pickle": "pickle.eth"
+  "pickle": "pickle.eth",
+  "index": "index-coop.eth",
+  "streamr": "streamr.eth",
+  "rarible": "rarible.eth"
 }

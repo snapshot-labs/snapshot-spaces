@@ -3991,100 +3991,6 @@
       "minScore": 1
     }
   },
-  "index": {
-    "name": "Index",
-    "network": "1",
-    "symbol": "INDEX",
-    "domain": "vote.indexcoop.com",
-    "skin": "index",
-    "strategies": [
-      {
-        "name": "erc20-balance-of",
-        "params": {
-          "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
-          "symbol": "INDEX",
-          "decimals": 18
-        }
-      },
-      {
-        "name": "uniswap",
-        "params": {
-          "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
-          "symbol": "INDEX",
-          "decimals": 18
-        }
-      },
-      {
-        "name": "contract-call",
-        "params": {
-          "address": "0x8f06FBA4684B5E0988F215a47775Bb611Af0F986",
-          "symbol": "INDEX",
-          "decimals": 18,
-          "methodABI": {
-            "inputs": [
-              {
-                "internalType": "address",
-                "name": "account",
-                "type": "address"
-              }
-            ],
-            "name": "earned",
-            "outputs": [
-              {
-                "internalType": "uint256",
-                "name": "",
-                "type": "uint256"
-              }
-            ],
-            "stateMutability": "view",
-            "type": "function"
-          }
-        }
-      },
-      {
-        "name": "contract-call",
-        "params": {
-          "address": "0xB93b505Ed567982E2b6756177ddD23ab5745f309",
-          "symbol": "INDEX",
-          "decimals": 18,
-          "methodABI": {
-            "inputs": [
-              {
-                "internalType": "address",
-                "name": "account",
-                "type": "address"
-              }
-            ],
-            "name": "earned",
-            "outputs": [
-              {
-                "internalType": "uint256",
-                "name": "",
-                "type": "uint256"
-              }
-            ],
-            "stateMutability": "view",
-            "type": "function"
-          }
-        }
-      }
-    ],
-    "members": [
-      "0x1013f219e6629F91418136a691A9944E572dCbd5",
-      "0xB0Ff82C91178f66aA40224Abd425E2AC7AE28ceA",
-      "0xDefb844D4529c0F61bb1ee6a0d889058D66BB962",
-      "0x58430C50EAa0b399C2A228B9d28270C5C8Fe09A5",
-      "0xc95Fdee19b74bc9588F4888fB0762E83cfEF5d45",
-      "0x6d428208a3be587b914f8047851bcd561e0c6735"
-    ],
-    "filters": {
-      "defaultTab": "core",
-      "minScore": 0,
-      "invalids": [
-        "QmQ2s6DsA2jc7ops9BC2KzQwo4rYZLYavisLJvLihpTGvH"
-      ]
-    }
-  },
   "iyffinance": {
     "name": "iyf.finance",
     "network": "1",
@@ -5011,38 +4917,6 @@
       "minScore": 0
     }
   },
-  "pickle": {
-    "name": "PICKLE",
-    "network": "1",
-    "symbol": "PICKLE C",
-    "skin": "pickle",
-    "domain": "signal.pickle.finance",
-    "strategies": [
-      {
-        "name": "erc20-balance-of",
-        "params": {
-          "address": "0x47b7b0983bf3b1d8d5b773006809edcb208af191",
-          "symbol": "PICKLE C",
-          "decimals": 9
-        }
-      }
-    ],
-    "members": [
-      "0xaCfE4511CE883C14c4eA40563F176C3C09b4c47C",
-      "0xb4522eB2cA49963De9c3dC69023cBe6D53489C98",
-      "0x5c4D8CEE7dE74E31cE69E76276d862180545c307",
-      "0xD81d1BDA3dE43Af62248e330757a76C8105DB2f5"
-    ],
-    "filters": {
-      "defaultTab": "core",
-      "minScore": 0,
-      "invalids": [
-        "QmUMiFfgY2ML4RpwP35eESUxc7G1hYAQnWDn4mKwsFv3ph",
-        "QmWFYq3fMvEge3XeukwEBedYXFQ7yxBhF7hs1zLP9o6gu6",
-        "QmWHDigeYDFnU5invYsaCkReX1amfvSC9vkG9h3nMT7fvU"
-      ]
-    }
-  },
   "piedao": {
     "name": "PieDAO",
     "network": "1",
@@ -5602,32 +5476,6 @@
       "invalids": [
         "QmNt4RFpBF956FZPN1G7CP1smTTpX1phRxpqoDb1Rgdjgp",
         "QmNZP5NGpQonKGE9RFebDTvt9ajVbPC7qHNr9jXAz4zdeU"
-      ]
-    }
-  },
-  "rarible": {
-    "name": "Rarible",
-    "network": "1",
-    "symbol": "RARI",
-    "strategies": [
-      {
-        "name": "erc20-balance-of",
-        "params": {
-          "address": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
-          "symbol": "RARI",
-          "decimals": 18
-        }
-      }
-    ],
-    "members": [
-      "0xd2E34Eb34413eD691CEd0ED2d4746fE9158F78B7",
-      "0xa15Ca74e65bf72730811ABF95163E89aD9b9DFF6"
-    ],
-    "filters": {
-      "defaultTab": "core",
-      "minScore": 0,
-      "invalids": [
-        "QmP4DeBo3DDpM7GV9NBZvND3BKf56crJg2fuJrBmsSNS5d"
       ]
     }
   },
@@ -6267,30 +6115,6 @@
     "filters": {
       "defaultTab": "all",
       "minScore": 0
-    }
-  },
-  "streamr": {
-    "name": "Streamr",
-    "network": "1",
-    "symbol": "DATA",
-    "skin": "streamr",
-    "domain": "vote.streamr.network",
-    "strategies": [
-      {
-        "name": "erc20-balance-of",
-        "params": {
-          "address": "0x0cf0ee63788a0849fe5297f3407f701e122cc023",
-          "symbol": "DATA",
-          "decimals": 18
-        }
-      }
-    ],
-    "members": [
-      "0xFeAACDBBc318EbBF9BB5835D4173C1a7fC24B3b9"
-    ],
-    "filters": {
-      "defaultTab": "all",
-      "onlyMembers": true
     }
   },
   "sushi": {
