@@ -243,5 +243,6 @@
   "dao.dogeswap.com": "dogevote.eth",
   "vote.moonbud.space": "moonbud.eth",
   "vote.crisis.network": "crisisdao.eth",
-  "vote.cheesecakeswap.com": "cheesecakeswap.eth"
+  "vote.cheesecakeswap.com": "cheesecakeswap.eth",
+  "signal.curve.fi": "curve.eth"
 }
