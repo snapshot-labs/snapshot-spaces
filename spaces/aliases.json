@@ -27,5 +27,6 @@
   "pickle": "pickle.eth",
   "index": "index-coop.eth",
   "streamr": "streamr.eth",
-  "rarible": "rarible.eth"
+  "rarible": "rarible.eth",
+  "curve": "curve.eth"
 }
