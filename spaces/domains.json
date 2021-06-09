@@ -4,6 +4,7 @@
   "gov.siphon.finance": "siphonfinance.eth",
   "gov.dogownertoken.com": "dogown.eth",
   "vote.gametoken.finance": "gmetoken.eth",
+  "vote.grumpy.finance": "grumpyfinance.eth",
   "vote.xbn.finance": "elasticbnb.eth",
   "dao.moonrat.finance": "moonrat.eth",
   "vote.dappchaser.com": "dappchaser.eth",
@@ -245,5 +246,6 @@
   "vote.crisis.network": "crisisdao.eth",
   "vote.cheesecakeswap.com": "cheesecakeswap.eth",
   "signal.curve.fi": "curve.eth",
-  "vote.carbonswap.finance": "carbonswap.eth"
+  "vote.carbonswap.finance": "carbonswap.eth",
+  "voting.snowcrash.finance": "snowcrashdao.eth"
 }
