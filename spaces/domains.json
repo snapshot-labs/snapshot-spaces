@@ -1,5 +1,7 @@
 {
   "vote.dsbswap.com":"dsbswap.eth",
+  "vote.schnoodle.finance": "schnoodle.eth",
+  "morocco.snapshot.page": "treth.eth",
   "signal.blackpool.finance": "blackpoolhq.eth",
   "vote.suzakucoin.net": "suzakucoin.eth",
   "vote.dfx.finance": "dfx.eth",
@@ -35,6 +37,7 @@
   "vote.balancer.fi": "balancer",
   "vote.balancer.finance": "balancer",
   "yearn.snapshot.page": "ybaby.eth",
+  "vote.sushi.com": "sushigov.eth",
   "signal.aave.com": "aave",
   "gov.xfinance.io": "xfinance",
   "vote.nftgoddess.art": "nftgoddessart.eth",
