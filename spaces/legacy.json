@@ -578,7 +578,8 @@
       "0x0b21Dbc34A953a35dFA629ad31e1cEE3dE0433Fb",
       "0x40FDAa1bff3BB87bC70955Be6657edBFdBeb122e",
       "0xcc6A949DB9b26a7173648d50Cf7C55e800E6585B",
-      "0xC1C8ac723Fd9Db3db6E947dF42aaEdd28058A31D"
+      "0xC1C8ac723Fd9Db3db6E947dF42aaEdd28058A31D",
+      "0x176001586fF17ad625Dc387557631710cf485f72"
     ],
     "filters": {
       "defaultTab": "core",
@@ -1163,41 +1164,6 @@
     "filters": {
       "defaultTab": "core",
       "minScore": 20
-    }
-  },
-  "curve": {
-    "name": "Curve",
-    "network": "1",
-    "symbol": "veCRV",
-    "skin": "curve",
-    "strategies": [
-      {
-        "name": "erc20-balance-of",
-        "params": {
-          "address": "0x5f3b5DfEb7B28CDbD7FAba78963EE202a494e2A2",
-          "symbol": "veCRV",
-          "decimals": 18
-        }
-      }
-    ],
-    "members": [
-      "0x7a16fF8270133F063aAb6C9977183D9e72835428",
-      "0xF89501B77b2FA6329F94F5A05FE84cEbb5c8b1a0",
-      "0x9B44473E223f8a3c047AD86f387B80402536B029",
-      "0x32D03DB62e464c9168e41028FFa6E9a05D8C6451",
-      "0x39362B3CA91D40Aff08EbcCbdd121090F3BB3Ef3",
-      "0xd4A39d219ADB43aB00739DC5D876D98Fdf0121Bf",
-      "0x279a7DBFaE376427FFac52fcb0883147D42165FF",
-      "0x394A16eeA604fBD86B0b45184b2d790c83a950E3",
-      "0xBe286d574b1Ea46f54955Bd856821f84DFd20b2e",
-      "0x825AA4A8F72ab6AE0C55D840759711bBe00a9304",
-      "0x94dFcE828c3DAaF6492f1B6F66f9a1825254D24B",
-      "0x6632EdA2685EABFb7B3B45669CFa5441349485d3",
-      "0x0Ac51a4E170bF73e7ac54283E61C9717EAc2A241"
-    ],
-    "filters": {
-      "defaultTab": "core",
-      "minScore": 2500
     }
   },
   "d5": {
@@ -6115,76 +6081,6 @@
     "filters": {
       "defaultTab": "all",
       "minScore": 0
-    }
-  },
-  "sushi": {
-    "name": "Sushi",
-    "network": "1",
-    "symbol": "SUSHIPOWAH",
-    "skin": "sushi",
-    "strategies": [
-      {
-        "name": "erc20-balance-of",
-        "params": {
-          "address": "0x2dbce82984595d977564888e08476053c6dbb0e3",
-          "symbol": "SUSHIPOWAH",
-          "decimals": 18
-        }
-      },
-      {
-        "name": "delegation",
-        "params": {
-          "symbol": "SUSHIPOWAH (delegated)",
-          "strategies": [
-            {
-              "name": "erc20-balance-of",
-              "params": {
-                "address": "0x2dbce82984595d977564888e08476053c6dbb0e3",
-                "decimals": 18
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "members": [
-      "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
-      "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd"
-    ],
-    "filters": {
-      "defaultTab": "core",
-      "minScore": 0
-    }
-  },
-  "sushipowah": {
-    "name": "Sushi Archive",
-    "network": "1",
-    "symbol": "SP",
-    "skin": "sushipowah",
-    "strategies": [
-      {
-        "name": "erc20-balance-of",
-        "params": {
-          "address": "0x598eb12A541AbbdB315045a4eDE8d277f18B8be9",
-          "symbol": "SP",
-          "decimals": 18
-        }
-      }
-    ],
-    "members": [
-      "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
-      "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd"
-    ],
-    "filters": {
-      "defaultTab": "core",
-      "minScore": 0,
-      "invalids": [
-        "QmZieYbP3Chs1T4hzmZerBXJ9t7P3bJDj3hJDoaPaGrqjL",
-        "QmZyafpihwgPnhFKj2YNBncCtk6x5rr5zxHdY9cnGGL6EM",
-        "Qme74uoqAsHU3YSFvAsyCRnMK3VfGnFu7m4VHKXsbKPKtr",
-        "QmaJFZcHV8ZcU7Ka8pw8L5k6bELN7swA3L61Q7J4VKT81y",
-        "QmPZySS42gdeQr3hCeXw2TfviSqJVFxEB8KbrXsn6KVQH7"
-      ]
     }
   },
   "swagg": {
