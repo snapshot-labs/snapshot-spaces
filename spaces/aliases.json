@@ -3,6 +3,8 @@
 	"airswap": "vote.airswap.eth",
 	"dhedge": "gov.dhedge.eth",
 	"unfederalreserve": "unfederalreserve.eth",
+	"sushi": "sushigov.eth",
+  "sushipowah": "sushigov.eth",
 	"yam": "yam.eth",
 	"velotoken": "velotoken.eth",
 	"cream": "cream-finance.eth",
@@ -27,5 +29,6 @@
   "pickle": "pickle.eth",
   "index": "index-coop.eth",
   "streamr": "streamr.eth",
-  "rarible": "rarible.eth"
+  "rarible": "rarible.eth",
+  "curve": "curve.eth"
 }
