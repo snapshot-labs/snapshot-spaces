@@ -30,6 +30,5 @@
   "index": "index-coop.eth",
   "streamr": "streamr.eth",
   "rarible": "rarible.eth",
-  "curve": "curve.eth",
-  "chimpyswap": "chimpyswap.eth"
+  "curve": "curve.eth"
 }
