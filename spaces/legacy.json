@@ -44,42 +44,6 @@
       "minScore": 5
     }
   },
-  "aave": {
-    "name": "Aave",
-    "network": "1",
-    "symbol": "LEND",
-    "skin": "aave",
-    "domain": "signal.aave.com",
-    "strategies": [
-      {
-        "name": "erc20-balance-of",
-        "params": {
-          "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
-          "symbol": "LEND",
-          "decimals": 18
-        }
-      },
-      {
-        "name": "erc20-balance-of",
-        "params": {
-          "address": "0x7D2D3688Df45Ce7C552E19c27e007673da9204B8",
-          "symbol": "aLEND",
-          "decimals": 18
-        }
-      }
-    ],
-    "members": [
-      "0x4Bf03635d42067CF86aaaF173F134765c30e40Fc",
-      "0xE22dc7b37Bf7F08E9F53313564Ef023220918B32",
-      "0x4f1fe83425e8050D56e308E2a12dB9B8874375D5",
-      "0x0150B0ec3c7b72879FbfdbDD79c18a8368B194E0"
-    ],
-    "filters": {
-      "defaultTab": "all",
-      "minScore": 0,
-      "onlyMembers": true
-    }
-  },
   "achievmintry": {
     "name": "Achievmintry",
     "network": "100",
@@ -6081,76 +6045,6 @@
     "filters": {
       "defaultTab": "all",
       "minScore": 0
-    }
-  },
-  "sushi": {
-    "name": "Sushi",
-    "network": "1",
-    "symbol": "SUSHIPOWAH",
-    "skin": "sushi",
-    "strategies": [
-      {
-        "name": "erc20-balance-of",
-        "params": {
-          "address": "0x2dbce82984595d977564888e08476053c6dbb0e3",
-          "symbol": "SUSHIPOWAH",
-          "decimals": 18
-        }
-      },
-      {
-        "name": "delegation",
-        "params": {
-          "symbol": "SUSHIPOWAH (delegated)",
-          "strategies": [
-            {
-              "name": "erc20-balance-of",
-              "params": {
-                "address": "0x2dbce82984595d977564888e08476053c6dbb0e3",
-                "decimals": 18
-              }
-            }
-          ]
-        }
-      }
-    ],
-    "members": [
-      "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
-      "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd"
-    ],
-    "filters": {
-      "defaultTab": "core",
-      "minScore": 0
-    }
-  },
-  "sushipowah": {
-    "name": "Sushi Archive",
-    "network": "1",
-    "symbol": "SP",
-    "skin": "sushipowah",
-    "strategies": [
-      {
-        "name": "erc20-balance-of",
-        "params": {
-          "address": "0x598eb12A541AbbdB315045a4eDE8d277f18B8be9",
-          "symbol": "SP",
-          "decimals": 18
-        }
-      }
-    ],
-    "members": [
-      "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
-      "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd"
-    ],
-    "filters": {
-      "defaultTab": "core",
-      "minScore": 0,
-      "invalids": [
-        "QmZieYbP3Chs1T4hzmZerBXJ9t7P3bJDj3hJDoaPaGrqjL",
-        "QmZyafpihwgPnhFKj2YNBncCtk6x5rr5zxHdY9cnGGL6EM",
-        "Qme74uoqAsHU3YSFvAsyCRnMK3VfGnFu7m4VHKXsbKPKtr",
-        "QmaJFZcHV8ZcU7Ka8pw8L5k6bELN7swA3L61Q7J4VKT81y",
-        "QmPZySS42gdeQr3hCeXw2TfviSqJVFxEB8KbrXsn6KVQH7"
-      ]
     }
   },
   "swagg": {
