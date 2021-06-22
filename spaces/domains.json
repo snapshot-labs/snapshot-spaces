@@ -16,6 +16,7 @@
   "vote.grumpy.finance": "grumpyfinance.eth",
   "vote.xbn.finance": "elasticbnb.eth",
   "dao.moonrat.finance": "moonrat.eth",
+  "governance.tradestars.app": "tradestars.eth",
   "vote.dappchaser.com": "dappchaser.eth",
   "vote.poolgrants.org": "poolgrants.eth",
   "vote.xsigma.fi": "xsig.eth",
@@ -269,5 +270,5 @@
   "vote.tea-swap.finance": "tea-swap.eth",
   "vote.pitbull.community": "pitbulldao.eth",
   "gov.omg.dev": "dao.omg.eth",
-  "voting.chimpyswap.com": "chimpyswap.eth"  
+  "voting.chimpyswap.com": "chimpyswap.eth"
 }
