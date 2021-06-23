@@ -78,6 +78,7 @@
   "gov.mettalex.com": "mettalex",
   "gov.moontools.io": "moontools",
   "voting.pancakeswap.finance": "pancake",
+  "vote.steakbank.finance":"steakbank.eth",
   "vote.pancakebunny.finance": "pancakebunny.eth",
   "vote.taconomics.io": "taco",
   "gov.narwhalswap.org": "narwhal",
@@ -270,5 +271,5 @@
   "vote.tea-swap.finance": "tea-swap.eth",
   "vote.pitbull.community": "pitbulldao.eth",
   "gov.omg.dev": "dao.omg.eth",
-  "voting.chimpyswap.com": "chimpyswap.eth"
+  "voting.chimpyswap.com": "chimpyswap.eth",
 }
