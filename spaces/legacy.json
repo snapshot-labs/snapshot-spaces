@@ -1507,7 +1507,10 @@
       {
         "name": "contract-call",
         "params": {
-          "address": "0x182d00A93b992E2F03bc588e5330693b3dDcb1d5",
+          "addresses": [
+            "0x182d00A93b992E2F03bc588e5330693b3dDcb1d5",
+            "0x3E26C0D4C89793d7652484075eFb20b8758a5Df3"
+          ],
           "decimals": 0,
           "symbol": "DRC",
           "methodABI": {
