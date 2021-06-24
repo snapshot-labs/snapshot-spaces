@@ -1,0 +1,29 @@
+.apy {
+  --primary-color: #673ab7;
+  --bg-color: #1a1a1a;
+  --text-color: #808080;
+  --link-color: #d0d0d0;
+  --heading-color: #d0d0d0;
+  --border-color: #333;
+  --header-bg: #202020;
+
+  #topnav {
+    border-bottom: 2px solid black !important;
+    border-image-slice: 1;
+    border-image-source: radial-gradient(
+      circle,
+      #483dc2,
+      #503dc6,
+      #593cca,
+      #613ccd,
+      #693bd1,
+      #763dd5,
+      #823ed9,
+      #8e40dd,
+      #a045e3,
+      #b24ae9,
+      #c450ef,
+      #d556f5
+    );
+  }
+}
