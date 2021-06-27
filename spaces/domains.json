@@ -1,5 +1,6 @@
 {
   "vote.dsbswap.com": "dsbswap.eth",
+  "vote.mcafeemoonshot.com": "mcafeemoonshot.eth",
   "vote.fbomb.finance": "fbomb.eth",
   "vote.evermoon.io": "evermoon.eth",
   "vote.gaiadao.org": "gaiadao.eth",
@@ -278,5 +279,6 @@
   "governance.uniqueone.photo": "uniquephoto.eth",
   "voting.chimpyswap.com": "chimpyswap.eth",
   "vote.to-the-moon.farm": "to-the-moon-farm.eth",
+  "vote.polyvertex.finance": "polyvertex.eth",
   "gov.aol.gg": "apesonline.eth"
 }
