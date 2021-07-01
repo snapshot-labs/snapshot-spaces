@@ -1,4 +1,5 @@
 {
+  "vote.olecoin.io": "olecoin.eth",
   "dao.growing.fi": "growingdao.eth",
   "vote.dsbswap.com": "dsbswap.eth",
   "vote.apy.finance": "apy.eth",
@@ -20,6 +21,7 @@
   "gov.dogownertoken.com": "dogown.eth",
   "vote.gametoken.finance": "gmetoken.eth",
   "vote.grumpy.finance": "grumpyfinance.eth",
+  "vote.decrypt.co": "decrypt-media.eth",
   "vote.xbn.finance": "elasticbnb.eth",
   "dao.moonrat.finance": "moonrat.eth",
   "governance.tradestars.app": "tradestars.eth",
@@ -27,6 +29,7 @@
   "vote.poolgrants.org": "poolgrants.eth",
   "vote.xsigma.fi": "xsig.eth",
   "vote.shardcoin.io": "shardcoin.eth",
+  "vote.depocket.com": "depocket.eth",
   "gov.hyruleswap.com": "hyruleswap.eth",
   "complus.network": "complus.eth",
   "vote.axion.network": "axiondao.eth",
@@ -282,11 +285,14 @@
   "vote.pitbull.community": "pitbulldao.eth",
   "governance.unique.fans": "uniquefans.eth",
   "gov.omg.dev": "dao.omg.eth",
+  "gov.inumaki.org": "inumaki.eth",
   "governance.uniqueone.photo": "uniquephoto.eth",
   "voting.chimpyswap.com": "chimpyswap.eth",
   "vote.apetroop.io": "apetroop.eth",
   "vote.to-the-moon.farm": "to-the-moon-farm.eth",
   "vote.polyvertex.finance": "polyvertex.eth",
   "gov.aol.gg": "apesonline.eth",
+  "gov.coin-bid.io": "coin-bid.eth",
+  "vote.sil.finance": "sister-in-law.eth",
   "gov.coin-bid.io": "coin-bid.eth"
 }
