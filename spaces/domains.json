@@ -246,6 +246,8 @@
   "vote.moonpirate.finance": "moonpirate.eth",
   "vote.mai.finance" : "qidao.eth",
   "dao.modefi.io" : "mod.eth",
+  "dao-bsc.modefi.io" : "mod-bsc.eth",
+  "dao-ftm.modefi.io" : "mod-ftm.eth",
   "vote.conqueruranus.com": "conqueruranus.eth",
   "vote.koaladefi.eth": "koaladefi.eth",
   "vote.imsuperleague.com": "imsuperleague.eth",
