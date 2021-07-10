@@ -1084,31 +1084,6 @@
       "minScore": 500
     }
   },
-  "dai": {
-    "name": "Dai",
-    "network": "1",
-    "symbol": "DAI",
-    "strategies": [
-      {
-        "name": "erc20-balance-of",
-        "params": {
-          "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-          "symbol": "DAI",
-          "decimals": 18
-        }
-      }
-    ],
-    "filters": {
-      "defaultTab": "all",
-      "minScore": 0
-    },
-    "plugins": {
-      "gnosis": {},
-      "aragon": {
-        "id": "bitconnect"
-      }
-    }
-  },
   "dai-prize-pool": {
     "token": "0x334cbb5858417aee161b53ee0d5349ccf54514cf",
     "name": "Dai Prize Pool (PoolTogether)",
@@ -1137,30 +1112,6 @@
       "invalids": [
         "Qme4k2JuwFcmsw8FBHZQpiJjr9zAyshbt2Ko3WcjDoWNfU"
       ]
-    }
-  },
-  "dai-rinkeby": {
-    "name": "Dai Rinkeby",
-    "network": "4",
-    "symbol": "DAI",
-    "strategies": [
-      {
-        "name": "erc20-balance-of",
-        "params": {
-          "address": "0xb08e32d658700f768f5badf0679e153fffec42e6",
-          "symbol": "DAI",
-          "decimals": 18
-        }
-      }
-    ],
-    "filters": {
-      "defaultTab": "all",
-      "minScore": 0
-    },
-    "plugins": {
-      "aragon": {
-        "id": "RinkebyDAO"
-      }
     }
   },
   "daniell-mesquita-xdai": {
@@ -3138,32 +3089,6 @@
     "filters": {
       "defaultTab": "all",
       "minScore": 0.01
-    }
-  },
-  "eth": {
-    "name": "ETH",
-    "network": "1",
-    "symbol": "ETH",
-    "skin": "eth",
-    "strategies": [
-      {
-        "name": "eth-balance",
-        "params": {
-          "symbol": "ETH"
-        }
-      },
-      {
-        "name": "erc20-balance-of",
-        "params": {
-          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-          "symbol": "WETH",
-          "decimals": 18
-        }
-      }
-    ],
-    "filters": {
-      "defaultTab": "all",
-      "minScore": 1
     }
   },
   "exnetwork": {
