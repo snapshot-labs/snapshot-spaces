@@ -34,5 +34,6 @@
   "curve": "curve.eth",
   "sil": "sister-in-law.eth",
 	"digital-reserve-currency": "drctoken.eth",
-	"web3-api": "polywrap.eth"
+	"web3-api": "polywrap.eth",
+  "mstable": "mstablegovernance.eth"
 }
