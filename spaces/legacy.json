@@ -4745,6 +4745,35 @@
             "type": "function"
           }
         }
+      },
+      {
+        "name": "contract-call",
+        "params": {
+          "address": "0xa9df6bdc438a06c7946f99b6840bf412cffa3ab4",
+          "symbol": "RGT",
+          "decimals": 18,
+          "methodABI": {
+            "constant": true,
+            "inputs": [
+              {
+                "internalType": "address",
+                "name": "holder",
+                "type": "address"
+              }
+            ],
+            "name": "balanceOfUnderlying",
+            "outputs": [
+              {
+                "internalType": "uint256",
+                "name": "",
+                "type": "uint256"
+              }
+            ],
+            "payable": false,
+            "stateMutability": "view",
+            "type": "function"
+          }
+        }
       }
     ],
     "members": [
