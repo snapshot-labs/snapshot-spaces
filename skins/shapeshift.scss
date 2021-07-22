@@ -1,0 +1,23 @@
+.shapeshift {
+  --primary-color: rgb(51, 104, 228);
+  --bg-color: #F0F3F8;
+  --text-color: #728094;
+  --link-color: #000;
+  --heading-color: #111111;
+  --border-color: #F0F3F8;
+  --header-bg: #fff;
+  --block-bg: #fff;
+}
+
+@media (prefers-color-scheme: dark) {
+  .shapeshift {
+    --primary-color:rgb(51, 104, 228);
+    --bg-color: #0a111e;
+    --text-color: rgb(84, 100, 128);
+    --link-color: #fff;
+    --heading-color: #fff;
+    --border-color: rgba(255,255,255,.05);
+    --header-bg: #0a111e;
+    --block-bg: rgba(255,255,255,.02);
+  }
+}
