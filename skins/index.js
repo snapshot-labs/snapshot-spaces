@@ -51,6 +51,7 @@ import cuni from "./cuni.scss";
 import curve from "./curve.scss";
 import dalmatians from "./dalmatians.scss";
 import daniellMesquita from "./daniell-mesquita.scss";
+import deversifi from "./deversifi.scss";
 import daosquare from "./daosquare.scss";
 import dawn from "./dawn.scss";
 import debaseonomics from "./debaseonomics.scss";
@@ -306,6 +307,7 @@ export default {
   defiat,
   depocket,
   derivadao,
+  deversifi,
   dextfprotocol,
   dfi,
   dforce,
