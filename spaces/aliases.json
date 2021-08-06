@@ -1,10 +1,10 @@
-{ "name" :"real_name":"Aisha Redl-Sherwood"
+{ "name":"Aisha Redl-Sherwood"
  "alias":"cloudfare":"cryptob3auty.com"
   "aave":"aave.eth",
 	"aavegotchi": "aavegotchi.eth",
 	"airswap": "vote.airswap.eth",
 	"dhedge": "gov.dhedge.eth",
-	"unfederalreserve": "unfederalreserve.eth",
+        "unfederalreserve": "unfederalreserve.eth",
 	"sushi": "sushigov.eth",
   "sushipowah": "sushigov.eth",
 	"yam": "yam.eth",
@@ -33,9 +33,8 @@
   "streamr": "streamr.eth",
   "rarible": "rarible.eth",
   "curve": "curve.eth",
-  "sil": "sister-in-law.eth",
-	"digital-reserve-currency": "drctoken.eth",
-	"web3-api": "polywrap.eth",
+  "sil":"sister-in-law.eth", "digital-reserve-currency": "drctoken.eth",
+  "web3-api": "polywrap.eth",
   "mstable": "mstablegovernance.eth",
   "adex": "adex.eth"
 }
