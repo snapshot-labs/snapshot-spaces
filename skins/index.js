@@ -64,6 +64,7 @@ import dforce from "./dforce.scss";
 import dfv from "./dfv.scss";
 import dhedge from "./dhedge.scss";
 import diadata from "./diadata.scss";
+import dinoswap from "./dinoswap.css";
 import dittomoney from "./dittomoney.scss";
 import dogeswap from "./dogeswap.scss";
 import domo from "./domo.scss";
@@ -314,6 +315,7 @@ export default {
   dfv,
   dhedge,
   diadata,
+  dinoswap,
   dittomoney,
   dogeswap,
   domo,
