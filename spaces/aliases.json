@@ -38,5 +38,6 @@
 	"web3-api": "polywrap.eth",
   "mstable": "mstablegovernance.eth",
   "adex": "adex.eth",
-  "balancer": "balancer.eth"
+  "balancer": "balancer.eth",
+  "peripheralist.eth": "tiledao.eth"
 }
