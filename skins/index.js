@@ -44,6 +44,7 @@ import chartex from "./chartex.scss";
 import clucoin from "./clucoin.scss";
 import cofix from "./cofix.scss";
 import coin from "./coin.scss";
+import coinswap from "./coinswap.scss";
 import complus from "./complus.scss";
 import contribute from "./contribute.scss";
 import cover from "./cover.scss";
@@ -296,6 +297,7 @@ export default {
   clucoin,
   cofix,
   coin,
+  coinswap,
   complus,
   contribute,
   cover,
