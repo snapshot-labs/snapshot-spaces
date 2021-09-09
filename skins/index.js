@@ -102,6 +102,7 @@ import goatcoin from "./goatcoin.scss";
 import gokai from "./gokai.scss";
 import golff from "./golff.scss";
 import grap from "./grap.scss";
+import greytoken from "./greytoken.scss";
 import griffin from "./griffin.scss";
 import halodao from "./halodao.scss";
 import hifiFinance from "./hifi-finance.scss";
@@ -355,6 +356,7 @@ export default {
   gokai,
   golff,
   grap,
+  greytoken,
   griffin,
   halodao,
   "hifi-finance": hifiFinance,
