@@ -9,6 +9,7 @@
   "gov.richquack.com": "richquack.eth",
   "dao.stredium.com": "stredium.eth",
   "vote.newbet.vip": "newbet.eth",
+  "vote.alkemi.network": "alkemidao.eth",
   "vote.macoin.finance": "macoin.eth",
   "vote.macncheese.finance": "macncheese.eth",
   "vote.artisticsociety.org": "eart.eth",
@@ -229,6 +230,7 @@
   "gov.sunicoin.org": "suni.eth",
   "vote.macaronswap.finance": "macaronswap.eth",
   "vote.resdx.io": "resdx.eth",
+  "vote.dao.gro.xyz": "gro.xyz",
   "snapshot.solos.so": "solos.eth",
   "snapshot.fei.money": "fei.eth",
   "dao.pepemon.world": "pepedontdump.eth",
@@ -348,6 +350,12 @@
   "gov.compli.fi": "complifi.eth",
   "vote.feistydoge.art": "feistydao.eth",
   "vote.hepa.finance": "hepa.eth",
+  "gov.moonfarm.in": "moonswpadex.eth",
+  "vote.liquidifty.io": "liquidifty.eth",
   "gov.moonswap.in": "moonswpadex.eth",
-  "vote.polywhirl.cash": "polywhirl.eth"
+  "vote.ledgity.com": "ledgity.xyz",
+  "vote.polywhirl.cash": "polywhirl.eth",
+  "vote.faraland.io": "faradao.eth",
+  "vote.nft-gods.com": "nft-gods.eth",
+  "vote.sunrisegaming-dao.com": "sunrisegaming.eth"
 }
