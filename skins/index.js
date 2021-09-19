@@ -77,7 +77,6 @@ import egg from "./egg.scss";
 import emptysetgold from "./emptysetgold.scss";
 import esprezzo from "./esprezzo.scss";
 import etgfinance from "./etgfinance.scss";
-import eth from "./eth.scss";
 import evoland from "./evoland.scss";
 import example from "./example.scss";
 import fairmoon from "./fairmoon.scss";
@@ -331,7 +330,6 @@ export default {
   emptysetgold,
   esprezzo,
   etgfinance,
-  eth,
   evoland,
   example,
   fairmoon,
