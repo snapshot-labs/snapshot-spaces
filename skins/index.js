@@ -214,6 +214,7 @@ import swapx from "./swapx.scss";
 import swarm from "./swarm.scss";
 import swerve from "./swerve.scss";
 import synthetix from "./synthetix.scss";
+import takeprofit from "./takeprofit.scss";
 import tballiance from "./tballiance.scss";
 import thelao from "./thelao.scss";
 import thirm from "./thirm.scss";
@@ -467,6 +468,7 @@ export default {
   swarm,
   swerve,
   synthetix,
+  takeprofit,
   tballiance,
   thelao,
   thirm,
