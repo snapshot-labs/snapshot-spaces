@@ -79,6 +79,7 @@ import esprezzo from "./esprezzo.scss";
 import etgfinance from "./etgfinance.scss";
 import evoland from "./evoland.scss";
 import example from "./example.scss";
+import expectchaos from "./expectchaos.scss";
 import fairmoon from "./fairmoon.scss";
 import farm from "./farm.scss";
 import fei from "./fei.scss";
@@ -333,6 +334,7 @@ export default {
   etgfinance,
   evoland,
   example,
+  expectchaos,
   fairmoon,
   farm,
   fei,

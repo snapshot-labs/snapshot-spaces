@@ -1,0 +1,29 @@
+.expectchaos {
+  --primary-color: #d2023e;
+  --bg-color: #000;
+  --text-color: #8b949e;
+  --link-color: #f5f5f5;
+  --heading-color: #e2e2e2;
+  --border-color: #424242;
+  --header-bg: #111;
+
+  button {
+    border-radius: 0;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  .border-t, .border-b {
+    border-radius: 0;
+  }
+
+  .text-base {
+    font-size: 16px;
+  }
+
+  .mb-1 {
+    margin-bottom: 16px;
+  }
+}
