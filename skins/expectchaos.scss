@@ -6,24 +6,5 @@
   --heading-color: #e2e2e2;
   --border-color: #424242;
   --header-bg: #111;
-
-  button {
-    border-radius: 0;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
-
-  .border-t, .border-b {
-    border-radius: 0;
-  }
-
-  .text-base {
-    font-size: 16px;
-  }
-
-  .mb-1 {
-    margin-bottom: 16px;
-  }
+  --block-bg: transparent;
 }
