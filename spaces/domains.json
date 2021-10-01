@@ -368,5 +368,7 @@
   "dao.babyspacefloki.com": "babyspacefloki.eth",
   "vote.meowfinance.org": "meowfinance.eth",
   "gov.dot.finance": "dotfinance.eth",
-  "vote.mgh.dao": "metagamehub.eth"
+  "vote.mgh.dao": "metagamehub.eth" ,
+  "poll.element.fi": "element-finance.eth",
+ 
 }
