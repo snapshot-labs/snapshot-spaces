@@ -354,6 +354,7 @@
   "vote.yamp.finance": "yamp.eth",
   "gov.compli.fi": "complifi.eth",
   "vote.feistydoge.art": "feistydao.eth",
+  "vote.shunkakinoki.com": "shunkakinoki.eth",
   "vote.hepa.finance": "hepa.eth",
   "gov.moonfarm.in": "moonswpadex.eth",
   "vote.liquidifty.io": "liquidifty.eth",
@@ -365,6 +366,7 @@
   "vote.moonsama.com": "expectchaos.eth", 
   "vote.sunrisegaming-dao.com": "sunrisegaming.eth",
   "dao.babyspacefloki.com": "babyspacefloki.eth",
-  "vote.mgh.dao": "metagamehub.eth",
   "vote.meowfinance.org" : "meowfinance.eth"
+  "gov.dot.finance": "dotfinance.eth",
+  "vote.mgh.dao": "metagamehub.eth"
 }
