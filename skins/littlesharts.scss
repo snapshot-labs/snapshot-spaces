@@ -1,0 +1,16 @@
+.littlesharts {
+  --primary-color: #252525;
+  --bg-color: #523322;
+  --text-color: #fff;
+  --link-color: #523322;
+  --heading-color: #523322;
+  --border-color: #442a1c;
+  --header-bg: #f7f7f7;
+  --block-bg: white;
+
+  #topnav {
+    border-bottom: 4px solid #252525 !important;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(270deg,#ff008c,#bd0084);
+  }
+}
