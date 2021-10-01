@@ -1,0 +1,25 @@
+.element-fi {
+  --primary-color: #005EBE;
+  --bg-color: #F5F8FA;
+  --text-color: #005EBE;
+  --link-color: #005EBE;
+  --heading-color: #005EBE;
+  --border-color: #005EBE;
+  --header-bg: #F5F8FA;
+  --block-bg: #F5F8FA;
+
+  #topnav {
+    background-color: #005EBE;
+    border-bottom: 1px solid #005EBE !important;
+  }
+
+  #topnav a, #topnav .text-gray {
+    color: #F5F8FA !important;
+  }
+
+  #topnav {
+    border-bottom: 4px solid #005EBE !important;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to left, #005EBE, #78D3E2);
+  }
+}
