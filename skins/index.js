@@ -74,7 +74,6 @@ import dracula from "./dracula.scss";
 import dsgn from "./dsgn.scss";
 import easybake from "./easybake.scss";
 import egg from "./egg.scss";
-import elementfinance from "./elementfinance.scss";
 import emptysetgold from "./emptysetgold.scss";
 import esprezzo from "./esprezzo.scss";
 import etgfinance from "./etgfinance.scss";
@@ -130,7 +129,6 @@ import lao from "./lao.scss";
 import lido from "./lido.scss";
 import light from "./light.scss";
 import limitswap from "./limitswap.scss";
-import littlesharts from "./littlesharts.scss";
 import love from "./love.scss";
 import macaronswap from "./macaronswap.scss";
 import magicbalancer from "./magicbalancer.scss";
@@ -331,7 +329,6 @@ export default {
   dsgn,
   easybake,
   egg,
-  elementfinance,
   emptysetgold,
   esprezzo,
   etgfinance,
@@ -387,7 +384,6 @@ export default {
   lido,
   light,
   limitswap,
-  littlesharts,
   love,
   macaronswap,
   magicbalancer,
