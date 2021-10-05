@@ -251,6 +251,7 @@ import yup from "./yup.scss";
 import zeta from "./zeta.scss";
 import zlot from "./zlot.scss";
 import zoocoin from "./zoocoin.scss";
+import cyberkongz from "./cyberkongz.scss";
 
 export default {
   aave,
