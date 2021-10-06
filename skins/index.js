@@ -253,6 +253,7 @@ import zeta from "./zeta.scss";
 import zlot from "./zlot.scss";
 import zoocoin from "./zoocoin.scss";
 import cyberkongz from "./cyberkongz.scss";
+import thehashes from "./thehashes.scss";
 
 export default {
   aave,
@@ -476,6 +477,7 @@ export default {
   synthetix,
   takeprofit,
   tballiance,
+  thehashes,
   thelao,
   thirm,
   tracer,
