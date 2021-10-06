@@ -1,5 +1,6 @@
 {
   "vote.them.af": "hatdao.eth",
+  "vote.betswirl.com": "betswirl.eth",
   "vote.defrag.com": "dfrag.eth",
   "vote.brightunion.io": "brightunion.eth",
   "vote.aladdin.club": "aladdindao.eth",
@@ -13,6 +14,7 @@
   "gov.richquack.com": "richquack.eth",
   "dao.stredium.com": "stredium.eth",
   "vote.newbet.vip": "newbet.eth",
+  "vote.spaceknightclub.io": "spaceknightclub.eth",
   "vote.alkemi.network": "alkemidao.eth",
   "vote.macoin.finance": "macoin.eth",
   "vote.macncheese.finance": "macncheese.eth",
@@ -366,11 +368,12 @@
   "vote.polywhirl.cash": "polywhirl.eth",
   "vote.faraland.io": "faradao.eth",
   "vote.nft-gods.com": "nft-gods.eth",
-  "vote.moonsama.com": "expectchaos.eth", 
+  "vote.moonsama.com": "expectchaos.eth",
   "vote.sunrisegaming-dao.com": "sunrisegaming.eth",
   "dao.babyspacefloki.com": "babyspacefloki.eth",
   "vote.meowfinance.org": "meowfinance.eth",
   "gov.dot.finance": "dotfinance.eth",
+  "voting-v2.multiplier.finance": "v2-multiplierfinance.eth",
   "vote.mgh.dao": "metagamehub.eth",
-  "voting-v2.multiplier.finance": "v2-multiplierfinance.eth"
+  "gov.maidcoin.org": "maidcoin.eth"
 }
