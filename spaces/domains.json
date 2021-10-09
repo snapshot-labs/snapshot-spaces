@@ -111,6 +111,7 @@
   "vote.bdollar.fi": "bdollar.eth",
   "devcon.snapshot.page": "devcondemo.eth",
   "vote.saffron.finance": "saffronfinance.eth",
+  "governance.yfdai.finance": "yfdaifinance.eth",
   "govx.launchzone.org": "bscex.eth",
   "vote.kiancoin.com": "kian.eth",
   "fund.1sd.finance": "1sd.eth",
@@ -228,6 +229,5 @@
   "vote.steakhouse.finance": "vote-steakhouse.eth",
   "vote.flashstake.io": "flashcommunity.eth",
   "vote.fenixtoken.net": "fenixtoken.eth",
-  "vote.liquifi.org": "liquifi.eth",
-  "governance.yfdai.finance": "yfdaifinance.eth"
+  "vote.liquifi.org": "liquifi.eth"
 }
