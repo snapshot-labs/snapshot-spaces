@@ -73,6 +73,7 @@
   "signal.bzx.network": "bzx.eth",
   "signal.stakedao.org": "stakedao.eth",
   "basedgov.kuhoge.finance": "kuhoge.eth",
+  "vote.koalaintelligence.agency": "kia-gov.eth",
   "survey.novaswap.finance": "novaswap.eth",
   "vote.coffeeswap.finance": "coffeeswap.eth",
   "gov.archerdao.io": "archerdao.eth",
