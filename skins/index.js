@@ -30,6 +30,7 @@ import based from "./based.scss";
 import basedloans from "./basedloans.scss";
 import bee2 from "./bee2.scss";
 import benchmark from "./benchmark.scss";
+import betswirl from "./betswirl.scss";
 import blackpink from "./blackpink.scss";
 import blackpoolhq from "./blackpoolhq.scss";
 import blockzerolabs from "./blockzerolabs.scss";
@@ -251,6 +252,7 @@ import yup from "./yup.scss";
 import zeta from "./zeta.scss";
 import zlot from "./zlot.scss";
 import zoocoin from "./zoocoin.scss";
+import cyberkongz from "./cyberkongz.scss";
 
 export default {
   aave,
@@ -285,6 +287,7 @@ export default {
   basedloans,
   bee2,
   benchmark,
+  betswirl,
   blackpink,
   blackpoolhq,
   blockzerolabs,
@@ -305,6 +308,7 @@ export default {
   cover,
   cuni,
   curve,
+  cyberkongz,
   dalmatians,
   "daniell-mesquita": daniellMesquita,
   daosquare,
