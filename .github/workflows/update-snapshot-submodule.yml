@@ -1,0 +1,27 @@
+name: Update Snapshot Submodule
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'skins/**'
+      - 'spaces/**'
+      - 'package*'
+jobs:
+  update-submodule:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          repository: ${{ github.repository_owner }}/snapshot
+          ref: develop
+          token: ${{ secrets.UPDATE_SNAPSHOT_PAT }}
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git submodule update --init --remote ${{ github.event.repository.name }}
+          if [[ `git status --porcelain` ]]; then
+            git add .
+            git commit -m "updated spaces submodule"
+            git push
+          fi
