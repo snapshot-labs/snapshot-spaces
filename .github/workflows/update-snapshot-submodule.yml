@@ -1,5 +1,6 @@
 name: Update Snapshot Submodule
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
