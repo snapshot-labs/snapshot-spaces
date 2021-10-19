@@ -2,11 +2,7 @@ name: Update Snapshot Submodule
 on:
   push:
     branches:
-      - main
-    paths:
-      - 'skins/**'
-      - 'spaces/**'
-      - 'package*'
+      - master
 jobs:
   update-submodule:
     runs-on: ubuntu-latest
