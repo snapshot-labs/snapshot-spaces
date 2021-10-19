@@ -1,11 +1,14 @@
 {
   "vote.them.af": "hatdao.eth",
+  "vote.ysl.io": "ysl-io.eth",
+  "vote.mstable.org": "mstablegovernance.eth",
   "dao.wetu.be": "wetube.eth",
   "vote.betswirl.com": "betswirl.eth",
   "vote.defrag.com": "dfrag.eth",
   "dao.sleepysloth.finance": "mrbojangles.eth",
   "vote.brightunion.io": "brightunion.eth",
   "vote.aladdin.club": "aladdindao.eth",
+  "vote.enter.art": "enternft.eth",
   "dao.civfund.com": "dexman.eth",
   "vote.myrevengecat.com": "myrevengecat.eth",
   "governance.cntr.finance": "cntr.eth",
@@ -51,6 +54,7 @@
   "vote.xtblock.io": "xtblock.eth",
   "vote.xbn.finance": "elasticbnb.eth",
   "dao.moonrat.finance": "moonrat.eth",
+  "gov.milliontoken.org": "milliongov.eth",
   "governance.tradestars.app": "tradestars.eth",
   "vote.dappchaser.com": "dappchaser.eth",
   "vote.poolgrants.org": "poolgrants.eth",
@@ -386,5 +390,6 @@
   "gov.maidcoin.org": "maidcoin.eth",
   "vote.cyberkongz.com": "cyberkongz.eth",
   "dao.baka.cool": "koumakan.eth",
-  "governance.yfdai.finance": "yfdaifinance.eth"
+  "governance.yfdai.finance": "yfdaifinance.eth",
+  "dictatorship.levxdao.org": "levx.eth"
 }

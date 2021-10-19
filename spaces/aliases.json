@@ -41,5 +41,6 @@
   "balancer": "balancer.eth",
   "peripheralist.eth": "tiledao.eth",
   "seen": "seenhaus.eth",
-  "kleros": "kleros.eth"
+  "kleros": "kleros.eth",
+  "piedao": "piedao.eth"
 }
