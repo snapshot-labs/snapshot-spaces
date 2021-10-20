@@ -130,6 +130,7 @@ import lao from "./lao.scss";
 import lido from "./lido.scss";
 import light from "./light.scss";
 import limitswap from "./limitswap.scss";
+import liquiddriver from "./liquiddriver.scss";
 import love from "./love.scss";
 import macaronswap from "./macaronswap.scss";
 import magicbalancer from "./magicbalancer.scss";
@@ -388,6 +389,7 @@ export default {
   lido,
   light,
   limitswap,
+  liquiddriver,
   love,
   macaronswap,
   magicbalancer,
