@@ -1,0 +1,33 @@
+name: Update Snapshot Submodule
+on:
+  workflow_dispatch:
+#  push:
+#    branches:
+#      - master
+
+jobs:
+  consecutiveness:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: mktcode/consecutive-workflow-action@0b779df0b7f31f656194b3aa004cc29dd406393b
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+  update-submodule:
+    runs-on: ubuntu-latest
+    needs: [ consecutiveness ]
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          repository: ${{ github.repository_owner }}/snapshot
+          ref: develop
+          token: ${{ secrets.UPDATE_SNAPSHOT_PAT }}
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git submodule update --init --remote ${{ github.event.repository.name }}
+          if [[ `git status --porcelain` ]]; then
+            git add .
+            git commit -m "updated spaces submodule"
+            git push
+          fi
