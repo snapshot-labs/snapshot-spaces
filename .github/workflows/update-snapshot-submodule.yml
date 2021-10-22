@@ -1,9 +1,9 @@
 name: Update Snapshot Submodule
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - master
+#  push:
+#    branches:
+#      - master
 
 jobs:
   consecutiveness:
