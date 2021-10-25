@@ -149,6 +149,7 @@ import moonvault from "./moonvault.scss";
 import mstable from "./mstable.scss";
 import multiplier from "./multiplier.scss";
 import music from "./music.scss";
+import mutantsdao from "./mutantsdao.scss";
 import mybit from "./mybit.scss";
 import narwhal from "./narwhal.scss";
 import nest from "./nest.scss";
@@ -408,6 +409,7 @@ export default {
   mstable,
   multiplier,
   music,
+  mutantsdao,
   mybit,
   narwhal,
   nest,
