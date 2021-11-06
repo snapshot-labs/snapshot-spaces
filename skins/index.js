@@ -242,6 +242,7 @@ import y3d from "./y3d.scss";
 import yakuza from "./yakuza.scss";
 import yam from "./yam.scss";
 import yamv2 from "./yamv2.scss";
+import yashadao from "./yashadao.scss";
 import yaxis from "./yaxis.scss";
 import yearn from "./yearn.scss";
 import yfarm from "./yfarm.scss";
@@ -501,6 +502,7 @@ export default {
   yakuza,
   yam,
   yamv2,
+  yashadao,
   yaxis,
   yearn,
   yfarm,
