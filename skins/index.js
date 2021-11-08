@@ -1,3 +1,4 @@
+import autonio from "./autonio.scss";
 import aave from "./aave.scss";
 import aavegotchi from "./aavegotchi.scss";
 import achievmintry from "./achievmintry.scss";
@@ -257,6 +258,7 @@ import zoocoin from "./zoocoin.scss";
 import cyberkongz from "./cyberkongz.scss";
 
 export default {
+  autonio,
   aave,
   aavegotchi,
   achievmintry,
