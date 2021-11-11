@@ -225,6 +225,7 @@ import tracer from "./tracer.scss";
 import tripscommunity from "./tripscommunity.scss";
 import trustwallet from "./trustwallet.scss";
 import tw33t from "./tw33t.scss";
+import six from "./6ix.scss";
 import uma from "./uma.scss";
 import unfederalreserve from "./unfederalreserve.scss";
 import unicore from "./unicore.scss";
@@ -485,6 +486,7 @@ export default {
   tripscommunity,
   trustwallet,
   tw33t,
+  six,
   uma,
   unfederalreserve,
   unicore,
