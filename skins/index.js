@@ -135,6 +135,7 @@ import love from "./love.scss";
 import macaronswap from "./macaronswap.scss";
 import magicbalancer from "./magicbalancer.scss";
 import maker from "./maker.scss";
+import mate from "./mate.scss";
 import mantraDao from "./mantra-dao.scss";
 import masknetwork from "./masknetwork.scss";
 import mee from "./mee.scss";
@@ -395,6 +396,7 @@ export default {
   macaronswap,
   magicbalancer,
   maker,
+  mate,
   "mantra-dao": mantraDao,
   masknetwork,
   mee,
