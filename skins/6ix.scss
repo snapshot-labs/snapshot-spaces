@@ -1,5 +1,5 @@
 .six {
-    --primary-color: white;
+    --primary-color: #1f1f1f;
     --bg-color: #131313;
     --text-color: white;
     --link-color: white;
@@ -7,8 +7,7 @@
     --border-color: #eccece;
     --header-bg: #131313;
 
-    #topnav .router-link-active,
-    #topnav .logo {
+    #topnav {
         font-size: 0;
         line-height: 0;
         width: 0;
@@ -16,4 +15,3 @@
         display: none;
     }
 }
-  
