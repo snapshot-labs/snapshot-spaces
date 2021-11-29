@@ -144,6 +144,7 @@ import metafactory from "./metafactory.scss";
 import mettalex from "./mettalex.scss";
 import mithcash from "./mithcash.scss";
 import momentum from "./momentum.scss";
+import moonpotdotcom from "./moonpotdotcom.scss";
 import moonswap from "./moonswap.scss";
 import moontools from "./moontools.scss";
 import moonvault from "./moonvault.scss";
@@ -405,6 +406,7 @@ export default {
   mettalex,
   mithcash,
   momentum,
+  moonpotdotcom,
   moonswap,
   moontools,
   moonvault,
