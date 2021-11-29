@@ -1,6 +1,7 @@
 {
   "vote.lobis.finance": "lobis.eth",
   "vote.thunderdao.com": "thunderdao.eth",
+  "vote.4thtech.io": "4thtech.eth",
   "vote.cryptohobos.io": "cryptohobos.eth",
   "vote.uplift.io": "upliftio.eth",
   "tribe.toughturtlesnft.com": "toughturtles.eth",
@@ -439,5 +440,6 @@
   "vote.ewd.green": "carbonpaws.eth",
   "vote.litedex.io": "litedex.eth",
   "vote.scarychaincapital.com": "scarychaincapital.eth",
+  "vote.matcha.fi": "streamingfast.eth",
   "vote.bsc-mvb.io": "mvb.eth"
 }
