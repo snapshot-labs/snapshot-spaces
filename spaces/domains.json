@@ -440,5 +440,6 @@
   "vote.ewd.green": "carbonpaws.eth",
   "vote.litedex.io": "litedex.eth",
   "vote.matcha.fi": "streamingfast.eth",
-  "vote.bsc-mvb.io": "mvb.eth"
+  "vote.bsc-mvb.io": "mvb.eth",
+  "vote.liquidrium.com": "liquidrium.eth",
 }
