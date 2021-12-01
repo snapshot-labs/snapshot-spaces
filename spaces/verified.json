@@ -1,4 +1,5 @@
 {
+  "krausehouse.eth": 1,
   "ens.eth": 1,
   "sushigov.eth": 1,
   "uniswap": 1,
@@ -78,5 +79,6 @@
   "mirrolure.eth": -1,
   "poapwallet.eth": -1,
   "polkadao.eth": -1,
-  "zksyncio.eth": -1
+  "zksyncio.eth": -1,
+  "krausehousedaojuciebox.eth": -1
 }
