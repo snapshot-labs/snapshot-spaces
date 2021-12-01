@@ -442,5 +442,6 @@
   "vote.litedex.io": "litedex.eth",
   "vote.scarychaincapital.com": "scarychaincapital.eth",
   "vote.matcha.fi": "streamingfast.eth",
-  "vote.bsc-mvb.io": "mvb.eth"
+  "vote.bsc-mvb.io": "mvb.eth",
+  "vote.liquidrium.com": "liquidrium.eth"
 }
