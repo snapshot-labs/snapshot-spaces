@@ -5763,15 +5763,15 @@
   "yaxis": {
     "name": "yAxis",
     "network": "1",
-    "symbol": "YAX",
+    "symbol": "YAXIS",
     "skin": "yaxis",
     "domain": "gov.yaxis.io",
     "strategies": [
       {
         "name": "erc20-balance-of",
         "params": {
-          "address": "0x162c07f7076b5287cf1d599972c480c51ae00743",
-          "symbol": "YAX VP",
+          "address": "0x66b4c0dAA0C65ED1eae84B4d738B9572a79389c4",
+          "symbol": "veYAXIS",
           "decimals": 18
         }
       }
