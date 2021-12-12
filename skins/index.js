@@ -161,6 +161,7 @@ import oaklanddao from "./oaklanddao.scss";
 import oceandao from "./oceandao.scss";
 import octofi from "./octofi.scss";
 import omg from "./omg.scss";
+import paladin from "./paladin.scss";
 import pancake from "./pancake.scss";
 import pandayield from "./pandayield.scss";
 import penguinParty from "./penguin-party.scss";
@@ -423,6 +424,7 @@ export default {
   oceandao,
   octofi,
   omg,
+  paladin,
   pancake,
   pandayield,
   "penguin-party": penguinParty,
