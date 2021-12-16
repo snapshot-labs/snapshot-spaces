@@ -258,6 +258,7 @@ import zeta from "./zeta.scss";
 import zlot from "./zlot.scss";
 import zoocoin from "./zoocoin.scss";
 import cyberkongz from "./cyberkongz.scss";
+import moonbeans from "./moonbeans.scss";
 
 export default {
   aave,
@@ -407,6 +408,7 @@ export default {
   mettalex,
   mithcash,
   momentum,
+  moonbeans,
   moonpotdotcom,
   moonswap,
   moontools,
