@@ -1,4 +1,6 @@
 {
+  "vote.paraswap.network": "paraswap-dao.eth",
+  "dao.reapercouncil.xyz": "reaperdao.eth",
   "vote.partyhat.finance": "phats.eth",
   "vote.phonon.network": "phonon.eth",
   "vote.thegreatwave.io": "thegreatwave.eth",
@@ -176,6 +178,7 @@
   "gov.mettalex.com": "mettalex",
   "gov.moontools.io": "moontools",
   "voting.pancakeswap.finance": "pancake",
+  "vote.beefy.finance": "beefydao.eth",
   "vote.hunny.finance": "hunny.eth",
   "vote.steakbank.finance": "steakbank.eth",
   "vote.pancakebunny.finance": "pancakebunny.eth",
@@ -478,5 +481,8 @@
   "vote.aavegotchi.com": "aavegotchi.eth",
   "snapshot.keplerdao.finance": "keplerdao.eth",
   "signal.paladin.vote": "palvote.eth",
-  "vote.alphadao.money": "alphagov.eth"
+  "vote.alphadao.money": "alphagov.eth",
+  "vote.jfscaramazza.com": "jfscaramazza.eth", 
+  "signal.paladin.vote": "palvote.eth",
+  "vote.tresleches.finance": "3leches.eth"
 }
