@@ -1,5 +1,6 @@
 {
   "vote.paraswap.network": "paraswap-dao.eth",
+  "vote.theanimal.farm": "theanimalfarm.eth",
   "dao.reapercouncil.xyz": "reaperdao.eth",
   "vote.partyhat.finance": "phats.eth",
   "vote.phonon.network": "phonon.eth",
@@ -480,7 +481,7 @@
   "snapshot.silo.finance": "silofinance.eth",
   "vote.aavegotchi.com": "aavegotchi.eth",
   "snapshot.keplerdao.finance": "keplerdao.eth",
-  "vote.jfscaramazza.com": "jfscaramazza.eth", 
+  "vote.jfscaramazza.com": "jfscaramazza.eth",
   "signal.paladin.vote": "palvote.eth",
   "vote.tresleches.finance": "3leches.eth"
 }
