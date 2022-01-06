@@ -194,6 +194,7 @@ import shardcoin from "./shardcoin.scss";
 import shilldao from "./shilldao.scss";
 import shrimp from "./shrimp.scss";
 import shroom from "./shroom.scss";
+import six from "./six.scss";
 import sleeping from "./sleeping.scss";
 import smartdexVoting from "./smartdex-voting.scss";
 import smol from "./smol.scss";
@@ -459,6 +460,7 @@ export default {
   shilldao,
   shrimp,
   shroom,
+  six,
   sleeping,
   "smartdex-voting": smartdexVoting,
   smol,
