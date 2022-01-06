@@ -20,6 +20,7 @@
   "vote.cleanocean.io": "cleanocean.eth",
   "vote.viper.exchange": "viperswap.eth",
   "vote.thunderdao.com": "thunderdao.eth",
+  "vote.lava.financial": "mauna.eth",
   "vote.cryptocrooks.io": "cryptocrooks.eth",
   "vote.somee.social": "someeofficial.eth",
   "vote.rebelseals.com": "therebels.eth",
@@ -488,6 +489,7 @@
   "vote.feudalz.io": "feudalz.eth",
   "vote.liquidrium.com": "liquidrium.eth",
   "vote.underfitted.io": "underfitted.eth",
+  "dao.cropunks.art": "cropunks.eth",
   "snapshot.silo.finance": "silofinance.eth",
   "vote.aavegotchi.com": "aavegotchi.eth",
   "snapshot.keplerdao.finance": "keplerdao.eth",
@@ -498,5 +500,6 @@
   "signal.paladin.vote": "palvote.eth",
   "dao.cronosfrens.io": "cronosfrens.io",
   "vote.tresleches.finance": "3Leches.eth",
-  "gov.wagumi.xyz": "wagumi.eth"
+  "gov.wagumi.xyz": "wagumi.eth",
+  "gov.tethys.finance": "tethysswap.eth"
 }
