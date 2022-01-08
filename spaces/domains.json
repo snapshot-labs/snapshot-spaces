@@ -498,7 +498,8 @@
   "signal.paladin.vote": "palvote.eth",
   "dao.cronosfrens.io": "cronosfrens.io",
   "vote.tresleches.finance": "3leches.eth",
-  "gov.wagumi.xyz": "wagumi.eth",
-   "gov.fxcm.xyz": "symbolspace.eth"
+  "gov.fxcm.xyz": "symbolspace.eth",
+  "gov.wagumi.xyz": "wagumi.eth"
+  
     
 }
