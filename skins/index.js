@@ -131,6 +131,7 @@ import lido from "./lido.scss";
 import light from "./light.scss";
 import limitswap from "./limitswap.scss";
 import liquiddriver from "./liquiddriver.scss";
+import longterm from './longterm.scss';
 import love from "./love.scss";
 import macaronswap from "./macaronswap.scss";
 import magicbalancer from "./magicbalancer.scss";
@@ -396,6 +397,7 @@ export default {
   light,
   limitswap,
   liquiddriver,
+  longterm,
   love,
   macaronswap,
   magicbalancer,
