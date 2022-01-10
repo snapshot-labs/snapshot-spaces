@@ -503,6 +503,6 @@
   "gov.wagumi.xyz": "wagumi.eth",
   "vote.hectordao.com": "hectordao.eth",
   "gov.tethys.finance": "tethysswap.eth",
-  "gov.alluo.io": "alluo.eth",
-  "vote.pagedao.org": "pagedao.eth"  
+  "vote.pagedao.org": "pagedao.eth",
+  "gov.alluo.io": "alluo.eth" 
 }
