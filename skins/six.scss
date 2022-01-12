@@ -9,7 +9,7 @@
 
     #topnav .router-link-exact-active,
     #topnav .router-link-active {
-        font-size: 0;
+        font-size: 0 !important;
         line-height: 0;
         width: 0;
         height: 0;
