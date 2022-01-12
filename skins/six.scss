@@ -7,7 +7,8 @@
     --border-color: #373737;
     --header-bg: #131313;
 
-    #topnav .router-link-exact-active {
+    #topnav .router-link-exact-active,
+    #topnav .router-link-active {
         font-size: 0;
         line-height: 0;
         width: 0;
