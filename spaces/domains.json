@@ -1,5 +1,6 @@
 {
   "dao.kawatoken.io": "kawadao.eth",
+  "snapshot.gasdao.org": "gasdao.eth",
   "vote.bomb.money": "1coinnetwork.eth",
   "vote.chainscore.finance": "chainscore.eth",
   "vote.losercoin.dao": "losercoin-lowb.eth",
@@ -18,6 +19,7 @@
   "vote.euphoria.money": "euphoriadao.eth",
   "vote.nodegamexyz.com": "nodegame.eth",
   "vote.cleanocean.io": "cleanocean.eth",
+  "vote.nfbeez.xyz": "nfbeez.eth",
   "vote.viper.exchange": "viperswap.eth",
   "vote.thunderdao.com": "thunderdao.eth",
   "vote.lava.financial": "mauna.eth",
@@ -27,6 +29,7 @@
   "vote.4thtech.io": "4thtech.eth",
   "vote.gizadao.com": "gizadao.eth",
   "vote.cryptohobos.io": "cryptohobos.eth",
+  "vote.tempus.finance": "tempusgov.eth",
   "vote.uplift.io": "upliftio.eth",
   "tribe.toughturtlesnft.com": "toughturtles.eth",
   "v.glorylab.xyz": "glorylab.eth",
@@ -213,6 +216,7 @@
   "gov.dhedge.org": "gov.dhedge.eth",
   "vote.frontier.xyz": "frontier",
   "vote.oceanprotocol.com": "officialoceandao.eth",
+  "dao.bosonprotocol.io": "bosondao.eth",
   "vote.sav3.org": "sav3",
   "vote.bt.finance": "btfinance.eth",
   "vote.pawthereum.com": "pawthereum.eth",
@@ -501,9 +505,11 @@
   "dao.cronosfrens.io": "cronosfrens.io",
   "vote.tresleches.finance": "3Leches.eth",
   "gov.wagumi.xyz": "wagumi.eth",
+  "vote.huckleberry.finance": "huckleberrydex.eth",
   "vote.hectordao.com": "hectordao.eth",
   "gov.tethys.finance": "tethysswap.eth",
   "gov.fxcm.xyz": "symbolspace.eth",
   "dao.fxcm.xyz": "metauniversecapital.eth",
-  "gov.alluo.io": "alluo.eth"
+  "gov.alluo.io": "alluo.eth",
+  "vote.swivel.finance": "swiveldao.eth"
 }
