@@ -510,6 +510,6 @@
   "gov.tethys.finance": "tethysswap.eth",
   "gov.fxcm.xyz": "symbolspace.eth",
   "gov.alluo.io": "alluo.eth",
-  "vote.swivel.finance": "swiveldao.eth",
-  "vote.irenedao.com": "0xirenedao.eth"
+  "vote.irenedao.com": "0xirenedao.eth",
+  "vote.swivel.finance": "swiveldao.eth"
 }
