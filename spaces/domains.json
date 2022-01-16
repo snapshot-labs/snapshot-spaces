@@ -510,5 +510,6 @@
   "gov.tethys.finance": "tethysswap.eth",
   "gov.fxcm.xyz": "symbolspace.eth",
   "gov.alluo.io": "alluo.eth",
+  "vote.solace.fi": "solacefi.eth",
   "vote.swivel.finance": "swiveldao.eth"
 }
