@@ -226,6 +226,7 @@ import takeprofit from "./takeprofit.scss";
 import tballiance from "./tballiance.scss";
 import thelao from "./thelao.scss";
 import thirm from "./thirm.scss";
+import totemearth from "./totemearth.scss";
 import tracer from "./tracer.scss";
 import tripscommunity from "./tripscommunity.scss";
 import trustwallet from "./trustwallet.scss";
@@ -493,6 +494,7 @@ export default {
   tballiance,
   thelao,
   thirm,
+  totemearth,
   tracer,
   tripscommunity,
   trustwallet,
