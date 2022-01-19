@@ -207,7 +207,7 @@
   "cuni.comp.vote": "cuni",
   "tbavote.joyso.io": "tballiance",
   "vote.rottenswap.org": "rot",
-  "vote.rari.capital": "rari",
+  "vote.rari.capital": "fuse.eth",
   "vote.bloodyfi.org": "bloody",
   "vote.indexcoop.com": "index-coop.eth",
   "governance.dawn.org": "dawn",
@@ -509,7 +509,9 @@
   "vote.hectordao.com": "hectordao.eth",
   "gov.tethys.finance": "tethysswap.eth",
   "gov.fxcm.xyz": "symbolspace.eth",
-  "gov.alluo.io": "alluo.eth",
+  "dao.fxcm.xyz": "metauniversecapital.eth",
   "vote.solace.fi": "solacefi.eth",
+  "gov.alluo.io": "alluo.eth",
+  "vote.aetherdao.io": "aetherdao.eth",
   "vote.swivel.finance": "swiveldao.eth"
 }
