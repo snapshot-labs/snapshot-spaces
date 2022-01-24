@@ -518,10 +518,10 @@
   "gov.fxcm.xyz": "symbolspace.eth",
   "dao.fxcm.xyz": "metauniversecapital.eth",
   "gov.alluo.io": "alluo.eth",
+  "vote.mathblocks.io": "mathblocks.eth",
   "vote.kapital.gg": "thekapitaldao.eth",
   "vote.aetherdao.io": "aetherdao.eth",
   "vote.swivel.finance": "swiveldao.eth",
   "vote.stakeborgdao.com": "stakeborgdao.eth",
-	"vote.trapeza.finance": "trapezaprotocol.eth",
-  "vote.mathblocks.io": "mathblocks.eth"
+	"vote.trapeza.finance": "trapezaprotocol.eth"
 }
