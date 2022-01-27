@@ -1,6 +1,8 @@
 {
-  "vote.oceanclub.io": "primooceandao.eth",
+  "vote.holygrail.one": "holygrailone.eth",
   "dao.kawatoken.io": "kawadao.eth",
+  "vote.blockadvocates.org": "blockadvocates.eth",
+  "vote.oceanclub.io": "primooceandao.eth",
   "vote.prepo.io": "prepo.eth",
   "snapshot.gasdao.org": "gasdao.eth",
   "vote.bomb.money": "1coinnetwork.eth",
@@ -430,6 +432,7 @@
   "vote.to-the-moon.farm": "to-the-moon-farm.eth",
   "vote.moon-vault.com": "moon-vault.eth",
   "vote.polyvertex.finance": "polyvertex.eth",
+  "vote.baconcoin.com": "baconcoingov.eth",
   "vote.originprotocol.com": "origingov.eth",
   "vote.aishine.me": "hustwyz.eth",
   "gov.aol.gg": "apesonline.eth",
@@ -526,6 +529,7 @@
   "vote.aetherdao.io": "aetherdao.eth",
   "vote.swivel.finance": "swiveldao.eth",
   "vote.stakeborgdao.com": "stakeborgdao.eth",
-	"vote.trapeza.finance": "trapezaprotocol.eth",
+  "vote.trapeza.finance": "trapezaprotocol.eth",
+  "vote.bentfinance.com": "bentfinance.eth",
   "vote.gbox.space": "gboxspace.eth"
 }
