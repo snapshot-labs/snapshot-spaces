@@ -1,7 +1,9 @@
 {
   "vote.holygrail.one": "holygrailone.eth",
+  "congress.subx.finance": "subx.eth",
   "dao.kawatoken.io": "kawadao.eth",
   "vote.blockadvocates.org": "blockadvocates.eth",
+  "vote.oceanclub.io": "primooceandao.eth",
   "vote.prepo.io": "prepo.eth",
   "snapshot.gasdao.org": "gasdao.eth",
   "vote.bomb.money": "1coinnetwork.eth",
@@ -9,6 +11,7 @@
   "theartistdao.com": "theartistdao.eth",
   "vote.losercoin.dao": "losercoin-lowb.eth",
   "vote.theanimal.farm": "theanimalfarm.eth",
+  "vote.glmrapes.com": "glmrapes.eth",
   "vote.paraswap.network": "paraswap-dao.eth",
   "dao.reapercouncil.xyz": "reaperdao.eth",
   "vote.totem.earth": "totemearth.eth",
@@ -26,6 +29,7 @@
   "vote.nodegamexyz.com": "nodegame.eth",
   "vote.cleanocean.io": "cleanocean.eth",
   "vote.nfbeez.xyz": "nfbeez.eth",
+  "vote.commanderdefi.io": "commanderdefi.eth",
   "vote.hotcross.com": "hotcross.eth",
   "vote.viper.exchange": "viperswap.eth",
   "vote.thunderdao.com": "thunderdao.eth",
@@ -530,5 +534,6 @@
   "vote.stakeborgdao.com": "stakeborgdao.eth",
   "vote.trapeza.finance": "trapezaprotocol.eth",
   "vote.bentfinance.com": "bentfinance.eth",
+  "vote.empyrean.fi": "empyreandao.eth",
   "vote.gbox.space": "gboxspace.eth"
 }
