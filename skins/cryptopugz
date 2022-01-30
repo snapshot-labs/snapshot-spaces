@@ -1,4 +1,5 @@
 import aave from "./aave.scss";
+import cryptopugz from "./cryptopugz.scss";
 import aavegotchi from "./aavegotchi.scss";
 import achievmintry from "./achievmintry.scss";
 import acoconutbsc from "./acoconutbsc.scss";
@@ -265,6 +266,7 @@ import moonbeans from "./moonbeans.scss";
 
 export default {
   aave,
+  cryptopugz,
   aavegotchi,
   achievmintry,
   acoconutbsc,
