@@ -132,6 +132,7 @@ import lido from "./lido.scss";
 import light from "./light.scss";
 import limitswap from "./limitswap.scss";
 import liquiddriver from "./liquiddriver.scss";
+import longterm from './longterm.scss';
 import love from "./love.scss";
 import macaronswap from "./macaronswap.scss";
 import magicbalancer from "./magicbalancer.scss";
@@ -226,6 +227,7 @@ import takeprofit from "./takeprofit.scss";
 import tballiance from "./tballiance.scss";
 import thelao from "./thelao.scss";
 import thirm from "./thirm.scss";
+import totemearth from "./totemearth.scss";
 import tracer from "./tracer.scss";
 import tripscommunity from "./tripscommunity.scss";
 import trustwallet from "./trustwallet.scss";
@@ -398,6 +400,7 @@ export default {
   light,
   limitswap,
   liquiddriver,
+  longterm,
   love,
   macaronswap,
   magicbalancer,
@@ -493,6 +496,7 @@ export default {
   tballiance,
   thelao,
   thirm,
+  totemearth,
   tracer,
   tripscommunity,
   trustwallet,
