@@ -1,8 +1,9 @@
 {
   "voting.cryptopugz.io": "cryptopugz.eth",
   "vote.holygrail.one": "holygrailone.eth",
-  "congress.subx.finance": "subx.eth",
+  "vote.subx.finance": "subx.eth",
   "dao.kawatoken.io": "kawadao.eth",
+  "vote.defiplaza.net": "realdefiplaza.eth",
   "vote.blockadvocates.org": "blockadvocates.eth",
   "vote.oceanclub.io": "primooceandao.eth",
   "vote.prepo.io": "prepo.eth",
@@ -157,6 +158,7 @@
   "gov.archerdao.io": "archerdao.eth",
   "vote.carrotswap.org": "carrotswap.eth",
   "vote.southchain.digital": "vote.southchain.eth",
+  "vote.ripae.finance": "ripae.eth",  
   "vote.polyient.games": "polyient-games-governance",
   "vote.acryptos.com": "acryptos",
   "vote.balancer.fi": "balancer.eth",
@@ -550,6 +552,7 @@
   "vote.guttercatgang.com": "gcgdao.eth",
   "vote.pagedao.org": "pagedao.eth",
   "gov.fries.fund": "friesdao.eth",
-  "vote.undisclosedcollectors.com": "undisclosedcollectors.eth",
-  "vote.starsharks.com": "starsharks.com"
+  "vote.undisclosedcollectors.com": "undisclosedcollectors.eth",  
+  "vote.starsharks.com": "starsharks.com",
+  "vote.gorillasquad.finance": "gorillasquad.eth"
 }
