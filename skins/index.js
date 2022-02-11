@@ -93,6 +93,7 @@ import fortube from "./fortube.scss";
 import frankendefi from "./frankendefi.scss";
 import fries from "./fries.scss";
 import frontier from "./frontier.scss";
+import galleon from "./galleon.scss";
 import gamer from "./gamer.scss";
 import gem from "./gem.scss";
 import geneFinance from "./gene-finance.scss";
@@ -362,6 +363,7 @@ export default {
   frankendefi,
   fries,
   frontier,
+  galleon,
   gamer,
   gem,
   "gene-finance": geneFinance,
