@@ -54,6 +54,7 @@ import cuni from "./cuni.scss";
 import curve from "./curve.scss";
 import dalmatians from "./dalmatians.scss";
 import daniellMesquita from "./daniell-mesquita.scss";
+import darkmatter from "./darkmatter.scss";
 import deversifi from "./deversifi.scss";
 import daosquare from "./daosquare.scss";
 import dawn from "./dawn.scss";
@@ -92,6 +93,7 @@ import fortube from "./fortube.scss";
 import frankendefi from "./frankendefi.scss";
 import fries from "./fries.scss";
 import frontier from "./frontier.scss";
+import galleon from "./galleon.scss";
 import gamer from "./gamer.scss";
 import gem from "./gem.scss";
 import geneFinance from "./gene-finance.scss";
@@ -177,6 +179,7 @@ import polyientGamesGovernance from "./polyient-games-governance.scss";
 import pooltogether from "./pooltogether.scss";
 import potion from "./potion.scss";
 import premia from "./premia.scss";
+import prepo from "./prepo.scss";
 import primitive from "./primitive.scss";
 import pupperdao from "./pupperdao.scss";
 import qian from "./qian.scss";
@@ -322,6 +325,7 @@ export default {
   cyberkongz,
   dalmatians,
   "daniell-mesquita": daniellMesquita,
+  darkmatter,
   daosquare,
   dawn,
   debaseonomics,
@@ -360,6 +364,7 @@ export default {
   frankendefi,
   fries,
   frontier,
+  galleon,
   gamer,
   gem,
   "gene-finance": geneFinance,
@@ -446,6 +451,7 @@ export default {
   pooltogether,
   potion,
   premia,
+  prepo,
   primitive,
   pupperdao,
   qian,
