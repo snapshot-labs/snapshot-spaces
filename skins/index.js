@@ -291,6 +291,7 @@ export default {
   aragon,
   aragonchina,
   arckyf,
+  backd,
   badger,
   bake,
   balancer,
