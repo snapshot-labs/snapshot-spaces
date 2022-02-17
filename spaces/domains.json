@@ -164,7 +164,7 @@
   "gov.archerdao.io": "archerdao.eth",
   "vote.carrotswap.org": "carrotswap.eth",
   "vote.southchain.digital": "vote.southchain.eth",
-  "vote.ripae.finance": "ripae.eth",  
+  "vote.ripae.finance": "ripae.eth",
   "vote.polyient.games": "polyient-games-governance",
   "vote.acryptos.com": "acryptos",
   "vote.balancer.fi": "balancer.eth",
@@ -560,9 +560,10 @@
   "vote.guttercatgang.com": "gcgdao.eth",
   "vote.pagedao.org": "pagedao.eth",
   "gov.fries.fund": "friesdao.eth",
-  "vote.undisclosedcollectors.com": "undisclosedcollectors.eth",  
+  "vote.undisclosedcollectors.com": "undisclosedcollectors.eth",
   "vote.starsharks.com": "starsharks.com",
   "vote.gorillasquad.finance": "gorillasquad.eth",
   "vote.infinitelaunch.io": "infinitelaunch.eth",
+  "vote.brokoli.network": "brokolinetwork.eth",
   "dao.astraguild.io": "astraguildventures.eth"
 }
