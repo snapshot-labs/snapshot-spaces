@@ -1,5 +1,6 @@
 {
   "voting.cryptopugz.io": "cryptopugz.eth",
+  "vote.diamondheist.game": "diamondheist.eth",
   "vote.astronos.io": "astronos.eth",
   "vote.holygrail.one": "holygrailone.eth",
   "gov.yedaoist.dev": "yedaoist.eth",
@@ -45,6 +46,7 @@
   "vote.hotcross.com": "hotcross.eth",
   "vote.viper.exchange": "viperswap.eth",
   "vote.thunderdao.com": "thunderdao.eth",
+  "vote.backd.fund": "backd.eth",
   "vote.lava.financial": "mauna.eth",
   "vote.cryptocrooks.io": "cryptocrooks.eth",
   "vote.somee.social": "someeofficial.eth",
@@ -570,4 +572,5 @@
   "vote.brokoli.network": "brokolinetwork.eth",
   "dao.astraguild.io": "astraguildventures.eth",
   "vote.wanakafarm.com": "wanakafarm-dao.eth"
+  "meow.ethercats.io": "ethercats.eth"
 }
