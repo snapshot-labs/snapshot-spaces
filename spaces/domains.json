@@ -1,5 +1,6 @@
 {
   "vote.cow.fi": "cow.eth",
+  "vote.lmaodao.io": "lmao.jacksón.eth",
   "voting.cryptopugz.io": "cryptopugz.eth",
   "vote.diamondheist.game": "diamondheist.eth",
   "vote.astronos.io": "astronos.eth",
@@ -573,5 +574,6 @@
   "vote.brokoli.network": "brokolinetwork.eth",
   "meow.ethercats.io": "ethercats.eth",
   "vote.wanakafarm.com": "wanakafarm-dao.eth",
+  "vote.defikingdoms.com": "dfkvote.eth",
   "dao.astraguild.io": "astraguildventures.eth"
 }
