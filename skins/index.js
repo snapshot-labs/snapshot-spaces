@@ -11,6 +11,7 @@ import akropolisDelphi from "./akropolis-delphi.scss";
 import alchemistdefi from "./alchemistdefi.scss";
 import alpaca from "./alpaca.scss";
 import alpha from "./alpha.scss";
+import choccyswap from "./choccyswap.scss";
 import altrucoin from "./altrucoin.scss";
 import amp from "./amp.scss";
 import ampleforth from "./ampleforth.scss";
