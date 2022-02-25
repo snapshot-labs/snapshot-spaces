@@ -316,6 +316,7 @@ export default {
   chadsvc,
   "charged-particles": chargedParticles,
   chartex,
+  choccyswap,
   clucoin,
   cofix,
   coin,
