@@ -22,6 +22,7 @@ import apy from "./apy.scss";
 import aragon from "./aragon.scss";
 import aragonchina from "./aragonchina.scss";
 import arckyf from "./arckyf.scss";
+import backd from "./backd.scss";
 import badger from "./badger.scss";
 import bake from "./bake.scss";
 import balancer from "./balancer.scss";
@@ -292,6 +293,7 @@ export default {
   aragon,
   aragonchina,
   arckyf,
+  backd,
   badger,
   bake,
   balancer,
