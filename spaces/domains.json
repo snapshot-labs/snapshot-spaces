@@ -103,5 +103,7 @@
   "dao.scifi.finance": "spicedao.eth",
   "dao.prosper.so": "prosperso.eth",
   "governance.dextf.com": "dextfprotocol.eth",
+  "governance.domani.finance": "dextfprotocol.eth",
+  "governance.dao.domani.finance": "domanidao.eth",
   "gov.clap.finance": "clapfinance.eth"
 }
