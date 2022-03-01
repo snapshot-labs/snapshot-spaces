@@ -1,3 +1,5 @@
-**If you want to create a space follow this guide**
+#### Hi! What is your PR about?
 
-https://docs.snapshot.page/guides/create-a-space
+- [ ] Add or edit a skin
+- [ ] Add a custom domain for your space
+- [ ] Add an alias to migrate your space
