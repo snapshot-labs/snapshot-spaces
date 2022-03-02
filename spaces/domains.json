@@ -583,5 +583,6 @@
   "dao.astraguild.io": "astraguildventures.eth",
   "vote.cyberfrogz.io": "cyberz.eth",
   "governance.domani.finance": "dextfprotocol.eth",
-  "governance.dao.domani.finance": "domaniprotocol.eth"
+  "governance.dao.domani.finance": "domaniprotocol.eth",
+  "vote.forwardprotocol.io": "forwardprotocol.eth"
 }
