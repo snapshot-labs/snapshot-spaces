@@ -2,6 +2,7 @@
   "vote.cow.fi": "cow.eth",
   "vote.lmaodao.io": "lmao.jacksón.eth",
   "vote.squiggly.school": "squigglyverse.eth",
+  "vote.standard.tech": "stndgov.eth",
   "voting.cryptopugz.io": "cryptopugz.eth",
   "vote.diamondheist.game": "diamondheist.eth",
   "vote.astronos.io": "astronos.eth",
@@ -307,6 +308,8 @@
   "dao.scifi.finance": "spicedao.eth",
   "dao.prosper.so": "prosperso.eth",
   "governance.dextf.com": "dextfprotocol.eth",
+  "governance.domani.finance": "dextfprotocol.eth",
+  "governance.dao.domani.finance": "domanidao.eth",
   "gov.clap.finance": "clapfinance.eth",
   "vote.pandayield.com": "pandayield.eth",
   "gov.aventus.io": "aventus.eth",
@@ -585,7 +588,5 @@
   "vote.defikingdoms.com": "dfkvote.eth",
   "dao.astraguild.io": "astraguildventures.eth",
   "vote.cyberfrogz.io": "cyberz.eth",
-  "governance.domani.finance": "dextfprotocol.eth",
-  "governance.dao.domani.finance": "domaniprotocol.eth",
   "gov.hpb.io": "xinlian.eth"
 }
