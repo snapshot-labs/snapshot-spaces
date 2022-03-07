@@ -1,10 +1,12 @@
 {
   "vote.cow.fi": "cow.eth",
   "vote.lmaodao.io": "lmao.jacksón.eth",
+  "vote.standard.tech": "stndgov.eth",
   "voting.cryptopugz.io": "cryptopugz.eth",
   "vote.diamondheist.game": "diamondheist.eth",
   "vote.astronos.io": "astronos.eth",
   "vote.holygrail.one": "holygrailone.eth",
+  "dao.fraktal.io": "fraktal.eth",
   "gov.yedaoist.dev": "yedaoist.eth",
   "vote.subx.finance": "subx.eth",
   "vote.metarea.org": "metarea.eth",
@@ -305,6 +307,8 @@
   "dao.scifi.finance": "spicedao.eth",
   "dao.prosper.so": "prosperso.eth",
   "governance.dextf.com": "dextfprotocol.eth",
+  "governance.domani.finance": "dextfprotocol.eth",
+  "governance.dao.domani.finance": "domanidao.eth",
   "gov.clap.finance": "clapfinance.eth",
   "vote.pandayield.com": "pandayield.eth",
   "gov.aventus.io": "aventus.eth",
@@ -573,6 +577,7 @@
   "vote.pagedao.org": "pagedao.eth",
   "gov.fries.fund": "friesdao.eth",
   "vote.undisclosedcollectors.com": "undisclosedcollectors.eth",
+  "vote.kalao.io": "getkalao.eth",
   "vote.starsharks.com": "starsharks.com",
   "vote.gorillasquad.finance": "gorillasquad.eth",
   "vote.infinitelaunch.io": "infinitelaunch.eth",
@@ -585,4 +590,5 @@
   "governance.domani.finance": "dextfprotocol.eth",
   "governance.dao.domani.finance": "domaniprotocol.eth",
   "vote.forwardprotocol.io": "forwardprotocol.eth"
+  "gov.hpb.io": "xinlian.eth"
 }
