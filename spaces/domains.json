@@ -571,6 +571,7 @@
   "vote.trapeza.finance": "trapezaprotocol.eth",
   "vote.bentfinance.com": "bentfinance.eth",
   "vote.empyrean.fi": "empyreandao.eth",
+  "vote.kratosdao.finance": "kratosdaofi.eth",
   "vote.webb.game": "worldwidewebb.eth",
   "vote.utopia42.club": "utopia42.eth",
   "vote.gbox.space": "gboxspace.eth",
@@ -589,6 +590,5 @@
   "dao.astraguild.io": "astraguildventures.eth",
   "vote.cyberfrogz.io": "cyberz.eth",
   "gov.hpb.io": "xinlian.eth",
-  "vote.netswap.io": "venett.eth",
-  "vote.kratosdao.finance": "kratosdaofi.eth"
+  "vote.netswap.io": "venett.eth"
 }
