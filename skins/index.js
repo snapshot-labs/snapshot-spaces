@@ -268,6 +268,7 @@ import zlot from "./zlot.scss";
 import zoocoin from "./zoocoin.scss";
 import cyberkongz from "./cyberkongz.scss";
 import moonbeans from "./moonbeans.scss";
+import forward from "./forward.scss";
 
 export default {
   aave,
@@ -363,6 +364,7 @@ export default {
   fei,
   flamingo,
   flush,
+  forward,
   fnx,
   fortube,
   frankendefi,
