@@ -79,6 +79,7 @@ import dracula from "./dracula.scss";
 import dsgn from "./dsgn.scss";
 import easybake from "./easybake.scss";
 import egg from "./egg.scss";
+import elementfinance from "./elementfinance.scss";
 import emptysetgold from "./emptysetgold.scss";
 import esprezzo from "./esprezzo.scss";
 import etgfinance from "./etgfinance.scss";
@@ -352,6 +353,7 @@ export default {
   dsgn,
   easybake,
   egg,
+  "element-finance": elementfinance,
   emptysetgold,
   esprezzo,
   etgfinance,
