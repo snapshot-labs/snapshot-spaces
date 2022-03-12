@@ -1,6 +1,7 @@
 {
   "vote.cow.fi": "cow.eth",
   "vote.lmaodao.io": "lmao.jacksón.eth",
+  "vote.squiggly.school": "squigglyverse.eth",
   "vote.standard.tech": "stndgov.eth",
   "voting.cryptopugz.io": "cryptopugz.eth",
   "vote.diamondheist.game": "diamondheist.eth",
@@ -560,6 +561,7 @@
   "gov.tethys.finance": "tethysswap.eth",
   "vote.darkmatterdefi.com": "dmdarkmatter.eth",
   "gov.fxcm.xyz": "symbolspace.eth",
+  "vote.kratosdao.finance": "kratosdaofi.eth",
   "dao.fxcm.xyz": "metauniversecapital.eth",
   "vote.alluo.com": "alluo.eth",
   "vote.mathblocks.io": "mathblocks.eth",
@@ -590,5 +592,7 @@
   "governance.domani.finance": "dextfprotocol.eth",
   "governance.dao.domani.finance": "domaniprotocol.eth",
   "vote.forwardprotocol.io": "forwardprotocol.eth",
-  "gov.hpb.io": "xinlian.eth"
+  "gov.hpb.io": "xinlian.eth",
+  "vote.fantomstarter.io": "fantomstarter.eth",
+  "vote.netswap.io": "venett.eth"
 }
