@@ -353,7 +353,7 @@ export default {
   dsgn,
   easybake,
   egg,
-  "element-finance": elementfinance,
+  elementfinance,
   emptysetgold,
   esprezzo,
   etgfinance,
