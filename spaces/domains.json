@@ -1,4 +1,6 @@
 {
+  "vote.hifi.finance": "hifi-finance.eth",
+  "vote.etherisc.com": "dao.etherisc.eth",
   "vote.dixel.club": "dixelclub.eth",
   "polling.element.fi": "element-finance.eth",
   "vote.cow.fi": "cow.eth",
@@ -609,6 +611,7 @@
   "vote.hodl.finance": "hft.eth",
   "vote.orion.security": "orionsecurity.eth",
   "governance.xdc.network": "xinfinxdcnetwork.eth",
-  "vote.komorebinosekai.com": "komorebi-no-sekai.eth"
+  "vote.komorebinosekai.com": "komorebi-no-sekai.eth",
+  "dao.getagump.org": "getagump.eth",
   "vote.rug.farm": "saynotorugs.eth"
-}
+  }
