@@ -597,6 +597,7 @@
   "vote.infinitelaunch.io": "infinitelaunch.eth",
   "vote.brokoli.network": "brokolinetwork.eth",
   "meow.ethercats.io": "ethercats.eth",
+  "vote.banklessbr.com": "banklessbrdao.eth",
   "vote.wanakafarm.com": "wanakafarm-dao.eth",
   "vote.defikingdoms.com": "dfkvote.eth",
   "dao.astraguild.io": "astraguildventures.eth",
@@ -612,6 +613,5 @@
   "vote.orion.security": "orionsecurity.eth",
   "governance.xdc.network": "xinfinxdcnetwork.eth",
   "vote.komorebinosekai.com": "komorebi-no-sekai.eth",
-  "dao.getagump.org": "getagump.eth",
-  "vote.banklessbr.com": "banklessbrdao.eth"
+  "dao.getagump.org": "getagump.eth"
 }
