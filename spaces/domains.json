@@ -16,6 +16,7 @@
   "vote.holygrail.one": "holygrailone.eth",
   "dao.fraktal.io": "fraktal.eth",
   "gov.yedaoist.dev": "yedaoist.eth",
+  "vote.fuzz.fi": "fuzzfinance.eth",
   "vote.subx.finance": "subx.eth",
   "vote.metarea.org": "metarea.eth",
   "dao.kawakami.io": "kawadao.eth",
@@ -24,6 +25,8 @@
   "vote.choccyswap.com": "choccyswap.eth",
   "polls.chain.com": "chaingov.eth",
   "vote.oceanclub.io": "primooceandao.eth",
+  "eventplan.creativeplatform.io": "events.thecreative.eth",
+  "vote.creativeplatform.io": "vote.thecreative.eth",
   "vote.prepo.io": "prepo.eth",
   "snapshot.gasdao.org": "gasdao.eth",
   "vote.thor.financial": "thorfinancial.eth",
@@ -597,6 +600,7 @@
   "vote.infinitelaunch.io": "infinitelaunch.eth",
   "vote.brokoli.network": "brokolinetwork.eth",
   "meow.ethercats.io": "ethercats.eth",
+  "vote.banklessbr.com": "banklessbrdao.eth",
   "vote.wanakafarm.com": "wanakafarm-dao.eth",
   "vote.defikingdoms.com": "dfkvote.eth",
   "dao.astraguild.io": "astraguildventures.eth",
@@ -611,7 +615,9 @@
   "vote.hodl.finance": "hft.eth",
   "vote.orion.security": "orionsecurity.eth",
   "governance.xdc.network": "xinfinxdcnetwork.eth",
+  "vote.eggsforukraine.com": "eggsforukraine.eth",
   "vote.komorebinosekai.com": "komorebi-no-sekai.eth",
   "dao.getagump.org": "getagump.eth",
+  "vote.rug.farm": "saynotorugs.eth",
   "dao.boomgala.io": "boomgaladao.eth"
-}
+  }
