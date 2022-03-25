@@ -616,9 +616,10 @@
   "governance.xdc.network": "xinfinxdcnetwork.eth",
   "vote.eggsforukraine.com": "eggsforukraine.eth",
   "vote.komorebinosekai.com": "komorebi-no-sekai.eth",
+  "dao.safu.net": "safuyield.eth",
   "dao.getagump.org": "getagump.eth",
   "dao.boomgala.io": "boomgaladao.eth",
   "vote.coniun.io": "coniun.eth",
   "vote.rikkei.finance": "rikkei-finance.eth",
   "vote.rug.farm": "saynotorugs.eth"
-  }
+}
