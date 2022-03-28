@@ -251,6 +251,7 @@ import votewarp from "./votewarp.scss";
 import wassies from "./wassies.scss";
 import web3Api from "./web3-api.scss";
 import wolfdefi from "./wolfdefi.scss";
+import xpunks from "./xpunks.scss";
 import y3d from "./y3d.scss";
 import yakuza from "./yakuza.scss";
 import yam from "./yam.scss";
@@ -528,6 +529,7 @@ export default {
   wassies,
   "web3-api": web3Api,
   wolfdefi,
+  xpunks,
   y3d,
   yakuza,
   yam,
