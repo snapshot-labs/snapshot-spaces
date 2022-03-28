@@ -1,4 +1,5 @@
 import aave from "./aave.scss";
+import cryptopugz from "./cryptopugz.scss";
 import aavegotchi from "./aavegotchi.scss";
 import achievmintry from "./achievmintry.scss";
 import acoconutbsc from "./acoconutbsc.scss";
@@ -10,6 +11,7 @@ import akropolisDelphi from "./akropolis-delphi.scss";
 import alchemistdefi from "./alchemistdefi.scss";
 import alpaca from "./alpaca.scss";
 import alpha from "./alpha.scss";
+import choccyswap from "./choccyswap.scss";
 import altrucoin from "./altrucoin.scss";
 import amp from "./amp.scss";
 import ampleforth from "./ampleforth.scss";
@@ -20,6 +22,7 @@ import apy from "./apy.scss";
 import aragon from "./aragon.scss";
 import aragonchina from "./aragonchina.scss";
 import arckyf from "./arckyf.scss";
+import backd from "./backd.scss";
 import badger from "./badger.scss";
 import bake from "./bake.scss";
 import balancer from "./balancer.scss";
@@ -53,6 +56,7 @@ import cuni from "./cuni.scss";
 import curve from "./curve.scss";
 import dalmatians from "./dalmatians.scss";
 import daniellMesquita from "./daniell-mesquita.scss";
+import darkmatter from "./darkmatter.scss";
 import deversifi from "./deversifi.scss";
 import daosquare from "./daosquare.scss";
 import dawn from "./dawn.scss";
@@ -75,6 +79,7 @@ import dracula from "./dracula.scss";
 import dsgn from "./dsgn.scss";
 import easybake from "./easybake.scss";
 import egg from "./egg.scss";
+import elementfinance from "./elementfinance.scss";
 import emptysetgold from "./emptysetgold.scss";
 import esprezzo from "./esprezzo.scss";
 import etgfinance from "./etgfinance.scss";
@@ -91,6 +96,7 @@ import fortube from "./fortube.scss";
 import frankendefi from "./frankendefi.scss";
 import fries from "./fries.scss";
 import frontier from "./frontier.scss";
+import galleon from "./galleon.scss";
 import gamer from "./gamer.scss";
 import gem from "./gem.scss";
 import geneFinance from "./gene-finance.scss";
@@ -176,6 +182,7 @@ import polyientGamesGovernance from "./polyient-games-governance.scss";
 import pooltogether from "./pooltogether.scss";
 import potion from "./potion.scss";
 import premia from "./premia.scss";
+import prepo from "./prepo.scss";
 import primitive from "./primitive.scss";
 import pupperdao from "./pupperdao.scss";
 import qian from "./qian.scss";
@@ -262,9 +269,11 @@ import zlot from "./zlot.scss";
 import zoocoin from "./zoocoin.scss";
 import cyberkongz from "./cyberkongz.scss";
 import moonbeans from "./moonbeans.scss";
+import forward from "./forward.scss";
 
 export default {
   aave,
+  cryptopugz,
   aavegotchi,
   achievmintry,
   acoconutbsc,
@@ -286,6 +295,7 @@ export default {
   aragon,
   aragonchina,
   arckyf,
+  backd,
   badger,
   bake,
   balancer,
@@ -308,6 +318,7 @@ export default {
   chadsvc,
   "charged-particles": chargedParticles,
   chartex,
+  choccyswap,
   clucoin,
   cofix,
   coin,
@@ -320,6 +331,7 @@ export default {
   cyberkongz,
   dalmatians,
   "daniell-mesquita": daniellMesquita,
+  darkmatter,
   daosquare,
   dawn,
   debaseonomics,
@@ -342,6 +354,7 @@ export default {
   dsgn,
   easybake,
   egg,
+  elementfinance,
   emptysetgold,
   esprezzo,
   etgfinance,
@@ -353,11 +366,13 @@ export default {
   fei,
   flamingo,
   flush,
+  forward,
   fnx,
   fortube,
   frankendefi,
   fries,
   frontier,
+  galleon,
   gamer,
   gem,
   "gene-finance": geneFinance,
@@ -444,6 +459,7 @@ export default {
   pooltogether,
   potion,
   premia,
+  prepo,
   primitive,
   pupperdao,
   qian,
