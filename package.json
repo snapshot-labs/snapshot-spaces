@@ -1,9 +1,10 @@
 {
-  "name": "@bonustrack/snapshot-spaces",
+  "name": "@snapshot-labs/snapshot-spaces",
   "version": "0.1.0",
-  "repository": "bonustrack/snapshot-spaces",
+  "repository": "snapshot-labs/snapshot-spaces",
   "license": "MIT",
   "files": [
-    "spaces"
+    "spaces",
+    "skins"
   ]
 }
