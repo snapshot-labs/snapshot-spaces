@@ -11,6 +11,7 @@ import akropolisDelphi from "./akropolis-delphi.scss";
 import alchemistdefi from "./alchemistdefi.scss";
 import alpaca from "./alpaca.scss";
 import alpha from "./alpha.scss";
+import choccyswap from "./choccyswap.scss";
 import altrucoin from "./altrucoin.scss";
 import amp from "./amp.scss";
 import ampleforth from "./ampleforth.scss";
@@ -21,6 +22,7 @@ import apy from "./apy.scss";
 import aragon from "./aragon.scss";
 import aragonchina from "./aragonchina.scss";
 import arckyf from "./arckyf.scss";
+import backd from "./backd.scss";
 import badger from "./badger.scss";
 import bake from "./bake.scss";
 import balancer from "./balancer.scss";
@@ -77,6 +79,7 @@ import dracula from "./dracula.scss";
 import dsgn from "./dsgn.scss";
 import easybake from "./easybake.scss";
 import egg from "./egg.scss";
+import elementfinance from "./elementfinance.scss";
 import emptysetgold from "./emptysetgold.scss";
 import esprezzo from "./esprezzo.scss";
 import etgfinance from "./etgfinance.scss";
@@ -248,6 +251,7 @@ import votewarp from "./votewarp.scss";
 import wassies from "./wassies.scss";
 import web3Api from "./web3-api.scss";
 import wolfdefi from "./wolfdefi.scss";
+import xpunks from "./xpunks.scss";
 import y3d from "./y3d.scss";
 import yakuza from "./yakuza.scss";
 import yam from "./yam.scss";
@@ -266,6 +270,7 @@ import zlot from "./zlot.scss";
 import zoocoin from "./zoocoin.scss";
 import cyberkongz from "./cyberkongz.scss";
 import moonbeans from "./moonbeans.scss";
+import forward from "./forward.scss";
 
 export default {
   aave,
@@ -291,6 +296,7 @@ export default {
   aragon,
   aragonchina,
   arckyf,
+  backd,
   badger,
   bake,
   balancer,
@@ -313,6 +319,7 @@ export default {
   chadsvc,
   "charged-particles": chargedParticles,
   chartex,
+  choccyswap,
   clucoin,
   cofix,
   coin,
@@ -348,6 +355,7 @@ export default {
   dsgn,
   easybake,
   egg,
+  elementfinance,
   emptysetgold,
   esprezzo,
   etgfinance,
@@ -359,6 +367,7 @@ export default {
   fei,
   flamingo,
   flush,
+  forward,
   fnx,
   fortube,
   frankendefi,
@@ -520,6 +529,7 @@ export default {
   wassies,
   "web3-api": web3Api,
   wolfdefi,
+  xpunks,
   y3d,
   yakuza,
   yam,
