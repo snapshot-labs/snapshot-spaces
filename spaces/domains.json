@@ -1,4 +1,6 @@
 {
+  "bonustrack.io": "fabien.eth",
+  "vote.ravethefuture.com": "ravethefuture.eth",
   "governance.cyberestate.io": "cyberrealestate.eth",
   "vote.hifi.finance": "hifi-finance.eth",
   "vote.particledao.xyz": "particledao.eth",
@@ -583,6 +585,7 @@
   "dao.cronosfrens.io": "cronosfrens.eth",
   "vote.tresleches.finance": "3Leches.eth",
   "gov.wagumi.xyz": "wagumi.eth",
+  "vote.rune.game": "runemetaverse.eth",
   "vote.huckleberry.finance": "huckleberrydex.eth",
   "vote.hectordao.com": "hectordao.eth",
   "gov.tethys.finance": "tethysswap.eth",
@@ -643,6 +646,7 @@
   "vote.rikkei.finance": "rikkei-finance.eth",
   "vote.rug.farm": "saynotorugs.eth",
   "vote.mimo.capital": "mimo.eth",
-  "vote.dforce.network": "dforcenet.eth"
+  "vote.dforce.network": "dforcenet.eth",
+  "irldao.co": "irldao.eth"
 }
 
