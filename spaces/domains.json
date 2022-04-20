@@ -645,6 +645,7 @@
   "dao.boomgala.io": "boomgaladao.eth",
   "dao.dakshow.com.vn": "dakshow.eth",
   "vote.coniun.io": "coniun.eth",
+  "vote.tttreasures.club": "tttreasures.eth",
   "vote.banksydao.finance": "banksy.farm",
   "vote.rikkei.finance": "rikkei-finance.eth",
   "vote.rug.farm": "saynotorugs.eth",
@@ -656,6 +657,6 @@
   "vote.gamium.world": "gamiumworld.eth",
   "nftfightclub.co": "the75.eth",
   "dao.ftm.guru": "eliteness.eth",
-  "vote.plasma.finance": "0xPlasma.eth"
+  "vote.plasma.finance": "0xplasma.eth"
 }
 
