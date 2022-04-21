@@ -24,6 +24,7 @@ import aragonchina from "./aragonchina.scss";
 import arckyf from "./arckyf.scss";
 import backd from "./backd.scss";
 import badger from "./badger.scss";
+import bancor from "./bancor.scss";
 import bake from "./bake.scss";
 import balancer from "./balancer.scss";
 import ballena from "./ballena.scss";
