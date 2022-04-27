@@ -1,4 +1,5 @@
 {
+  "cryptopugz": "cryptopugz.eth",
   "aave": "aave.eth",
 	"aavegotchi": "aavegotchi.eth",
 	"airswap": "vote.airswap.eth",
@@ -7,6 +8,7 @@
 	"sushi": "sushigov.eth",
   "sushipowah": "sushigov.eth",
 	"yam": "yam.eth",
+  "yamv2": "yam.eth",
 	"velotoken": "velotoken.eth",
 	"cream": "cream-finance.eth",
 	"bzx": "bzx.eth",
@@ -36,5 +38,18 @@
 	"digital-reserve-currency": "drctoken.eth",
 	"web3-api": "polywrap.eth",
   "mstable": "mstablegovernance.eth",
-  "adex": "adex.eth"
+  "adex": "adex.eth",
+  "balancer": "balancer.eth",
+  "peripheralist.eth": "tiledao.eth",
+  "seen": "seenhaus.eth",
+  "kleros": "kleros.eth",
+  "piedao": "piedao.eth",
+  "dracula": "draculasucks.eth",
+  "pillar": "pillarwallet.eth",
+  "yaxis": "yaxis.eth",
+  "spaceswap": "spaceswap.eth",
+  "descience.eth": "people-dao.eth",
+  "dforce": "dforcenet.eth",
+  "rari": "fuse.eth",
+  "nft20.eth": "musedao.eth"
 }
