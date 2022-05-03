@@ -303,6 +303,7 @@ export default {
   balancer,
   ballena,
   bamboodefi,
+  bancor,
   barnbridge,
   based,
   basedloans,
