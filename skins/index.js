@@ -99,6 +99,7 @@ import fries from "./fries.scss";
 import frontier from "./frontier.scss";
 import galleon from "./galleon.scss";
 import gamer from "./gamer.scss";
+import gatenet from "./gatenet.scss"
 import gem from "./gem.scss";
 import geneFinance from "./gene-finance.scss";
 import gitcoin from "./gitcoin.scss";
@@ -377,6 +378,7 @@ export default {
   frontier,
   galleon,
   gamer,
+  gatenet,
   gem,
   "gene-finance": geneFinance,
   gitcoin,
