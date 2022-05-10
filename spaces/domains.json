@@ -3,6 +3,7 @@
   "vote.goblins.cash": "goblinscash.eth",
   "vote.karameladao.com": "karameladao.eth",
   "vote.ravethefuture.com": "ravethefuture.eth",
+  "vote.alifelivedfully.com": "vote.alifelivedfully.eth",
   "dao.sfm.community": "sfmdao.eth",
   "governance.cyberestate.io": "cyberrealestate.eth",
   "gov.meritvault.xyz": "meritvault.eth",
@@ -434,7 +435,7 @@
   "vote.flydao.app": "flydao.eth",
   "vote.fantoms.art": "randomz.eth",
   "vote.wraithswap.finance": "wraithswap.eth",
-  "vote.spookyswap.finance": "spookyswap.eth",
+  "vote.spooky.fi": "spookyswap.eth",
   "vote.glidefinance.io": "glidefinance.eth",
   "signal.ampleforth.org": "ampleforthorg.eth",
   "vote.altrucoin.io": "altrucoin.eth",
@@ -484,7 +485,11 @@
   "vote.cheesecakeswap.com": "cheesecakeswap.eth",
   "vote.cyborg.art": "cyborgdao.eth",
   "signal.curve.fi": "curve.eth",
+<<<<<<< HEAD
   "vote.heds.app": "camb0t.eth",
+=======
+  "vote.heds.app": "hedsdao.eth",
+>>>>>>> a455d10d5ad2bf7b6608c15ce48d11c916f27930
   "vote.cyphertrust.finance": "cyphertrust.eth",
   "vote.volatility.com": "vol.eth",
   "vote.carbonswap.finance": "carbonswap.eth",
