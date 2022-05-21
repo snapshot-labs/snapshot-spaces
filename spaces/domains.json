@@ -1,5 +1,5 @@
 {
-  "vote.diapo.xyz": "diapo.eth",
+  "vote.hov.co": "hovx.eth",
   "vote.bankofx.xyz": "bankofx.eth",
   "bonustrack.io": "fabien.eth",
   "vote.goblins.cash": "goblinscash.eth",
@@ -40,6 +40,7 @@
   "vote.holygrail.one": "holygrailone.eth",
   "vote.betterdao.io": "betterdao.eth",
   "dao.fraktal.io": "fraktal.eth",
+  "vote.doom.fail": "artemis.eth",
   "gov.yedaoist.dev": "yedaoist.eth",
   "vote.fuzz.fi": "fuzzfinance.eth",
   "vote.subx.finance": "subx.eth",
@@ -685,5 +686,6 @@
   "vote.legalhac.kr": "legalhackr.eth",
   "vote.dedogmadao.com": "dedogmadao.eth",
   "dao.liquidex.pro": "liquidex.eth",
+  "vote.diapo.xyz": "diapo.eth",
   "vote.rei.network": "rei-network.eth"
 }
