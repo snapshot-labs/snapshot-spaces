@@ -1,4 +1,6 @@
 {
+  "vote.hov.co": "hovx.eth",
+  "vote.titandao.app": "surf92.eth",
   "vote.bankofx.xyz": "bankofx.eth",
   "bonustrack.io": "fabien.eth",
   "vote.goblins.cash": "goblinscash.eth",
@@ -23,6 +25,7 @@
   "vote.minipets.eth": "minipets.eth",
   "vote.trava.finance": "trava.eth",
   "vote.tradao.finance": "tradao.eth",
+  "dao.playermon.com": "pymdao.eth",
   "vote.botchatify.com": "paul.mrsigner.eth",
   "vote.athame.finance": "athamefinance.eth",
   "vote.squiggly.school": "squigglyverse.eth",
@@ -34,6 +37,7 @@
   "vote.breederdao.io": "breederdao-admin.eth",
   "vote.diamondheist.game": "diamondheist.eth",
   "vote.gatenet.io": "vote.gatenet.eth",
+  "vote.metamarketingdao.com": "metamarketingdao.eth",
   "vote.streetbased.co": "streetbased.eth",
   "vote.astronos.io": "astronos.eth",
   "vote.holygrail.one": "holygrailone.eth",
@@ -505,6 +509,7 @@
   "vote.pitbull.community": "pitbulldao.eth",
   "governance.unique.fans": "uniquefans.eth",
   "gov.omg.dev": "dao.omg.eth",
+  "vote.dexkit.com": "dexkit.eth",
   "gov.inumaki.org": "inumaki.eth",
   "gov2.inumaki.org": "dawg.inumaki.eth",
   "governance.uniqueone.photo": "uniquephoto.eth",
@@ -685,5 +690,6 @@
   "vote.legalhac.kr": "legalhackr.eth",
   "vote.dedogmadao.com": "dedogmadao.eth",
   "dao.liquidex.pro": "liquidex.eth",
+  "vote.diapo.xyz": "diapo.eth",
   "vote.rei.network": "rei-network.eth"
 }
