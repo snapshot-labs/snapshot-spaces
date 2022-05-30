@@ -674,6 +674,7 @@
   "vote.banksydao.finance": "banksy.farm",
   "vote.rikkei.finance": "rikkei-finance.eth",
   "vote.rug.farm": "saynotorugs.eth",
+  "vote.svote.xyz": "testsnap.eth",
   "vote.mimo.capital": "mimo.eth",
   "vote.dforce.network": "dforcenet.eth",
   "vote.spysignals.io": "spysignals.eth",
@@ -698,5 +699,4 @@
   "vote.blockchaincuties.com": "cutiesofficial.eth",
   "vote.nuddybits.com": "nuddybits.eth",
   "vote.dragon.xyz": "dragonmeta.eth",
-  "vote.svote.xyz": "testsnap.eth"
 }
