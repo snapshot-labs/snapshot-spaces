@@ -99,7 +99,7 @@ import fries from "./fries.scss";
 import frontier from "./frontier.scss";
 import galleon from "./galleon.scss";
 import gamer from "./gamer.scss";
-import gatenet from "./gatenet.scss"
+import gatenet from "./gatenet.scss";
 import gem from "./gem.scss";
 import geneFinance from "./gene-finance.scss";
 import gitcoin from "./gitcoin.scss";
@@ -139,7 +139,7 @@ import lido from "./lido.scss";
 import light from "./light.scss";
 import limitswap from "./limitswap.scss";
 import liquiddriver from "./liquiddriver.scss";
-import longterm from './longterm.scss';
+import longterm from "./longterm.scss";
 import love from "./love.scss";
 import macaronswap from "./macaronswap.scss";
 import magicbalancer from "./magicbalancer.scss";
@@ -273,6 +273,7 @@ import zoocoin from "./zoocoin.scss";
 import cyberkongz from "./cyberkongz.scss";
 import moonbeans from "./moonbeans.scss";
 import forward from "./forward.scss";
+import artizen from "./artizen.scss";
 import dewo from "./dewo.scss";
 import breederdao from "./breederdao.scss";
 
@@ -552,6 +553,7 @@ export default {
   zeta,
   zlot,
   zoocoin,
+  artizen,
   dewo,
   breederdao,
 };
