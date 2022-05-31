@@ -274,6 +274,7 @@ import cyberkongz from "./cyberkongz.scss";
 import moonbeans from "./moonbeans.scss";
 import forward from "./forward.scss";
 import dewo from "./dewo.scss";
+import breederdao from "./breederdao.scss";
 
 export default {
   aave,
@@ -552,4 +553,5 @@ export default {
   zlot,
   zoocoin,
   dewo,
+  breederdao,
 };
