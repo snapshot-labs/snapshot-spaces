@@ -273,8 +273,8 @@ import zoocoin from "./zoocoin.scss";
 import cyberkongz from "./cyberkongz.scss";
 import moonbeans from "./moonbeans.scss";
 import forward from "./forward.scss";
-import dewo from "./dewo.scss";
 import artizen from "./artizen.scss";
+import dewo from "./dewo.scss";
 
 export default {
   aave,
@@ -552,6 +552,6 @@ export default {
   zeta,
   zlot,
   zoocoin,
-  dewo,
   artizen,
+  dewo,
 };
