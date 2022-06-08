@@ -433,6 +433,7 @@ export default {
   mee,
   metacartel,
   metafactory,
+  "metfi-dao": metfiDao,
   mettalex,
   mithcash,
   momentum,
