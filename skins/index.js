@@ -150,6 +150,7 @@ import masknetwork from "./masknetwork.scss";
 import mee from "./mee.scss";
 import metacartel from "./metacartel.scss";
 import metafactory from "./metafactory.scss";
+import metfiDao from "./metfi-dao.scss";
 import mettalex from "./mettalex.scss";
 import mithcash from "./mithcash.scss";
 import momentum from "./momentum.scss";
@@ -432,6 +433,7 @@ export default {
   mee,
   metacartel,
   metafactory,
+  "metfi-dao": metfiDao,
   mettalex,
   mithcash,
   momentum,
