@@ -277,7 +277,7 @@ import forward from "./forward.scss";
 import artizen from "./artizen.scss";
 import dewo from "./dewo.scss";
 import breederdao from "./breederdao.scss";
-
+import gogoprotocol from "./gogoprotocol.scss";
 export default {
   aave,
   cryptopugz,
@@ -557,5 +557,6 @@ export default {
   zoocoin,
   artizen,
   dewo,
+  gogoprotocol,
   breederdao,
 };
