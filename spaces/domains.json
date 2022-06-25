@@ -727,5 +727,6 @@
   "vote.rocketpool.net": "rocketpool-dao.eth",
   "vote.metapocket.games": "meta-pocket.eth",
   "dao.taunetwork.io": "taucoreteam.eth",
-  "vote.cortexdao.io": "cortexdao.eth"
+  "vote.cortexdao.io": "cortexdao.eth",
+  "gov.emdx.io": "emdx.eth"
 }
