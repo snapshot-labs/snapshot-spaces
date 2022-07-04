@@ -163,6 +163,7 @@ import multiplier from "./multiplier.scss";
 import music from "./music.scss";
 import mybit from "./mybit.scss";
 import narwhal from "./narwhal.scss";
+import nation3 from "./nation3.scss";
 import nest from "./nest.scss";
 import neverlose from "./neverlose.scss";
 import nftgoddess from "./nftgoddess.scss";
@@ -448,6 +449,7 @@ export default {
   music,
   mybit,
   narwhal,
+  nation3,
   nest,
   neverlose,
   nftgoddess,

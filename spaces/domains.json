@@ -1,5 +1,6 @@
 {
   "vote.enerart.com": "enerart.eth",
+  "vote.froggyfriendsnft.com": "froggyfriendsnft.eth",
   "vote.cypherpunkzero.com": "cypherpunkzerodao.eth",
   "vote.yieldtopia.finance": "yieldtopia.eth",
   "vote.gogocoin.io": "gogo-protocol.eth",
@@ -649,6 +650,7 @@
   "dao.fxcm.xyz": "metauniversecapital.eth",
   "vote.solace.fi": "solacefi.eth",
   "vote.alluo.com": "alluo.eth",
+  "dao.zcore.network": "zcoreclub.eth",
   "vote.mathblocks.io": "mathblocks.eth",
   "vote.kapital.gg": "thekapitaldao.eth",
   "vote.aetherdao.io": "aetherdao.eth",
@@ -740,6 +742,6 @@
   "dao.taunetwork.io": "taucoreteam.eth",
   "vote.cortexdao.io": "cortexdao.eth",
   "gov.emdx.io": "emdx.eth",
-  "dao.zcore.network": "zcoreclub.eth",
-  "vote.evoverses.com": "evoverses.games"
+  "vote.evoverses.com": "evoverses.games",
+  "vote.nation3.org": "nation3.eth"
 }
