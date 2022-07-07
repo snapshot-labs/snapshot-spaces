@@ -193,6 +193,7 @@ import qian from "./qian.scss";
 import qubcoins from "./qubcoins.scss";
 import raidGuild from "./raid-guild.scss";
 import rari from "./rari.scss";
+import rhino from "./rhino.scss";
 import rope from "./rope.scss";
 import rot from "./rot.scss";
 import safe from "./safe.scss";
@@ -479,6 +480,7 @@ export default {
   qubcoins,
   "raid-guild": raidGuild,
   rari,
+  rhino,
   rope,
   rot,
   safe,
