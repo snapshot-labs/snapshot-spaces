@@ -97,6 +97,7 @@ import fortube from "./fortube.scss";
 import frankendefi from "./frankendefi.scss";
 import fries from "./fries.scss";
 import frontier from "./frontier.scss";
+import gcgdao from "./gcgdao.scss";
 import galleon from "./galleon.scss";
 import gcgdao from "./gcgdao.scss";
 import gamer from "./gamer.scss";
@@ -384,6 +385,7 @@ export default {
   frankendefi,
   fries,
   frontier,
+  gcgdao,
   galleon,
   gamer,
   gatenet,
