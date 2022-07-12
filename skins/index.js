@@ -99,7 +99,6 @@ import fries from "./fries.scss";
 import frontier from "./frontier.scss";
 import gcgdao from "./gcgdao.scss";
 import galleon from "./galleon.scss";
-import gcgdao from "./gcgdao.scss";
 import gamer from "./gamer.scss";
 import gatenet from "./gatenet.scss";
 import gem from "./gem.scss";
