@@ -52,5 +52,6 @@
   "dforce": "dforcenet.eth",
   "rari": "fuse.eth",
   "nft20.eth": "musedao.eth",
-  "tripscommunity": "tripscommunity.eth"
+  "tripscommunity": "tripscommunity.eth",
+  "cake.eth": "cakevote.eth"
 }

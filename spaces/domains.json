@@ -169,6 +169,7 @@
   "vote.ascensionprotocol.io": "ascensionprotocol.eth",
   "vote.stockmouton.com": "stockmouton.eth",
   "vote.elyfi.world": "elyfi-bsc.eth",
+  "gov.moonwell.fi": "moonwell-governance.eth",
   "dao.civfund.com": "dexman.eth",
   "vote.myrevengecat.com": "myrevengecat.eth",
   "governance.cntr.finance": "cntr.eth",
@@ -764,7 +765,9 @@
   "vote.nation3.org": "nation3.eth",
   "dao.hausofprime.com": "hausofprime.eth",
   "vote.famdao.org": "fam-dao.eth",
+  "vote.unidefdao.org": "unidefdao.eth",
   "gov.daomaker.com": "shomustgoon.eth",
-  "vote.testnet.wennect.com": "wennect-dev.eth",
-  "vote.championfinance.io": "championfinance.eth"
+  "vote.championfinance.io": "championfinance.eth",
+  "dao.wearecashcows.com": "wearecashcows.eth",
+  "vote.testnet.wennect.com": "wennect-dev.eth"
 }
