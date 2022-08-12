@@ -4,7 +4,7 @@ import aavegotchi from "./aavegotchi.scss";
 import achievmintry from "./achievmintry.scss";
 import acoconutbsc from "./acoconutbsc.scss";
 import adex from "./adex.scss";
-import adventureland from "./adventureland.scss";
+import adventureland from "./a/dventureland.scss";
 import agdeportes from "./agdeportes.scss";
 import airswap from "./airswap.scss";
 import akropolisDelphi from "./akropolis-delphi.scss";
@@ -305,7 +305,7 @@ export default {
   aragon,
   aragonchina,
   arckyf,
-  backd,
+  mero,
   badger,
   bake,
   balancer,
