@@ -158,6 +158,7 @@ import moonpotdotcom from "./moonpotdotcom.scss";
 import moonswap from "./moonswap.scss";
 import moontools from "./moontools.scss";
 import moonvault from "./moonvault.scss";
+import moonwell from "./moonwell.scss";
 import mstable from "./mstable.scss";
 import multiplier from "./multiplier.scss";
 import music from "./music.scss";
@@ -445,6 +446,7 @@ export default {
   moonswap,
   moontools,
   moonvault,
+  moonwell,
   mstable,
   multiplier,
   music,
