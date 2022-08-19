@@ -18,22 +18,7 @@
       background-position: 100rem 50%;
     }
   }
-  
-  .bg-skin-header-bg {
-    position: relative !important;
-  }
-  
-  .bg-skin-header-bg:after {
-    content: "";
-    width: 100%;
-    height: 3px;
-    background: linear-gradient(to right, #C532F9, #32B2E5);
-    bottom: -3px;
-    left: 0;
-    position: absolute;
-    opacity: 0.2;
-  }
-  
+
   .button--primary{
     border-color: #efc705 !important;
     background: transparent;
