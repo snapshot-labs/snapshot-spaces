@@ -1,0 +1,9 @@
+.treasuredao {
+  --primary-color: #dC2626;
+  --bg-color: #fef5df;
+  --text-color: #101827;
+  --link-color: #dC2626;
+  --heading-color: #101827;
+  --border-color: #fdebc0;
+  --header-bg: #fef5df;
+}
