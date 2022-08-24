@@ -22,7 +22,7 @@ import apy from "./apy.scss";
 import aragon from "./aragon.scss";
 import aragonchina from "./aragonchina.scss";
 import arckyf from "./arckyf.scss";
-import backd from "./backd.scss";
+import mero from "./mero.scss";
 import badger from "./badger.scss";
 import bancor from "./bancor.scss";
 import bake from "./bake.scss";
@@ -154,10 +154,12 @@ import metfiDao from "./metfi-dao.scss";
 import mettalex from "./mettalex.scss";
 import mithcash from "./mithcash.scss";
 import momentum from "./momentum.scss";
+import morpho from "./morpho.scss";
 import moonpotdotcom from "./moonpotdotcom.scss";
 import moonswap from "./moonswap.scss";
 import moontools from "./moontools.scss";
 import moonvault from "./moonvault.scss";
+import moonwell from "./moonwell.scss";
 import mstable from "./mstable.scss";
 import multiplier from "./multiplier.scss";
 import music from "./music.scss";
@@ -305,7 +307,7 @@ export default {
   aragon,
   aragonchina,
   arckyf,
-  backd,
+  mero,
   badger,
   bake,
   balancer,
@@ -440,11 +442,13 @@ export default {
   mettalex,
   mithcash,
   momentum,
+  morpho,
   moonbeans,
   moonpotdotcom,
   moonswap,
   moontools,
   moonvault,
+  moonwell,
   mstable,
   multiplier,
   music,

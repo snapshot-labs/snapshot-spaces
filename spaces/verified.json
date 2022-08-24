@@ -79,6 +79,14 @@
   "beefydao.eth": 1,
   "thegurudao.eth": 1,
   "opcollective.eth": 1,
+  "dodobird.eth": 1,
+  "layer2dao.org": 1,
+  "shellprotocol.eth": 1,
+  "lensterapp.eth": 1,
+  "stgdao.eth": 1,
+  "arbitrum-odyssey.eth": 1,
+  "cow.eth": 1,
+  "bestfork.eth": 1,
   "0xmetamask.eth": -1,
   "163.eth": -1,
   "apper.eth": -1,
@@ -118,5 +126,7 @@
   "valuecoin.eth": -1,
   "tiandao.eth": -1,
   "pinetwork123.eth": -1,
-  "3nation.eth": -1
+  "3nation.eth": -1,
+  "51588.eth": -1,
+  "tbcc.eth": -1
 }
