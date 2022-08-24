@@ -241,6 +241,7 @@ import thelao from "./thelao.scss";
 import thirm from "./thirm.scss";
 import totemearth from "./totemearth.scss";
 import tracer from "./tracer.scss";
+import treasuredao from "./treasuredao.scss";
 import tripscommunity from "./tripscommunity.scss";
 import trustwallet from "./trustwallet.scss";
 import tw33t from "./tw33t.scss";
@@ -529,6 +530,7 @@ export default {
   thirm,
   totemearth,
   tracer,
+  treasuredao,
   tripscommunity,
   trustwallet,
   tw33t,
