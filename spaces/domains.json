@@ -780,5 +780,7 @@
   "dao.wearecashcows.com": "wearecashcows.eth",
   "vote.testnet.wennect.com": "wennect-dev.eth",
   "vote.gurucollective.xyz": "gurucollective.eth",
-  "dao.pinkieinu.com": "pinkieinu.eth"
+  "dao.pinkieinu.com": "pinkieinu.eth",
+  "vote.fluent.finance": "fluentdao.eth",
+  "fedvote.fluent.finance": "fluentfed.eth"
 }
