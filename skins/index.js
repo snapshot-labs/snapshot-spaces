@@ -277,6 +277,7 @@ import zlot from "./zlot.scss";
 import zoocoin from "./zoocoin.scss";
 import cyberkongz from "./cyberkongz.scss";
 import moonbeans from "./moonbeans.scss";
+import yesports from "./yesports.scss";
 import forward from "./forward.scss";
 import artizen from "./artizen.scss";
 import dewo from "./dewo.scss";
@@ -555,6 +556,7 @@ export default {
   yashadao,
   yaxis,
   yearn,
+  yesports,
   yfarm,
   yffc,
   yffs,
