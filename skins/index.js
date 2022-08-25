@@ -154,6 +154,7 @@ import metfiDao from "./metfi-dao.scss";
 import mettalex from "./mettalex.scss";
 import mithcash from "./mithcash.scss";
 import momentum from "./momentum.scss";
+import morpho from "./morpho.scss";
 import moonpotdotcom from "./moonpotdotcom.scss";
 import moonswap from "./moonswap.scss";
 import moontools from "./moontools.scss";
@@ -277,6 +278,7 @@ import zlot from "./zlot.scss";
 import zoocoin from "./zoocoin.scss";
 import cyberkongz from "./cyberkongz.scss";
 import moonbeans from "./moonbeans.scss";
+import yesports from "./yesports.scss";
 import forward from "./forward.scss";
 import artizen from "./artizen.scss";
 import dewo from "./dewo.scss";
@@ -442,6 +444,7 @@ export default {
   mettalex,
   mithcash,
   momentum,
+  morpho,
   moonbeans,
   moonpotdotcom,
   moonswap,
@@ -555,6 +558,7 @@ export default {
   yashadao,
   yaxis,
   yearn,
+  yesports,
   yfarm,
   yffc,
   yffs,

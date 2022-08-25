@@ -1,5 +1,7 @@
 {
   "vote.anarchydao.io": "anarchytoken.eth",
+  "dao.dataphora.com": "dataphora2.eth",
+  "phi.vote": "phinetwork.eth",
   "vote.paydirt.game": "paydirtgame.eth",
   "gov.tigris.trade": "tigrisdao.eth",
   "vote.defire.org": "defiredao.eth",
@@ -13,6 +15,7 @@
   "lawminati.blockng.money": "lawminati.eth",
   "vote.yieldtopia.finance": "yieldtopia.eth",
   "vote.gogocoin.io": "gogo-protocol.eth",
+  "dao.metagear.game": "moongear.eth",
   "dao.uglienstown.wtf": "ugliens.eth",
   "vote.teadao.finance": "tea-dao.eth",
   "vote.thrivecoin.com": "thrivecoin.eth",
@@ -528,6 +531,7 @@
   "vote.fenixtoken.net": "fenixtoken.eth",
   "vote.supershiba.exchange": "supershiba.eth",
   "vote.liquifi.org": "liquifi.eth",
+  "vote.alliance.xyz": "alliance.eth",
   "vote.yetiski.club": "degenyetis.eth",
   "vote.x0swap.com": "x0swap.eth",
   "vote.luckymaneki.com": "luckymaneki.eth",
@@ -627,6 +631,7 @@
   "vote.bearsdeluxe.io": "votedeluxe.eth",
   "vote.turtlecoin.com": "trtlcoin.eth",
   "vote.moonbeans.io": "moonbeans.eth",
+  "gov.yesports.gg": "yesportsgg.eth",
   "vote.dappradar.com": "dappradar.eth",
   "gov.coinica.net": "coinica.eth",
   "dao.baka.cool": "koumakan.eth",
@@ -704,8 +709,8 @@
   "vote.cyberfrogz.io": "cyberz.eth",
   "governance.domani.finance": "dextfprotocol.eth",
   "vote.forwardprotocol.io": "forwardprotocol.eth",
-  "dao.solidefied.io": "solidefied.eth",
   "gov.hpb.io": "xinlian.eth",
+  "dao.solidefied.com": "solidefied.eth",
   "vote.fantomstarter.io": "fantomstarter.eth",
   "vote.netswap.io": "venett.eth",
   "vote.hera.finance": "herafinance.eth",
@@ -759,6 +764,7 @@
   "vote.dragon.xyz": "dragonmeta.eth",
   "dao.leslarmetaverse.com": "leslarmetaverse.eth",
   "vote.ancient8.gg": "ancient8gg.eth",
+  "vote.treasure.lol": "treasuredao.eth",
   "gov.thaloz.com": "thaloz.eth",
   "vote.aura.finance": "aurafinance.eth",
   "vote.rocketpool.net": "rocketpool-dao.eth",
@@ -778,5 +784,6 @@
   "vote.testnet.wennect.com": "wennect-dev.eth",
   "vote.gurucollective.xyz": "gurucollective.eth",
   "dao.pinkieinu.com": "pinkieinu.eth",
-  "vote.treasure.lol": "treasuredao.eth"
+  "vote.fluent.finance": "fluentdao.eth",
+  "fedvote.fluent.finance": "fluentfed.eth"
 }
