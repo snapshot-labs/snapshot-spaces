@@ -221,6 +221,7 @@ import spicedao from "./spicedao.scss";
 import spiderdao from "./spiderdao.scss";
 import spooky from "./spooky.scss";
 import sporkdao from "./sporkdao.scss";
+import aurigamiFinance from "./aurigami-finance.scss";
 import sportx from "./sportx.scss";
 import squirrelcash from "./squirrelcash.scss";
 import stakedao from "./stakedao.scss";
@@ -511,6 +512,7 @@ export default {
   spicedao,
   spiderdao,
   spooky,
+  "aurigami-finance": aurigamiFinance,
   sporkdao,
   sportx,
   squirrelcash,
