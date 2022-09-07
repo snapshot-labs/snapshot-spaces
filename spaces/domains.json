@@ -796,5 +796,6 @@
   "vote.fluent.finance": "fluentdao.eth",
   "fedvote.fluent.finance": "fluentfed.eth",
   "vote.eledao.io": "ele-dao.eth",
-  "vote.nostalgia-nft.xyz": "nostalgia-dao.eth"
+  "vote.nostalgia-nft.xyz": "nostalgia-dao.eth",
+  "vote.chocodoge.dog": "chocodoge.eth"
 }
