@@ -1,6 +1,7 @@
 {
   "vote.hash2o.com": "hash2o.eth",
   "vote.anarchydao.io": "anarchytoken.eth",
+  "dao.exeno.com": "exndao.eth",
   "dao.dataphora.com": "dataphora2.eth",
   "phi.vote": "phinetwork.eth",
   "gov.bitcoinevm.com": "bitcoinevm.eth",
@@ -742,6 +743,7 @@
   "vote.dforce.network": "dforcenet.eth",
   "vote.spysignals.io": "spysignals.eth",
   "vote.galaxy.eco": "project-galaxy.eth",
+  "vote.galxe.com": "gal.eth",
   "irldao.co": "irldao.eth",
   "dao.metfi.io": "metfi.io",
   "vote.gamium.world": "gamiumworld.eth",
@@ -763,6 +765,7 @@
   "vote.blockchaincuties.com": "cutiesofficial.eth",
   "vote.nuddybits.com": "nuddybits.eth",
   "dao.alphalabs.one": "alphalabsdao.eth",
+  "dao.radiant.capital": "radiantcapital.eth",
   "vote.artizen.fund": "artizenfund.eth",
   "vote.orolana.com": "orolana.eth",
   "vote.kopidao.com": "kopidao.eth",
@@ -797,5 +800,5 @@
   "fedvote.fluent.finance": "fluentfed.eth",
   "vote.eledao.io": "ele-dao.eth",
   "vote.nostalgia-nft.xyz": "nostalgia-dao.eth",
-  "dao.radiant.capital": "radiantcapital.eth"
+  "vote.chocodoge.dog": "chocodoge.eth"
 }
