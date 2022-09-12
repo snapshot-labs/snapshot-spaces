@@ -40,6 +40,7 @@ import blackpoolhq from "./blackpoolhq.scss";
 import blockzerolabs from "./blockzerolabs.scss";
 import bloody from "./bloody.scss";
 import boostedFinance from "./boosted-finance.scss";
+import calciumcrew from "./calciumcrew.scss";
 import capy from "./capy.scss";
 import cargo from "./cargo.scss";
 import carrotswap from "./carrotswap.scss";
