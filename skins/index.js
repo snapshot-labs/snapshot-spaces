@@ -241,6 +241,7 @@ import takeprofit from "./takeprofit.scss";
 import tballiance from "./tballiance.scss";
 import thelao from "./thelao.scss";
 import thirm from "./thirm.scss";
+import radiant from "./radiant.scss";
 import totemearth from "./totemearth.scss";
 import tracer from "./tracer.scss";
 import treasuredao from "./treasuredao.scss";
@@ -485,6 +486,7 @@ export default {
   pupperdao,
   qian,
   qubcoins,
+  radiant,
   "raid-guild": raidGuild,
   rari,
   rhino,
