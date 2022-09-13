@@ -329,6 +329,7 @@ export default {
   blockzerolabs,
   bloody,
   "boosted-finance": boostedFinance,
+  calciumcrew,
   capy,
   cargo,
   carrotswap,
