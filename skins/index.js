@@ -45,6 +45,7 @@ import calciumcrew from "./calciumcrew.scss";
 import capy from "./capy.scss";
 import cargo from "./cargo.scss";
 import carrotswap from "./carrotswap.scss";
+import castelloCommunity from "./castello-community.scss"
 import chadsvc from "./chadsvc.scss";
 import chargedParticles from "./charged-particles.scss";
 import chartex from "./chartex.scss";
@@ -336,6 +337,7 @@ export default {
   capy,
   cargo,
   carrotswap,
+  "castello-community": castelloCommunity,
   chadsvc,
   "charged-particles": chargedParticles,
   chartex,
