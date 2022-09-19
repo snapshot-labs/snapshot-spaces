@@ -30,6 +30,7 @@ import balancer from "./balancer.scss";
 import ballena from "./ballena.scss";
 import bamboodefi from "./bamboodefi.scss";
 import barnbridge from "./barnbridge.scss";
+import planetmemes from "./planetmemes.scss";
 import based from "./based.scss";
 import basedloans from "./basedloans.scss";
 import bee2 from "./bee2.scss";
@@ -326,6 +327,7 @@ export default {
   benchmark,
   betswirl,
   blackpink,
+  planetmemes,
   blackpoolhq,
   blockzerolabs,
   bloody,
