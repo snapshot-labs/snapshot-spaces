@@ -350,6 +350,7 @@ export default {
   complus,
   contribute,
   cover,
+  conic,
   cuni,
   curve,
   cyberkongz,
