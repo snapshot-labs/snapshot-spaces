@@ -54,6 +54,7 @@ import cofix from "./cofix.scss";
 import coin from "./coin.scss";
 import coinswap from "./coinswap.scss";
 import complus from "./complus.scss";
+import conic from "./conic.scss";
 import contribute from "./contribute.scss";
 import cover from "./cover.scss";
 import cuni from "./cuni.scss";
@@ -349,6 +350,7 @@ export default {
   complus,
   contribute,
   cover,
+  conic,
   cuni,
   curve,
   cyberkongz,
