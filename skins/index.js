@@ -54,6 +54,7 @@ import cofix from "./cofix.scss";
 import coin from "./coin.scss";
 import coinswap from "./coinswap.scss";
 import complus from "./complus.scss";
+import conic from "./conic.scss";
 import contribute from "./contribute.scss";
 import cover from "./cover.scss";
 import cuni from "./cuni.scss";
@@ -163,6 +164,7 @@ import moonswap from "./moonswap.scss";
 import moontools from "./moontools.scss";
 import moonvault from "./moonvault.scss";
 import moonwell from "./moonwell.scss";
+import moonwellApollo from "./moonwell-apollo.scss";
 import mstable from "./mstable.scss";
 import multiplier from "./multiplier.scss";
 import music from "./music.scss";
@@ -349,6 +351,7 @@ export default {
   complus,
   contribute,
   cover,
+  conic,
   cuni,
   curve,
   cyberkongz,
@@ -459,6 +462,7 @@ export default {
   moontools,
   moonvault,
   moonwell,
+  moonwellApollo,
   mstable,
   multiplier,
   music,
