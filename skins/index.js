@@ -462,7 +462,7 @@ export default {
   moontools,
   moonvault,
   moonwell,
-  moonwellApollo,
+  "moonwell-apollo": moonwellApollo,
   mstable,
   multiplier,
   music,
