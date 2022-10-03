@@ -1,6 +1,6 @@
 .masknetwork {
-  --primary-color: #1C68F3;
-  --bg-color: #F7f8f9;
+  --primary-color: #1c68f3;
+  --bg-color: #f7f8f9;
   --text-color: #382626;
   --link-color: #111111;
   --heading-color: #111111;
@@ -8,18 +8,18 @@
   --header-bg: white;
   --block-bg: white;
 
-  #topnav {
-    background-color: #1C68F3;
-    border-bottom: 3px solid #0657F9 !important;
+  #navbar {
+    background-color: #1c68f3;
+    border-bottom: 3px solid #0657f9 !important;
     border-image-slice: 1;
-    border-image-source: linear-gradient(to left, #095EB5, #0077FC);
+    border-image-source: linear-gradient(to left, #095eb5, #0077fc);
   }
 
-  #topnav a {
+  #navbar a {
     color: white !important;
   }
 
-  #topnav button {
+  #navbar button {
     border-color: white;
     color: white;
   }

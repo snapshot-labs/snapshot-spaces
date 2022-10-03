@@ -8,16 +8,17 @@
   --header-bg: white;
   --block-bg: white;
 
-  #topnav {
+  #navbar {
     background-color: #454699;
     border-bottom: 1px solid #454699 !important;
   }
 
-  #topnav a, #topnav .text-gray {
+  #navbar a,
+  #navbar .text-gray {
     color: white !important;
   }
 
-  #topnav button {
+  #navbar button {
     border-color: white;
     color: white;
   }
