@@ -30,6 +30,7 @@ import balancer from "./balancer.scss";
 import ballena from "./ballena.scss";
 import bamboodefi from "./bamboodefi.scss";
 import barnbridge from "./barnbridge.scss";
+import dmc from "./dmc.scss";
 import planetmemes from "./planetmemes.scss";
 import based from "./based.scss";
 import basedloans from "./basedloans.scss";
@@ -318,6 +319,7 @@ export default {
   arckyf,
   mero,
   badger,
+  dmc,
   bake,
   balancer,
   ballena,
