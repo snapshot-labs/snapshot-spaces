@@ -8,17 +8,17 @@
   --header-bg: #27293d;
   --block-bg: #27293d;
 
-  #topnav {
+  #navbar {
     background-color: #1d8cf8;
     border-image-slice: 1;
     border-image-source: linear-gradient(to left, #1d8cf8, #3358f4);
   }
 
-  #topnav a {
+  #navbar a {
     color: white !important;
   }
 
-  #topnav button {
+  #navbar button {
     border-color: white;
     color: white;
   }

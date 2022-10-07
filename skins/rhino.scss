@@ -1,16 +1,16 @@
 .rhino {
-  --primary-color: #6BCACE;
+  --primary-color: #6bcace;
   --bg-color: #f1f1f3;
   --text-color: #707070;
   --link-color: #111111;
-  --heading-color: #6BCACE;
+  --heading-color: #6bcace;
   --border-color: #d1d5da;
   --header-bg: #f7f7f7;
   --block-bg: white;
 
-  #topnav {
+  #navbar {
     border-bottom: 5px solid !important;
     border-image-slice: 1;
-    border-image-source: linear-gradient(to right, #fde699, #F05558, #6BCACE);
+    border-image-source: linear-gradient(to right, #fde699, #f05558, #6bcace);
   }
 }

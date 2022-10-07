@@ -8,16 +8,17 @@
   --header-bg: #18181a;
   --block-bg: transparent;
 
-  #topnav {
-    background-color:#18181a;
-    border-bottom: 1px solid #ffffff!important;
+  #navbar {
+    background-color: #18181a;
+    border-bottom: 1px solid #ffffff !important;
   }
 
-  #topnav a, #topnav .text-gray {
+  #navbar a,
+  #navbar .text-gray {
     color: #ffffff !important;
   }
 
-  #topnav button {
+  #navbar button {
     border-color: #ffffff;
     color: #ffffff;
   }

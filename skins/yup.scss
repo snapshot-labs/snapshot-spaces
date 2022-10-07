@@ -8,9 +8,16 @@
   --header-bg: #f7f7f7;
   --block-bg: white;
 
-  #topnav {
+  #navbar {
     border-bottom: 4px solid black !important;
     border-image-slice: 1;
-    border-image-source: linear-gradient(to left, #be1e2d, #f08c28, #f0c800, #7fba1b, #00eab7);
+    border-image-source: linear-gradient(
+      to left,
+      #be1e2d,
+      #f08c28,
+      #f0c800,
+      #7fba1b,
+      #00eab7
+    );
   }
 }

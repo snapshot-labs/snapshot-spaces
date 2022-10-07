@@ -1,16 +1,16 @@
 .keyfi {
-    --primary-color: #00CAED;
-    --bg-color: #F8F9FC;
-    --text-color: #555C68;
-    --link-color: #111111;
-    --heading-color: #111111;
-    --border-color: #D3DEEE;
-    --header-bg: #E6ECF5;
-    --block-bg: white;
+  --primary-color: #00caed;
+  --bg-color: #f8f9fc;
+  --text-color: #555c68;
+  --link-color: #111111;
+  --heading-color: #111111;
+  --border-color: #d3deee;
+  --header-bg: #e6ecf5;
+  --block-bg: white;
 
-    #topnav {
-        border-bottom: 4px solid black !important;
-        border-image-slice: 1;
-        border-image-source: linear-gradient(to left, #40D6F5, #1EACE7);
-    }
+  #navbar {
+    border-bottom: 4px solid black !important;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to left, #40d6f5, #1eace7);
+  }
 }
