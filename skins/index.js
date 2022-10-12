@@ -139,6 +139,7 @@ import keyfi from "./keyfi.scss";
 import kleros from "./kleros.scss";
 import kogecoin from "./kogecoin.scss";
 import kuhoge from "./kuhoge.scss";
+import lakanInteractive from "./lakan-interactive.scss";
 import lao from "./lao.scss";
 import lido from "./lido.scss";
 import light from "./light.scss";
@@ -437,6 +438,7 @@ export default {
   kleros,
   kogecoin,
   kuhoge,
+  lakanInteractive,
   lao,
   lido,
   light,
