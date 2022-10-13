@@ -438,7 +438,7 @@ export default {
   kleros,
   kogecoin,
   kuhoge,
-  lakanInteractive,
+  "lakan-interactive": lakanInteractive,
   lao,
   lido,
   light,
