@@ -26,6 +26,33 @@
     background-image: url("https://conic.finance/static/media/background.29ed068f128f3334d0ac.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    min-height: 100%;
+  }
+  
+  .modal .shell {
+    position: relative !important;
+    background-image: url(https://conic.finance/steel.jpg) !important;
+    background-repeat: repeat !important;
+    box-shadow: 0 5px 20px rgb(0 0 0 / 80%) !important;
+    border-top: solid 2px rgba(255, 255, 255, 0.8) !important;
+    border-bottom: solid 2px rgba(0, 0, 0, 0.8) !important;
+    border-radius: 1.2rem !important;
+    padding: 40px 0 0 0 !important;
+    border-right: none !important;
+    border-left: none !important;
+    overflow: hidden !important;
+  }
+  
+  .modal .shell::after {
+    content: "";
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    background-image: url(https://i.imgur.com/DhqVTnt.png);
+    background-size: 87px;
+    background-repeat: no-repeat;
   }
 
   .bg-skin-block-bg {
