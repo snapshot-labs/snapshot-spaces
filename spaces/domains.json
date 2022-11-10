@@ -600,6 +600,7 @@
   "governance.uniqueone.photo": "uniquephoto.eth",
   "voting.chimpyswap.com": "chimpyswap.eth",
   "vote.apetroop.io": "apetroop.eth",
+  "vote.ariva.digital": "arivadao.eth",
   "vote.to-the-moon.farm": "to-the-moon-farm.eth",
   "vote.moon-vault.com": "moon-vault.eth",
   "vote.polyvertex.finance": "polyvertex.eth",
@@ -846,6 +847,5 @@
   "vote.tubbyturtles.com": "arantuil.eth",
   "vote.bluejay.finance": "bluejayfinance.eth",
   "vote.posichain.org": "posichaindao.eth",
-  "gov.ohgeez.org": "levx.eth",
-  "vote.ariva.digital": "arivadao.eth"
+  "gov.ohgeez.org": "levx.eth"
 }
