@@ -83,6 +83,7 @@ import domo from "./domo.scss";
 import dorg from "./dorg.scss";
 import dracula from "./dracula.scss";
 import dsgn from "./dsgn.scss";
+import dsla from "./dsla.scss";
 import easybake from "./easybake.scss";
 import egg from "./egg.scss";
 import elementfinance from "./elementfinance.scss";
@@ -381,6 +382,7 @@ export default {
   dorg,
   dracula,
   dsgn,
+  dsla,
   easybake,
   egg,
   elementfinance,
