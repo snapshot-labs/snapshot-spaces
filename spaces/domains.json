@@ -850,5 +850,6 @@
   "vote.posichain.org": "posichaindao.eth",
   "vote.hausofprime.com": "hausofprime.eth",
   "gov.ohgeez.org": "levx.eth",
-  "snapshot.panvala.com": "panvala.eth"
+  "snapshot.panvala.com": "panvala.eth",
+  "vote.innercircle.finance": "innercirclefinance.eth",
 }
