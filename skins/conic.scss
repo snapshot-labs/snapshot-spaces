@@ -114,6 +114,19 @@
     border-left: none !important;
     overflow: hidden !important;
   }
+  
+  #content-left > div:nth-child(2) > div {
+    background: repeating-linear-gradient(
+      to bottom,
+      #f4f4f4,
+      #eeeeee 2.5px,
+      #eeeeee 2.5px,
+      #f4f4f4 5px
+    ) !important;
+    border-radius: 0 !important;
+    padding: 24px !important;
+    margin-bottom: 0 !important;
+  }
 
   #content-left > div:nth-child(2)::after {
     content: "";
@@ -135,20 +148,6 @@
     top: 9px;
     text-align: center;
     font-size: 18px;
-  }
-
-  #content-left > div:nth-child(2) {
-    position: relative !important;
-    background-image: url(https://conic.finance/steel.jpg) !important;
-    background-repeat: repeat !important;
-    box-shadow: 0 5px 20px rgb(0 0 0 / 80%) !important;
-    border-top: solid 2px rgba(255, 255, 255, 0.8) !important;
-    border-bottom: solid 2px rgba(0, 0, 0, 0.8) !important;
-    border-radius: 1.2rem !important;
-    padding: 40px 0 0 0 !important;
-    border-right: none !important;
-    border-left: none !important;
-    overflow: hidden !important;
   }
 
   #content-left > div:nth-child(2) > div > div {
