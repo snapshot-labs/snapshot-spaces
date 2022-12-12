@@ -157,6 +157,7 @@ import masknetwork from "./masknetwork.scss";
 import mee from "./mee.scss";
 import metacartel from "./metacartel.scss";
 import metafactory from "./metafactory.scss";
+import metatopia from "./metatopia.scss";
 import metfiDao from "./metfi-dao.scss";
 import mettalex from "./mettalex.scss";
 import mithcash from "./mithcash.scss";
@@ -199,6 +200,7 @@ import premia from "./premia.scss";
 import prepo from "./prepo.scss";
 import primitive from "./primitive.scss";
 import pupperdao from "./pupperdao.scss";
+import pye from "./pye.scss";
 import qian from "./qian.scss";
 import qubcoins from "./qubcoins.scss";
 import raidGuild from "./raid-guild.scss";
@@ -457,6 +459,7 @@ export default {
   mee,
   metacartel,
   metafactory,
+  metatopia,
   "metfi-dao": metfiDao,
   mettalex,
   mithcash,
@@ -500,6 +503,7 @@ export default {
   prepo,
   primitive,
   pupperdao,
+  pye,
   qian,
   qubcoins,
   radiant,
