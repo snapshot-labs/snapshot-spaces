@@ -7,16 +7,16 @@
     --border-color: d0d0d0;
     --header-bg: #edeced;
     --block-bg: #edeced;
-}
 
-.button.button--primary {
+  .button.button--primary {
     background-image: linear-gradient(135deg, #ff0739, #723f85) !important;
     border: 0px !important;
-}
+  }
 
-.text-skin-link {
+  .text-skin-link {
     background-image: linear-gradient(135deg, #ff0739, #723f85) !important;
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
+  }
 }
