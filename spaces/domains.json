@@ -1,5 +1,7 @@
 {
+  "vote.moondao.com": "tomoondao.eth",
   "vote.hash2o.com": "hash2o.eth",
+  "vote.allianceblock.io": "allianceblockdao.eth",
   "dao.bmcc.finance": "bmcc.eth",
   "vote.persiandao.io": "persiandao.eth",
   "gov.sandclock.org": "sandclockdao.eth",
@@ -55,6 +57,7 @@
   "vote.bamboodao.io": "bamboodao.eth",
   "vote.moonforcedao.eth": "moonforcedao.eth",
   "vote.pye.net": "pyedao.eth",
+  "vote.metatopiaworld.com": "metatopiaworld.eth",
   "vote.symbulldao.eth": "symbulldao.eth",
   "vote.minipetsdao.eth": "minipetsdao.eth",
   "dao.turtleshellislands.com": "turtleshellisland.eth",
@@ -859,5 +862,6 @@
   "proposals.powershift.properties": "powershiftproperties.eth",
   "gov.ohgeez.org": "levx.eth",
   "snapshot.panvala.com": "panvala.eth",
-  "vote.uwblockchain.ca": "uwblockchainclub.eth"
+  "vote.uwblockchain.ca": "uwblockchainclub.eth",
+  "vote.primapes.gg": "primapes.eth"
 }
