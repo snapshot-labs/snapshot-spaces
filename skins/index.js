@@ -295,6 +295,7 @@ import forward from "./forward.scss";
 import artizen from "./artizen.scss";
 import dewo from "./dewo.scss";
 import breederdao from "./breederdao.scss";
+import bgldao from "./bgldao.scss";
 import gogoprotocol from "./gogoprotocol.scss";
 
 export default {
@@ -595,5 +596,6 @@ export default {
   artizen,
   dewo,
   gogoprotocol,
+  bgldao,
   breederdao,
 };
