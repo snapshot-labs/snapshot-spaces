@@ -1,0 +1,16 @@
+.bgldao {
+  --primary-color: #ff5581;
+  --bg-color: #f0eeff;
+  --text-color: #707070;
+  --link-color: #00005e;
+  --heading-color: #8c55ff;
+  --border-color: #d1d5da;
+  --header-bg: transparent;
+  --block-bg: white;
+
+  #navbar {
+    border-bottom: 4px solid black !important;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to left, #00005e, #8c55ff);
+  }
+}
