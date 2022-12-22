@@ -851,7 +851,7 @@
   "vote.wandinvestments.com": "wandinvestments.com",
   "vote.lebo.finance": "lebo-finance.eth",
   "vote.dynodao.io": "dynodao.eth",
-  "vote.cirip.io": "cirip.io", 
+  "vote.cirip.io": "cirip.io",
   "vote.grugslair.xyz": "grugslair.eth",
   "dao.nufoundry.org": "nufoundry.eth",
   "gov.infinitypad.com": "ipadgovernance.eth",
@@ -863,6 +863,7 @@
   "gov.ohgeez.org": "levx.eth",
   "snapshot.panvala.com": "panvala.eth",
   "vote.uwblockchain.ca": "uwblockchainclub.eth",
+  "vote.t1bets.gg": "t1bets.eth",
   "dao.bglnode.online": "bgldao.eth",
   "vote.primapes.gg": "primapes.eth"
 }
