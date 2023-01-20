@@ -1,5 +1,5 @@
 {
-  "vote.moondao.com": "tomoondao.eth",  
+  "vote.moondao.com": "tomoondao.eth",
   "vote.zechub.xyz": "zechubdao.eth",
   "tvote.cascadia.foundation": "testcascadia.eth",
   "dao.dicesia.com": "dicesia.eth",
@@ -879,5 +879,6 @@
   "governance.encode.org": "encodeorg.eth",
   "proposals.psjourneys.org": "psjourneys.eth",
   "vote.spacedefi.tech": "wandinvestments.com",
+  "dao.getprimal.com": "getprimal.eth",
   "vote.nftprotect.app": "nftprotectapp.eth"
 }
