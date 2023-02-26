@@ -1,7 +1,11 @@
 {
   "vote.moondao.com": "tomoondao.eth",
+  "vote.redemptiontoken.com": "redemptioncoin.eth",
+  "vote.ecollective.xyz": "builders.ecollective.xyz",
   "crypto-legal-action.mycryptolawyer.xyz": "mycryptolawyer.eth",
-  "vote.zechub.xyz": "zechubdao.eth",
+  "governance.kudoe.io": "kudoe.eth",
+  "vote.zechub.org": "zechubdao.eth",
+  "gov.kojib.com": "kojib.eth",
   "tvote.cascadia.foundation": "testcascadia.eth",
   "dao.dicesia.com": "dicesia.eth",
   "vote.hash2o.com": "hash2o.eth",
@@ -878,12 +882,18 @@
   "vote.t1bets.gg": "t1bets.eth",
   "dao.bglnode.online": "bgldao.eth",
   "vote.primapes.gg": "primapes.eth",
+  "gov.milliontoken.io": "milliongov.eth",
   "governance.encode.org": "encodeorg.eth",
   "proposals.psjourneys.org": "psjourneys.eth",
   "vote.hold.finance": "hft.eth",
   "vote.spacedefi.tech": "wandinvestments.com",
   "dao.getprimal.com": "getprimal.eth",
   "lux.vote": "luxdefi.eth",
+  "vote.decubate.com": "decubategov.eth",
   "vote.nftprotect.app": "nftprotectapp.eth",
-  "poll.daosquare.io": "poll.daosquare.eth"
+  "dao.gracie.network": "gracienetwork.eth",
+  "vote.singlefinance.io": "singlefinance.eth",
+  "poll.daosquare.io": "poll.daosquare.eth",
+  "vote.gravityfinance.io": "gravity-finance.eth",
+  "governance.xdefi.io": "xdefigovernance.eth"
 }
