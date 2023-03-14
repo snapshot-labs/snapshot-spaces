@@ -59,5 +59,6 @@
   "cake.eth": "cakevote.eth",
   "project-galaxy.eth": "gal.eth",
   "epns.eth": "pushdao.eth",
-  "tptdao.eth": "itokenpocket.eth"
+  "tptdao.eth": "itokenpocket.eth",
+  "tahodao.eth": "tallyhodao.eth"
 }
