@@ -898,7 +898,8 @@
   "vote.nftprotect.app": "nftprotectapp.eth",
   "dao.gracie.network": "gracienetwork.eth",
   "vote.singlefinance.io": "singlefinance.eth",
-  "poll.daosquare.io": "poll.daosquare.eth",
+  "drc.daosquare.io": "poll.daosquare.eth",
+  "dreo.daosquare.io": "community.daosquare.eth",
   "vote.gravityfinance.io": "gravity-finance.eth",
   "governance.xdefi.io": "xdefigovernance.eth"
 }
