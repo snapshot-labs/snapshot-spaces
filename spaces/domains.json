@@ -905,5 +905,6 @@
   "drc.daosquare.io": "poll.daosquare.eth",
   "dreo.daosquare.io": "community.daosquare.eth",
   "vote.gravityfinance.io": "gravity-finance.eth",
-  "governance.xdefi.io": "xdefigovernance.eth"
+  "governance.xdefi.io": "xdefigovernance.eth",
+  "vote.sk8block.com": "sk8block.eth"
 }
