@@ -1,8 +1,10 @@
 {
   "governance.metavix.io": "metavix.eth",
+  "gov.yorkie-inu.com": "yorkie-inu.eth",
   "vote.moondao.com": "tomoondao.eth",
   "dao.redacted.finance": "redactedcartel.eth",
   "vote.monetadao.com": "monetadao.eth",
+  "vote.swarm.com": "swarm-com.eth",
   "vote.vox.finance": "voxfinance.eth",
   "vote.halofi.me": "halofi.eth",
   "vote.redemptiontoken.com": "redemptioncoin.eth",
@@ -166,7 +168,7 @@
   "vote.beamswap.io": "beamswapio.eth",
   "dao.littleghosts.com": "littleghosts.eth",
   "vote.panicswap.com": "panicswap.eth",
-  "vote.phonon.network": "phonon.eth",
+  "vote.phonon.org": "phonon.eth",
   "vote.thegreatwave.io": "thegreatwave.eth",
   "vote.labdao.co": "dongdo.eth",
   "vote.x0rart.com": "mevarmy.eth",
@@ -863,6 +865,7 @@
   "vote.ape.fi": "apedotfi.eth",
   "dao.pinkieinu.com": "pinkieinu.eth",
   "vote.fluent.finance": "fluentdao.eth",
+  "vote.mambomakers.com": "mambomakers.eth",
   "fedvote.fluent.finance": "fluentfed.eth",
   "vote.eledao.io": "ele-dao.eth",
   "vote.nostalgia-nft.xyz": "nostalgia-dao.eth",
@@ -906,5 +909,7 @@
   "dreo.daosquare.io": "community.daosquare.eth",
   "vote.gravityfinance.io": "gravity-finance.eth",
   "governance.xdefi.io": "xdefigovernance.eth",
-  "vote.sk8block.com": "sk8block.eth"
+  "gov.apedao.finance": "iotapes.eth",
+  "vote.sk8block.com": "sk8block.eth",
+  "vote.pjnen.com": "kazuzxc.eth"
 }
