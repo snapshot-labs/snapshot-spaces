@@ -208,6 +208,7 @@
   "conic-dao.eth": 1,
   "radiantcapital.eth": 1,
   "zechubdao.eth": 1,
+  "lensterweb3.eth": -1,
   "53231323.eth": -1,
   "🌿lens🌿.eth": -1,
   "coincapital.eth": -1,
@@ -285,5 +286,10 @@
   "avcdao.eth": -1,
   "arbisquad.eth": -1,
   "199820.eth": -1,
-  "burbelue.eth": -1
+  "burbelue.eth": -1,
+  "arbitrumfoundation.eth": 1,
+  "mini.345656.eth": -1,
+  "1.moksal.eth": -1,
+  "moonbeam-foundation.eth": -1
+
 }
