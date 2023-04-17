@@ -37,6 +37,7 @@ import basedloans from "./basedloans.scss";
 import bee2 from "./bee2.scss";
 import benchmark from "./benchmark.scss";
 import betswirl from "./betswirl.scss";
+import breederdaoSpace from "./breederdao-space.scss";
 import blackpink from "./blackpink.scss";
 import blackpoolhq from "./blackpoolhq.scss";
 import blockzerolabs from "./blockzerolabs.scss";
