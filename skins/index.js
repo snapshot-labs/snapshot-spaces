@@ -337,7 +337,7 @@ export default {
   bee2,
   benchmark,
   betswirl,
-  breederdaoSpace,
+  "breederdao-space": breederdaoSpace,
   blackpink,
   planetmemes,
   blackpoolhq,
