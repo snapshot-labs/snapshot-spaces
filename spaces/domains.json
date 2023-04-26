@@ -1,5 +1,7 @@
 {
+  "vote.defialliance.finance": "beitmenotyou.eth",
   "governance.metavix.io": "metavix.eth",
+  "gov.fact.technology": "factprotocol.eth",
   "gov.yorkie-inu.com": "yorkie-inu.eth",
   "vote.moondao.com": "tomoondao.eth",
   "dao.redacted.finance": "redactedcartel.eth",
@@ -396,7 +398,7 @@
   "gov.narwhalswap.org": "narwhal",
   "vote.streamr.network": "streamr.eth",
   "governance.etgproject.org": "etgfinance",
-  "gov.pokt.network": "pokt-network",
+  "gov.pokt.network": "poktdao.eth",
   "vote.niceee.org": "nice",
   "vote.pooltogether.com": "pooltogether",
   "vote.diadata.org": "diadata",
@@ -855,7 +857,7 @@
   "vote.elasticswap.org": "elasticswap.eth",
   "vote.nation3.org": "nation3.eth",
   "vote.famdao.org": "fam-dao.eth",
-  "vote.unidefdao.org": "unidefdao.eth",
+  "vote.decemount.unidef.org": "decemount.eth",
   "gov.daomaker.com": "shomustgoon.eth",
   "vote.championfinance.io": "championfinance.eth",
   "dao.wearecashcows.com": "wearecashcows.eth",
@@ -910,6 +912,9 @@
   "vote.gravityfinance.io": "gravity-finance.eth",
   "governance.xdefi.io": "xdefigovernance.eth",
   "gov.apedao.finance": "iotapes.eth",
+  "vote.bakeddao.com": "bakeddao.eth",
   "vote.sk8block.com": "sk8block.eth",
-  "vote.pjnen.com": "kazuzxc.eth"
+  "vote.pjnen.com": "kazuzxc.eth",
+  "vote.chigag.studio": "chigag-studio.eth",
+  "dao.space.id": "dao.spaceid.eth"
 }
