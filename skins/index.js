@@ -298,6 +298,7 @@ import dewo from "./dewo.scss";
 import breederdao from "./breederdao.scss";
 import bgldao from "./bgldao.scss";
 import gogoprotocol from "./gogoprotocol.scss";
+import radxu from "./radxu.scss";
 
 export default {
   aave,
@@ -598,6 +599,7 @@ export default {
   artizen,
   dewo,
   gogoprotocol,
+  radxu,
   bgldao,
   breederdao,
 };

@@ -1,0 +1,27 @@
+.radxu {
+  --primary-color: #49E59A;
+  --bg-color: #1C3130;
+  --text-color: white;
+  --link-color: white;
+  --heading-color: white;
+  --border-color: #49E59A;
+  --header-bg: #123227;
+  --block-bg: #123227;
+  --shadow-color: #fff1;
+
+  .button.button--primary, .button.button--primary.disabled {
+    color: black;
+  }
+
+  .bg-skin-border {
+    background-color: #49E59A1F;
+  }
+
+  img.bg-skin-border {
+    background-color: transparent !important;
+  }
+
+  #navbar {
+    border-bottom: 5px solid #49E59A !important;
+  }
+}
