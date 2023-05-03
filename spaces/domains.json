@@ -1,4 +1,6 @@
 {
+  "dao.anuinitiative.org": "daotest.anuinitiative.eth",
+  "vote.rareships.games" : "rareships.eth",
   "vote.defialliance.finance": "beitmenotyou.eth",
   "governance.metavix.io": "metavix.eth",
   "gov.fact.technology": "factprotocol.eth",
@@ -916,5 +918,6 @@
   "vote.sk8block.com": "sk8block.eth",
   "vote.pjnen.com": "kazuzxc.eth",
   "vote.chigag.studio": "chigag-studio.eth",
-  "dao.space.id": "dao.spaceid.eth"
+  "dao.space.id": "dao.spaceid.eth",
+  "dao.pearl.club": "pearlclubdao.eth"
 }
