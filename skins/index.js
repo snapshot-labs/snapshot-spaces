@@ -598,7 +598,6 @@ export default {
   artizen,
   dewo,
   gogoprotocol,
-  radxu,
   bgldao,
   breederdao,
 };
