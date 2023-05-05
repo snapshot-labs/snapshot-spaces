@@ -1,10 +1,12 @@
 {
   "dao.anuinitiative.org": "daotest.anuinitiative.eth",
+  "dao.chaingpt.org": "chaingptai.eth",
   "vote.rareships.games" : "rareships.eth",
   "vote.defialliance.finance": "beitmenotyou.eth",
   "governance.metavix.io": "metavix.eth",
   "gov.fact.technology": "factprotocol.eth",
   "gov.yorkie-inu.com": "yorkie-inu.eth",
+  "governance.radxu.org": "radxu.eth",
   "vote.moondao.com": "tomoondao.eth",
   "dao.redacted.finance": "redactedcartel.eth",
   "vote.monetadao.com": "monetadao.eth",
@@ -919,5 +921,6 @@
   "vote.pjnen.com": "kazuzxc.eth",
   "vote.chigag.studio": "chigag-studio.eth",
   "dao.space.id": "dao.spaceid.eth",
-  "dao.pearl.club": "pearlclubdao.eth"
+  "dao.pearl.club": "pearlclubdao.eth",
+  "vote.molens.xyz": "molens.eth"
 }
