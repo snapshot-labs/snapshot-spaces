@@ -2,15 +2,15 @@
   --primary-color: #ffbf00;
   --bg-color: white;
   --text-color: #2d3748;
-  --link-color: #6B2D5C;
+  --link-color: #6b2d5c;
   --heading-color: #111111;
-  --border-color: #6B2D5C;
+  --border-color: #6b2d5c;
   --header-bg: white;
   --block-bg: transparent;
 
-  #topnav {
+  #navbar {
     border-bottom: 4px solid transparent;
     border-image-slice: 1;
-    border-image-source: linear-gradient(to left, #ffbf00, #6B2D5C);
+    border-image-source: linear-gradient(to left, #ffbf00, #6b2d5c);
   }
 }

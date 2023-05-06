@@ -7,11 +7,10 @@
   --border-color: #424242;
   --header-bg: 0a0909;
   --block-bg: #0a0909;
-    
-  #topnav {
+
+  #navbar {
     border-bottom: 4px solid #ec008c !important;
     border-image-slice: 1;
-    border-image-source: linear-gradient(270deg,#ff008c,#bd0084);
+    border-image-source: linear-gradient(270deg, #ff008c, #bd0084);
   }
-  
 }

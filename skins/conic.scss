@@ -1,0 +1,236 @@
+.conic {
+  --primary-color: #2079cf;
+  --bg-color: transparent;
+  --text-color: black;
+  --link-color: grey;
+  --heading-color: black;
+  --border-color: #d1d5da;
+  --header-bg: white;
+  --block-bg: white;
+
+  .bg-skin-bg {
+    background-color: white !important;
+  }
+
+  #navbar {
+    background: repeating-linear-gradient(
+      to bottom,
+      #f4f4f4,
+      #eeeeee 2.5px,
+      #eeeeee 2.5px,
+      #f4f4f4 5px
+    );
+  }
+
+  #content {
+    background-image: url("https://conic.finance/static/media/background.29ed068f128f3334d0ac.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+  }
+  
+  .modal .shell {
+    position: relative !important;
+    background-image: url(https://conic.finance/steel.jpg) !important;
+    background-repeat: repeat !important;
+    box-shadow: 0 5px 20px rgb(0 0 0 / 80%) !important;
+    border-top: solid 2px rgba(255, 255, 255, 0.8) !important;
+    border-bottom: solid 2px rgba(0, 0, 0, 0.8) !important;
+    border-radius: 1.2rem !important;
+    padding: 40px 0 0 0 !important;
+    border-right: none !important;
+    border-left: none !important;
+    overflow: hidden !important;
+  }
+  
+  .modal .shell::after {
+    content: "";
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    background-image: url(https://i.imgur.com/DhqVTnt.png);
+    background-size: 87px;
+    background-repeat: no-repeat;
+  }
+
+  .bg-skin-block-bg {
+    position: relative !important;
+    background-image: url(https://conic.finance/steel.jpg) !important;
+    background-repeat: repeat !important;
+    box-shadow: 0 5px 20px rgb(0 0 0 / 80%) !important;
+    border-top: solid 2px rgba(255, 255, 255, 0.8) !important;
+    border-bottom: solid 2px rgba(0, 0, 0, 0.8) !important;
+    border-radius: 1.2rem !important;
+    padding: 40px 0 0 0 !important;
+    border-right: none !important;
+    border-left: none !important;
+    overflow: hidden !important;
+  }
+
+  .bg-skin-block-bg::after {
+    content: "";
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    background-image: url(https://i.imgur.com/DhqVTnt.png);
+    background-size: 87px;
+    background-repeat: no-repeat;
+  }
+
+  .bg-skin-block-bg > div {
+    background: repeating-linear-gradient(
+      to bottom,
+      #f4f4f4,
+      #eeeeee 2.5px,
+      #eeeeee 2.5px,
+      #f4f4f4 5px
+    ) !important;
+    border-radius: 0 !important;
+    padding: 24px !important;
+  }
+
+  #content-left > div:nth-child(1) {
+    position: fixed;
+    top: 23px;
+    left: 23px;
+    height: 100px;
+    z-index: 100000;
+  }
+
+  #content-left > div:nth-child(2) {
+    position: relative !important;
+    background-image: url(https://conic.finance/steel.jpg) !important;
+    background-repeat: repeat !important;
+    box-shadow: 0 5px 20px rgb(0 0 0 / 80%) !important;
+    border-top: solid 2px rgba(255, 255, 255, 0.8) !important;
+    border-bottom: solid 2px rgba(0, 0, 0, 0.8) !important;
+    border-radius: 1.2rem !important;
+    padding: 40px 0 0 0 !important;
+    border-right: none !important;
+    border-left: none !important;
+    overflow: hidden !important;
+  }
+  
+  #content-left > div:nth-child(2) > div {
+    background: repeating-linear-gradient(
+      to bottom,
+      #f4f4f4,
+      #eeeeee 2.5px,
+      #eeeeee 2.5px,
+      #f4f4f4 5px
+    ) !important;
+    border-radius: 0 !important;
+    padding: 24px !important;
+    margin-bottom: 0 !important;
+  }
+
+  #content-left > div:nth-child(2)::after {
+    content: "";
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    background-image: url(https://i.imgur.com/DhqVTnt.png);
+    background-size: 87px;
+    background-repeat: no-repeat;
+  }
+
+  #content-left > div:nth-child(2) > h1 {
+    width: calc(100% - 100px);
+    line-height: 1 !important;
+    position: absolute;
+    right: 0;
+    top: 9px;
+    text-align: center;
+    font-size: 18px;
+  }
+
+  #content-left > div:nth-child(2) > div > div {
+    margin: 0 !important;
+  }
+
+  #content-left > div:nth-child(2) > div > div > button {
+    bottom: 10px;
+  }
+
+  .button {
+    position: relative !important;
+    display: flex !important;
+    padding: 0 15px !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    box-shadow: 0 1px 2px 0px rgb(0 0 0 / 50%) !important;
+    overflow: hidden !important;
+    cursor: pointer !important;
+    background: linear-gradient(to bottom, #d0d0d0, #fdfdfd) !important;
+    border-bottom: solid 2px #808080 !important;
+    border-top: solid 2px #979797 !important;
+    border-right: solid 2px #979797 !important;
+    border-left: solid 2px #979797 !important;
+    color: black !important;
+    height: auto !important;
+    padding: 2px 15px !important;
+  }
+
+  .button::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 40%;
+    background: white;
+    border-bottom-right-radius: 0.7rem;
+    border-bottom-left-radius: 0.7rem;
+    opacity: 0.55;
+  }
+
+  .button--primary {
+    position: relative !important;
+    display: flex !important;
+    padding: 0 15px !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    box-shadow: 0 1px 2px 0px rgb(0 0 0 / 50%) !important;
+    overflow: hidden !important;
+    cursor: pointer !important;
+    background: linear-gradient(to bottom, #2079cf, #a0e7fc) !important;
+    border-bottom: solid 2px #808080 !important;
+    border-top: solid 2px #211e8d !important;
+    border-right: solid 2px #5597d5 !important;
+    border-left: solid 2px #5597d5 !important;
+    color: black !important;
+    padding: 2px 15px !important;
+  }
+
+  .button--primary::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 40%;
+    background: white;
+    border-bottom-right-radius: 0.7rem;
+    border-bottom-left-radius: 0.7rem;
+    opacity: 0.35;
+  }
+
+  .button--primary:disabled {
+    cursor: not-allowed !important;
+    filter: saturate(0) brightness(1.2) !important;
+    opacity: 0.7 !important;
+  }
+
+  .button > .absolute {
+    position: absolute;
+    left: 10px;
+  }
+}
