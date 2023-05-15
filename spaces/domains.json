@@ -77,6 +77,7 @@
   "vote.apocaliens.xyz": "alienvote.eth",
   "vote.wefinance.club": "wefinanceclub.eth",
   "vote.thestandard.io": "thestandardio.eth",
+  "vote.safestake.xyz": "istate.eth",
   "vote.parastate.io": "istate.eth",
   "vote.shifuthemaster.com": "shifuthemaster.eth",
   "vote.hov.co": "hovx.eth",
@@ -924,5 +925,6 @@
   "dao.space.id": "dao.spaceid.eth",
   "dao.pearl.club": "pearlclubdao.eth",
   "vote.molens.xyz": "molens.eth",
-  "vote.decent-dao.org": "decent-dao.eth"
+  "vote.decent-dao.org": "decent-dao.eth",
+  "vote.pxlmage.com": "pxlmage.eth"
 }
