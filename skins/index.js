@@ -240,6 +240,7 @@ import stakewise from "./stakewise.scss";
 import status from "./status.scss";
 import steakbank from "./steakbank.scss";
 import streamr from "./streamr.scss";
+import taraxa from "./taraxa.scss";
 import sushi from "./sushi.scss";
 import sushipowah from "./sushipowah.scss";
 import swagg from "./swagg.scss";
