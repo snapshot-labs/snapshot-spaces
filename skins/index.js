@@ -548,6 +548,7 @@ export default {
   steakbank,
   streamr,
   sushi,
+  taraxa,
   sushipowah,
   swagg,
   swaphub,
