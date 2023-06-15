@@ -65,5 +65,6 @@
   "arbitrum-odyssey.eth": "arbitrumfoundation.eth",
   "pokt-network": "poktdao.eth",
   "lensterapp.eth": "lenster.xyz",
-  "nexondao.eth": "eralend.eth"
+  "nexondao.eth": "eralend.eth",
+  "bitdao-dev.eth: "mantle-dev.eth"
 }
