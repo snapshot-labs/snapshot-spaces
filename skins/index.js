@@ -299,6 +299,7 @@ import dewo from "./dewo.scss";
 import breederdao from "./breederdao.scss";
 import bgldao from "./bgldao.scss";
 import gogoprotocol from "./gogoprotocol.scss";
+import thekapitaldao from "./thekapitaldao.scss";
 
 export default {
   aave,
@@ -602,4 +603,5 @@ export default {
   gogoprotocol,
   bgldao,
   breederdao,
+  thekapitaldao,
 };
