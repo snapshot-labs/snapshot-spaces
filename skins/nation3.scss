@@ -1,0 +1,16 @@
+.nation3 {
+  --primary-color: #88f1bb;
+  --bg-color: #f5fafe;
+  --text-color: #505050;
+  --link-color: #111111;
+  --heading-color: #111111;
+  --border-color: #f5f5f5;
+  --header-bg: white;
+  --block-bg: white;
+
+  #navbar {
+    border-bottom: 4px solid black !important;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to right, #69c9ff, #88f1bb);
+  }
+}

@@ -1,0 +1,58 @@
+.moonwell-apollo {
+  --primary-color: #b80083;
+  --bg-color: #000;
+  --text-color: #ffffff;
+  --link-color: #ffcf60;
+  --heading-color: #ffcf60;
+  --border-color: rgb(255 255 255 / 0.10);
+  --header-bg: #000000;
+  --block-bg: rgb(255 255 255 / 0.1);
+
+  transition: all ease 250ms, box-shadow linear 150ms;
+
+  @keyframes moonwell-gradient {
+    from {
+      background-position: 0 50%;
+    }
+    to {
+      background-position: 100rem 50%;
+    }
+  }
+
+  .button--primary{
+    border-color: transparent !important;
+    background: transparent;
+    transition: background 0.5s;
+  }
+
+  .button--primary:hover {
+    background: linear-gradient(90deg, #b80083, #b80085, #b90186, #b90189, #ba028c, #bb0290, #bc0395, #bd049a, #be05a0, #bf06a6, #c007ac, #c209b4, #c30abb, #c50bc3, #c20dc7, #bd0fc9, #b710ca, #b212cc, #ac14ce, #a616d0, #a018d2, #9b1ad4, #951dd6, #8f1fd8, #8921da, #8324dd, #7d26df, #7728e1, #712be3, #6b2de5, #6630e7, #6132e9, #5b35eb, #5637ed, #5239ee, #4d3cf0, #493ef2, #4540f4, #4243f5, #444bf7, #4652f8, #4858f9, #495efa, #4b63fb, #4c68fc, #4d6cfd, #4e70fe, #4f72fe, #5074ff, #5076ff, #5074ff, #4f72fe, #4e70fe, #4d6cfd, #4c68fc, #4b63fb, #495efa, #4858f9, #4652f8, #444bf7, #4243f5, #4540f4, #493ef2, #4d3cf0, #5239ee, #5637ed, #5b35eb, #6132e9, #6630e7, #6b2de5, #712be3, #7728e1, #7d26df, #8324dd, #8921da, #8f1fd8, #951dd6, #9b1ad4, #a018d2, #a616d0, #ac14ce, #b212cc, #b710ca, #bd0fc9, #c20dc7, #c50bc3, #c30abb, #c209b4, #c007ac, #bf06a6, #be05a0, #bd049a, #bc0395, #bb0290, #ba028c, #b90189, #b90186, #b80085, #b80083);
+    background-size: 100rem 500%;
+    animation: moonwell-gradient 2s linear infinite;
+    border: none !important;
+  }
+
+  .button{
+    transition: background 0.5s;
+  }
+
+  .button.mb-2.block.w-full.\!border-skin-link{
+    border: none;
+    background: rgb(239 199 5);
+    color: white;
+    font-weight: bold;
+    &:first-child{
+      background: #5CCC4E;
+    }
+    &:nth-child(2){
+      background: #CC0000;
+    }
+  }
+
+  a[target="_blank"]  {
+    text-decoration: underline;
+    &:hover{
+      color: #fff2b3;
+    }
+  }
+}

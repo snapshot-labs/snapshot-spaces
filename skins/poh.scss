@@ -1,0 +1,16 @@
+.poh {
+  --primary-color: #ffc700;
+  --bg-color: #fffdf6;
+  --text-color: #8c8c8c;
+  --link-color: #111111;
+  --heading-color: #111111;
+  --border-color: #dad5d1;
+  --header-bg: white;
+  --block-bg: white;
+
+  #navbar {
+    border-bottom: 3px solid black !important;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to left, #fdc9d3, #ff9900);
+  }
+}

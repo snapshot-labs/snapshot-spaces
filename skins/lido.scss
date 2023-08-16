@@ -1,0 +1,15 @@
+.lido {
+  --primary-color: #00a3ff;
+  --bg-color: #f4f6f8;
+  --text-color: #505a7a;
+  --link-color: #080e14;
+  --heading-color: #080e14;
+  --border-color: #c8d0d8;
+  --header-bg: #ffffff;
+  --block-bg: #ffffff;
+  #navbar {
+    border-bottom: 4px solid #f69988 !important;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(90deg, #f69988 0%, #00a3ff 100%);
+  }
+}

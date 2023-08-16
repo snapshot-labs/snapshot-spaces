@@ -1,0 +1,25 @@
+.bancor {
+  --primary-color: #10bbd8;
+  --bg-color: #18181a;
+  --text-color: #ffffff;
+  --link-color: #ffffff;
+  --heading-color: #ffffff;
+  --border-color: #000000;
+  --header-bg: #18181a;
+  --block-bg: transparent;
+
+  #navbar {
+    background-color: #18181a;
+    border-bottom: 1px solid #ffffff !important;
+  }
+
+  #navbar a,
+  #navbar .text-gray {
+    color: #ffffff !important;
+  }
+
+  #navbar button {
+    border-color: #ffffff;
+    color: #ffffff;
+  }
+}

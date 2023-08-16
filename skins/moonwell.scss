@@ -1,0 +1,58 @@
+.moonwell {
+  --primary-color: #5CCC4E;
+  --bg-color: #000;
+  --text-color: #ffffff;
+  --link-color: #ffcf60;
+  --heading-color: #ffcf60;
+  --border-color: rgb(255 255 255 / 0.10);
+  --header-bg: #000000;
+  --block-bg: rgb(255 255 255 / 0.1);
+
+  transition: all ease 250ms, box-shadow linear 150ms;
+
+  @keyframes moonwell-gradient {
+    from {
+      background-position: 0 50%;
+    }
+    to {
+      background-position: 100rem 50%;
+    }
+  }
+
+  .button--primary{
+    border-color: transparent !important;
+    background: transparent;
+    transition: background 0.5s;
+  }
+
+  .button--primary:hover {
+    background:   linear-gradient(90deg, #efc705, #efc805, #efca05, #efcd05, #efd105, #efd705, #efde05, #eee605, #eeee05, #e4ee05, #d9ee04, #cdee04, #c0ed04, #b3ed04, #a5ed04, #96ed04, #87ec04, #77ec04, #67ec04, #56ec03, #45eb03, #34eb03, #22eb03, #11ea03, #03ea07, #03ea18, #02e92a, #02e93b, #02e94c, #02e85e, #02e86f, #02e87f, #02e790, #01e7a0, #01e7af, #01e7bf, #01e6cd, #01e6db, #01e3e6, #01d6e6, #01c9e5, #00bee5, #00b3e5, #00a9e5, #00a0e5, #0098e4, #0091e4, #008ce4, #0087e4, #0084e4, #0082e4, #0081e4, #0082e4, #0084e4, #0087e4, #008ce4, #0091e4, #0098e4, #00a0e5, #00a9e5, #00b3e5, #00bee5, #01c9e5, #01d6e6, #01e3e6, #01e6db, #01e6cd, #01e7bf, #01e7af, #01e7a0, #02e790, #02e87f, #02e86f, #02e85e, #02e94c, #02e93b, #02e92a, #03ea18, #03ea07, #11ea03, #22eb03, #34eb03, #45eb03, #56ec03, #67ec04, #77ec04, #87ec04, #96ed04, #a5ed04, #b3ed04, #c0ed04, #cdee04, #d9ee04, #e4ee05, #eeee05, #eee605, #efde05, #efd705, #efd105, #efcd05, #efca05, #efc805, #efc705);
+    background-size: 100rem 500%;
+    animation: moonwell-gradient 2s linear infinite;
+    border: none !important;
+  }
+
+  .button{
+    transition: background 0.5s;
+  }
+
+  .button.mb-2.block.w-full.\!border-skin-link{
+    border: none;
+    background: rgb(239 199 5);
+    color: white;
+    font-weight: bold;
+    &:first-child{
+      background: #5CCC4E;
+    }
+    &:nth-child(2){
+      background: #CC0000;
+    }
+  }
+
+  a[target="_blank"]  {
+    text-decoration: underline;
+    &:hover{
+      color: #fff2b3;
+    }
+  }
+}

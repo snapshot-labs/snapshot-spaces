@@ -1,0 +1,25 @@
+.prepo {
+  --primary-color: #454699;
+  --bg-color: white;
+  --text-color: #586069;
+  --link-color: #111111;
+  --heading-color: #111111;
+  --border-color: #d1d5da;
+  --header-bg: white;
+  --block-bg: white;
+
+  #navbar {
+    background-color: #454699;
+    border-bottom: 1px solid #454699 !important;
+  }
+
+  #navbar a,
+  #navbar .text-gray {
+    color: white !important;
+  }
+
+  #navbar button {
+    border-color: white;
+    color: white;
+  }
+}
