@@ -309,6 +309,7 @@ export default {
   achievmintry,
   acoconutbsc,
   adex,
+  madskullz,
   adventureland,
   agdeportes,
   airswap,
