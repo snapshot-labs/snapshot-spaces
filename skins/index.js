@@ -4,6 +4,7 @@ import aavegotchi from "./aavegotchi.scss";
 import achievmintry from "./achievmintry.scss";
 import acoconutbsc from "./acoconutbsc.scss";
 import adex from "./adex.scss";
+import madskullz from "./madskullz.scss";
 import adventureland from "./adventureland.scss";
 import agdeportes from "./agdeportes.scss";
 import airswap from "./airswap.scss";
@@ -308,6 +309,7 @@ export default {
   achievmintry,
   acoconutbsc,
   adex,
+  madskullz,
   adventureland,
   agdeportes,
   airswap,
