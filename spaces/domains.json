@@ -15,6 +15,7 @@
   "vote.moondao.com": "tomoondao.eth",
   "dao.redacted.finance": "redactedcartel.eth",
   "vote.btcfund.ai": "btcfundai.eth",
+  "vote.lenshareapp.xyz": "nikoemme.eth",
   "vote.monetadao.com": "monetadao.eth",
   "vote.swarm.com": "swarm-com.eth",
   "vote.vox.finance": "voxfinance.eth",
@@ -958,9 +959,13 @@
   "vote.mfdao.pro": "multiface.eth",
   "vote.dragoncrypto.io": "dragoncrypto.io",
   "dao.arkadiapark.com": "arkadia-park.eth",
+  "vote.bcrater.org": "b00tyhole.eth",
+  "vote.cbidao.com": "cbidao.eth",
   "governance.topia.gg": "topia-governance.eth",
   "gov.piteas.io": "piteas.eth",
   "vote.aitech.io": "aitechio.eth",
+  "vote.vitadao.com": "vote.vitadao.eth",
   "vote.orca.monster": "skinnyorca.eth",
+  "vote.avafoundation.org": "avafoundation.eth"
   "vote.pillardao.org": "plrdao.eth"
 }
