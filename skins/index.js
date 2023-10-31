@@ -301,7 +301,8 @@ import breederdao from "./breederdao.scss";
 import bgldao from "./bgldao.scss";
 import gogoprotocol from "./gogoprotocol.scss";
 import thekapitaldao from "./thekapitaldao.scss";
-
+import infinex from "./infinex.scss";
+ 
 export default {
   aave,
   cryptopugz,
@@ -606,4 +607,5 @@ export default {
   bgldao,
   breederdao,
   thekapitaldao,
+  infinex
 };
