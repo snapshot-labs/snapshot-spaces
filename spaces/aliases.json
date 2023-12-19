@@ -70,5 +70,6 @@
   "gov.radicle.eth": "gov.radworks.eth",
   "daoge.eth": "ownthedoge.eth",
   "ownthedaoge.eth": "ownthedoge.eth",
-  "uniswap": "uniswapgovernance.eth"
+  "uniswap": "uniswapgovernance.eth",
+  "popcorn-snapshot.eth": "vaultcraft-snapshot.eth"'
 }
