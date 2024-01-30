@@ -968,6 +968,7 @@
   "dao.arkadiapark.com": "arkadia-park.eth",
   "vote.bcrater.org": "b00tyhole.eth",
   "vote.cbidao.com": "cbidao.eth",
+  "governance.libfi.io": "libfi.eth",
   "governance.topia.gg": "topia-governance.eth",
   "gov.piteas.io": "piteas.eth",
   "vote.aitech.io": "aitechio.eth",
@@ -981,4 +982,5 @@
   "vote.gamedao.co": "gamedao.eth",
   "vote.reformdao.com": "rfrmdao.eth",
   "altiliumdao.com": "altgodao.eth"
+  "vote.brickken.com": "brickken.eth"
 }
