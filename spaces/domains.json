@@ -979,5 +979,6 @@
   "vote.openkey.dev": "openkey.eth",
   "vote.zkswap.finance": "zkswapfinance.eth",
   "vote.gamedao.co": "gamedao.eth",
-  "vote.reformdao.com": "rfrmdao.eth"
+  "vote.reformdao.com": "rfrmdao.eth",
+  "governance.libfi.io": "libfi.eth"
 }
