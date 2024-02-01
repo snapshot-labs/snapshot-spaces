@@ -1,6 +1,9 @@
 name: JSON check
 
-on: push
+on:
+  push:
+    paths:
+      - '**.json'
 
 jobs:
   test:
