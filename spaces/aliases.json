@@ -64,5 +64,12 @@
   "goodghosting.eth": "halofi.eth",
   "arbitrum-odyssey.eth": "arbitrumfoundation.eth",
   "pokt-network": "poktdao.eth",
-  "lensterapp.eth": "lenster.xyz"
+  "lensterapp.eth": "lenster.xyz",
+  "nexondao.eth": "eralend.eth",
+  "pancake": "cakevote.eth",
+  "gov.radicle.eth": "gov.radworks.eth",
+  "daoge.eth": "ownthedoge.eth",
+  "ownthedaoge.eth": "ownthedoge.eth",
+  "uniswap": "uniswapgovernance.eth",
+  "popcorn-snapshot.eth": "vaultcraft-snapshot.eth"
 }
