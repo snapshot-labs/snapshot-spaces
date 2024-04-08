@@ -5,6 +5,12 @@ const args = process.argv.slice(2);
 if (args.length === 2) {
   const oldSpace = args[0];
   const newSpace = args[1];
+  
+  if (!oldSpace || !newSpace.endsWith('.eth')) {
+    console.error('Invalid arguments')
+    process.exit(1);
+  }
+  
   if (aliases[oldSpace]) {
     console.error('Alias already exists for ' + oldSpace)
     process.exit(1);
