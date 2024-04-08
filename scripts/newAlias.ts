@@ -6,7 +6,7 @@ if (args.length === 2) {
   const oldSpace = args[0];
   const newSpace = args[1];
   
-  if (!oldSpace || !newSpace || !oldSpace.endsWith('.eth') || !newSpace.endsWith('.eth')) {
+  if (!oldSpace.endsWith('.eth') || !newSpace.endsWith('.eth')) {
     console.error('Invalid arguments')
     process.exit(1);
   }
