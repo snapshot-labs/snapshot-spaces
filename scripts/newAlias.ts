@@ -6,7 +6,6 @@ if (args.length === 2) {
   const oldSpace = args[0];
   const newSpace = args[1];
   if (!aliases[oldSpace]) aliases[oldSpace] = newSpace
-  // update rpcs.json file with new rpc
   require('fs').writeFileSync('spaces/aliases.json', JSON.stringify(aliases, null, 2), 'utf8');
 } else {
   console.log('Usage: node scripts/newAlias.ts <oldSpace> <newSpace>');
