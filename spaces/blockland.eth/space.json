@@ -1,0 +1,26 @@
+{
+  "name": "Your Space Name",
+  "about": "Description of your space.",
+  "network": "1",
+  "symbol": "SYMBOL",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x3fd895Dfc86F9889486b392f774e06a81AC0AfAD",
+        "symbol": "SYMBOL",
+        "decimals": 18
+      }
+    }
+  ],
+  "admins": ["0x95e488eD0d3497f8CF2392E35C9eB81812EF863c"],
+  "members": [
+    "0x59305a0cdee7525940ffa0f42ffb011ffe9d70fc",
+    "0x2ab7b7c170d0082b57b8c0f831a0773bce45770f"
+  ],
+  "filters": {
+    "minScore": 1000
+  },
+  "avatar": "spaces/blockland.eth/logo.svg",
+  "plugins": {}
+}
