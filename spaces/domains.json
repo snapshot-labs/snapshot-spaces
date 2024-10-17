@@ -1020,5 +1020,7 @@
   "vote.onbeam.com": "beamgovernance.eth",
   "vote.worldlibertyfinancial.com": "worldlibertyfinancial.com",
   "vote.worldassociation.org": "worldassociation.eth",
-  "snapshot.niftyleague.com": "niftyleague.eth"
+  "snapshot.niftyleague.com": "niftyleague.eth",
+  "vote.iotex.io": "iotex.eth",
+  "gov.iotex.io": "iotex.eth"
 }
