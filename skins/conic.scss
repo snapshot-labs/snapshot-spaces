@@ -93,15 +93,7 @@
     padding: 24px !important;
   }
 
-  #content-left > div:nth-child(1) {
-    position: fixed;
-    top: 23px;
-    left: 23px;
-    height: 100px;
-    z-index: 100000;
-  }
-
-  #content-left > div:nth-child(2) {
+  #content-left > div:nth-child(1) > div:last-child {
     position: relative !important;
     background-image: url(https://conic.finance/steel.jpg) !important;
     background-repeat: repeat !important;
@@ -115,7 +107,7 @@
     overflow: hidden !important;
   }
   
-  #content-left > div:nth-child(2) > div {
+  #content-left > div:nth-child(1) > div:last-child > div {
     background: repeating-linear-gradient(
       to bottom,
       #f4f4f4,
@@ -128,7 +120,7 @@
     margin-bottom: 0 !important;
   }
 
-  #content-left > div:nth-child(2)::after {
+  #content-left > div:nth-child(1) > div:last-child::after {
     content: "";
     width: 100px;
     height: 30px;
@@ -140,7 +132,7 @@
     background-repeat: no-repeat;
   }
 
-  #content-left > div:nth-child(2) > h1 {
+  #content-left > div:nth-child(1) > div:last-child > h1 {
     width: calc(100% - 100px);
     line-height: 1 !important;
     position: absolute;
@@ -150,11 +142,11 @@
     font-size: 18px;
   }
 
-  #content-left > div:nth-child(2) > div > div {
+  #content-left > div:nth-child(1) > div:last-child > div > div {
     margin: 0 !important;
   }
 
-  #content-left > div:nth-child(2) > div > div > button {
+  #content-left > div:nth-child(1) > div:last-child > div > div > button {
     bottom: 10px;
   }
 
